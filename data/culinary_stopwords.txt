@@ -152,3 +152,17 @@ white
 wrapper
 yellow
 young
+in
+drummette
+wingette
+tip
+roast
+bite
+water
+garlic
+onion
+pepper
+salt
+sugar
+med
+oil
