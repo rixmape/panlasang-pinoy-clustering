@@ -1,11 +1,7 @@
 adobo sauce
-adobong pusit
 agar powder
-ahi tuna
-albacore tuna
 alfredo sauce
 almond flour
-almond sliver
 amaranth
 anatto powder
 anatto seed
@@ -13,10 +9,8 @@ ancho chili
 anchovy sauce
 anisette liquor
 apple juice
-apple snail
 apples
 arnibal syrup
-arrowroot starch flour
 artichoke
 arugula
 asian vegetable
@@ -24,37 +18,22 @@ asparagus
 avocados
 bagoong fish
 bagoong fish tomato onion
-bagoong guisado
 baguio bean
 baking cocoa powder
 balaw
 balsamic vinegar
 balut
 bamboo shoot
-bamboo skewer
-banana brine
-banana chili
-banana flower bud
 banana pepper
 basil pesto
 bbq sauce
-bean curd
-bean sitaw
 beef broth powder
-beef eye
-beef guisado
 beef morcon
 beef pasta sauce
 beef powder
-beef steak tomato
-beefsteak tomato
-bell
-bella mushroom
 bilimbi
 bilong
-bird chili
 bird eye
-bird eye chili
 biscuit
 bistek tagalog
 bisugo
@@ -64,7 +43,6 @@ blueberry
 boiler
 bokchoy
 boo choy
-bowtie pasta
 brandy
 bratwurst
 bread flour
@@ -88,7 +66,6 @@ calamari
 calf knuckle
 camote
 candy
-cannellini bean
 cantaloupe
 caper
 carabao milk
@@ -116,25 +93,17 @@ cellophane pasta
 cellophane wrapper
 char siu
 cheese bratwurst
-cheese frosting
 cheese sauce
 cherry liqueur
 cherry syrup
 cherry tomato
 chicken adobo
-chicken barbecue
-chicken drumstick
-chicken egg
 chicken franks
-chicken gizzard
-chicken mushroom
 chicken nugget
 chicken oil
 chicken pasta
 chicken powder
-chicken sandwich
 chicken skin
-chicken teriyaki
 chickpea
 chickpeas
 chili bean sauce
@@ -147,10 +116,8 @@ chipotle chili adobo sauce
 chipotle mayonnaise
 chipotle pepper adobo sauce
 chive
-chocolate
 chocolate cookie pie crust
 chocolate powder
-cilantro lime rice
 cinnamon bark
 cinnamon nutmeg
 clam
@@ -177,28 +144,21 @@ corn syrup
 corn tortilla
 cornbread
 cornmeal
-cornstarch beef broth
-cornstarch coconut
 cornstarch pasta
 cornstarch soy sauce
 course salt
 cow
 cow trotter
 crab boil seasoning
-crab corn soup
 crablet
 cranberry
 cranberry apple juice
 cranberry sauce
-cream cheese frosting
-cream chicken
-cream chicken corn
 cream corn
 cream milk
 cream pumpkin soup
 creole seasoning
 crimini
-crimini mushroom
 crouton
 crust pie
 cupcake
@@ -211,15 +171,11 @@ dalag
 danggit
 dashi
 date
-day rice
 dilis
-dill pickle
-dill pickle spear
 dill weed
 dinner
 dough
 dough crust pie
-dozen quail egg
 dried fish
 duck
 dulce de leche
@@ -227,22 +183,14 @@ dulong
 dynamite sauce
 edamame
 egg dumpling pasta
-egg eggplant
-egg omelet
-egg plant
 egg wrapper
-eggplant salad
 enchilada sauce
 english muffin
 eye
 farfalle
 fennel
 fennel seed
-fettuccine pasta
-fettucine pasta
 fish adobo
-fish broth
-fish steak
 flank steak
 floret
 flour milk
@@ -274,7 +222,6 @@ gluten flour
 goat skin
 goatskin
 gouda
-graham
 graham pie crust
 grape
 gravy
@@ -288,7 +235,6 @@ gulaman
 gyoza wrapper
 habhab pasta
 halibut
-ham egg rice
 hamburger bun
 hash brown
 hibi
@@ -299,7 +245,6 @@ hollandaise sauce
 hominy
 honey mustard dressing
 horse
-hot rice
 hotdog bun
 hotdog redhot sauce
 ice bowl
@@ -311,7 +256,6 @@ inihaw liempo
 island dressing
 jalapeño
 jam
-jasmin rice
 jelly
 jet marshmallow
 juice clam mussel
@@ -351,9 +295,7 @@ lawry salt
 leche
 leche flan
 leek
-lemon grass
 lemon pepper
-lemon soda
 liempo
 liquid
 liquid broccoli
@@ -362,7 +304,6 @@ liquor
 loaf bread
 lobster tail
 lomi pasta
-longganisa
 loofah
 lychee syrup
 macadamia nuts
@@ -384,7 +325,6 @@ meatball adobo
 meringue
 mignon
 miki lucban
-milk fish
 mint
 minute oat
 miso soy
@@ -392,7 +332,6 @@ molasse
 monggo
 mooring
 moscato
-mozarella cheese
 msg
 munggo
 mushroom oyster sauce
@@ -420,7 +359,6 @@ oxtail
 oyster
 pak choi
 palm
-palm vinegar
 pampanga longganisa
 pancake
 pancake syrup
@@ -441,7 +379,6 @@ peanut sauce
 pear
 pearl onion
 pecan chip
-penne pasta
 peperoncini
 pepper chili
 pepper fish sauce
@@ -470,21 +407,14 @@ plum sauce
 pompano
 pompano fish
 pork adobo
-pork adobo paksiw
-pork bean
 pork beef
-pork broth
-pork burger patty
-pork ham
 pork kaldereta
 pork kawaii
 pork liquid seasoning
 pork manok
 pork manok sauce
-pork sausage
 pork seasoning
 pork skin
-pork tocino
 potato starch
 prague powder
 prague salt
@@ -500,13 +430,10 @@ rib celery
 rib eye steak
 rice powder
 rice puff
-rice wine vinegar
 rise yeast
 rock salt pepper
 rotini
-rotini pasta
 rotisserie
-rotisserie chicken
 rousong
 russet potato
 safflower oil
@@ -554,12 +481,10 @@ shell shrimp
 shichimi togarashi
 shiromiso
 shishito pepper
-shitake mushroom
 shrimp bisque
 shrimp broth
 shrimp juice
 shrimp powder
-shrimp rice
 shrimp shell
 shrimp tail
 shrimp tendril
@@ -578,7 +503,6 @@ snail
 snapper
 soda cracker
 soup
-soup crab corn
 soy bean
 soy sauce pepper
 spam
@@ -590,6 +514,7 @@ spring
 spring chicken
 springroll wrapper
 squeeze lemon juice
+squid adobo
 squid ink
 sriracha chili sauce
 sriracha hot sauce
@@ -609,8 +534,6 @@ sukang puti
 suman
 sunflower seed
 sushi ahi steak
-sushi rice
-sushi tuna steak
 swai
 syrup
 t steak
@@ -646,7 +569,6 @@ tinapa galunggong
 tinta de calamar
 tocino
 togue
-tokwa tuna
 tomato chili
 tomato juice
 tomato puree
@@ -659,14 +581,9 @@ tostada shell
 tulapho
 tulingan
 tuna oil
-tuna salad
-tuna steak
 turkey gizzard
 vanilla greek yogurt
-vanilla ice cream
 vanilla yogurt
-vegetable protein
-vegetable shortening
 vegetable soup
 vienna sausage
 violet food
@@ -686,4 +603,3 @@ wonton pasta
 yakisoba pasta
 ychee syrup
 yogurt
-yolk egg

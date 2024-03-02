@@ -37,6 +37,11 @@ bagoong fish
 bagoong fish tomato onion
 bagoong guisado
 baguio bean
+bake apple
+bake chocolate chip
+bake potato
+bake powder
+bake soda
 baking cocoa powder
 baking potato
 balaw
@@ -87,7 +92,6 @@ bistek tagalog
 bisugo
 bitter gourd
 blackstrap molasse
-block tofu
 blueberry
 boiler
 bok choy
@@ -104,9 +108,6 @@ bread flour
 breadcrumb
 brine salt
 broccoli
-broccoli crown
-broccoli crown floret
-broccoli floret
 broth
 brussels
 buko juice
@@ -145,7 +146,6 @@ cardamom pod
 carne asada
 carrageenan
 carrot
-carrot floret
 carrot julienne
 cashew
 cashew nut
@@ -155,7 +155,6 @@ cassava flour
 caster sugar
 catfish
 cauliflower
-cauliflower floret
 cayenne pepper
 cayenne pepper powder
 cayenne powder
@@ -346,7 +345,6 @@ fish sauce
 fish sauce pepper
 fish steak
 flank steak
-floret
 flour
 flour milk
 flour pasta
@@ -815,7 +813,6 @@ smelt fish
 snail
 snake bean
 snapper
-soda
 soda cracker
 soup
 soup crab corn
