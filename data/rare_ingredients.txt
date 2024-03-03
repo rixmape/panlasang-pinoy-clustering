@@ -1,87 +1,36 @@
-adobong pusit
 alcohol
-alfredo sauce
 amaranth
 anatto
-ancho chili
 anchovy sauce
 anisette liquor
-arrowroot starch flour
 artichoke
 arugula
 asparagus
-balut
 bamboo shoot
 bamboo skewer
-barbecue
+barbecue sauce
 bilimbi
 bilong
 biscuit
-bistek
 bisugo
-blueberry
-bok choy
-bratwurst
-bread flour
-brine salt
-brussels
-bung
-buttercream
-butternut
 caesar salad dressing
 cake
-calamari
-calf knuckle
-candy
 caper
 cardamom
 carrageenan
-cashew nut
-cassava flour
-caster sugar
-catfish
 cedar plank
 cherry liqueur
-cherry syrup
-cherry tomato
-chicken bread
-chicken soy sauce
-chicken teriyaki
-chickpea
-chickpeas
-chili bean sauce
 chive
 cilantro lime rice
 clam mussel
-coconunut milk
-coconut pandan
-cod
 coke
 cola
-coleslaw
 collard
-colossal shrimp
 consomme
 cookie
 coriander
 coriander seed
-corn cream
-corn meal
-corn syrup
-corn tortilla
-cornbread
-cornmeal
-cornstarch pasta
-cow
-cow trotter
-crablet
-cranberry
-cranberry apple
-cranberry sauce
-cream cheese frosting
-cream pumpkin soup
 creole
-crouton
 crust pie
 cupcake
 curry powder
@@ -92,33 +41,23 @@ dashi
 date
 day rice
 dilis
-dill pickle
 dill pickle spear
-dill weed
-dinner
 dough
 dough crust pie
 duck
-dulce milk
 dulong
+dumpling
 dynamite sauce
 edamame
-egg dumpling pasta
-egg wrapper
 enchilada sauce
 eye
 farfalle
 fat
 fennel
 fennel seed
-fish broth
-fish oil
-fish salad
-fish soy sauce
 flank
 forest ham
 frog
-fruit cocktail syrup
 fungus
 furikake
 galangal root
@@ -126,9 +65,7 @@ garam masala
 garbanzo
 gherkins pickle
 gin
-glove garlic
 gluten almond
-gluten flour
 goatskin
 gouda
 grape
@@ -137,7 +74,6 @@ guacamole
 guajillo chili
 gulaman
 gyoza wrapper
-habhab pasta
 hamburger bun
 hibi
 hoagie
@@ -148,7 +84,7 @@ honey mustard dressing
 horse
 hot sauce
 ice cream
-igado
+ice sugar
 island dressing
 jalapeño
 jelly
@@ -162,13 +98,10 @@ kani
 kasubha
 katsu sauce
 kecap manis
-kielbasa sausage
-kikiam
 kimchi
 kinchay
 kiwi
 knob
-kosher salt
 kung pao sauce
 labano
 labong
@@ -184,9 +117,9 @@ liquor
 loaf bread
 lomi pasta
 loofah
-lychee syrup
+lychee
 manzanilla
-maple syrup
+maple
 masago
 meringue
 mignon
@@ -199,18 +132,13 @@ mooring
 moscato
 msg
 muffin
-nut
 oat
 oat bran
-onion soup
 oyster
 pancake
-pancake syrup
 peach
 peanut sauce
-peanut syrup
 pear
-pecan
 phosphate
 pico gallo
 pie crust
@@ -222,8 +150,6 @@ pinot grigio
 pizza dough
 pizza sauce
 plum sauce
-pork bean
-pork broth
 prune
 pumpkin
 quickmelt
@@ -231,7 +157,6 @@ rabbit
 rack lamb
 ramekin
 rib celery
-rib eye
 rice fish
 rise yeast
 rousong
@@ -254,47 +179,27 @@ sibot
 sibot herb
 sinamak
 snail
-snapper
 soda
 soda cracker
 soup
-soy bean
 spam
 sprig rosemary
 spring
-spring chicken
 springroll wrapper
 squid ink
 st louis rib
 starch
-sugar palm fruit
-sugar syrup
-suman
+sugar coconut
 sunflower seed
 swai
-syrup
 taco
-tahure
-tanigue
 tap
 tarragon
 tartar sauce
-tater tot
 tea
-teriyaki sauce
-tinta calamar
-tocino
-togue
-tomato fish
-tonkatsu sauce
 tortilla
 tostada
 vegetable soup
 vitamin c
-vodka
 wasabi
-watermelon
-wheat bran
 wrapper
-yakisoba pasta
-ychee syrup

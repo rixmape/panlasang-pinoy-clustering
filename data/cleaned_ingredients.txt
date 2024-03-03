@@ -1,18 +1,14 @@
-adobong pusit
 agar
 alcohol
-alfredo sauce
 almond
 amaranth
 anatto
-ancho chili
 anchovy
 anchovy sauce
 anisette liquor
 annatto
 apple
 apple vinegar
-arrowroot starch flour
 artichoke
 arugula
 asparagus
@@ -20,12 +16,10 @@ avocado
 bagoong
 baking
 baking soda
-balut
 bamboo shoot
 bamboo skewer
 banana
 banana blossom
-barbecue
 barbecue sauce
 basil
 bay leaf
@@ -36,49 +30,32 @@ beef hotdog
 beef rib
 beer
 bell pepper
+berry
 bilimbi
 bilong
 biscuit
-bistek
 bisugo
 bitter gourd
 black bean
-blueberry
-bok choy
 bottle gourd
-bratwurst
 bread
 bread crumb
-bread flour
 breadcrumb
-brine salt
 broccoli
 broth
-brussels
-bung
 butter
-buttercream
 buttermilk
-butternut
-butternut squash
 cabbage
 caesar salad dressing
 cake
 cake flour
-calamari
-calf knuckle
-candy
 cane
 caper
 cardamom
 carrageenan
 carrot
 cashew
-cashew nut
 cassava
-cassava flour
-caster sugar
-catfish
 cauliflower
 cedar plank
 celery
@@ -86,19 +63,11 @@ chayote
 cheese
 cherry
 cherry liqueur
-cherry syrup
-cherry tomato
 chestnut
 chicken
-chicken bread
 chicken broth
-chicken soy sauce
-chicken teriyaki
-chicken wing
-chickpea
-chickpeas
+chicken sauce
 chili
-chili bean sauce
 chili garlic sauce
 chili sauce
 chive
@@ -108,48 +77,26 @@ cilantro lime rice
 cinnamon
 clam
 clam mussel
-coconunut milk
+cocktail
 coconut
 coconut cream
-coconut pandan
 coconut vinegar
-cod
 coffee
 coke
 cola
-coleslaw
 collard
-colossal shrimp
 consomme
 cookie
 coriander
 coriander seed
 corn
-corn cream
 corn kernel
-corn meal
-corn syrup
-corn tortilla
-cornbread
-cornmeal
 cornstarch
-cornstarch pasta
-cow
-cow trotter
 crab
-crablet
-cranberry
-cranberry apple
-cranberry sauce
 cream
 cream cheese
-cream cheese frosting
-cream mushroom
-cream mushroom soup
-cream pumpkin soup
 cream tartar
 creole
-crouton
 crust pie
 cucumber
 cumin
@@ -164,23 +111,17 @@ day rice
 dijon mustard
 dilis
 dill
-dill pickle
 dill pickle spear
-dill weed
-dinner
 dough
 dough crust pie
 dried fish
 duck
 duck egg
-dulce milk
 dulong
+dumpling
 dynamite sauce
 edamame
 egg
-egg dumpling pasta
-egg pasta
-egg wrapper
 eggplant
 enchilada sauce
 eye
@@ -189,19 +130,12 @@ fat
 fennel
 fennel seed
 fish
-fish broth
-fish oil
-fish salad
 fish sauce
-fish soy sauce
-fish tomato sauce
 flank
 flour
 flour tortilla
 forest ham
 frog
-fruit
-fruit cocktail syrup
 fungus
 furikake
 galangal root
@@ -214,9 +148,7 @@ gelatin
 gherkins pickle
 gin
 ginger
-glove garlic
 gluten almond
-gluten flour
 goat
 goatskin
 gouda
@@ -231,13 +163,11 @@ guajillo chili
 guava
 gulaman
 gyoza wrapper
-habhab pasta
 ham
 hamburger bun
 hibi
 hoagie
 hog casing
-hoisin sauce
 hollandaise sauce
 hominy
 honey
@@ -247,7 +177,7 @@ hot sauce
 hotdog
 ice
 ice cream
-igado
+ice sugar
 island dressing
 jackfruit
 jalapeño
@@ -267,14 +197,11 @@ katsu sauce
 kecap manis
 kernel corn
 ketchup
-kielbasa sausage
-kikiam
 kimchi
 kinchay
 kiwi
 knob
 knob ginger
-kosher salt
 kung pao sauce
 labano
 labong
@@ -301,12 +228,12 @@ lomi pasta
 loofah
 lumpia wrapper
 luncheon
-lychee syrup
+lychee
 lye
 malunggay
 mango
 manzanilla
-maple syrup
+maple
 margarine
 masago
 mayonnaise
@@ -337,14 +264,12 @@ oat bran
 oil
 okra
 onion
-onion soup
 orange
 oregano
 oxtail
 oyster
 oyster sauce
 pancake
-pancake syrup
 pancit
 pancit pasta
 pandan
@@ -361,10 +286,8 @@ peach
 peanut
 peanut butter
 peanut sauce
-peanut syrup
 pear
 peas
-pecan
 pepper
 pepper corn
 peppercorn
@@ -383,8 +306,6 @@ pizza sauce
 plum sauce
 plum tomato
 pork
-pork bean
-pork broth
 pork rib
 pork sauce
 potato
@@ -399,7 +320,6 @@ ramekin
 relish
 rib
 rib celery
-rib eye
 rice
 rice fish
 rice pasta
@@ -443,18 +363,15 @@ sinamak
 singkama
 snail
 snake bean
-snapper
 soda
 soda cracker
 soup
-soy bean
 soy sauce
 spam
 spice
 spinach
 sprig rosemary
 spring
-spring chicken
 spring onion
 spring wrapper
 springroll wrapper
@@ -465,36 +382,23 @@ st louis rib
 star anise
 starch
 starch pearl
-strawberry
 string bean
 sugar
-sugar palm fruit
-sugar syrup
-suman
+sugar coconut
 sun tomato
 sunflower seed
 swai
-syrup
 taco
-tahure
 tamarind
-tanigue
 tap
 taro
 tarragon
 tartar sauce
-tater tot
 tea
-teriyaki sauce
 thyme
-tinta calamar
-tocino
 tofu
-togue
 tomato
-tomato fish
 tomato sauce
-tonkatsu sauce
 tortilla
 tostada
 turkey
@@ -505,18 +409,13 @@ vegetable oil
 vegetable soup
 vinegar
 vitamin c
-vodka
 walnut
 wasabi
-watermelon
-wheat bran
 wine
 wine vinegar
 wonton wrapper
 wrapper
-yakisoba pasta
 yam
-ychee syrup
 yeast
 yogurt
 zucchini

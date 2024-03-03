@@ -244,11 +244,11 @@
       "celery",
       "chicken",
       "egg",
-      "egg pasta",
       "fish sauce",
       "garlic",
       "oil",
       "onion",
+      "pasta",
       "peppercorn",
       "salt"
     ]
@@ -363,14 +363,14 @@
     ],
     "cleaned_ingredients":[
       "bay leaf",
+      "coconut vinegar",
       "garlic",
       "onion",
       "oyster sauce",
       "peppercorn",
       "pork",
       "salt",
-      "soy sauce",
-      "vinegar"
+      "soy sauce"
     ]
   },
   {
@@ -499,7 +499,7 @@
       "corn",
       "cream",
       "gouda",
-      "ice",
+      "ice sugar",
       "milk",
       "sugar"
     ]
@@ -513,8 +513,8 @@
     ],
     "cleaned_ingredients":[
       "coconut",
-      "sugar",
-      "ychee syrup"
+      "lychee",
+      "sugar"
     ]
   },
   {
@@ -1134,10 +1134,10 @@
       "baking",
       "butter",
       "cake flour",
+      "cocktail",
       "cornstarch",
       "cream tartar",
       "egg",
-      "fruit",
       "gelatin",
       "milk",
       "oil",
@@ -1155,7 +1155,7 @@
     ],
     "cleaned_ingredients":[
       "coconut",
-      "lychee syrup",
+      "lychee",
       "sugar"
     ]
   },
@@ -1227,7 +1227,7 @@
       "oil",
       "onion",
       "salt",
-      "tahure",
+      "tofu",
       "tomato",
       "vinegar"
     ]
@@ -1439,7 +1439,6 @@
       "ice",
       "pandan",
       "peanut",
-      "peanut syrup",
       "pinipig",
       "sago",
       "sugar"
@@ -1479,10 +1478,11 @@
       "salt and pepper to taste"
     ],
     "cleaned_ingredients":[
+      "bean",
       "beef",
       "oil",
       "onion",
-      "pork bean",
+      "pork",
       "salt"
     ]
   },
@@ -1710,11 +1710,12 @@
     "cleaned_ingredients":[
       "beef",
       "cabbage",
-      "egg pasta",
+      "egg",
       "fish sauce",
       "garlic",
       "oil",
       "onion",
+      "pasta",
       "peppercorn",
       "salt"
     ]
@@ -2284,7 +2285,7 @@
       "baking",
       "banana",
       "butter",
-      "cashew nut",
+      "cashew",
       "egg",
       "pandan",
       "salt",
@@ -2469,13 +2470,13 @@
       "canola oil"
     ],
     "cleaned_ingredients":[
+      "berry",
       "bread",
       "bread crumb",
       "cheese",
       "egg",
       "milk",
-      "oil",
-      "strawberry"
+      "oil"
     ]
   },
   {
@@ -2488,8 +2489,7 @@
     ],
     "cleaned_ingredients":[
       "melon",
-      "sugar",
-      "syrup"
+      "sugar"
     ]
   },
   {
@@ -3078,13 +3078,13 @@
     ],
     "cleaned_ingredients":[
       "bay leaf",
+      "chicken",
       "fish sauce",
       "garlic",
-      "kosher salt",
       "oil",
       "onion",
       "peppercorn",
-      "spring chicken",
+      "salt",
       "sugar"
     ]
   },
@@ -3530,7 +3530,7 @@
       "oil",
       "pork",
       "salt",
-      "tonkatsu sauce"
+      "soy sauce"
     ]
   },
   {
@@ -3991,7 +3991,6 @@
       "onion",
       "peppercorn",
       "pork",
-      "pork broth",
       "salt",
       "shallot",
       "soy sauce",
@@ -4620,8 +4619,7 @@
       "milk",
       "rice",
       "salt",
-      "sugar",
-      "suman"
+      "sugar"
     ]
   },
   {
@@ -4795,7 +4793,7 @@
       "salt to taste"
     ],
     "cleaned_ingredients":[
-      "catfish",
+      "fish",
       "fish sauce",
       "garlic",
       "ginger",
@@ -4859,7 +4857,7 @@
     ],
     "cleaned_ingredients":[
       "bay leaf",
-      "catfish",
+      "fish",
       "garlic",
       "ginger",
       "lemon",
@@ -5519,7 +5517,6 @@
       "carrot",
       "cheese",
       "chestnut",
-      "fish oil",
       "oil",
       "onion",
       "salt",
@@ -5568,8 +5565,8 @@
     ],
     "cleaned_ingredients":[
       "bitter gourd",
+      "fish",
       "fish sauce",
-      "fish tomato sauce",
       "garlic",
       "oil",
       "onion",
@@ -5613,7 +5610,6 @@
       "salt"
     ],
     "cleaned_ingredients":[
-      "arrowroot starch flour",
       "baking",
       "butter",
       "egg",
@@ -7637,9 +7633,9 @@
       "oil",
       "onion",
       "oyster sauce",
+      "pasta",
       "soy sauce",
-      "sugar",
-      "yakisoba pasta"
+      "sugar"
     ]
   },
   {
@@ -7773,9 +7769,9 @@
     ],
     "cleaned_ingredients":[
       "cheese",
+      "cocktail",
       "coconut",
       "cornstarch",
-      "fruit",
       "milk",
       "sugar"
     ]
@@ -7800,7 +7796,7 @@
       "bay leaf",
       "beef",
       "butter",
-      "cream mushroom soup",
+      "cream",
       "garlic",
       "mushroom",
       "onion",
@@ -7921,10 +7917,10 @@
       "freshly-ground black pepper"
     ],
     "cleaned_ingredients":[
+      "berry",
       "butter",
       "lemon",
       "pepper",
-      "strawberry",
       "sugar"
     ]
   },
@@ -7979,8 +7975,8 @@
       "cabbage",
       "carrot",
       "celery",
+      "chicken",
       "chicken broth",
-      "chicken wing",
       "egg",
       "fish sauce",
       "garlic",
@@ -8038,7 +8034,7 @@
       "canola oil"
     ],
     "cleaned_ingredients":[
-      "chicken wing",
+      "chicken",
       "garlic",
       "oil",
       "salt",
@@ -8648,7 +8644,7 @@
     ],
     "cleaned_ingredients":[
       "almond",
-      "fruit cocktail syrup",
+      "cocktail",
       "gelatin",
       "milk"
     ]
@@ -8839,13 +8835,13 @@
       "annatto",
       "bay leaf",
       "chicken",
+      "coconut vinegar",
       "garlic",
       "ginger",
       "lemon",
       "lemongrass",
       "salt",
-      "sugar",
-      "vinegar"
+      "sugar"
     ]
   },
   {
@@ -8867,12 +8863,13 @@
       "bell pepper",
       "carrot",
       "chili",
-      "fish tomato sauce",
+      "fish",
       "garlic",
       "oil",
       "onion",
       "potato",
-      "salt"
+      "salt",
+      "tomato"
     ]
   },
   {
@@ -9229,7 +9226,6 @@
     ],
     "cleaned_ingredients":[
       "coconut",
-      "coconut pandan",
       "cream",
       "milk"
     ]
@@ -9492,7 +9488,6 @@
       "date",
       "egg",
       "flour",
-      "fruit",
       "margarine",
       "molasse",
       "nut",
@@ -9500,8 +9495,7 @@
       "orange",
       "raisin",
       "salt",
-      "sugar",
-      "syrup"
+      "sugar"
     ]
   },
   {
@@ -9514,8 +9508,8 @@
       "sesame oil"
     ],
     "cleaned_ingredients":[
-      "barbecue sauce",
       "chicken",
+      "chicken sauce",
       "mango",
       "pepper",
       "salt",
@@ -9672,10 +9666,10 @@
       "(14 ounces) all-purpose cream"
     ],
     "cleaned_ingredients":[
+      "cocktail",
       "coconut",
       "corn kernel",
       "cream",
-      "fruit",
       "milk",
       "pineapple"
     ]
@@ -9720,7 +9714,6 @@
     "cleaned_ingredients":[
       "agar",
       "coconut",
-      "coconut pandan",
       "milk",
       "sugar"
     ]
@@ -9870,7 +9863,6 @@
       "baking soda",
       "butter",
       "chocolate",
-      "dulce milk",
       "egg",
       "milk",
       "sugar",
@@ -9997,7 +9989,6 @@
       "oil",
       "onion",
       "pork",
-      "pork bean",
       "potato",
       "salt",
       "sausage",
@@ -10374,7 +10365,7 @@
       "baking",
       "baking soda",
       "butter",
-      "cherry syrup",
+      "cherry",
       "chocolate",
       "cream",
       "egg",
@@ -10472,7 +10463,7 @@
       "salt to taste"
     ],
     "cleaned_ingredients":[
-      "bok choy",
+      "cabbage",
       "fish sauce",
       "lemon",
       "onion",
@@ -10552,10 +10543,10 @@
       "chili sauce",
       "garlic",
       "ginger",
-      "hoisin sauce",
       "salmon",
       "salt",
       "sesame oil",
+      "soy sauce",
       "vinegar"
     ]
   },
@@ -10845,8 +10836,8 @@
     ],
     "cleaned_ingredients":[
       "chili",
-      "kosher salt",
       "mango",
+      "salt",
       "sugar",
       "vinegar"
     ]
@@ -10929,10 +10920,11 @@
       "chicken",
       "chili",
       "corn",
-      "egg wrapper",
+      "egg",
       "garlic",
       "oil",
       "onion",
+      "pasta",
       "salt",
       "spinach"
     ]
@@ -11072,8 +11064,7 @@
       "ice",
       "peanut",
       "sago",
-      "sugar",
-      "sugar syrup"
+      "sugar"
     ]
   },
   {
@@ -11254,8 +11245,8 @@
       "(30 ounces) fruit cocktail, drained well"
     ],
     "cleaned_ingredients":[
+      "cocktail",
       "cream",
-      "fruit",
       "graham",
       "milk"
     ]
@@ -11536,9 +11527,9 @@
     ],
     "cleaned_ingredients":[
       "cheese",
+      "cocktail",
       "coconut",
       "cream",
-      "fruit",
       "milk",
       "pasta",
       "pineapple"
@@ -11585,7 +11576,7 @@
       "sesame seeds, toasted"
     ],
     "cleaned_ingredients":[
-      "chicken wing",
+      "chicken",
       "chili",
       "garlic",
       "ginger",
@@ -11708,9 +11699,9 @@
       "pepper to taste"
     ],
     "cleaned_ingredients":[
-      "balut",
       "bell pepper",
       "chili",
+      "egg",
       "garlic",
       "ginger",
       "oil",
@@ -12022,7 +12013,6 @@
       "cornstarch",
       "garlic",
       "ginger",
-      "hoisin sauce",
       "lettuce",
       "mushroom",
       "oil",
@@ -12353,7 +12343,6 @@
       "eggs"
     ],
     "cleaned_ingredients":[
-      "dulce milk",
       "egg",
       "milk",
       "sugar"
@@ -12449,13 +12438,14 @@
     ],
     "cleaned_ingredients":[
       "broth",
-      "cornstarch pasta",
+      "cornstarch",
       "egg",
       "fish sauce",
       "garlic",
       "lemon",
       "oil",
       "onion",
+      "pasta",
       "pork",
       "salt",
       "shrimp"
@@ -12702,7 +12692,7 @@
       "salt and pepper to taste"
     ],
     "cleaned_ingredients":[
-      "chicken wing",
+      "chicken",
       "garlic",
       "oil",
       "onion",
@@ -13155,14 +13145,14 @@
       "salt and pepper to taste"
     ],
     "cleaned_ingredients":[
+      "fish",
       "fish sauce",
       "garlic",
       "oil",
       "onion",
       "pasta",
       "salt",
-      "tomato",
-      "tomato fish"
+      "tomato"
     ]
   },
   {
@@ -13371,7 +13361,7 @@
       "salt and pepper to taste"
     ],
     "cleaned_ingredients":[
-      "ancho chili",
+      "chili",
       "cinnamon",
       "garlic",
       "guajillo chili",
@@ -13398,13 +13388,13 @@
     ],
     "cleaned_ingredients":[
       "bottle gourd",
+      "fish",
       "fish sauce",
       "garlic",
       "oil",
       "onion",
       "salt",
-      "tomato",
-      "tomato fish"
+      "tomato"
     ]
   },
   {
@@ -13573,10 +13563,11 @@
       "beef",
       "beef broth",
       "cabbage",
-      "egg pasta",
+      "egg",
       "garlic",
       "oil",
       "onion",
+      "pasta",
       "pork",
       "salt",
       "soy sauce",
@@ -13985,7 +13976,6 @@
     ],
     "cleaned_ingredients":[
       "cream",
-      "dulce milk",
       "milk",
       "peanut",
       "sugar"
@@ -15279,8 +15269,8 @@
       "chicken",
       "corn kernel",
       "cream",
-      "cream mushroom",
       "garlic",
+      "mushroom",
       "oil",
       "onion",
       "pea",
@@ -15463,9 +15453,10 @@
       "butter",
       "chicken",
       "cornstarch",
-      "cream mushroom",
+      "cream",
       "egg",
       "flour",
+      "mushroom",
       "oil",
       "salt"
     ]
@@ -15489,7 +15480,6 @@
       "butter",
       "cheese",
       "cream",
-      "cream mushroom",
       "mushroom",
       "oil",
       "parsley",
@@ -15667,7 +15657,6 @@
       "carrot",
       "cornstarch",
       "egg",
-      "kikiam",
       "oil",
       "onion",
       "oyster sauce",
@@ -16325,7 +16314,7 @@
     ],
     "cleaned_ingredients":[
       "apple",
-      "barbecue sauce",
+      "chicken sauce",
       "garlic",
       "pepper",
       "pork rib",
@@ -16354,7 +16343,8 @@
       "carrot",
       "chicken",
       "corn kernel",
-      "cream mushroom soup",
+      "cream",
+      "mushroom",
       "onion",
       "pasta",
       "salt"
@@ -16494,7 +16484,7 @@
     "cleaned_ingredients":[
       "butter",
       "cheese",
-      "cream mushroom soup",
+      "cream",
       "flour",
       "mushroom",
       "pasta",
@@ -16518,7 +16508,7 @@
     "cleaned_ingredients":[
       "beef",
       "butter",
-      "cream mushroom soup",
+      "cream",
       "mushroom",
       "oil",
       "onion",
@@ -16547,9 +16537,9 @@
       "chicken",
       "corn kernel",
       "cream",
-      "cream mushroom soup",
       "egg",
       "jicama",
+      "mushroom",
       "oil",
       "onion",
       "pea"
@@ -16973,9 +16963,10 @@
     "cleaned_ingredients":[
       "butter",
       "carrot",
-      "cream mushroom soup",
+      "cream",
       "egg",
       "kernel corn",
+      "mushroom",
       "onion",
       "salt",
       "string bean"
@@ -17336,7 +17327,6 @@
       "beef",
       "bell pepper",
       "chili",
-      "cow trotter",
       "fish sauce",
       "knob ginger",
       "lemongrass",
@@ -17446,7 +17436,6 @@
     ],
     "cleaned_ingredients":[
       "carrot",
-      "hoisin sauce",
       "jicama",
       "lettuce",
       "oil",
@@ -17638,7 +17627,7 @@
     ],
     "cleaned_ingredients":[
       "bell pepper",
-      "cashew nut",
+      "cashew",
       "egg",
       "ham",
       "oil",
@@ -18076,8 +18065,7 @@
       "pork",
       "salt",
       "shrimp",
-      "string bean",
-      "vinegar"
+      "string bean"
     ]
   },
   {
@@ -18207,8 +18195,9 @@
       "carrot",
       "chicken",
       "coconut",
-      "cream mushroom",
+      "cream",
       "milk",
+      "mushroom",
       "oil",
       "pepper",
       "potato",
@@ -18470,7 +18459,8 @@
       "bell pepper",
       "butter",
       "cheese",
-      "cream mushroom",
+      "cream",
+      "mushroom",
       "onion",
       "parsley",
       "pasta",
@@ -19350,12 +19340,13 @@
       "bell pepper",
       "cabbage",
       "carrot",
-      "egg pasta",
+      "egg",
       "mushroom",
       "oil",
       "onion",
       "oyster sauce",
       "parsley",
+      "pasta",
       "peas",
       "pepper",
       "pork",
@@ -19496,7 +19487,6 @@
       "carrot",
       "cheese",
       "chicken",
-      "chicken bread",
       "egg",
       "flour",
       "mayonnaise",
@@ -19520,9 +19510,9 @@
     "cleaned_ingredients":[
       "bay leaf",
       "chili",
-      "hoisin sauce",
       "oil",
       "salt",
+      "soy sauce",
       "star anise",
       "sugar",
       "vinegar"
@@ -20153,7 +20143,7 @@
       "onion",
       "salt",
       "sugar",
-      "tahure",
+      "tofu",
       "tomato",
       "vinegar"
     ]
@@ -20327,7 +20317,6 @@
       "butter",
       "cheese",
       "cream",
-      "cream mushroom",
       "mushroom",
       "pasta",
       "pork"
@@ -20519,11 +20508,12 @@
       "cabbage",
       "carrot",
       "cornstarch",
-      "egg pasta",
+      "egg",
       "ginger",
       "oil",
       "onion",
       "oyster sauce",
+      "pasta",
       "pepper",
       "sesame oil",
       "soy sauce",
@@ -20758,7 +20748,6 @@
       "onion",
       "pepper",
       "pork",
-      "pork broth",
       "rice pasta",
       "shrimp",
       "tofu"
@@ -20873,9 +20862,9 @@
     ],
     "cleaned_ingredients":[
       "cheese",
+      "cocktail",
       "coconut",
       "cream",
-      "fruit",
       "mayonnaise",
       "milk",
       "pasta"
@@ -21051,7 +21040,7 @@
     ],
     "cleaned_ingredients":[
       "butter",
-      "chicken wing",
+      "chicken",
       "chili",
       "sausage"
     ]
@@ -21270,13 +21259,14 @@
     ],
     "cleaned_ingredients":[
       "cornstarch",
-      "cream pumpkin soup",
+      "cream",
       "fish",
       "flour",
       "oil",
       "parsley",
       "rice",
-      "salt"
+      "salt",
+      "squash"
     ]
   },
   {
@@ -21337,7 +21327,7 @@
       "ground black pepper"
     ],
     "cleaned_ingredients":[
-      "barbecue sauce",
+      "chicken sauce",
       "lemon",
       "oil",
       "pepper",
@@ -21619,7 +21609,6 @@
     "cleaned_ingredients":[
       "carrot",
       "egg",
-      "hoisin sauce",
       "oil",
       "onion",
       "pea",
@@ -22093,7 +22082,6 @@
       "baking",
       "cornstarch",
       "flour",
-      "hoisin sauce",
       "lard",
       "onion",
       "oyster sauce",
@@ -23298,11 +23286,12 @@
       "beef",
       "butter",
       "cream",
-      "egg pasta",
+      "egg",
       "flour",
       "mushroom",
       "oil",
       "onion",
+      "pasta",
       "salt"
     ]
   },
@@ -24275,7 +24264,7 @@
     "cleaned_ingredients":[
       "egg",
       "eggplant",
-      "fish tomato sauce",
+      "fish",
       "lemon",
       "oil",
       "onion",
@@ -24300,8 +24289,8 @@
       "beef",
       "butter",
       "cream",
-      "cream mushroom",
       "kernel corn",
+      "mushroom",
       "onion",
       "salt"
     ]
@@ -24990,12 +24979,13 @@
     ],
     "cleaned_ingredients":[
       "egg",
-      "fish tomato sauce",
+      "fish",
       "flour",
       "oil",
       "onion",
       "pasta",
-      "salt"
+      "salt",
+      "tomato"
     ]
   },
   {
@@ -25045,10 +25035,11 @@
       "cabbage",
       "cornstarch",
       "egg",
-      "fish tomato sauce",
+      "fish",
       "oil",
       "onion",
       "sugar",
+      "tomato",
       "vinegar"
     ]
   },
@@ -25163,11 +25154,12 @@
     ],
     "cleaned_ingredients":[
       "cabbage",
-      "fish tomato sauce",
+      "fish",
       "oil",
       "onion",
       "pasta",
-      "patis pepper"
+      "patis pepper",
+      "tomato"
     ]
   },
   {
@@ -25467,7 +25459,7 @@
     ],
     "cleaned_ingredients":[
       "bread crumb",
-      "chicken wing",
+      "chicken",
       "egg",
       "flour",
       "oil",
@@ -25967,7 +25959,6 @@
       "beef broth",
       "butter",
       "cream",
-      "cream mushroom soup",
       "flour",
       "mushroom",
       "oil",
@@ -26333,9 +26324,9 @@
       "a pich of salt"
     ],
     "cleaned_ingredients":[
+      "cocktail",
       "coconut",
       "cream",
-      "fruit",
       "mayonnaise",
       "milk",
       "pasta",
@@ -26368,7 +26359,6 @@
       "onion",
       "patis pepper",
       "pork",
-      "pork bean",
       "potato",
       "sausage",
       "tomato"
@@ -26565,9 +26555,9 @@
       "cabbage",
       "carrot",
       "chicken",
-      "habhab pasta",
       "oil",
       "onion",
+      "pasta",
       "peas",
       "salt",
       "soy sauce"
@@ -26851,7 +26841,6 @@
     "cleaned_ingredients":[
       "beef",
       "butter",
-      "butternut squash",
       "carrot",
       "egg",
       "oil",
@@ -26859,7 +26848,8 @@
       "pea",
       "pepper",
       "rice",
-      "salt"
+      "salt",
+      "squash"
     ]
   },
   {
@@ -26926,7 +26916,6 @@
     ],
     "cleaned_ingredients":[
       "coconut",
-      "coconut pandan",
       "cream",
       "gelatin",
       "ice cream",
@@ -27159,12 +27148,13 @@
     ],
     "cleaned_ingredients":[
       "beef",
-      "chicken soy sauce",
+      "chicken",
       "egg",
       "oil",
       "pepper",
       "rice",
-      "salt"
+      "salt",
+      "soy sauce"
     ]
   },
   {
@@ -27631,13 +27621,13 @@
     "cleaned_ingredients":[
       "butter",
       "cheese",
-      "cherry tomato",
       "cream",
       "oil",
       "onion",
       "salmon",
       "salt",
       "spinach",
+      "tomato",
       "wine"
     ]
   },
@@ -28444,9 +28434,9 @@
       "butter",
       "carrot",
       "cream",
-      "cream mushroom",
       "egg",
       "garlic",
+      "mushroom",
       "oil",
       "onion",
       "pea",
@@ -28591,7 +28581,6 @@
       "onion",
       "pepper",
       "pork",
-      "pork broth",
       "potato",
       "tomato"
     ]
@@ -28979,7 +28968,6 @@
       "onion",
       "pepper",
       "pork",
-      "pork broth",
       "sugar",
       "tomato",
       "vinegar"
@@ -29832,8 +29820,8 @@
     ],
     "cleaned_ingredients":[
       "cheese",
+      "cocktail",
       "coconut",
-      "fruit",
       "mayonnaise",
       "milk",
       "pasta",
@@ -30252,13 +30240,13 @@
     ],
     "cleaned_ingredients":[
       "bean",
-      "butternut",
       "coconut",
       "fish sauce",
       "oil",
       "onion",
       "pepper",
-      "pork"
+      "pork",
+      "squash"
     ]
   },
   {
@@ -30338,7 +30326,7 @@
     ],
     "cleaned_ingredients":[
       "butter",
-      "chicken wing",
+      "chicken",
       "chili",
       "flour",
       "garlic",
@@ -30431,11 +30419,11 @@
       "bean",
       "beef",
       "beef broth",
-      "butternut squash",
       "cabbage",
       "fish sauce",
       "onion",
-      "peppercorn"
+      "peppercorn",
+      "squash"
     ]
   },
   {
@@ -30633,7 +30621,7 @@
       "cooking oil"
     ],
     "cleaned_ingredients":[
-      "chicken wing",
+      "chicken",
       "chili",
       "garlic",
       "oil",
@@ -30995,14 +30983,14 @@
       "cooking oil"
     ],
     "cleaned_ingredients":[
+      "fish",
       "lemon",
       "oil",
       "onion",
       "pepper",
       "salt",
       "soy sauce",
-      "sugar",
-      "tanigue"
+      "sugar"
     ]
   },
   {
@@ -31401,8 +31389,8 @@
     ],
     "cleaned_ingredients":[
       "bottle gourd",
+      "fish",
       "fish sauce",
-      "fish tomato sauce",
       "oil",
       "onion",
       "pepper",
@@ -31454,9 +31442,10 @@
     ],
     "cleaned_ingredients":[
       "banana",
-      "coconunut milk",
+      "coconut",
       "flour",
       "jackfruit",
+      "milk",
       "potato",
       "starch pearl",
       "sugar",
@@ -31970,11 +31959,11 @@
       "celery",
       "chicken",
       "egg",
-      "egg pasta",
       "garlic",
       "oil",
       "onion",
       "parsley",
+      "pasta",
       "pepper",
       "salt"
     ]
@@ -32025,8 +32014,8 @@
       "chicken",
       "chicken broth",
       "egg",
-      "egg pasta",
       "garlic",
+      "pasta",
       "salt",
       "scallion"
     ]
@@ -32375,7 +32364,6 @@
       "boiled eggs"
     ],
     "cleaned_ingredients":[
-      "adobong pusit",
       "annatto",
       "cabbage",
       "egg",
@@ -32389,7 +32377,8 @@
       "pork",
       "rice pasta",
       "scallion",
-      "shrimp"
+      "shrimp",
+      "squid"
     ]
   },
   {
@@ -32540,7 +32529,7 @@
     "cleaned_ingredients":[
       "bread",
       "cheese",
-      "fish tomato sauce",
+      "fish",
       "parsley",
       "pepper",
       "tomato"
@@ -32713,13 +32702,13 @@
       "fish sauce"
     ],
     "cleaned_ingredients":[
-      "butternut",
       "cabbage",
       "chicken",
       "chicken broth",
       "fish sauce",
       "onion",
-      "peppercorn"
+      "peppercorn",
+      "squash"
     ]
   },
   {
@@ -32869,14 +32858,14 @@
     ],
     "cleaned_ingredients":[
       "bell pepper",
-      "colossal shrimp",
-      "fish broth",
+      "broth",
+      "fish",
       "lemon",
       "oil",
       "onion",
       "rice",
+      "shrimp",
       "squid",
-      "tinta calamar",
       "tomato",
       "wine"
     ]
@@ -32967,12 +32956,12 @@
     ],
     "cleaned_ingredients":[
       "butter",
-      "calamari",
       "chili",
       "garlic",
       "parsley",
       "salt",
-      "shrimp"
+      "shrimp",
+      "squid"
     ]
   },
   {
@@ -33357,12 +33346,12 @@
       "salt"
     ],
     "cleaned_ingredients":[
+      "beef",
       "chicken broth",
       "chili",
       "garlic",
       "oil",
       "paprika",
-      "rib eye",
       "rice",
       "salt"
     ]
@@ -33450,10 +33439,10 @@
       "beef",
       "beef broth",
       "cabbage",
-      "chickpeas",
       "fish sauce",
       "oil",
       "onion",
+      "pea",
       "pepper",
       "potato",
       "sausage",
@@ -33561,7 +33550,7 @@
       "pepper",
       "pork",
       "salt",
-      "tonkatsu sauce"
+      "soy sauce"
     ]
   },
   {
@@ -33846,7 +33835,7 @@
       "honey"
     ],
     "cleaned_ingredients":[
-      "blueberry",
+      "berry",
       "honey",
       "vanilla",
       "yogurt"
@@ -34403,15 +34392,15 @@
       "cornstarch"
     ],
     "cleaned_ingredients":[
+      "bean",
       "chicken broth",
       "chili",
-      "chili bean sauce",
       "cornstarch",
       "ginger",
       "pork",
       "scallion",
       "sesame oil",
-      "soy bean",
+      "soy sauce",
       "tofu"
     ]
   },
@@ -34712,12 +34701,12 @@
     "cleaned_ingredients":[
       "beef rib",
       "fish sauce",
+      "melon",
       "onion",
       "pepper",
       "snake bean",
       "spinach",
-      "tomato",
-      "watermelon"
+      "tomato"
     ]
   },
   {
@@ -34930,13 +34919,13 @@
     "cleaned_ingredients":[
       "bell pepper",
       "cornstarch",
+      "fish",
       "garlic",
       "ketchup",
       "oil",
       "onion",
       "pineapple",
       "salt",
-      "snapper",
       "sugar",
       "vinegar"
     ]
@@ -35199,7 +35188,6 @@
       "Salt and ground black pepper to taste"
     ],
     "cleaned_ingredients":[
-      "butternut squash",
       "chicken broth",
       "garlic",
       "malunggay",
@@ -35207,7 +35195,8 @@
       "onion",
       "salt",
       "shrimp",
-      "snake bean"
+      "snake bean",
+      "squash"
     ]
   },
   {
@@ -35596,14 +35585,15 @@
       "cooking oil"
     ],
     "cleaned_ingredients":[
+      "fish",
       "fish sauce",
-      "fish tomato sauce",
       "garlic",
       "melon",
       "oil",
       "onion",
       "pepper",
-      "scallion"
+      "scallion",
+      "tomato"
     ]
   },
   {
@@ -35670,7 +35660,6 @@
       "cooking oil"
     ],
     "cleaned_ingredients":[
-      "butternut",
       "coconut",
       "eggplant",
       "ginger",
@@ -35682,6 +35671,7 @@
       "pepper",
       "shrimp",
       "snake bean",
+      "squash",
       "squid"
     ]
   },
@@ -36657,7 +36647,6 @@
     "cleaned_ingredients":[
       "beef broth",
       "cream",
-      "cream mushroom",
       "mushroom",
       "oil",
       "onion",
@@ -36845,10 +36834,10 @@
     "cleaned_ingredients":[
       "bay leaf",
       "bell pepper",
-      "chickpeas",
       "garlic",
       "oil",
       "onion",
+      "pea",
       "pepper",
       "pork",
       "salt",
@@ -37205,7 +37194,6 @@
       "beef",
       "beef hotdog",
       "carrot",
-      "dill pickle",
       "egg",
       "eye",
       "flour",
@@ -37213,6 +37201,7 @@
       "oil",
       "onion",
       "pepper",
+      "pickle",
       "salt",
       "soy sauce",
       "tomato sauce"
@@ -37308,8 +37297,9 @@
     ],
     "cleaned_ingredients":[
       "coconut",
-      "corn cream",
+      "corn",
       "cornstarch",
+      "cream",
       "latik",
       "milk",
       "sugar"
@@ -37442,7 +37432,7 @@
     ],
     "cleaned_ingredients":[
       "cream",
-      "dill weed",
+      "dill",
       "mayonnaise",
       "onion",
       "parsley",
@@ -37628,7 +37618,6 @@
     "cleaned_ingredients":[
       "apple",
       "baking soda",
-      "caster sugar",
       "cinnamon",
       "egg",
       "flour",
@@ -38055,13 +38044,13 @@
       "A dash of ground black pepper"
     ],
     "cleaned_ingredients":[
-      "butternut",
       "coconut",
       "oil",
       "onion",
       "pepper",
       "pork",
-      "snake bean"
+      "snake bean",
+      "squash"
     ]
   },
   {
@@ -38099,7 +38088,6 @@
     ],
     "cleaned_ingredients":[
       "beef broth",
-      "butternut squash",
       "eggplant",
       "gourd",
       "oil",
@@ -38109,7 +38097,8 @@
       "pork",
       "salt",
       "shrimp",
-      "snake bean"
+      "snake bean",
+      "squash"
     ]
   },
   {
@@ -38214,7 +38203,7 @@
       "sinangag na kanin"
     ],
     "cleaned_ingredients":[
-      "bistek",
+      "beef",
       "egg",
       "rice"
     ]
@@ -38234,8 +38223,8 @@
       "fish sauce"
     ],
     "cleaned_ingredients":[
+      "broth",
       "fish",
-      "fish broth",
       "fish sauce",
       "lemongrass",
       "onion",
@@ -38288,8 +38277,8 @@
     ],
     "cleaned_ingredients":[
       "beef",
+      "cabbage",
       "cheese",
-      "coleslaw",
       "hamburger bun",
       "mayonnaise",
       "oil",
@@ -38419,7 +38408,6 @@
       "carrot",
       "egg",
       "fish sauce",
-      "igado",
       "miki pasta",
       "oil",
       "parsley",
@@ -38658,13 +38646,13 @@
     ],
     "cleaned_ingredients":[
       "chili",
+      "fish",
       "ginger",
       "lemon",
       "onion",
       "pepper",
       "salt",
-      "sugar",
-      "tanigue"
+      "sugar"
     ]
   },
   {
@@ -38739,8 +38727,7 @@
       "onion",
       "pepper",
       "plum tomato",
-      "salt",
-      "snapper"
+      "salt"
     ]
   },
   {
@@ -39042,7 +39029,6 @@
     ],
     "cleaned_ingredients":[
       "beef",
-      "bung",
       "celery",
       "fish sauce",
       "garlic",
@@ -39383,7 +39369,7 @@
     "cleaned_ingredients":[
       "baking",
       "butter",
-      "cornmeal",
+      "corn",
       "egg",
       "honey",
       "salt",
@@ -39516,8 +39502,8 @@
     ],
     "cleaned_ingredients":[
       "cherry",
+      "cocktail",
       "cream",
-      "fruit",
       "graham",
       "milk",
       "vanilla"
@@ -39798,7 +39784,7 @@
       "egg",
       "garlic rice",
       "oil",
-      "teriyaki sauce"
+      "soy sauce"
     ]
   },
   {
@@ -39873,10 +39859,10 @@
       "fish sauce"
     ],
     "cleaned_ingredients":[
+      "fish",
       "fish sauce",
       "onion",
-      "plum tomato",
-      "snapper"
+      "plum tomato"
     ]
   },
   {
@@ -40010,15 +39996,14 @@
       "chicken broth",
       "garlic",
       "ginger",
-      "hoisin sauce",
       "onion",
       "pepper",
       "rib",
       "sesame oil",
       "sesame seed",
+      "soy sauce",
       "spice",
       "sugar",
-      "teriyaki sauce",
       "vinegar"
     ]
   },
@@ -40329,10 +40314,10 @@
       "butter",
       "egg",
       "garlic",
-      "kielbasa sausage",
       "onion",
       "pea",
       "rice",
+      "sausage",
       "soy sauce"
     ]
   },
@@ -40431,7 +40416,7 @@
       "pepper",
       "salt",
       "sesame seed",
-      "teriyaki sauce"
+      "soy sauce"
     ]
   },
   {
@@ -40505,13 +40490,13 @@
       "bell pepper",
       "carrot",
       "garlic",
-      "kielbasa sausage",
       "oil",
       "onion",
       "pea",
       "pork",
       "potato",
       "salt",
+      "sausage",
       "tomato"
     ]
   },
@@ -40611,7 +40596,6 @@
     ],
     "cleaned_ingredients":[
       "beef broth",
-      "butternut squash",
       "coconut",
       "milk",
       "oil",
@@ -40620,6 +40604,7 @@
       "pork",
       "salt",
       "shrimp",
+      "squash",
       "string bean"
     ]
   },
@@ -40719,8 +40704,8 @@
     ],
     "cleaned_ingredients":[
       "butter",
-      "butternut squash",
       "salt",
+      "squash",
       "sugar"
     ]
   },
@@ -40856,9 +40841,11 @@
     "cleaned_ingredients":[
       "carrot",
       "chicken broth",
-      "egg dumpling pasta",
+      "dumpling",
+      "egg",
       "onion",
       "parsley",
+      "pasta",
       "salt"
     ]
   },
@@ -41247,8 +41234,8 @@
       "barbecue sauce"
     ],
     "cleaned_ingredients":[
-      "barbecue sauce",
       "chicken",
+      "chicken sauce",
       "garlic",
       "lemon",
       "oil",
@@ -41360,7 +41347,6 @@
     ],
     "cleaned_ingredients":[
       "garlic",
-      "hoisin sauce",
       "lime",
       "pepper",
       "pork rib",
@@ -41511,8 +41497,8 @@
       "Salt and ground black pepper to taste"
     ],
     "cleaned_ingredients":[
-      "alfredo sauce",
       "cheese",
+      "cream",
       "fish",
       "pasta",
       "salt"
@@ -41565,11 +41551,12 @@
       "bell pepper",
       "carrot",
       "chicken broth",
-      "egg pasta",
+      "egg",
       "mushroom",
       "oil",
       "onion",
       "oyster sauce",
+      "pasta",
       "salt",
       "soy sauce",
       "spinach"
@@ -41653,11 +41640,12 @@
       "beef",
       "broccoli",
       "cornstarch",
-      "egg pasta",
+      "egg",
       "garlic",
       "ginger",
       "oil",
       "oyster sauce",
+      "pasta",
       "salt",
       "sherry wine",
       "soy sauce",
@@ -41694,13 +41682,13 @@
     ],
     "cleaned_ingredients":[
       "carrot",
-      "chicken teriyaki",
+      "chicken",
       "ginger",
       "lettuce",
       "oil",
       "scallion",
       "sesame seed",
-      "teriyaki sauce"
+      "soy sauce"
     ]
   },
   {
@@ -41769,7 +41757,6 @@
       "beef",
       "cornstarch",
       "ginger",
-      "hoisin sauce",
       "oil",
       "pepper",
       "salt",
@@ -41981,7 +41968,6 @@
       "ground black pepper"
     ],
     "cleaned_ingredients":[
-      "butternut squash",
       "coconut",
       "coconut cream",
       "crab",
@@ -41990,7 +41976,8 @@
       "malunggay",
       "onion",
       "pepper",
-      "shrimp"
+      "shrimp",
+      "squash"
     ]
   },
   {
@@ -42365,11 +42352,11 @@
       "beef",
       "beef broth",
       "cabbage",
-      "chickpeas",
       "fish sauce",
       "oil",
       "onion",
       "oxtail",
+      "pea",
       "pepper",
       "potato",
       "sausage",
@@ -42844,7 +42831,7 @@
       "canola oil"
     ],
     "cleaned_ingredients":[
-      "chicken wing",
+      "chicken",
       "cornstarch",
       "garlic",
       "ginger",
@@ -43388,7 +43375,7 @@
       "bagoong",
       "banana blossom",
       "beef",
-      "bok choy",
+      "cabbage",
       "eggplant",
       "flour",
       "onion",
@@ -43547,8 +43534,8 @@
       "red pepper flakes"
     ],
     "cleaned_ingredients":[
-      "alfredo sauce",
       "cheese",
+      "cream",
       "pasta",
       "pepper",
       "salmon"
@@ -43652,8 +43639,8 @@
       "sharp cheddar cheese"
     ],
     "cleaned_ingredients":[
-      "alfredo sauce",
       "cheese",
+      "cream",
       "pasta",
       "pea"
     ]
@@ -43740,8 +43727,8 @@
       "chili flakes"
     ],
     "cleaned_ingredients":[
-      "alfredo sauce",
       "chili",
+      "cream",
       "onion",
       "pizza dough",
       "pork"
@@ -43870,11 +43857,11 @@
     ],
     "cleaned_ingredients":[
       "bitter gourd",
-      "butternut squash",
       "chicken broth",
       "garlic",
       "onion",
-      "salt"
+      "salt",
+      "squash"
     ]
   },
   {
@@ -44204,7 +44191,7 @@
     ],
     "cleaned_ingredients":[
       "annatto",
-      "chicken wing",
+      "chicken",
       "chili",
       "ginger",
       "lemon",
@@ -44611,8 +44598,8 @@
     "cleaned_ingredients":[
       "egg",
       "oil",
-      "rice",
-      "tocino"
+      "pork",
+      "rice"
     ]
   },
   {
@@ -44936,9 +44923,9 @@
       "Salt and pepper"
     ],
     "cleaned_ingredients":[
+      "bread",
       "caesar salad dressing",
       "chili",
-      "crouton",
       "lettuce",
       "salt"
     ]
@@ -45144,8 +45131,8 @@
       "baking soda",
       "banana",
       "egg",
+      "flour",
       "gluten almond",
-      "gluten flour",
       "oil",
       "salt",
       "sugar",
@@ -45360,12 +45347,12 @@
       "olive oil"
     ],
     "cleaned_ingredients":[
+      "beef",
       "chili",
       "garlic",
       "oil",
       "pepper",
       "potato",
-      "rib eye",
       "salt"
     ]
   },
@@ -45484,7 +45471,7 @@
       "egg",
       "flour",
       "milk",
-      "pecan",
+      "nut",
       "potato",
       "salt",
       "sugar",
@@ -45763,10 +45750,11 @@
       "celery",
       "chicken",
       "chicken broth",
-      "egg pasta",
+      "egg",
       "garlic",
       "onion",
       "parsley",
+      "pasta",
       "salt",
       "thyme"
     ]
@@ -45856,9 +45844,8 @@
       "lemon lime soda"
     ],
     "cleaned_ingredients":[
-      "barbecue",
-      "barbecue sauce",
       "chicken",
+      "chicken sauce",
       "lemon",
       "lemon lime soda",
       "soy sauce"
@@ -46059,7 +46046,7 @@
       "ground black pepper"
     ],
     "cleaned_ingredients":[
-      "barbecue sauce",
+      "chicken sauce",
       "oil",
       "pepper",
       "pork",
@@ -46079,13 +46066,14 @@
       "water"
     ],
     "cleaned_ingredients":[
-      "fish tomato sauce",
+      "fish",
       "garlic",
       "oil",
       "onion",
       "pasta",
       "patola",
-      "salt"
+      "salt",
+      "tomato"
     ]
   },
   {
@@ -46100,13 +46088,13 @@
       "Cooking Procedure"
     ],
     "cleaned_ingredients":[
-      "calamari",
       "flour",
       "garlic",
       "lemon",
       "oil",
       "parsley",
-      "salt"
+      "salt",
+      "squid"
     ]
   },
   {
@@ -46166,7 +46154,6 @@
     ],
     "cleaned_ingredients":[
       "beef",
-      "calf knuckle",
       "cardamom",
       "chili",
       "cilantro",
@@ -46176,11 +46163,11 @@
       "fish sauce",
       "garlic",
       "ginger",
-      "hoisin sauce",
       "lime",
       "onion",
       "rice pasta",
       "sauce",
+      "soy sauce",
       "star anise"
     ]
   },
@@ -46345,8 +46332,9 @@
       "cooking oil"
     ],
     "cleaned_ingredients":[
-      "fish soy sauce",
-      "oil"
+      "fish",
+      "oil",
+      "soy sauce"
     ]
   },
   {
@@ -46459,7 +46447,7 @@
       "fresh milk"
     ],
     "cleaned_ingredients":[
-      "blueberry",
+      "berry",
       "ice",
       "milk",
       "sugar",
@@ -46678,9 +46666,9 @@
       "whole milk"
     ],
     "cleaned_ingredients":[
+      "berry",
       "ice",
       "milk",
-      "strawberry",
       "sugar",
       "vanilla",
       "yogurt"
@@ -46741,8 +46729,8 @@
       "Half cup canola oil"
     ],
     "cleaned_ingredients":[
-      "barbecue sauce",
       "chicken",
+      "chicken sauce",
       "oil",
       "salt"
     ]
@@ -46881,7 +46869,7 @@
     ],
     "cleaned_ingredients":[
       "baking",
-      "blueberry",
+      "berry",
       "egg",
       "flour",
       "milk",
@@ -47302,12 +47290,12 @@
       "Pico de Gallo"
     ],
     "cleaned_ingredients":[
+      "fish",
       "garlic",
       "lemon",
       "oil",
       "pico gallo",
-      "salt",
-      "snapper"
+      "salt"
     ]
   },
   {
@@ -47410,10 +47398,11 @@
       "celery",
       "chicken",
       "chicken broth",
-      "egg pasta",
+      "egg",
       "ham",
       "milk",
       "onion",
+      "pasta",
       "potato",
       "salt",
       "thyme"
@@ -47526,13 +47515,13 @@
       "chicken",
       "garlic",
       "ginger",
-      "hoisin sauce",
       "lettuce",
       "mushroom",
       "oil",
       "onion",
       "orange",
-      "salt"
+      "salt",
+      "soy sauce"
     ]
   },
   {
@@ -48273,7 +48262,6 @@
       "baking",
       "butter",
       "cheese",
-      "cream",
       "egg",
       "flour",
       "graham cracker crumbs",
@@ -48773,13 +48761,13 @@
     ],
     "cleaned_ingredients":[
       "banana blossom",
-      "brine salt",
       "chili",
       "fish sauce",
       "garlic",
       "oil",
       "onion",
       "pepper",
+      "salt",
       "vegetable broth",
       "vinegar"
     ]
@@ -48929,7 +48917,6 @@
     "cleaned_ingredients":[
       "garlic",
       "ginger",
-      "hoisin sauce",
       "lemon",
       "oil",
       "salmon",
@@ -49065,9 +49052,9 @@
       "6 inches sub sandwich bread"
     ],
     "cleaned_ingredients":[
-      "barbecue sauce",
       "bread",
       "chicken",
+      "chicken sauce",
       "pepper",
       "soy sauce",
       "sugar",
@@ -49090,7 +49077,7 @@
       "baking soda",
       "butter",
       "buttermilk",
-      "cornmeal",
+      "corn",
       "egg",
       "flour",
       "kernel corn",
@@ -49244,8 +49231,8 @@
       "A pinch of salt and pepper"
     ],
     "cleaned_ingredients":[
-      "hoisin sauce",
       "salt",
+      "soy sauce",
       "tofu"
     ]
   },
@@ -49411,7 +49398,7 @@
       "cornstarch",
       "salmon",
       "salt",
-      "teriyaki sauce"
+      "soy sauce"
     ]
   },
   {
@@ -49491,7 +49478,6 @@
       "butter",
       "cheese",
       "cherry",
-      "cream",
       "egg",
       "flour",
       "milk",
@@ -50188,7 +50174,7 @@
       "cooking oil"
     ],
     "cleaned_ingredients":[
-      "corn meal",
+      "corn",
       "egg",
       "fish",
       "fish sauce",
@@ -50363,7 +50349,6 @@
       "chicken",
       "chicken broth",
       "cream",
-      "cream mushroom",
       "mushroom",
       "oil",
       "rosemary",
@@ -50452,13 +50437,13 @@
       "a pinch of salt and pepper"
     ],
     "cleaned_ingredients":[
+      "berry",
       "dijon mustard",
       "garlic",
       "oil",
       "orange",
       "salt",
       "spinach",
-      "strawberry",
       "vinegar",
       "walnut"
     ]
@@ -51250,12 +51235,12 @@
       "chili sauce",
       "fish sauce",
       "garlic",
-      "hoisin sauce",
       "hot sauce",
       "knob ginger",
       "leek",
       "oil",
-      "sesame oil"
+      "sesame oil",
+      "soy sauce"
     ]
   },
   {
@@ -51515,7 +51500,7 @@
     ],
     "cleaned_ingredients":[
       "cheese",
-      "fish salad",
+      "fish",
       "flour tortilla",
       "lettuce",
       "tomato"
@@ -51750,7 +51735,6 @@
       "broccoli",
       "carrot",
       "ginger",
-      "hoisin sauce",
       "oil",
       "onion",
       "oyster sauce",
@@ -51772,9 +51756,9 @@
     ],
     "cleaned_ingredients":[
       "arugula",
-      "cherry tomato",
       "oil",
       "salt",
+      "tomato",
       "walnut",
       "wine vinegar"
     ]
@@ -51830,8 +51814,8 @@
       "cranberry sauce"
     ],
     "cleaned_ingredients":[
+      "berry",
       "bread",
-      "cranberry sauce",
       "cream cheese",
       "turkey"
     ]
@@ -51869,8 +51853,9 @@
       "carrot",
       "celery",
       "chicken",
-      "egg pasta",
+      "egg",
       "onion",
+      "pasta",
       "salt",
       "turkey"
     ]
@@ -51925,8 +51910,9 @@
       "granulated white sugar"
     ],
     "cleaned_ingredients":[
+      "apple",
       "apple vinegar",
-      "cranberry apple",
+      "berry",
       "sugar"
     ]
   },
@@ -51989,7 +51975,7 @@
     "cleaned_ingredients":[
       "butter",
       "chicken broth",
-      "cornbread",
+      "corn",
       "garlic",
       "onion",
       "pork",
@@ -52004,7 +51990,7 @@
       "fresh cranberries"
     ],
     "cleaned_ingredients":[
-      "cranberry",
+      "berry",
       "orange",
       "sugar"
     ]
@@ -52047,8 +52033,8 @@
       "ground black pepper"
     ],
     "cleaned_ingredients":[
-      "barbecue sauce",
       "beef rib",
+      "chicken sauce",
       "garlic",
       "ketchup",
       "lime",
@@ -52303,7 +52289,7 @@
     ],
     "cleaned_ingredients":[
       "chicken",
-      "maple syrup",
+      "maple",
       "sherry",
       "soy sauce",
       "sugar"
@@ -52320,7 +52306,7 @@
     "cleaned_ingredients":[
       "cheese",
       "oil",
-      "onion soup",
+      "onion",
       "parsley",
       "potato"
     ]
@@ -52342,7 +52328,6 @@
     "cleaned_ingredients":[
       "baking soda",
       "butter",
-      "candy",
       "chocolate",
       "cupcake",
       "egg",
@@ -52429,7 +52414,7 @@
       "ground black pepper"
     ],
     "cleaned_ingredients":[
-      "barbecue sauce",
+      "chicken sauce",
       "pepper",
       "pork rib",
       "salt",
@@ -52669,7 +52654,7 @@
       "egg",
       "flour",
       "milk",
-      "pancake syrup",
+      "pancake",
       "salt",
       "sausage",
       "sugar",
@@ -52701,8 +52686,7 @@
       "salt",
       "sugar",
       "vanilla",
-      "vegetable oil",
-      "wheat bran"
+      "vegetable oil"
     ]
   },
   {
@@ -52988,12 +52972,12 @@
       "canola or vegetable oil"
     ],
     "cleaned_ingredients":[
+      "fish",
       "ginger",
       "salt",
       "scallion",
       "sesame oil",
       "sherry",
-      "snapper",
       "soy sauce"
     ]
   },
@@ -53032,11 +53016,11 @@
       "Salt and pepper to taste"
     ],
     "cleaned_ingredients":[
-      "chickpea",
       "curry powder",
       "ginger",
       "oil",
       "onion",
+      "pea",
       "salt",
       "spinach",
       "sugar",
@@ -53101,7 +53085,6 @@
     ],
     "cleaned_ingredients":[
       "beer",
-      "bratwurst",
       "bread",
       "butter",
       "chili",
@@ -53247,8 +53230,8 @@
     ],
     "cleaned_ingredients":[
       "chili",
+      "fish",
       "fish sauce",
-      "fish tomato sauce",
       "lemon",
       "oil",
       "onion",
@@ -53478,7 +53461,6 @@
     "cleaned_ingredients":[
       "beef",
       "cheese",
-      "dinner",
       "mayonnaise",
       "onion",
       "pickle",
@@ -53544,8 +53526,8 @@
     "cleaned_ingredients":[
       "bean",
       "cream",
-      "cream mushroom soup",
       "milk",
+      "mushroom",
       "onion",
       "pepper",
       "salt"
@@ -53755,7 +53737,7 @@
       "Salt and pepper to taste"
     ],
     "cleaned_ingredients":[
-      "brussels",
+      "cabbage",
       "oil",
       "onion",
       "pork",
@@ -54098,7 +54080,6 @@
     ],
     "cleaned_ingredients":[
       "beef",
-      "fruit",
       "pigeon pea",
       "pork",
       "potato",
@@ -54410,7 +54391,7 @@
       "chicken broth",
       "chili",
       "cilantro",
-      "corn tortilla",
+      "corn",
       "lime",
       "oil",
       "onion",
@@ -54437,9 +54418,9 @@
       "butter",
       "cheese",
       "onion",
+      "potato",
       "salt",
-      "soy sauce",
-      "tater tot"
+      "soy sauce"
     ]
   },
   {
@@ -54634,10 +54615,10 @@
       "cabbage",
       "carrot",
       "egg",
-      "egg wrapper",
       "garlic",
       "ginger",
       "oil",
+      "pasta",
       "pork",
       "soy sauce"
     ]
@@ -54728,7 +54709,6 @@
       "bell pepper",
       "chicken",
       "ginger",
-      "hoisin sauce",
       "lemon",
       "oil",
       "onion",
@@ -54854,7 +54834,6 @@
       "boiling water"
     ],
     "cleaned_ingredients":[
-      "hoisin sauce",
       "honey",
       "oyster sauce",
       "pork",
@@ -54880,7 +54859,6 @@
       "chili",
       "coconut",
       "fish sauce",
-      "fruit",
       "milk",
       "oil",
       "onion"
@@ -54930,10 +54908,10 @@
       "banana",
       "bean",
       "cabbage",
-      "chickpea",
       "fish sauce",
       "oil",
       "onion",
+      "pea",
       "peppercorn",
       "pork",
       "potato",
@@ -54951,9 +54929,8 @@
       "cooking oil"
     ],
     "cleaned_ingredients":[
-      "barbecue",
-      "barbecue sauce",
       "chicken",
+      "chicken sauce",
       "oil",
       "rice",
       "salt"
@@ -55101,7 +55078,7 @@
     ],
     "cleaned_ingredients":[
       "baking",
-      "blueberry",
+      "berry",
       "egg",
       "flour",
       "milk",
@@ -55151,7 +55128,7 @@
     ],
     "cleaned_ingredients":[
       "butter",
-      "chicken wing",
+      "chicken",
       "chili",
       "flour",
       "garlic",
@@ -55176,7 +55153,7 @@
     "cleaned_ingredients":[
       "baking",
       "butter",
-      "cornmeal",
+      "corn",
       "egg",
       "flour",
       "milk",
@@ -55196,12 +55173,12 @@
       "Whipped Cream"
     ],
     "cleaned_ingredients":[
+      "berry",
       "cake flour",
       "cream",
       "cream tartar",
       "egg",
       "salt",
-      "strawberry",
       "sugar",
       "vanilla"
     ]
@@ -55446,7 +55423,7 @@
       "cream",
       "milk",
       "pineapple",
-      "sugar palm fruit"
+      "sugar coconut"
     ]
   },
   {
@@ -55921,12 +55898,12 @@
       "beef broth",
       "butter",
       "cream",
-      "cream mushroom soup",
-      "egg pasta",
+      "egg",
       "flour",
       "garlic",
       "mushroom",
       "onion",
+      "pasta",
       "pepper",
       "salt"
     ]
@@ -56145,7 +56122,7 @@
     ],
     "cleaned_ingredients":[
       "cilantro",
-      "cod",
+      "fish",
       "lime",
       "oil",
       "pepper",
@@ -56401,7 +56378,7 @@
     "cleaned_ingredients":[
       "baking soda",
       "butter",
-      "corn syrup",
+      "corn",
       "peanut",
       "salt",
       "sugar"
@@ -56433,7 +56410,7 @@
     ],
     "cleaned_ingredients":[
       "cornstarch",
-      "crablet",
+      "crab",
       "gin",
       "oil",
       "pepper",
@@ -56503,9 +56480,10 @@
       "chicken",
       "chicken broth",
       "cornstarch",
-      "egg pasta",
+      "egg",
       "oil",
       "oyster sauce",
+      "pasta",
       "salt",
       "sesame oil",
       "spice"
@@ -56676,7 +56654,7 @@
       "cheese",
       "corn",
       "flour",
-      "glove garlic",
+      "garlic",
       "hotdog",
       "ketchup",
       "milk",
@@ -56803,7 +56781,7 @@
       "beef",
       "butter",
       "corn",
-      "cream mushroom soup",
+      "cream",
       "garlic",
       "mushroom",
       "pepper",
@@ -56968,6 +56946,7 @@
       "ground black pepper"
     ],
     "cleaned_ingredients":[
+      "alcohol",
       "basil",
       "chicken",
       "chicken broth",
@@ -56975,8 +56954,7 @@
       "oil",
       "pasta",
       "pepper",
-      "salt",
-      "vodka"
+      "salt"
     ]
   },
   {
@@ -57076,7 +57054,7 @@
     "cleaned_ingredients":[
       "basil",
       "cheese",
-      "chicken wing",
+      "chicken",
       "cumin",
       "garlic",
       "oil",
@@ -57141,7 +57119,7 @@
     "cleaned_ingredients":[
       "chili",
       "cilantro",
-      "corn tortilla",
+      "corn",
       "cumin",
       "garlic",
       "lime",
@@ -57362,7 +57340,7 @@
       "cooking oil"
     ],
     "cleaned_ingredients":[
-      "chicken wing",
+      "chicken",
       "fish sauce",
       "ginger",
       "lemon",
@@ -57395,15 +57373,15 @@
       "cooking oil"
     ],
     "cleaned_ingredients":[
-      "cassava flour",
+      "cassava",
       "egg",
       "fish sauce",
-      "kikiam",
       "miki pasta",
       "oil",
       "onion",
       "pepper",
       "pork",
+      "sausage",
       "soy sauce"
     ]
   },
@@ -57664,7 +57642,6 @@
       "toasted garlic"
     ],
     "cleaned_ingredients":[
-      "adobong pusit",
       "annatto",
       "cabbage",
       "egg",
@@ -57677,7 +57654,8 @@
       "pepper",
       "pork",
       "rice pasta",
-      "shrimp"
+      "shrimp",
+      "squid"
     ]
   },
   {
@@ -57763,8 +57741,8 @@
       "cooking oil"
     ],
     "cleaned_ingredients":[
+      "beef",
       "chili",
-      "cow",
       "ginger",
       "lemon",
       "oil",
@@ -58440,9 +58418,10 @@
       "chicken",
       "chicken broth",
       "cornstarch",
-      "egg pasta",
+      "egg",
       "onion",
       "parsley",
+      "pasta",
       "salt",
       "vegetable oil"
     ]
@@ -58762,7 +58741,7 @@
     "cleaned_ingredients":[
       "baking",
       "butter",
-      "cornmeal",
+      "corn",
       "egg",
       "flour",
       "honey",
@@ -58794,6 +58773,7 @@
       "cooking oil"
     ],
     "cleaned_ingredients":[
+      "bean",
       "carrot",
       "fish sauce",
       "oil",
@@ -58801,8 +58781,7 @@
       "pepper",
       "shrimp",
       "spring wrapper",
-      "tofu",
-      "togue"
+      "tofu"
     ]
   },
   {
@@ -59164,8 +59143,8 @@
       "lemon juice"
     ],
     "cleaned_ingredients":[
+      "bread",
       "cheese",
-      "crouton",
       "egg",
       "lemon",
       "lettuce",
@@ -59297,12 +59276,11 @@
       "table \/ medium cream or all purpose cream"
     ],
     "cleaned_ingredients":[
-      "blueberry",
+      "berry",
       "coconut",
       "cream",
       "kiwi",
-      "milk",
-      "strawberry"
+      "milk"
     ]
   },
   {
@@ -59460,11 +59438,11 @@
     "cleaned_ingredients":[
       "basil",
       "cheese",
-      "cherry tomato",
       "oil",
       "pasta",
       "pepper",
-      "salt"
+      "salt",
+      "tomato"
     ]
   },
   {
@@ -59476,7 +59454,7 @@
     ],
     "cleaned_ingredients":[
       "butter",
-      "corn syrup",
+      "corn",
       "rice",
       "sugar"
     ]
@@ -59810,9 +59788,9 @@
     "cleaned_ingredients":[
       "baking",
       "butter",
-      "buttercream",
       "cake",
       "cake flour",
+      "cream",
       "cream tartar",
       "egg",
       "fat",
@@ -59930,7 +59908,6 @@
       "carrot",
       "cinnamon",
       "cream cheese",
-      "cream cheese frosting",
       "egg",
       "flour",
       "milk",
@@ -60118,10 +60095,10 @@
       "beef",
       "cabbage",
       "egg",
-      "egg pasta",
       "garlic",
       "oil",
       "onion",
+      "pasta",
       "salt",
       "star anise"
     ]
@@ -60193,7 +60170,7 @@
     "cleaned_ingredients":[
       "bell pepper",
       "broccoli",
-      "cashew nut",
+      "cashew",
       "chicken",
       "cornstarch",
       "egg",
@@ -60224,12 +60201,12 @@
       "crab",
       "fish sauce",
       "ginger",
-      "hoisin sauce",
       "ketchup",
       "oil",
       "onion",
       "pepper",
-      "sesame oil"
+      "sesame oil",
+      "soy sauce"
     ]
   },
   {
@@ -60263,7 +60240,6 @@
     "cleaned_ingredients":[
       "cassava",
       "coconut",
-      "coconut pandan",
       "lye",
       "sugar"
     ]
@@ -60366,11 +60342,11 @@
     ],
     "cleaned_ingredients":[
       "bay leaf",
+      "chicken",
       "cilantro",
       "oil",
       "pepper",
-      "salt",
-      "spring chicken"
+      "salt"
     ]
   },
   {
@@ -60550,7 +60526,6 @@
     "cleaned_ingredients":[
       "baking",
       "bread crumb",
-      "bread flour",
       "butter",
       "egg",
       "flour",
@@ -60708,8 +60683,8 @@
     "cleaned_ingredients":[
       "baking",
       "butter",
+      "cocktail",
       "egg",
-      "fruit",
       "gelatin",
       "milk",
       "sugar",
