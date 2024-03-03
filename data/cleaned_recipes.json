@@ -1137,7 +1137,7 @@
       "cornstarch",
       "cream tartar",
       "egg",
-      "fruit cocktail",
+      "fruit",
       "gelatin",
       "milk",
       "oil",
@@ -1170,7 +1170,7 @@
     ],
     "cleaned_ingredients":[
       "cream",
-      "graham cracker",
+      "graham",
       "mango",
       "milk",
       "sugar"
@@ -2706,9 +2706,7 @@
       "agar",
       "coconut",
       "cream",
-      "kaong",
       "milk",
-      "nata coco",
       "sugar"
     ]
   },
@@ -5188,9 +5186,7 @@
       "agar",
       "coconut",
       "cream",
-      "kaong",
       "milk",
-      "nata coco",
       "pandan",
       "sugar"
     ]
@@ -6410,9 +6406,7 @@
       "gulaman",
       "ice",
       "jackfruit",
-      "kaong",
       "milk",
-      "nata coco",
       "yam"
     ]
   },
@@ -7781,7 +7775,7 @@
       "cheese",
       "coconut",
       "cornstarch",
-      "fruit cocktail",
+      "fruit",
       "milk",
       "sugar"
     ]
@@ -8515,11 +8509,10 @@
       "condensed milk"
     ],
     "cleaned_ingredients":[
+      "coconut",
       "cream",
-      "kaong",
       "mango",
-      "milk",
-      "nata coco"
+      "milk"
     ]
   },
   {
@@ -9682,10 +9675,8 @@
       "coconut",
       "corn kernel",
       "cream",
-      "fruit cocktail",
-      "kaong",
+      "fruit",
       "milk",
-      "nata coco",
       "pineapple"
     ]
   },
@@ -9819,7 +9810,7 @@
     "cleaned_ingredients":[
       "cream",
       "egg",
-      "graham cracker",
+      "graham",
       "milk",
       "sugar"
     ]
@@ -11264,8 +11255,8 @@
     ],
     "cleaned_ingredients":[
       "cream",
-      "fruit cocktail",
-      "graham cracker",
+      "fruit",
+      "graham",
       "milk"
     ]
   },
@@ -11545,11 +11536,10 @@
     ],
     "cleaned_ingredients":[
       "cheese",
+      "coconut",
       "cream",
-      "fruit cocktail",
-      "kaong",
+      "fruit",
       "milk",
-      "nata coco",
       "pasta",
       "pineapple"
     ]
@@ -12800,9 +12790,7 @@
     "cleaned_ingredients":[
       "agar",
       "coconut",
-      "kaong",
       "milk",
-      "nata coco",
       "sago",
       "sugar"
     ]
@@ -20885,12 +20873,11 @@
     ],
     "cleaned_ingredients":[
       "cheese",
+      "coconut",
       "cream",
-      "fruit cocktail",
-      "kaong",
+      "fruit",
       "mayonnaise",
       "milk",
-      "nata coco",
       "pasta"
     ]
   },
@@ -26346,9 +26333,9 @@
       "a pich of salt"
     ],
     "cleaned_ingredients":[
+      "coconut",
       "cream",
-      "fruit cocktail",
-      "kaong",
+      "fruit",
       "mayonnaise",
       "milk",
       "pasta",
@@ -29845,11 +29832,10 @@
     ],
     "cleaned_ingredients":[
       "cheese",
-      "fruit cocktail",
-      "kaong",
+      "coconut",
+      "fruit",
       "mayonnaise",
       "milk",
-      "nata coco",
       "pasta",
       "pineapple",
       "raisin"
@@ -39531,9 +39517,8 @@
     "cleaned_ingredients":[
       "cherry",
       "cream",
-      "fruit cocktail",
+      "fruit",
       "graham",
-      "graham cracker",
       "milk",
       "vanilla"
     ]
@@ -52412,7 +52397,6 @@
       "baking soda",
       "butter",
       "chocolate",
-      "confectioner sugar",
       "cream",
       "cream cheese",
       "egg",
@@ -55097,7 +55081,6 @@
     ],
     "cleaned_ingredients":[
       "baking",
-      "confectioner sugar",
       "egg",
       "flour",
       "jelly",
@@ -56010,7 +55993,6 @@
       "cherry",
       "cherry liqueur",
       "chocolate",
-      "confectioner sugar",
       "cream",
       "egg",
       "flour",
@@ -56780,7 +56762,6 @@
     "cleaned_ingredients":[
       "cream",
       "graham",
-      "graham cracker",
       "mango",
       "milk"
     ]
@@ -58522,7 +58503,6 @@
       "condensed milk"
     ],
     "cleaned_ingredients":[
-      "confectioner sugar",
       "cream tartar",
       "egg",
       "milk",
@@ -58887,7 +58867,7 @@
       "graham crackers"
     ],
     "cleaned_ingredients":[
-      "graham cracker",
+      "graham",
       "milk",
       "peach"
     ]
@@ -59318,10 +59298,10 @@
     ],
     "cleaned_ingredients":[
       "blueberry",
+      "coconut",
       "cream",
       "kiwi",
       "milk",
-      "nata coco",
       "strawberry"
     ]
   },
@@ -59833,7 +59813,6 @@
       "buttercream",
       "cake",
       "cake flour",
-      "confectioner sugar",
       "cream tartar",
       "egg",
       "fat",
@@ -59950,7 +59929,6 @@
       "cake",
       "carrot",
       "cinnamon",
-      "confectioner sugar",
       "cream cheese",
       "cream cheese frosting",
       "egg",
@@ -60050,7 +60028,6 @@
       "baking",
       "butter",
       "chocolate",
-      "confectioner sugar",
       "cupcake",
       "egg",
       "flour",
@@ -60732,7 +60709,7 @@
       "baking",
       "butter",
       "egg",
-      "fruit cocktail",
+      "fruit",
       "gelatin",
       "milk",
       "sugar",

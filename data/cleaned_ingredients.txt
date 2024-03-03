@@ -120,7 +120,6 @@ cola
 coleslaw
 collard
 colossal shrimp
-confectioner sugar
 consomme
 cookie
 coriander
@@ -202,7 +201,6 @@ flour tortilla
 forest ham
 frog
 fruit
-fruit cocktail
 fruit cocktail syrup
 fungus
 furikake
@@ -224,7 +222,6 @@ goatskin
 gouda
 gourd
 graham
-graham cracker
 graham cracker crumbs
 grape
 grape tomato
@@ -265,7 +262,6 @@ kamia
 kamote
 kang
 kani
-kaong
 kasubha
 katsu sauce
 kecap manis
@@ -334,7 +330,6 @@ mung bean
 mushroom
 mussel
 mustard
-nata coco
 nut
 nutmeg
 oat
