@@ -1,47 +1,32 @@
-alcohol
 amaranth
 anatto
-anchovy sauce
-anisette liquor
 artichoke
 arugula
 asparagus
-bamboo shoot
 bamboo skewer
+barbecue
 barbecue sauce
-bilimbi
 bilong
-biscuit
 bisugo
 caesar salad dressing
-cake
 caper
 cardamom
-carrageenan
-cedar plank
-cherry liqueur
 chive
-cilantro lime rice
-clam mussel
 coke
 cola
 collard
 consomme
 cookie
 coriander
-coriander seed
 creole
 crust pie
 cupcake
 curry powder
 custard
-dahon laurel
 dalag
 dashi
 date
-day rice
 dilis
-dill pickle spear
 dough
 dough crust pie
 duck
@@ -50,37 +35,25 @@ dumpling
 dynamite sauce
 edamame
 enchilada sauce
-eye
 farfalle
 fat
 fennel
-fennel seed
-flank
 forest ham
 frog
 fungus
 furikake
 galangal root
 garam masala
-garbanzo
-gherkins pickle
 gin
-gluten almond
-goatskin
 gouda
 grape
 gravy
-guacamole
-guajillo chili
 gulaman
-gyoza wrapper
-hamburger bun
 hibi
 hoagie
 hog casing
 hollandaise sauce
 hominy
-honey mustard dressing
 horse
 hot sauce
 ice cream
@@ -94,16 +67,13 @@ kabocha
 kaiser
 kale
 kang
-kani
 kasubha
 katsu sauce
 kecap manis
 kimchi
 kinchay
 kiwi
-knob
 kung pao sauce
-labano
 labong
 laing
 lamb
@@ -111,11 +81,7 @@ langka
 lard
 latik
 lato
-lawry salt
 leek
-liquor
-loaf bread
-lomi pasta
 loofah
 lychee
 manzanilla
@@ -123,7 +89,6 @@ maple
 masago
 meringue
 mignon
-miki lucban
 mint
 minute oat
 miso soy
@@ -133,11 +98,9 @@ moscato
 msg
 muffin
 oat
-oat bran
 oyster
 pancake
 peach
-peanut sauce
 pear
 phosphate
 pico gallo
@@ -149,47 +112,29 @@ pinipig
 pinot grigio
 pizza dough
 pizza sauce
-plum sauce
+plum
 prune
 pumpkin
 quickmelt
 rabbit
-rack lamb
-ramekin
 rib celery
-rice fish
-rise yeast
 rousong
-saffron thread
 sage
-sago pearl
 salsa
-salsa con queso
 santol
 sauerkraut
 sayote
 scallop
 seaweed
-seed hotdog bun
-shao xing wine
 shichimi togarashi
 shiromiso
-shumai wrapper
 sibot
 sibot herb
 sinamak
 snail
 soda
-soda cracker
 soup
 spam
-sprig rosemary
-spring
-springroll wrapper
-squid ink
-st louis rib
-starch
-sugar coconut
 sunflower seed
 swai
 taco
@@ -202,4 +147,3 @@ tostada
 vegetable soup
 vitamin c
 wasabi
-wrapper

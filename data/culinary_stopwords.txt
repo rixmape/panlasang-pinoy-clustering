@@ -41,6 +41,7 @@ bunche
 bundle
 butt
 button
+cake
 can
 canned
 cannellini
@@ -70,6 +71,7 @@ cobs
 colby
 color
 coloring
+colossal
 cooking
 course
 crackling
@@ -86,6 +88,7 @@ dash
 de
 deli
 diameter
+dinner
 dip
 dozen
 dried
@@ -131,6 +134,8 @@ food
 foot
 fresh
 fried
+frosting
+fruit
 fry
 frying
 funtastyk
@@ -197,6 +202,7 @@ kidney
 kilo
 king
 kitchen
+knob
 knorr
 knot
 kong
@@ -277,6 +283,7 @@ paste
 pastry
 pat
 pc
+pearl
 pecorino
 peel
 pesto
@@ -304,6 +311,7 @@ recipe
 red
 rind
 ring
+rise
 roast
 rock
 roll
@@ -317,8 +325,8 @@ sachet
 sarap
 sauceor
 sauteed
-sauteeing
 sautéed
+sauteeing
 savorrich
 savoy
 scale
@@ -363,6 +371,7 @@ straw
 strip
 style
 sub
+syrup
 t
 taba
 table
@@ -381,6 +390,7 @@ thai
 thickness
 thigh
 third
+thread
 thumb
 tiger
 tip
@@ -405,9 +415,11 @@ wash
 washing
 water
 wedge
+weed
 whipping
 white
 wholegrain
+wing
 wingette
 wood
 wrap
@@ -417,11 +429,6 @@ young
 yukon
 zealand
 zest
-fruit
-syrup
-wing
-frosting
-weed
-dinner
-colossal
-cake
+ramekin
+cedar
+plank
