@@ -1,67 +1,55 @@
 amaranth
 anatto
+anisette alcohol
 artichoke
 arugula
 asparagus
-bamboo skewer
+bamboo
 barbecue
-barbecue sauce
 bilong
-bisugo
+blackstrap sugar
 caesar salad dressing
 caper
 cardamom
 chive
-coke
+cilantro lemon rice
+cinnamon nut
 cola
-collard
 consomme
 cookie
 coriander
 creole
-crust pie
 cupcake
 curry powder
 custard
-dalag
 dashi
 date
 dilis
-dough
-dough crust pie
 duck
-dulong
 dumpling
-dynamite sauce
-edamame
 enchilada sauce
 farfalle
-fat
 fennel
-forest ham
+flour crust pie
 frog
 fungus
 furikake
 galangal root
 garam masala
 gin
-gouda
 grape
 gravy
 gulaman
 hibi
 hoagie
-hog casing
 hollandaise sauce
 hominy
 horse
 hot sauce
+ice
 ice cream
-ice sugar
 island dressing
 jalapeño
-jelly
-jet marshmallow
 jute
 kabocha
 kaiser
@@ -78,7 +66,6 @@ labong
 laing
 lamb
 langka
-lard
 latik
 lato
 leek
@@ -86,53 +73,42 @@ loofah
 lychee
 manzanilla
 maple
+marshmallow
 masago
 meringue
 mignon
 mint
 minute oat
 miso soy
-molasse
 mooring
 moscato
 msg
 muffin
 oat
-oyster
 pancake
 peach
 pear
 phosphate
-pico gallo
 pie crust
 pie filling
 pigeon pea
-pimento
-pinipig
-pinot grigio
-pizza dough
+pizza flour
 pizza sauce
 plum
 prune
 pumpkin
-quickmelt
 rabbit
-rib celery
+rib beef
 rousong
-sage
 salsa
 santol
-sauerkraut
-sayote
 scallop
 seaweed
 shichimi togarashi
 shiromiso
 sibot
-sibot herb
 sinamak
 snail
-soda
 soup
 spam
 sunflower seed
@@ -144,6 +120,6 @@ tartar sauce
 tea
 tortilla
 tostada
-vegetable soup
 vitamin c
 wasabi
+wonton wrapper
