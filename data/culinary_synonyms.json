@@ -1,744 +1,544 @@
 {
+  "adobo": "soy sauce",
   "adobong pusit": "squid",
+  "agar": "gelatin",
+  "ahi": "fish",
+  "albacore": "fish",
   "alfredo sauce": "cream",
+  "almond": "nut",
   "almond flour": "flour",
   "almond sliver": "almond",
+  "alugbati": "spinach",
+  "ampalaya": "bitter gourd",
   "anatto powder": "annatto",
   "anatto seed": "annatto",
   "ancho chili": "chili",
+  "anchovy": "anchovy",
   "anchovy sauce": "anchovy",
   "anisette liquor": "alcohol",
   "annatto oil": "annatto",
   "annatto powder": "annatto",
   "annatto seed": "annatto",
+  "ap": "flour",
   "apple snail": "snail",
+  "apples": "apple",
+  "arnibal": "sugar",
   "arrowroot starch flour": "flour",
+  "atchara": "papaya",
+  "avocados": "avocado",
+  "bacon": "pork",
+  "bagnet": "pork",
+  "bago": "bagoong",
   "bagoong fish": "bagoong",
+  "bake": "baking",
   "baking": "baking soda",
   "baking apple": "apple",
   "baking chocolate": "chocolate",
   "baking cocoa": "chocolate",
   "baking cocoa powder": "chocolate",
   "baking potato": "potato",
+  "balaw": "bagoong",
+  "balut": "egg",
   "bamboo shoot": "labong",
   "banana blossom": "banana",
   "banana chili": "chili",
   "banana ketchup": "ketchup",
   "banana pepper": "chili",
+  "bananas": "banana",
+  "bangus": "fish",
+  "barbecue": "chicken",
   "barbecue sauce": "barbecue",
+  "bay": "bay leaf",
+  "bbq": "barbecue",
   "bean curd": "tofu",
   "beef eye": "beef",
   "beef rib": "beef",
   "beef tomato": "tomato",
   "beef trotter": "beef",
   "beefsteak tomato": "tomato",
+  "beer": "alcohol",
+  "bell": "bell pepper",
   "berry sauce": "berry",
+  "bihon": "pasta",
+  "bilimbi": "kamias",
   "bird beef": "beef",
   "bird chili": "chili",
   "bird eye": "chili",
   "bird eye chili": "chili",
+  "biscuit": "cracker",
+  "bistek": "beef",
   "bisugo": "fish",
   "black bean": "bean",
   "blackstrap molasse": "sugar",
+  "blueberry": "berry",
   "bok choy": "cabbage",
+  "bokchoy": "bok choy",
   "boo choy": "cabbage",
+  "bouillon": "broth",
+  "brandy": "alcohol",
+  "bratwurst": "sausage",
   "bread crumb": "bread",
   "bread flour": "flour",
+  "breadcrumb": "bread",
+  "brine": "salt",
+  "brisket": "beef",
+  "brussels": "cabbage",
+  "buko": "coconut",
   "buko juice": "coconut",
   "buko pandan": "coconut",
+  "bulalo": "beef",
+  "bung": "pork",
   "burger bun": "bread",
   "burger patty": "beef",
   "butter lettuce": "lettuce",
+  "buttercream": "butter cream",
+  "butterfish": "fish",
+  "butternut": "squash",
+  "cacao": "chocolate",
+  "calabasa": "squash",
+  "calabaza": "squash",
+  "calamansi": "lemon",
+  "calamari": "squid",
+  "calamaris": "squid",
+  "calasparra": "rice",
   "calf knuckle": "beef",
+  "camote": "potato",
+  "candy": "sugar",
+  "cane": "sugar",
   "cane vinegar": "vinegar",
+  "cantaloupe": "melon",
   "carabao milk": "milk",
+  "caramel": "sugar",
   "carne asada": "beef",
+  "carrageenan": "seaweed",
+  "cashew": "nut",
   "cashew nut": "nut",
+  "cashews": "nut",
   "cassava flour": "cassava",
   "caster sugar": "sugar",
+  "catfish": "fish",
+  "catsup": "ketchup",
+  "cayenne": "chili",
   "cayenne pepper": "chili",
   "celery rib": "celery",
   "char siu": "pork",
+  "cheddar": "cheese",
   "cheese sauce": "cheese",
+  "cheesedog": "cheese",
   "cherry liqueur": "alcohol",
   "cherry tomato": "tomato",
+  "chestnut": "nut",
+  "chicharon": "pork",
   "chicken egg": "egg",
   "chicken nugget": "chicken",
   "chicken oil": "oil",
   "chicken sauce": "chicken",
   "chicken skin": "chicken",
+  "chickpea": "pea",
+  "chickpeas": "pea",
+  "chile": "chili",
   "chili pepper": "chili",
   "chili sauce": "chili",
+  "chilie": "chili",
+  "chilli": "chili",
+  "choco": "chocolate",
   "chocolate chip": "chocolate",
+  "chorizo": "sausage",
+  "cider": "vinegar",
   "cinnamon bark": "cinnamon",
   "cinnamon nutmeg": "cinnamon",
   "clam mussel": "clam",
+  "clove": "garlic",
   "cocktail": "alcohol",
+  "cocoa": "chocolate",
   "coconut pandan": "coconut",
+  "cod": "fish",
   "coke": "cola",
+  "coleslaw": "cabbage",
   "collard": "cabbage",
-  "confectioner sugar": "sugar",
+  "confectioner": "sugar",
   "coriander seed": "coriander",
   "corn kernel": "corn",
   "corn meal": "corn",
   "corn starch": "cornstarch",
   "corn tortilla": "corn",
+  "cornbread": "corn",
+  "cornmeal": "corn",
+  "cow": "beef",
   "crab boil": "crab",
+  "crablet": "crab",
+  "crablets": "crab",
+  "crabmeat": "crab",
+  "crabstick": "crab",
   "cracker crumbs": "cracker",
   "cracker pie crust": "cracker",
+  "cranberry": "berry",
+  "crawfish": "crab",
   "cream tartar": "cream",
+  "crimini": "mushroom",
+  "crouton": "bread",
   "crust pie": "cracker",
+  "curry": "curry powder",
   "dahon laurel": "bay leaf",
+  "daikon": "radish",
   "daing fish": "dried fish",
   "dalag": "fish",
+  "danggit": "dried fish",
   "day rice": "rice",
   "dijon mustard": "mustard",
   "dill pickle": "pickle",
+  "dog": "hotdog",
+  "dough": "flour",
   "duck egg": "egg",
   "dulong": "fish",
   "edamame": "bean",
   "egg plant": "eggplant",
   "egg yolk": "egg",
   "eggplant salad": "eggplant",
+  "embutido": "pork",
+  "eye": "beef",
   "fennel seed": "fennel",
+  "fettuccine": "pasta",
+  "fettucine": "pasta",
   "fish oil": "oil",
   "fish salad": "fish",
   "fish sauce pepper": "fish sauce",
+  "flank": "beef",
   "flour tortilla": "flour",
+  "frank": "hotdog",
   "french onion": "onion",
+  "gabi": "taro",
+  "galunggong": "fish",
   "game hen": "chicken",
+  "garbanzo": "bean",
   "garbanzo bean": "bean",
   "gelatin powder": "gelatin",
   "gherkins pickle": "pickle",
   "ginataang gulay": "coconut",
+  "gizzard": "chicken",
   "gluten almond": "almond",
   "gluten flour": "flour",
   "gluten nut": "nut",
   "goat skin": "goatskin",
+  "goatskin": "goat",
   "gouda": "cheese",
+  "graham": "cracker",
   "graham cracker": "graham",
   "graham cracker crumbs": "cracker",
   "graham pie crust": "graham",
   "grape tomato": "tomato",
+  "grouper": "fish",
+  "guacamole": "avocado",
   "guajillo chili": "chili",
+  "guavas": "guava",
   "gyoza wrapper": "wrapper",
   "habhab pasta": "pasta",
+  "halaya": "yam",
+  "halibut": "fish",
   "hamburger bun": "bread",
   "hash brown": "potato",
+  "hashbrown": "potato",
   "hog casing": "pork",
   "hoisin sauce": "soy sauce",
   "hot rice": "rice",
   "ice": "water",
   "ice bowl": "ice",
   "ice sugar": "sugar",
+  "iceberg": "lettuce",
+  "igado": "pork",
+  "isda": "fish",
+  "jalapeno": "chili",
   "jalapeño": "chili",
+  "jalapenos": "chili",
+  "jalapeños": "chili",
+  "jasmin": "rice",
+  "jasmine": "rice",
+  "jelly": "gelatin",
   "jet marshmallow": "marshmallow",
   "jicama": "turnip",
+  "kalabasa": "squash",
+  "kamia": "kamias",
+  "kamote": "sweet potato",
+  "kangkong": "spinach",
+  "kangong": "spinach",
+  "kani": "crab",
+  "kanin": "rice",
+  "kaong": "coconut",
+  "kielbasa": "sausage",
+  "kikiam": "sausage",
   "kimchi juice": "kimchi",
+  "kosher": "salt",
+  "labano": "radish",
+  "labanos": "radish",
+  "lapu": "fish",
+  "lard": "fat",
+  "lasagna": "pasta",
+  "lasagne": "pasta",
   "lawry salt": "salt",
+  "leche": "milk",
+  "lechon": "pork",
   "lemon grass": "lemongrass",
   "lemon lime soda": "lemon",
+  "lemongras": "lemongrass",
+  "lime": "lemon",
+  "liquor": "alcohol",
   "loaf bread": "bread",
   "lomi pasta": "pasta",
+  "longanisa": "sausage",
+  "longganisa": "sausage",
+  "macadamia": "nut",
+  "macapuno": "coconut",
+  "macaroni": "pasta",
+  "mackerel": "fish",
+  "mahi": "fish",
+  "mandarin": "orange",
   "mango candy": "mango",
   "mango nectar": "mango",
+  "mangoes": "mango",
+  "manok": "chicken",
+  "margarine": "butter",
+  "marinara": "tomato",
   "marinara spaghetti sauce": "tomato sauce",
+  "mato": "tomato",
+  "matoes": "tomato",
   "maui onion": "onion",
+  "mayonnise": "mayonnaise",
+  "meatball": "pork",
   "miki lucban": "pasta",
   "miki pasta": "pasta",
   "milk fish": "fish",
   "milk flan": "milk",
+  "milkfish": "fish",
+  "misua": "pasta",
+  "miswa": "pasta",
+  "mlk": "milk",
+  "mochiko": "flour",
+  "molasse": "sugar",
+  "molasses": "sugar",
+  "monamon": "bagoong",
+  "monggo": "bean",
+  "mozarella": "cheese",
+  "mozzarella": "cheese",
+  "munggo": "bean",
   "nata coco": "coconut",
+  "noodle": "pasta",
+  "nori": "seaweed",
   "nut flour": "flour",
   "nut sliver": "nut",
+  "nutella": "chocolate",
+  "nutmeg": "nut",
+  "nuts": "nut",
   "oat bran": "oat",
+  "omelet": "egg",
   "onion leek": "onion",
   "onion powder": "onion",
   "onion soup": "onion",
   "orange bell pepper": "bell pepper",
   "orange chicken tender": "chicken",
   "orange sauce": "orange",
+  "ox": "oxtail",
   "oyster": "clam",
   "oyster sauce": "soy sauce",
   "pak choi": "cabbage",
+  "palabok": "pasta",
+  "palm": "coconut",
   "palm vinegar": "vinegar",
+  "panceta": "pork",
+  "pancetta": "pork",
+  "pancit": "pasta",
   "pancit bato": "pasta",
   "pancit pasta": "pasta",
+  "pandesal": "bread",
+  "pansit": "pasta",
+  "panutsa": "peanut",
   "pasta bato": "pasta",
+  "pata": "pork",
+  "patis": "fish sauce",
   "patis pepper": "fish sauce",
   "patola": "bottle gourd",
   "patty burger": "beef",
   "peanut oil": "oil",
   "peanut sauce": "peanut",
   "pearl onion": "onion",
+  "pecan": "nut",
+  "pechay": "cabbage",
   "penne pasta": "pasta",
+  "peperoncini": "chili",
   "pepper chili": "chili",
   "pepper corn": "pepper",
   "pepper fish sauce": "fish sauce",
   "pepper shrimp": "shrimp",
   "pepper soy sauce": "soy sauce",
+  "peppercorn": "pepper",
+  "pie filling": "fruit",
+  "pig": "pork",
+  "pigeon pea": "pea",
+  "pili": "nut",
+  "pimento": "bell pepper",
+  "pimiento": "chili",
   "pine nut": "nut",
+  "pinipig": "rice",
   "pinot grigio": "alcohol",
   "pita bread": "bread",
   "pizza dough": "flour",
+  "plantain": "banana",
   "plum sauce": "plum",
   "plum tomato": "tomato",
+  "pompano": "fish",
   "pork broth": "pork",
   "pork ham": "pork",
   "pork rib": "pork",
   "pork sauce": "pork",
   "pork skin": "pork",
   "pork tocino": "pork",
+  "porterhouse": "beef",
   "potato starch": "potato",
+  "prague": "salt",
+  "prawn": "shrimp",
+  "prosciutto": "pork",
+  "purple": "yam",
   "quail egg": "egg",
+  "quickmelt": "cheese",
   "rack lamb": "lamb",
   "rib celery": "celery",
   "rib eye": "beef",
+  "ribeye": "beef",
   "rice alcohol": "alcohol",
   "rice alcohol vinegar": "vinegar",
   "rice flour": "flour",
   "rice puff": "rice",
   "rice vinegar": "vinegar",
   "rice wine": "alcohol",
+  "ricotta": "cheese",
+  "rotini": "pasta",
+  "rotisserie": "chicken",
   "russet potato": "potato",
+  "rye": "bread",
+  "saba": "banana",
   "safflower oil": "oil",
+  "sage": "mint",
+  "sago": "gelatin",
+  "sake": "alcohol",
+  "salay": "fish",
   "salmon": "fish",
   "salt pepper": "salt",
+  "sampaloc": "tamarind",
+  "sandwich": "bread",
   "sandwich bread": "bread",
+  "sardine": "fish",
+  "sardines": "fish",
+  "sauerkraut": "cabbage",
   "sausage link": "sausage",
   "sausage patty": "sausage",
+  "sayote": "chayote",
+  "scad": "fish",
+  "seeds": "seed",
   "serrano pepper": "chili",
   "sesame oil": "oil",
   "shallot": "onion",
   "shao xing alcohol": "alcohol",
   "shao xing wine": "alcohol",
+  "sherry": "alcohol",
   "sherry wine": "alcohol",
+  "shiitake": "mushroom",
+  "shishito": "chili",
+  "shitake": "mushroom",
   "shumai wrapper": "wrapper",
+  "sibuyas": "onion",
   "sichuan pepper": "chili",
+  "sigarilyas": "bean",
+  "silverfish": "fish",
+  "sinangag": "rice",
   "singkama": "turnip",
+  "sirloin": "beef",
+  "sisig": "pork",
+  "sitaw": "bean",
+  "smelt": "fish",
   "snake bean": "bean",
+  "snapper": "fish",
   "soda cracker": "cracker",
+  "sotanghon": "pasta",
   "soy bean": "bean",
+  "spaghetti": "pasta",
   "sport pepper": "chili",
   "sprig rosemary": "rosemary",
+  "spring": "wrapper",
   "spring chicken": "chicken",
   "spring onion": "onion",
   "spring wrapper": "wrapper",
   "springroll wrapper": "wrapper",
   "squid ink": "squid",
   "st louis rib": "beef",
+  "stock": "broth",
+  "strawberry": "berry",
+  "string": "string bean",
   "string bean": "bean",
   "sugar cane vinegar": "vinegar",
+  "sugpo": "shrimp",
+  "sukang": "vinegar",
+  "suman": "rice",
   "sun tomato": "tomato",
+  "sushi": "rice",
+  "t": "beef",
   "tabasco sauce": "chili",
+  "tablea": "chocolate",
+  "tahure": "tofu",
+  "talangka": "crab",
+  "talong": "eggplant",
   "tamarind gabi": "tamarind",
   "tamarind miso": "tamarind",
   "tamarind soup": "tamarind",
+  "tanigue": "fish",
+  "tapioca": "starch",
   "taro root": "taro",
   "tater tot": "potato",
+  "tausi": "black bean",
   "teriyaki sauce": "soy sauce",
+  "tidbit": "pineapple",
+  "tilapia": "fish",
+  "tinapa": "fish",
+  "tinapang": "fish",
   "tinta calamar": "squid",
+  "tocino": "pork",
+  "togue": "bean",
+  "tokwa": "tofu",
   "tomato ketchup": "ketchup",
   "tomato puree": "tomato",
   "tomato sauce": "tomato",
+  "tomatoe": "tomato",
   "ton wrapper": "wonton wrapper",
   "tonkatsu sauce": "soy sauce",
+  "toyo": "soy sauce",
+  "tulapho": "pork",
+  "tulingan": "fish",
+  "tuna": "fish",
+  "turmeric": "ginger",
+  "tuyo": "dried fish",
+  "ube": "yam",
+  "upo": "bottle gourd",
   "vegetable oil": "oil",
   "vegetable protein": "vegetable",
   "vegetable shortening": "fat",
   "vegetable soup": "vegetable broth",
+  "vinaigrette": "vinegar",
+  "vodka": "alcohol",
+  "wakame": "seaweed",
+  "watermelon": "melon",
   "wheat bran": "flour",
   "wheat bread": "bread",
   "wheat flour": "flour",
   "wheat penne pasta": "pasta",
+  "wine": "alcohol",
   "wine vinegar": "vinegar",
   "wonton pasta": "pasta",
   "wonton wrapper": "wrapper",
+  "worcestershire": "soy sauce",
   "wrapper chicken": "wrapper",
   "wrapper onion": "wrapper",
   "yakisoba pasta": "pasta",
+  "ychee": "lychee",
   "yolk egg": "egg",
-  "apple vinegar": [
-    "apple",
-    "vinegar"
-  ],
-  "bagoong fish tomato onion": [
-    "bagoong",
-    "fish",
-    "tomato",
-    "onion"
-  ],
-  "banana salt": [
-    "banana",
-    "salt"
-  ],
-  "beef hotdog": [
-    "beef",
-    "sausage"
-  ],
-  "beef pasta sauce": [
-    "beef",
-    "pasta sauce"
-  ],
-  "berry apple": [
-    "berry",
-    "apple"
-  ],
-  "bird beef chili": [
-    "beef",
-    "chili"
-  ],
-  "bowtie pasta": [
-    "pasta"
-  ],
-  "butter cream": [
-    "butter",
-    "cream"
-  ],
-  "celery salt": [
-    "celery",
-    "salt"
-  ],
-  "cheese bratwurst": [
-    "cheese",
-    "sausage"
-  ],
-  "cheese frosting": [
-    "butter",
-    "cheese",
-    "sugar",
-    "cream"
-  ],
-  "cheese sausage": [
-    "cheese",
-    "sausage"
-  ],
-  "chicken adobo": [
-    "chicken",
-    "soy sauce"
-  ],
-  "chicken barbecue": [
-    "chicken",
-    "barbecue"
-  ],
-  "chicken bread": [
-    "chicken",
-    "bread"
-  ],
-  "chicken franks": [
-    "chicken",
-    "sausage"
-  ],
-  "chicken mushroom": [
-    "chicken",
-    "mushroom"
-  ],
-  "chicken pasta": [
-    "chicken",
-    "pasta"
-  ],
-  "chicken sandwich": [
-    "chicken",
-    "bread"
-  ],
-  "chicken soy sauce": [
-    "chicken",
-    "soy sauce"
-  ],
-  "chicken teriyaki": [
-    "chicken",
-    "soy sauce"
-  ],
-  "chili bean sauce": [
-    "chili",
-    "bean",
-    "soy sauce"
-  ],
-  "chili garlic": [
-    "chili",
-    "garlic"
-  ],
-  "chili garlic oil": [
-    "chili",
-    "garlic",
-    "oil"
-  ],
-  "chili garlic sauce": [
-    "chili",
-    "garlic"
-  ],
-  "chili oil": [
-    "chili",
-    "oil"
-  ],
-  "chili soy sauce": [
-    "chili",
-    "soy sauce"
-  ],
-  "chocolate cake": [
-    "chocolate",
-    "flour",
-    "sugar",
-    "egg",
-    "butter",
-    "milk"
-  ],
-  "chocolate cookie pie crust": [
-    "chocolate",
-    "cookie",
-    "pie crust"
-  ],
-  "cilantro lime rice": [
-    "cilantro",
-    "lemon",
-    "rice"
-  ],
-  "coconunut milk": [
-    "coconut",
-    "milk"
-  ],
-  "coconut cream": [
-    "coconut",
-    "cream"
-  ],
-  "coconut milk": [
-    "coconut",
-    "milk"
-  ],
-  "coconut oil": [
-    "coconut",
-    "oil"
-  ],
-  "coconut vinegar": [
-    "coconut",
-    "vinegar"
-  ],
-  "corn cream": [
-    "corn",
-    "cream"
-  ],
-  "cornstarch beef broth": [
-    "cornstarch",
-    "beef broth"
-  ],
-  "cornstarch coconut": [
-    "cornstarch",
-    "coconut"
-  ],
-  "cornstarch pasta": [
-    "cornstarch",
-    "pasta"
-  ],
-  "cornstarch soy sauce": [
-    "cornstarch",
-    "soy sauce"
-  ],
-  "crab corn soup": [
-    "crab",
-    "corn"
-  ],
-  "cream cheese": [
-    "cream",
-    "cheese"
-  ],
-  "cream chicken": [
-    "cream",
-    "chicken"
-  ],
-  "cream chicken corn": [
-    "cream",
-    "chicken",
-    "corn"
-  ],
-  "cream corn": [
-    "cream",
-    "corn"
-  ],
-  "cream milk": [
-    "cream",
-    "milk"
-  ],
-  "cream mushroom": [
-    "cream",
-    "mushroom"
-  ],
-  "cream mushroom soup": [
-    "cream",
-    "mushroom"
-  ],
-  "cream pumpkin soup": [
-    "cream",
-    "squash"
-  ],
-  "dill pickle spear": [
-    "dill",
-    "pickle"
-  ],
-  "dough crust pie": [
-    "flour",
-    "cracker"
-  ],
-  "dulce milk": [
-    "sugar",
-    "milk"
-  ],
-  "dynamite sauce": [
-    "chili",
-    "garlic",
-    "mayonnaise"
-  ],
-  "egg dumpling pasta": [
-    "egg",
-    "dumpling",
-    "pasta"
-  ],
-  "egg eggplant": [
-    "egg",
-    "eggplant"
-  ],
-  "egg pasta": [
-    "egg",
-    "pasta"
-  ],
-  "egg wrapper": [
-    "egg",
-    "pasta"
-  ],
-  "fish broth": [
-    "fish",
-    "broth"
-  ],
-  "fish soy sauce": [
-    "fish",
-    "soy sauce"
-  ],
-  "fish tomato sauce": [
-    "fish",
-    "tomato"
-  ],
-  "flour milk": [
-    "flour",
-    "milk"
-  ],
-  "flour pasta": [
-    "flour",
-    "pasta"
-  ],
-  "flour rice": [
-    "flour",
-    "rice"
-  ],
-  "garlic oil": [
-    "garlic",
-    "oil"
-  ],
-  "garlic rice": [
-    "garlic",
-    "rice"
-  ],
-  "glove garlic": [
-    "garlic"
-  ],
-  "ham egg rice": [
-    "ham",
-    "egg",
-    "rice"
-  ],
-  "honey mustard dressing": [
-    "honey",
-    "mustard"
-  ],
-  "hotdog bun": [
-    "bread",
-    "sausage"
-  ],
-  "hotdog redhot sauce": [
-    "sausage",
-    "chili"
-  ],
-  "ice candy": [
-    "ice",
-    "sugar",
-    "milk"
-  ],
-  "ice cream": [
-    "ice",
-    "cream"
-  ],
-  "lemon pepper": [
-    "lemon",
-    "pepper"
-  ],
-  "lemon soda": [
-    "lemon",
-    "soda"
-  ],
-  "mango sugar": [
-    "mango",
-    "sugar"
-  ],
-  "mushroom oyster sauce": [
-    "mushroom",
-    "soy sauce"
-  ],
-  "pea carrot": [
-    "pea",
-    "carrot"
-  ],
-  "pico gallo": [
-    "tomato",
-    "onion",
-    "chili"
-  ],
-  "pimento pepper": [
-    "pimento",
-    "pepper"
-  ],
-  "pork bean": [
-    "pork",
-    "bean"
-  ],
-  "pork beef": [
-    "pork",
-    "beef"
-  ],
-  "pork burger patty": [
-    "pork",
-    "beef"
-  ],
-  "pork chicken": [
-    "pork",
-    "chicken"
-  ],
-  "pork chicken sauce": [
-    "pork",
-    "chicken"
-  ],
-  "pork sausage": [
-    "pork",
-    "sausage"
-  ],
-  "pork soy sauce": [
-    "pork",
-    "soy sauce"
-  ],
-  "pork soy sauce paksiw": [
-    "pork",
-    "soy sauce",
-    "vinegar"
-  ],
-  "rice fish": [
-    "rice",
-    "fish"
-  ],
-  "rice pasta": [
-    "rice",
-    "pasta"
-  ],
-  "rice wine vinegar": [
-    "rice",
-    "vinegar"
-  ],
-  "salsa con queso": [
-    "salsa",
-    "cheese"
-  ],
-  "salt fish sauce": [
-    "salt",
-    "fish sauce"
-  ],
-  "salt lemon pepper": [
-    "salt",
-    "lemon",
-    "pepper"
-  ],
-  "sardine tomato sauce": [
-    "sardine",
-    "tomato"
-  ],
-  "seed hotdog bun": [
-    "bread",
-    "sausage"
-  ],
-  "shrimp bisque": [
-    "shrimp",
-    "cream",
-    "tomato"
-  ],
-  "shrimp broth": [
-    "shrimp",
-    "broth"
-  ],
-  "shrimp rice": [
-    "shrimp",
-    "rice"
-  ],
-  "soup crab corn": [
-    "crab",
-    "corn"
-  ],
-  "soy sauce pepper": [
-    "soy sauce",
-    "pepper"
-  ],
-  "starch flour": [
-    "starch",
-    "flour"
-  ],
-  "sugar barbecue sauce": [
-    "sugar",
-    "barbecue"
-  ],
-  "sugar coconut": [
-    "sugar",
-    "coconut"
-  ],
-  "sugar vinegar": [
-    "sugar",
-    "vinegar"
-  ],
-  "tamarind taro": [
-    "tamarind",
-    "taro"
-  ],
-  "tofu fish": [
-    "tofu",
-    "fish"
-  ],
-  "tomato chili": [
-    "tomato",
-    "chili"
-  ],
-  "tomato fish": [
-    "tomato",
-    "fish"
-  ],
-  "tomato parsley": [
-    "tomato",
-    "parsley"
-  ],
-  "tomato pasta sauce": [
-    "tomato",
-    "pasta sauce"
-  ],
-  "tomato sardine": [
-    "tomato",
-    "fish"
-  ],
-  "turkey chicken": [
-    "turkey",
-    "chicken"
-  ],
-  "vanilla ice cream": [
-    "vanilla",
-    "ice cream"
-  ],
-  "vanilla yogurt": [
-    "vanilla",
-    "yogurt"
-  ],
-  "wasabi mayonnaise": [
-    "wasabi",
-    "mayonnaise"
-  ]
+  "zucchini": "squash",
+  "pepperorn": "pepper",
+  "tomato chili": "tomato"
 }
