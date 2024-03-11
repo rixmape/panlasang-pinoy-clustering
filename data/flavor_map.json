@@ -1,0 +1,462 @@
+[
+  {
+    "sweet": [
+      "apple",
+      "banana"
+    ],
+    "sour": [
+      "alcohol vinegar",
+      "bagoong",
+      "barbecue"
+    ],
+    "salty": [
+      "anchovy"
+    ],
+    "bitter": [
+      "amaranth",
+      "arugula",
+      "asparagus"
+    ],
+    "umami": [
+      "anatto",
+      "annatto",
+      "artichoke",
+      "bamboo",
+      "bean"
+    ],
+    "flavorless": [
+      "alcohol",
+      "anisette alcohol",
+      "baking soda",
+      "basil",
+      "bay leaf"
+    ]
+  },
+  {
+    "sweet": [
+      "berry",
+      "blackstrap sugar",
+      "bread",
+      "butter",
+      "buttermilk",
+      "caesar salad dressing",
+      "carrot",
+      "cassava"
+    ],
+    "sour": [
+      "beef broth",
+      "bell pepper",
+      "bottle gourd",
+      "cabbage",
+      "caper",
+      "cauliflower"
+    ],
+    "salty": [
+      "broth"
+    ],
+    "bitter": [
+      "bilong",
+      "bitter gourd"
+    ],
+    "umami": [
+      "beef",
+      "broccoli",
+      "cardamom"
+    ]
+  },
+  {
+    "sweet": [
+      "cherry",
+      "chocolate",
+      "cola",
+      "cookie"
+    ],
+    "sour": [
+      "cilantro lemon rice",
+      "clam",
+      "coffee",
+      "consomme",
+      "coriander"
+    ],
+    "salty": [
+      "chicken broth"
+    ],
+    "bitter": [
+      "chive",
+      "chili"
+    ],
+    "umami": [
+      "chicken",
+      "cheese"
+    ],
+    "flavorless": [
+      "celery",
+      "chayote",
+      "cinnamon",
+      "cinnamon nut",
+      "coconut"
+    ]
+  },
+  {
+    "sweet": [
+      "cupcake",
+      "custard",
+      "date"
+    ],
+    "sour": [
+      "dashi",
+      "dill",
+      "dilis",
+      "dried fish"
+    ],
+    "salty": [
+      "crab",
+      "cracker",
+      "duck",
+      "dumpling",
+      "egg"
+    ],
+    "bitter": [
+      "cucumber",
+      "curry powder",
+      "eggplant"
+    ],
+    "umami": [
+      "corn",
+      "cornstarch",
+      "cream",
+      "creole",
+      "cumin"
+    ]
+  },
+  {
+    "sweet": [
+      "grape"
+    ],
+    "sour": [],
+    "salty": [
+      "enchilada sauce",
+      "fish sauce"
+    ],
+    "bitter": [
+      "fennel",
+      "frog",
+      "fungus",
+      "galangal root",
+      "gourd"
+    ],
+    "umami": [
+      "farfalle",
+      "fish",
+      "furikake",
+      "garlic",
+      "ginger",
+      "goat"
+    ],
+    "flavorless": [
+      "fat",
+      "flour",
+      "flour crust pie",
+      "garam masala",
+      "gelatin",
+      "gin"
+    ]
+  },
+  {
+    "sweet": [
+      "grape",
+      "guava",
+      "honey",
+      "ice cream",
+      "jackfruit"
+    ],
+    "sour": [
+      "gravy",
+      "hot sauce",
+      "island dressing",
+      "jalapeño"
+    ],
+    "salty": [
+      "ham",
+      "hoagie",
+      "hollandaise sauce",
+      "hotdog"
+    ],
+    "bitter": [
+      "hibi",
+      "jute"
+    ],
+    "umami": [
+      "hominy",
+      "horse"
+    ],
+    "flavorless": [
+      "gulaman",
+      "ice",
+      "kabocha",
+      "kaiser"
+    ]
+  },
+  {
+    "sweet": [
+      "kiwi",
+      "kernel corn",
+      "latik"
+    ],
+    "sour": [
+      "kamias",
+      "ketchup"
+    ],
+    "salty": [
+      "katsu sauce",
+      "kecap manis",
+      "kimchi",
+      "kung pao sauce",
+      "lato"
+    ],
+    "bitter": [
+      "kale",
+      "kasubha",
+      "labong",
+      "laing",
+      "laurel",
+      "leek"
+    ],
+    "umami": [
+      "kang",
+      "kinchay",
+      "lamb",
+      "langka"
+    ]
+  },
+  {
+    "sweet": [
+      "lychee",
+      "mango",
+      "maple",
+      "marshmallow",
+      "melon",
+      "meringue"
+    ],
+    "sour": [
+      "lemon",
+      "manzanilla"
+    ],
+    "salty": [
+      "lobster",
+      "lumpia wrapper",
+      "masago",
+      "mayonnaise"
+    ],
+    "bitter": [
+      "lemongrass",
+      "lettuce",
+      "liempo",
+      "linguine",
+      "loofah",
+      "malunggay"
+    ],
+    "umami": [
+      "luncheon",
+      "lye"
+    ]
+  },
+  {
+    "sweet": [
+      "muscato",
+      "muffin"
+    ],
+    "sour": [
+      "mirin",
+      "mustard"
+    ],
+    "salty": [
+      "mussel"
+    ],
+    "bitter": [
+      "mung bean",
+      "mushroom",
+      "nan",
+      "nut",
+      "okra"
+    ],
+    "umami": [
+      "mignon",
+      "miso",
+      "miso soy"
+    ],
+    "flavorless": [
+      "milk",
+      "mint",
+      "minute oat",
+      "mooring",
+      "msg",
+      "oat",
+      "oil"
+    ]
+  },
+  {
+    "sweet": [
+      "orange",
+      "pancake",
+      "papaya",
+      "peach",
+      "pear",
+      "peanut butter"
+    ],
+    "sour": [
+      "pasta sauce",
+      "pickle"
+    ],
+    "salty": [
+      "oxtail",
+      "paprika",
+      "pepper"
+    ],
+    "bitter": [
+      "onion",
+      "oregano",
+      "parsley",
+      "phosphate"
+    ],
+    "umami": [
+      "pandan",
+      "pasta",
+      "peanut",
+      "peas"
+    ],
+    "flavorless": []
+  },
+  {
+    "sweet": [
+      "pineapple",
+      "plum",
+      "prune",
+      "raisin"
+    ],
+    "sour": [
+      "pizza sauce",
+      "radish",
+      "relish"
+    ],
+    "salty": [
+      "pork",
+      "rib",
+      "rib beef",
+      "rousong"
+    ],
+    "bitter": [
+      "pigeon pea",
+      "potato",
+      "rabbit",
+      "rosemary"
+    ],
+    "umami": [
+      "pie crust",
+      "pie filling"
+    ],
+    "flavorless": [
+      "pizza flour",
+      "rice"
+    ]
+  },
+  {
+    "sweet": [
+      "santol",
+      "sauce",
+      "soda"
+    ],
+    "sour": [
+      "salsa",
+      "sinamak"
+    ],
+    "salty": [
+      "salt",
+      "sauce",
+      "sesame seed",
+      "shrimp",
+      "soy sauce",
+      "spam"
+    ],
+    "bitter": [
+      "snail"
+    ],
+    "umami": [
+      "sausage",
+      "scallion",
+      "scallop",
+      "seaweed",
+      "shichimi togarashi",
+      "shiromiso",
+      "sibot"
+    ],
+    "flavorless": [
+      "saffron",
+      "soup"
+    ]
+  },
+  {
+    "sweet": [
+      "sugar",
+      "sweet potato"
+    ],
+    "sour": [
+      "tamarind",
+      "tomato"
+    ],
+    "salty": [
+      "squid",
+      "swai",
+      "tartar sauce"
+    ],
+    "bitter": [
+      "spinach",
+      "squash",
+      "tarragon",
+      "tea",
+      "thyme",
+      "tofu"
+    ],
+    "umami": [
+      "star anise",
+      "tap",
+      "taco"
+    ],
+    "flavorless": [
+      "spice",
+      "starch",
+      "sunflower seed",
+      "taro"
+    ]
+  },
+  {
+    "sweet": [
+      "vanilla",
+      "yam"
+    ],
+    "sour": [
+      "vinegar"
+    ],
+    "salty": [
+      "vegetable broth"
+    ],
+    "bitter": [
+      "turnip",
+      "walnut",
+      "wasabi",
+      "yeast"
+    ],
+    "umami": [
+      "turkey",
+      "vegetable",
+      "wrapper"
+    ],
+    "flavorless": [
+      "tortilla",
+      "tostada",
+      "vitamin c",
+      "wonton wrapper",
+      "yogurt"
+    ]
+  }
+]

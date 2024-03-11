@@ -1,125 +1,125 @@
-amaranth
-anatto
-anisette alcohol
-artichoke
-arugula
-asparagus
-bamboo
-barbecue
-bilong
-blackstrap sugar
-caesar salad dressing
-caper
-cardamom
-chive
-cilantro lemon rice
-cinnamon nut
-cola
-consomme
-cookie
-coriander
-creole
-cupcake
-curry powder
-custard
-dashi
-date
-dilis
-duck
-dumpling
-enchilada sauce
-farfalle
-fennel
-flour crust pie
-frog
-fungus
-furikake
-galangal root
-garam masala
-gin
-grape
-gravy
-gulaman
-hibi
-hoagie
-hollandaise sauce
-hominy
-horse
-hot sauce
-ice
-ice cream
-island dressing
-jalapeño
-jute
-kabocha
-kaiser
-kale
-kang
-kasubha
-katsu sauce
-kecap manis
-kimchi
-kinchay
-kiwi
-kung pao sauce
-labong
-laing
-lamb
-langka
-latik
-lato
-leek
-loofah
-lychee
-manzanilla
-maple
-marshmallow
-masago
-meringue
-mignon
-mint
-minute oat
-miso soy
-mooring
-moscato
-msg
-muffin
-oat
-pancake
-peach
-pear
-phosphate
-pie crust
-pie filling
-pigeon pea
-pizza flour
-pizza sauce
-plum
-prune
-pumpkin
-rabbit
-rib beef
-rousong
-salsa
-santol
-scallop
-seaweed
-shichimi togarashi
-shiromiso
-sibot
-sinamak
-snail
-soup
-spam
-sunflower seed
-swai
-taco
-tap
-tarragon
-tartar sauce
-tea
-tortilla
-tostada
-vitamin c
-wasabi
-wonton wrapper
+ jalapeño
+ moscato
+ pumpkin
+bitter amaranth
+bitter arugula
+bitter asparagus
+bitter bilong
+bitter chive
+bitter curry powder
+bitter fennel
+bitter frog
+bitter fungus
+bitter galangal root
+bitter hibi
+bitter jute
+bitter kale
+bitter kasubha
+bitter labong
+bitter laing
+bitter leek
+bitter loofah
+bitter phosphate
+bitter pigeon pea
+bitter rabbit
+bitter snail
+bitter tarragon
+bitter tea
+bitter wasabi
+flavorless anisette alcohol
+flavorless cinnamon nut
+flavorless flour crust pie
+flavorless garam masala
+flavorless gin
+flavorless gulaman
+flavorless ice
+flavorless kabocha
+flavorless kaiser
+flavorless mint
+flavorless minute oat
+flavorless mooring
+flavorless msg
+flavorless oat
+flavorless pizza flour
+flavorless soup
+flavorless sunflower seed
+flavorless tortilla
+flavorless tostada
+flavorless vitamin c
+flavorless wonton wrapper
+salty duck
+salty dumpling
+salty enchilada sauce
+salty hoagie
+salty hollandaise sauce
+salty katsu sauce
+salty kecap manis
+salty kimchi
+salty kung pao sauce
+salty lato
+salty masago
+salty rib beef
+salty rousong
+salty spam
+salty swai
+salty tartar sauce
+sour barbecue
+sour caper
+sour cilantro lemon rice
+sour consomme
+sour coriander
+sour dashi
+sour dilis
+sour gravy
+sour hot sauce
+sour island dressing
+sour manzanilla
+sour pizza sauce
+sour salsa
+sour sinamak
+sweet blackstrap sugar
+sweet caesar salad dressing
+sweet cola
+sweet cookie
+sweet cupcake
+sweet custard
+sweet date
+sweet grape
+sweet ice cream
+sweet kiwi
+sweet latik
+sweet lychee
+sweet maple
+sweet marshmallow
+sweet meringue
+sweet muffin
+sweet pancake
+sweet peach
+sweet pear
+sweet plum
+sweet prune
+sweet santol
+umami anatto
+umami artichoke
+umami bamboo
+umami cardamom
+umami creole
+umami farfalle
+umami furikake
+umami hominy
+umami horse
+umami kang
+umami kinchay
+umami lamb
+umami langka
+umami mignon
+umami miso soy
+umami pie crust
+umami pie filling
+umami scallop
+umami seaweed
+umami shichimi togarashi
+umami shiromiso
+umami sibot
+umami taco
+umami tap

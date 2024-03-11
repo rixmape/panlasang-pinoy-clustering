@@ -1,276 +1,271 @@
-alcohol
-alcohol vinegar
-amaranth
-anatto
-anchovy
-anisette alcohol
-annatto
-apple
-artichoke
-arugula
-asparagus
-avocado
-bagoong
-baking soda
-bamboo
-banana
-barbecue
-basil
-bay leaf
-bean
-beef
-beef broth
-bell pepper
-berry
-bilong
+ 
+ None
+ avocado
+ cilantro
+ jalapeño
+ moscato
+ pea
+ pumpkin
+bitter amaranth
+bitter arugula
+bitter asparagus
+bitter bilong
+bitter bitter gourd
+bitter chili
+bitter chive
+bitter cucumber
+bitter curry powder
+bitter eggplant
+bitter fennel
+bitter frog
+bitter fungus
+bitter galangal root
 bitter gourd
-blackstrap sugar
-bottle gourd
-bread
-broccoli
-broth
-butter
-buttermilk
-cabbage
-caesar salad dressing
-caper
-cardamom
-carrot
-cassava
-cauliflower
-celery
-chayote
-cheese
-cherry
-chicken
-chicken broth
-chili
-chive
-chocolate
-cilantro
-cilantro lemon rice
-cinnamon
-cinnamon nut
-clam
-coconut
-coffee
-cola
-consomme
-cookie
-coriander
-corn
-cornstarch
-crab
-cracker
-cream
-creole
-cucumber
-cumin
-cupcake
-curry powder
-custard
-dashi
-date
-dilis
-dill
-dried fish
-duck
-dumpling
-egg
-eggplant
-enchilada sauce
-farfalle
-fat
-fennel
-fish
-fish sauce
-flour
-flour crust pie
-frog
-fungus
-furikake
-galangal root
-garam masala
-garlic
-gelatin
-gin
-ginger
-goat
-gourd
-grape
-gravy
-guava
-gulaman
-ham
-hibi
-hoagie
-hollandaise sauce
-hominy
-honey
-horse
-hot sauce
-hotdog
-ice
-ice cream
-island dressing
-jackfruit
-jalapeño
-jute
-kabocha
-kaiser
-kale
-kamias
-kang
-kasubha
-katsu sauce
-kecap manis
-kernel corn
-ketchup
-kimchi
-kinchay
-kiwi
-kung pao sauce
-labong
-laing
-lamb
-langka
-latik
-lato
-laurel
-leek
-lemon
-lemongrass
-lettuce
-liempo
-linguine
-lobster
-loofah
-lumpia wrapper
-luncheon
-lychee
-lye
-malunggay
-mango
-manzanilla
-maple
-marshmallow
-masago
-mayonnaise
-melon
-meringue
-mignon
-milk
-mint
-minute oat
-mirin
-miso
-miso soy
-mooring
-moscato
-msg
-muffin
-mung bean
-mushroom
-mussel
-mustard
-nut
-oat
-oil
-okra
-onion
-orange
-oregano
-oxtail
-pancake
-pandan
-papaya
-paprika
-parsley
-pasta
-pasta sauce
-pea
-peach
-peanut
-peanut butter
-pear
-peas
-pepper
-phosphate
-pickle
-pie crust
-pie filling
-pigeon pea
-pineapple
-pizza flour
-pizza sauce
-plum
-pork
-potato
-prune
-pumpkin
-rabbit
-radish
-raisin
-relish
-rib
-rib beef
-rice
-rosemary
-rousong
-saffron
-salsa
-salt
-santol
-sauce
-sausage
-scallion
-scallop
-seaweed
-sesame seed
-shichimi togarashi
-shiromiso
-shrimp
-sibot
-sinamak
-snail
-soda
-soup
-soy sauce
-spam
-spice
-spinach
-squash
-squid
-star anise
-starch
-sugar
-sunflower seed
-swai
-sweet potato
-taco
-tamarind
-tap
-taro
-tarragon
-tartar sauce
-tea
-thyme
-tofu
-tomato
-tortilla
-tostada
-turkey
-turnip
-vanilla
-vegetable
-vegetable broth
-vinegar
-vitamin c
-walnut
-wasabi
-water
-wonton wrapper
-wrapper
-yam
-yeast
-yogurt
+bitter hibi
+bitter jute
+bitter kale
+bitter kasubha
+bitter labong
+bitter laing
+bitter laurel
+bitter leek
+bitter lemongrass
+bitter lettuce
+bitter liempo
+bitter linguine
+bitter loofah
+bitter malunggay
+bitter mung bean
+bitter mushroom
+bitter nut
+bitter okra
+bitter oregano
+bitter parsley
+bitter phosphate
+bitter pigeon pea
+bitter potato
+bitter rabbit
+bitter rosemary
+bitter snail
+bitter spinach
+bitter squash
+bitter tarragon
+bitter tea
+bitter thyme
+bitter tofu
+bitter turnip
+bitter walnut
+bitter wasabi
+bitter yeast
+flavorless alcohol
+flavorless anisette alcohol
+flavorless baking soda
+flavorless basil
+flavorless bay leaf
+flavorless celery
+flavorless chayote
+flavorless cinnamon
+flavorless cinnamon nut
+flavorless coconut
+flavorless fat
+flavorless flour
+flavorless flour crust pie
+flavorless garam masala
+flavorless gelatin
+flavorless gin
+flavorless gulaman
+flavorless ice
+flavorless kabocha
+flavorless kaiser
+flavorless milk
+flavorless mint
+flavorless minute oat
+flavorless mooring
+flavorless msg
+flavorless oat
+flavorless pizza flour
+flavorless rice
+flavorless saffron
+flavorless soup
+flavorless spice
+flavorless starch
+flavorless sunflower seed
+flavorless taro
+flavorless tortilla
+flavorless tostada
+flavorless vitamin c
+flavorless wonton wrapper
+flavorless yogurt
+salty anchovy
+salty broth
+salty chicken broth
+salty crab
+salty cracker
+salty duck
+salty dumpling
+salty egg
+salty enchilada sauce
+salty fish sauce
+salty ham
+salty hoagie
+salty hollandaise sauce
+salty hotdog
+salty katsu sauce
+salty kecap manis
+salty kimchi
+salty kung pao sauce
+salty lato
+salty lobster
+salty lumpia wrapper
+salty masago
+salty mayonnaise
+salty mussel
+salty oxtail
+salty paprika
+salty pork
+salty rib
+salty rib beef
+salty rousong
+salty sauce
+salty sesame seed
+salty shrimp
+salty soy sauce
+salty spam
+salty squid
+salty swai
+salty tartar sauce
+salty vegetable broth
+sour alcohol vinegar
+sour bagoong
+sour barbecue
+sour beef broth
+sour bell pepper
+sour bottle gourd
+sour cabbage
+sour caper
+sour cauliflower
+sour cilantro lemon rice
+sour clam
+sour coffee
+sour consomme
+sour coriander
+sour dashi
+sour dilis
+sour dill
+sour dried fish
+sour gravy
+sour hot sauce
+sour island dressing
+sour kamias
+sour ketchup
+sour lemon
+sour manzanilla
+sour mirin
+sour mustard
+sour pasta sauce
+sour pickle
+sour pizza sauce
+sour radish
+sour relish
+sour salsa
+sour sinamak
+sour tamarind
+sour tomato
+sour vinegar
+sweet apple
+sweet banana
+sweet berry
+sweet blackstrap sugar
+sweet bread
+sweet butter
+sweet buttermilk
+sweet caesar salad dressing
+sweet carrot
+sweet cassava
+sweet cherry
+sweet chocolate
+sweet cola
+sweet cookie
+sweet cupcake
+sweet custard
+sweet date
+sweet grape
+sweet guava
+sweet honey
+sweet ice cream
+sweet jackfruit
+sweet kernel corn
+sweet kiwi
+sweet latik
+sweet lychee
+sweet mango
+sweet maple
+sweet marshmallow
+sweet melon
+sweet meringue
+sweet muffin
+sweet orange
+sweet pancake
+sweet papaya
+sweet peach
+sweet peanut butter
+sweet pear
+sweet pineapple
+sweet plum
+sweet prune
+sweet raisin
+sweet santol
+sweet soda
+sweet sweet potato
+sweet vanilla
+sweet yam
+umami anatto
+umami annatto
+umami artichoke
+umami bamboo
+umami bean
+umami beef
+umami broccoli
+umami cardamom
+umami cheese
+umami chicken
+umami corn
+umami cornstarch
+umami cream
+umami creole
+umami cumin
+umami farfalle
+umami fish
+umami furikake
+umami ginger
+umami goat
+umami hominy
+umami horse
+umami kang
+umami kinchay
+umami lamb
+umami langka
+umami luncheon
+umami lye
+umami mignon
+umami miso
+umami miso soy
+umami pandan
+umami pasta
+umami peanut
+umami peas
+umami pie crust
+umami pie filling
+umami sausage
+umami scallion
+umami scallop
+umami seaweed
+umami shichimi togarashi
+umami shiromiso
+umami sibot
+umami star anise
+umami taco
+umami tap
+umami turkey
+umami vegetable
+umami wrapper
