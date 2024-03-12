@@ -2,7 +2,6 @@ alamang
 all
 aluminum
 american
-black
 asian
 baby
 bag
@@ -22,6 +21,7 @@ bilbao
 bile
 bit
 bite
+black
 black
 blackstrap
 blade
@@ -237,6 +237,7 @@ liter
 liver
 loin
 long
+louis
 luke
 lung
 magic
@@ -294,6 +295,7 @@ part
 paste
 pastry
 pat
+patty
 pc
 pearl
 pecorino
@@ -350,6 +352,7 @@ sea
 seafood
 seasoning
 seed
+seeds
 selecta
 serving
 shank
@@ -381,6 +384,7 @@ spray
 square
 squeeze
 sriracha
+st
 stalk
 steak
 stem
@@ -398,6 +402,7 @@ tablepespoons
 tablespoon
 tagalog
 tail
+tap
 tbsp
 teaspon
 teaspoon
