@@ -254,6 +254,7 @@ melt
 mesentery
 mi
 mince
+minute
 mix
 ml
 monamon
@@ -376,6 +377,7 @@ smoke
 snout
 snow
 sodium
+soup
 spanish
 spareribs
 spicy

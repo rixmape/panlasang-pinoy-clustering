@@ -3,12 +3,6 @@
         "apple",
         "vinegar"
     ],
-    "bagoong fish tomato onion": [
-        "bagoong",
-        "fish",
-        "tomato",
-        "onion"
-    ],
     "banana salt": [
         "banana",
         "salt"
@@ -36,6 +30,18 @@
     "bird beef chili": [
         "beef",
         "chili"
+    ],
+    "caesar salad dressing": [
+        "anchovy",
+        "garlic",
+        "lemon",
+        "mustard",
+        "parmesan",
+        "pepper",
+        "salt",
+        "sugar",
+        "vinegar",
+        "oil"
     ],
     "celery salt": [
         "celery",
@@ -98,18 +104,10 @@
         "chili",
         "soy sauce"
     ],
-    "chocolate pie crust": [
-        "chocolate",
-        "flour"
-    ],
     "cilantro lemon rice": [
         "cilantro",
         "lemon",
         "rice"
-    ],
-    "cinnamon nut": [
-        "cinnamon",
-        "nut"
     ],
     "coconunut milk": [
         "coconut",
@@ -127,10 +125,9 @@
         "beef",
         "broth"
     ],
-    "crab corn soup": [
+    "crab corn": [
         "crab",
-        "corn",
-        "soup"
+        "corn"
     ],
     "cream chicken": [
         "cream",
@@ -153,19 +150,20 @@
         "cream",
         "mushroom"
     ],
-    "cream mushroom soup": [
+    "cream squash": [
         "cream",
-        "mushroom",
-        "soup"
+        "squash"
     ],
-    "cream pumpkin soup": [
-        "cream",
-        "pumpkin"
-    ],
-    "cream squash soup": [
-        "cream",
-        "squash",
-        "soup"
+    "curry powder": [
+        "cumin",
+        "coriander",
+        "turmeric",
+        "cinnamon",
+        "cloves",
+        "cardamom",
+        "pepper",
+        "chili",
+        "pepper"
     ],
     "custard": [
         "sugar",
@@ -202,6 +200,14 @@
     "egg pasta": [
         "egg",
         "pasta"
+    ],
+    "enchilada sauce": [
+        "chili",
+        "garlic",
+        "onion",
+        "tomato",
+        "sugar",
+        "vinegar"
     ],
     "fish broth": [
         "fish",
@@ -241,6 +247,14 @@
         "flour",
         "soy sauce"
     ],
+    "garam masala": [
+        "cumin",
+        "coriander",
+        "cinnamon",
+        "cloves",
+        "cardamom",
+        "pepper"
+    ],
     "garlic oil": [
         "garlic",
         "oil"
@@ -260,9 +274,28 @@
         "egg",
         "rice"
     ],
+    "hollandaise sauce": [
+        "butter",
+        "egg",
+        "lemon",
+        "pepper",
+        "salt",
+        "vinegar"
+    ],
     "honey mustard dressing": [
         "honey",
         "mustard"
+    ],
+    "island dressing": [
+        "mayonnaise",
+        "oil",
+        "lemon",
+        "paprika",
+        "soy sauce",
+        "mustard",
+        "sugar",
+        "vinegar",
+        "chili"
     ],
     "katsu sauce": [
         "soy sauce",
@@ -293,6 +326,10 @@
     "milk flan": [
         "milk",
         "egg"
+    ],
+    "mirin": [
+        "sugar",
+        "alcohol"
     ],
     "muffin": [
         "flour",
@@ -386,11 +423,6 @@
         "shrimp",
         "rice"
     ],
-    "soup crab corn": [
-        "soup",
-        "crab",
-        "corn"
-    ],
     "soy sauce pepper": [
         "soy sauce",
         "pepper"
@@ -414,6 +446,15 @@
     "tamarind taro": [
         "tamarind",
         "taro"
+    ],
+    "tartar sauce": [
+        "mayonnaise",
+        "pickle",
+        "onion",
+        "lemon",
+        "parsley",
+        "sugar",
+        "vinegar"
     ],
     "tofu fish": [
         "tofu",
