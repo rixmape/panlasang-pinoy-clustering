@@ -22,6 +22,8 @@ bile
 bit
 bite
 black
+black
+blackstrap
 blade
 blend
 block
@@ -29,7 +31,9 @@ blood
 boiler
 boiling
 bone
+boneless
 bottom
+bowl
 box
 brain
 brand
@@ -50,9 +54,11 @@ canton
 carajay
 cavity
 cdo
+cedar
 cellophane
 center
 century
+chaddar
 chick
 chinese
 chip
@@ -72,6 +78,7 @@ colby
 color
 coloring
 colossal
+con
 cooking
 course
 crackling
@@ -132,6 +139,7 @@ flower
 foil
 food
 foot
+forest
 fresh
 fried
 frosting
@@ -147,6 +155,7 @@ ghost
 gill
 giniling
 ginisang
+glove
 gold
 grade
 grain
@@ -161,6 +170,7 @@ half
 hamonado
 head
 heart
+herb
 hint
 hock
 holiday
@@ -199,6 +209,7 @@ kawaii
 kawali
 kfc
 kidney
+kielbasa
 kilo
 king
 kitchen
@@ -226,6 +237,7 @@ liter
 liver
 loin
 long
+louis
 luke
 lung
 magic
@@ -242,8 +254,10 @@ melt
 mesentery
 mi
 mince
+minute
 mix
 ml
+monamon
 monterey
 monterrey
 morcon
@@ -282,6 +296,7 @@ part
 paste
 pastry
 pat
+patty
 pc
 pearl
 pecorino
@@ -292,6 +307,7 @@ pice
 pich
 piece
 pinch
+plank
 pod
 portion
 pot
@@ -306,9 +322,11 @@ purpose
 puti
 quality
 quarter
+ramekin
 real
 recipe
 red
+redhot
 rind
 ring
 rise
@@ -322,6 +340,7 @@ room
 round
 sa
 sachet
+salay
 sarap
 sauceor
 sauteed
@@ -333,6 +352,8 @@ scale
 sea
 seafood
 seasoning
+seed
+seeds
 selecta
 serving
 shank
@@ -344,7 +365,9 @@ side
 single
 sinigang
 size
+skewer
 skin
+skinless
 skirt
 slab
 slice
@@ -354,6 +377,7 @@ smoke
 snout
 snow
 sodium
+soup
 spanish
 spareribs
 spicy
@@ -362,6 +386,7 @@ spray
 square
 squeeze
 sriracha
+st
 stalk
 steak
 stem
@@ -379,6 +404,7 @@ tablepespoons
 tablespoon
 tagalog
 tail
+tap
 tbsp
 teaspon
 teaspoon
@@ -421,6 +447,7 @@ white
 wholegrain
 wing
 wingette
+wonton
 wood
 wrap
 yellow
@@ -429,6 +456,3 @@ young
 yukon
 zealand
 zest
-ramekin
-cedar
-plank
