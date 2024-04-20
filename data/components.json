@@ -1,11 +1,51 @@
 {
+    "alcohol peach pineapple": [
+        "alcohol",
+        "peach",
+        "pineapple"
+    ],
     "apple cider vinegar": [
         "apple",
         "vinegar"
     ],
+    "banana blossom bulaklak saging": [
+        "banana"
+    ],
+    "banana bread": [
+        "banana",
+        "bread"
+    ],
+    "banana bread toast": [
+        "banana",
+        "bread"
+    ],
+    "banana brownie": [
+        "banana",
+        "brownie"
+    ],
+    "banana chocolate cookie": [
+        "banana",
+        "chocolate",
+        "cookie"
+    ],
+    "banana chocolate muffin": [
+        "banana",
+        "chocolate",
+        "muffin"
+    ],
     "banana salt": [
         "banana",
         "salt"
+    ],
+    "basque yam cheesecake": [
+        "yam",
+        "flour",
+        "sugar",
+        "butter",
+        "egg",
+        "milk",
+        "cream",
+        "cheese"
     ],
     "beef bread": [
         "beef",
@@ -27,6 +67,11 @@
         "berry",
         "apple"
     ],
+    "berry banana loaf bread": [
+        "berry",
+        "banana",
+        "bread"
+    ],
     "bird beef chili": [
         "beef",
         "chili"
@@ -47,6 +92,11 @@
         "celery",
         "salt"
     ],
+    "cheese banana bread": [
+        "cheese",
+        "banana",
+        "bread"
+    ],
     "cheese sausage": [
         "cheese",
         "sausage"
@@ -58,6 +108,22 @@
     "chicken broth": [
         "chicken",
         "broth"
+    ],
+    "chicken butter": [
+        "chicken",
+        "butter"
+    ],
+    "chicken curry powder": [
+        "chicken",
+        "cumin",
+        "coriander",
+        "turmeric",
+        "cinnamon",
+        "cloves",
+        "cardamom",
+        "pepper",
+        "chili",
+        "pepper"
     ],
     "chicken mushroom": [
         "chicken",
@@ -104,22 +170,92 @@
         "chili",
         "soy sauce"
     ],
+    "chocolate banana": [
+        "chocolate",
+        "banana"
+    ],
+    "chocolate banana bread": [
+        "chocolate",
+        "banana",
+        "bread"
+    ],
+    "chocolate banana muffin": [
+        "chocolate",
+        "banana",
+        "bread"
+    ],
+    "chocolate cookie pie crust": [
+        "chocolate",
+        "cookie",
+        "pie crust"
+    ],
+    "chocolate cupcake cream cheese": [
+        "chocolate",
+        "flour",
+        "sugar",
+        "butter",
+        "egg",
+        "milk",
+        "cream",
+        "cheese"
+    ],
+    "chocolate marshmallow": [
+        "chocolate",
+        "marshmallow"
+    ],
+    "chocolate milk": [
+        "chocolate",
+        "milk"
+    ],
+    "chocolate nut": [
+        "chocolate",
+        "nut"
+    ],
     "cilantro lemon rice": [
         "cilantro",
         "lemon",
         "rice"
     ],
+    "cinnamon bread": [
+        "cinnamon",
+        "bread"
+    ],
+    "cinnamon sugar": [
+        "cinnamon",
+        "sugar"
+    ],
     "coconunut milk": [
         "coconut",
         "milk"
+    ],
+    "coconut bread": [
+        "coconut",
+        "bread"
     ],
     "coconut cream": [
         "coconut",
         "cream"
     ],
+    "coconut gelatin": [
+        "coconut",
+        "gelatin"
+    ],
+    "coconut milk sugar": [
+        "coconut",
+        "milk",
+        "sugar"
+    ],
     "coconut oil": [
         "coconut",
         "oil"
+    ],
+    "coconut string bean": [
+        "coconut",
+        "string bean"
+    ],
+    "coffee cream": [
+        "coffee",
+        "cream"
     ],
     "consomme": [
         "beef",
@@ -128,6 +264,16 @@
     "crab corn": [
         "crab",
         "corn"
+    ],
+    "cream cheese": [
+        "cream",
+        "cheese"
+    ],
+    "cream cheese banana bread": [
+        "cream",
+        "cheese",
+        "banana",
+        "bread"
     ],
     "cream chicken": [
         "cream",
@@ -213,6 +359,23 @@
         "fish",
         "broth"
     ],
+    "fish cabbage": [
+        "fish",
+        "cabbage"
+    ],
+    "fish daing": [
+        "fish",
+        "salt"
+    ],
+    "fish salt": [
+        "fish",
+        "salt"
+    ],
+    "fish sauce cream mushroom": [
+        "fish sauce",
+        "cream",
+        "mushroom"
+    ],
     "fish sauce tomato onion": [
         "fish sauce",
         "tomato",
@@ -258,6 +421,22 @@
     "garlic oil": [
         "garlic",
         "oil"
+    ],
+    "garlic onion": [
+        "garlic",
+        "onion"
+    ],
+    "garlic onion ginger butter": [
+        "garlic",
+        "onion",
+        "ginger",
+        "butter"
+    ],
+    "garlic onion salt pepper": [
+        "garlic",
+        "onion",
+        "salt",
+        "pepper"
     ],
     "garlic rice": [
         "garlic",
@@ -390,6 +569,46 @@
         "soy sauce",
         "vinegar"
     ],
+    "puto": [
+        "sugar",
+        "flour",
+        "butter",
+        "egg",
+        "milk"
+    ],
+    "puto cheese": [
+        "sugar",
+        "flour",
+        "butter",
+        "egg",
+        "milk",
+        "cream",
+        "cheese"
+    ],
+    "puto coconut": [
+        "sugar",
+        "flour",
+        "butter",
+        "egg",
+        "milk",
+        "coconut"
+    ],
+    "puto cupcake cheese": [
+        "sugar",
+        "flour",
+        "butter",
+        "egg",
+        "milk",
+        "cream",
+        "cheese"
+    ],
+    "puto cupcake egg": [
+        "sugar",
+        "flour",
+        "butter",
+        "egg",
+        "milk"
+    ],
     "rice alcohol vinegar": [
         "alcohol",
         "vinegar"
@@ -397,6 +616,23 @@
     "rice pasta": [
         "rice",
         "pasta"
+    ],
+    "rice puto": [
+        "rice",
+        "sugar",
+        "flour",
+        "butter",
+        "egg",
+        "milk"
+    ],
+    "rice vinegar alcohol": [
+        "rice",
+        "alcohol",
+        "vinegar"
+    ],
+    "salt fish": [
+        "salt",
+        "fish"
     ],
     "salt fish sauce": [
         "salt",
@@ -406,6 +642,17 @@
         "salt",
         "lemon",
         "pepper"
+    ],
+    "salt pepper chicken": [
+        "salt",
+        "pepper",
+        "chicken"
+    ],
+    "salt pepper thyme rosemary": [
+        "salt",
+        "pepper",
+        "thyme",
+        "rosemary"
     ],
     "sausage bread": [
         "sausage",
@@ -431,9 +678,25 @@
         "sugar",
         "barbecue"
     ],
+    "sugar cheese": [
+        "sugar",
+        "cheese"
+    ],
+    "sugar chocolate": [
+        "sugar",
+        "chocolate"
+    ],
+    "sugar cinnamon": [
+        "sugar",
+        "cinnamon"
+    ],
     "sugar coconut": [
         "sugar",
         "coconut"
+    ],
+    "sugar salt": [
+        "sugar",
+        "salt"
     ],
     "sugar vinegar": [
         "sugar",
@@ -446,6 +709,10 @@
     "tamarind taro": [
         "tamarind",
         "taro"
+    ],
+    "taro ice cream": [
+        "taro",
+        "ice cream"
     ],
     "tartar sauce": [
         "mayonnaise",
@@ -476,9 +743,30 @@
         "tomato",
         "pasta"
     ],
+    "tomato salt": [
+        "tomato",
+        "salt"
+    ],
+    "tomato sauce salt": [
+        "tomato",
+        "sugar",
+        "salt"
+    ],
+    "tomato sauce salt pepper": [
+        "tomato",
+        "sugar",
+        "salt",
+        "pepper"
+    ],
     "vanilla ice cream": [
         "vanilla",
         "ice cream"
+    ],
+    "vanilla pudding": [
+        "vanilla",
+        "sugar",
+        "milk",
+        "egg"
     ],
     "vanilla yogurt": [
         "vanilla",
@@ -487,6 +775,12 @@
     "vegetable broth": [
         "vegetable",
         "broth"
+    ],
+    "vinegar salt sugar pepper": [
+        "vinegar",
+        "salt",
+        "sugar",
+        "pepper"
     ],
     "wasabi mayonnaise": [
         "wasabi",
@@ -499,5 +793,41 @@
     "wrapper onion": [
         "wrapper",
         "onion"
+    ],
+    "yam bread": [
+        "yam",
+        "bread"
+    ],
+    "yam coconut ice cream": [
+        "yam",
+        "coconut",
+        "ice cream"
+    ],
+    "yam ice cream": [
+        "yam",
+        "ice cream"
+    ],
+    "yam kalamay": [
+        "yam",
+        "sugar",
+        "coconut"
+    ],
+    "yam puto cheese": [
+        "yam",
+        "sugar",
+        "flour",
+        "butter",
+        "egg",
+        "milk",
+        "cream",
+        "cheese"
+    ],
+    "yam puto muffin": [
+        "yam",
+        "sugar",
+        "flour",
+        "butter",
+        "egg",
+        "milk"
     ]
 }

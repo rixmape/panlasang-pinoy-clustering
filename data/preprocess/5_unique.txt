@@ -1,4 +1,3 @@
-abc soy sauce
 achiote
 adobo sauce
 adobong pusit
@@ -21,7 +20,6 @@ anatto
 ancho chile
 anchovy
 anchovy sauce
-angel hair pasta
 anisette liquor
 annatto
 annatto lye
@@ -30,7 +28,7 @@ ap
 apple
 apple cider
 apple cider vinegar
-apple pie filling
+apple pie
 apple snail
 apples
 arnibal
@@ -49,7 +47,7 @@ avocados
 baboy
 bacon
 bacon grease
-bacon turkey bacon version
+bacon turkey bacon
 bagnet
 bago
 bagoong
@@ -77,7 +75,6 @@ banana bread
 banana bread toast
 banana brine
 banana brownie
-banana bundt
 banana catsup
 banana chili
 banana chocolate cookie
@@ -86,23 +83,19 @@ banana cookie
 banana custard
 banana ketchup
 banana ketchup banana sauce
-banana leche fan
-banana lily
-banana loaf
+banana leche
 banana muffin
 banana pepper
-banana pepper haba
 banana sandwich bread
 banana sauce
 banana strawberry blueberry
-banana tray
 banana wrapping
 bangus
 barbecue sauce
 barbeque sauce
 basil
 basque ube cheesecake
-batter speed setting goal spatula batter
+batter batter
 bawang
 bay
 bayleaf
@@ -111,12 +104,10 @@ bbq sauce
 bean
 bean bean sugar bean
 bean curd
-bean end
 bean masala
 bean munggo
-bean pinto solid
+bean pinto
 bean sitaw
-bean sprout
 beef
 beef bean
 beef bouillon
@@ -130,7 +121,6 @@ beef pasta sauce
 beef pork
 beef rib
 beef sirloin
-beef sm
 beef stock
 beef taco
 beef tomato
@@ -149,13 +139,13 @@ bird chili
 bird eye
 bird eye chili
 biscuit
+biscuits
 bisquick puto muffin
 bistek
 bisugo
 bittermelon
 blueberry
 blueberry banana bread
-blueberry banana loaf bread
 blueberry muffin
 blueberry walnut
 boba
@@ -163,14 +153,6 @@ bok choy
 bokchoy
 bokchoy pechay
 boo choy
-bottle banana ketchup
-bottle banana sauce
-bottle coca cola
-bottle coco
-bottle gourd
-bottle kaong
-bottle macapuno string
-bottle tamis anghang banana sauce
 bouillon
 bouquetgreen peas
 bowtie pasta
@@ -180,7 +162,6 @@ bread
 bread crumb
 bread day
 bread flour
-bread softener
 breadcrumb
 brine salt
 brisket
@@ -199,7 +180,6 @@ bung
 burger
 burger bun
 butter
-butter brushing
 butter lettuce
 butter mochi
 butter sugar
@@ -209,13 +189,6 @@ buttermilk
 butternut
 butternut squash
 butterscotch
-c
-c bread flour
-c butter
-c cocoa
-c flour
-c sugar
-c vegetable oil
 cabbage
 cabbage cabbage
 cabbage pechay
@@ -240,7 +213,6 @@ capsicum
 carabao milk
 caramel
 cardamom
-carnation milk
 carne asada
 carrageenan
 carrot
@@ -251,9 +223,6 @@ cashews
 cassava
 cassava flour
 cassava tapioca flour
-caster
-caster castor superfine sugar
-caster sugar
 catfish
 catsup
 cauliflower
@@ -273,17 +242,16 @@ cheese banana bread
 cheese bratwurst
 cheese bread
 cheese cupcake
+cheese egg
 cheese mozzarella cheese
 cheese sauce
-cheese topping
-cheese topping egg
 cheesecake
 cheesecake flan
-cheesecloth string
 cheesedog
 cherry
 cherry liqueur
 cherry tomato
+chesecake
 chestnut
 chicharon
 chicken
@@ -298,17 +266,13 @@ chicken curry
 chicken egg
 chicken franks
 chicken gizzard
-chicken joint
 chicken macaroni
 chicken mushroom
 chicken nugget
 chicken oil
-chicken pate
 chicken sandwich
-chicken solution
 chicken stock
 chicken teriyaki
-chicken towel
 chickpea
 chickpeas
 chile
@@ -324,6 +288,7 @@ chili pepper
 chili pepper labuyo
 chili sauce
 chilie
+chilimansi
 chilis
 chilli
 chive
@@ -331,17 +296,14 @@ choco
 chocolate
 chocolate banana
 chocolate banana bread
-chocolate banana loaf bread
 chocolate banana muffin
 chocolate coconut
 chocolate cookie pie crust
 chocolate cupcake cream cheese
-chocolate decoration
-chocolate fan
 chocolate graham cracker
 chocolate marshmallow
 chocolate milk
-chocolate walnut topping
+chocolate walnut
 chorizo
 chorizo sausage
 churro
@@ -360,11 +322,12 @@ clove
 clove clove garlic
 clove garlic
 clove onion
+coca cola
 cocktail
 cocktail peach pineapple
+coco
 cocoa
-cocoa chocolate sifter hand
-cocoa hershey
+cocoa chocolate
 cocoa tablea
 coconunut milk
 coconut
@@ -379,30 +342,23 @@ coconut oil
 coconut vinegar
 cod
 coffee
-coffee sponge
-coffee sponge coffee coffee buttercream
-coil
+coffee coffee coffee buttercream
 coke
 cola
 cold
 coleslaw
 collard
+condensada
 confectioner
 confectioner sugar
 confectioner sugar sugar
 consomme
-container luncheon
-container ricotta cheese
-container store litson baka
 cookie
-cookie topping
 coriander
 corn
 corn cream
 corn flour
-corn glazing
 corn kernel
-corn meal
 corn oil
 corn starch
 corn tortilla
@@ -411,10 +367,9 @@ cornmeal
 cornstarch
 cornstarch beef broth
 cornstarch coconut
-cornstarch dredging
 cornstarch noodle
 cornstarch soy sauce
-corntarch slurry
+corntarch
 cottage cheese ricotta cheese
 cow
 cow trotter
@@ -431,12 +386,10 @@ crawfish
 cream
 cream cheese
 cream cheese banana bread
-cream cheese temp
 cream chicken
 cream chicken corn
 cream corn
 cream cream
-cream hole pipe filling
 cream milk
 cream mushroom
 cream pumpkin
@@ -445,7 +398,6 @@ creole
 crimini
 crimini mushroom
 crinkle
-cristo sandwich
 crouton
 crumb
 crust
@@ -469,13 +421,11 @@ date
 day bread
 day rice
 day suman
-decoration
 dijon mustard
 dilis
 dill
 dill pickle
 dill pickle spear
-dipping sauce
 dish pie
 dog
 donut
@@ -485,8 +435,6 @@ duck
 duck egg
 dulce leche
 dulong
-dungeness crab
-dust sugar
 dynamite sauce
 edamame
 egg
@@ -499,7 +447,6 @@ egg eggplant
 egg noodle
 egg omelet
 egg plant
-egg temp
 egg wrapper
 egg yolk
 egg yolk egg
@@ -508,9 +455,9 @@ eggplant eggplant
 eggplant salad
 embutido
 enchilada sauce
-enoki mushroom
 ensaymada
 espresso
+evap
 eye
 farfalle
 fennel
@@ -519,24 +466,21 @@ fettuccine noodle
 fettuccine pasta
 fettucine pasta
 fettucini pasta
-fingerling pepper
 fish
 fish adobo
 fish bouillon
 fish broth
 fish pechay
 fish salt
-fish sardine atlantic oil solid
+fish sardine oil
 fish sauce
 fish sauce cream mushroom
 fish sauce patis
 fish sauce pepper
-fish sauce taste
-fish tuna oil solid
-flan texture
+fish tuna oil
+flan
 flank
 flour
-flour dredging
 flour milk
 flour noodle
 flour tortilla
@@ -557,13 +501,11 @@ garbanzo bean
 garbanzos
 garlic
 garlic clove
-garlic clove rest
 garlic oil
 garlic onion ginger butter
 garlic onion salt
 garlic rice
 garlic salt
-garlic sauteing
 gata niyog
 gato
 gelatin
@@ -603,7 +545,6 @@ guavas
 gulaman
 gulaman jelly
 gyoza
-gyoza potsticker wrapper
 gyoza wrapper
 habhab noodle
 halaan
@@ -620,7 +561,6 @@ hass avocado
 heat
 heat cream puff
 herring
-hershey cocoa
 hibi
 hito
 hoagie
@@ -652,10 +592,6 @@ jalapeno
 jalapeno pepper
 jalapenos
 jalapeño
-jar banana ketchup
-jar manzanilla
-jar marinara
-jar shrimp
 jasmin rice
 jasmine
 jasmine rice
@@ -680,7 +616,7 @@ kangong
 kani
 kaong
 kasubha
-kasubha saffron strand
+kasubha saffron
 katsu sauce
 kecap manis
 kernel corn
@@ -688,7 +624,6 @@ keso bola
 kesong
 ketchup
 kikiam
-kikoman teriyaki sauce
 kimchi
 kinchay
 kintsay
@@ -698,6 +633,7 @@ kosher
 kosher salt
 kosher salt pepper
 kung pao sauce
+kutsinta
 labahita
 labano
 labanos
@@ -705,7 +641,6 @@ labong
 labuyo
 labuyo chili pepper
 labuyo pepper
-labuyo spice
 ladyfinger
 laing
 lamb
@@ -718,7 +653,6 @@ lapu lapu
 lard
 lasagna
 lasagna noodle
-lasagna noodle direction
 lasagne
 latik
 lato
@@ -748,20 +682,14 @@ liempo
 lime
 lime gelatin
 linguine
-link chorizo
 liquor
-liverwurst spread
-loaf
-loaf bread
-loaf sandwich bread
+litson baka
+liverwurst
 lobster
 lomi noodle
 longanisa
 longganisa
 loofah
-low soy sauce
-lukewarm
-lukewarm milk
 lumpia
 lumpia spring wrapper
 lumpia wrapper
@@ -771,27 +699,14 @@ lye
 lye lihiya
 macadamia nuts
 macapuno
-macapuno preserve
+macapuno string
 macaroni
 macaroni noodle
 macaroni pasta
 macaroni pasta al dente
 mace
 mackerel
-mackerel sardines ligo sardines
-maggi
-maggi calamansi
-maggi chicken
-maggi chili
-maggi chilimansi
-maggi gabi
-maggi oyster sauce
-maggi pork
-maggi sampalok
-maggi sampalok gabi
-maggi soy sauce
-maggi supreme
-maggi tom yam noodle
+mackerel sardines sardines
 mahi mahi
 maja jelly
 malasugi
@@ -802,20 +717,20 @@ mandarin orange
 mandarin orange pineapple tidbit peach
 mango
 mango candy
-mango cheese float
+mango cheese
 mango cream cheese ice
 mango cream cheese ice cream
 mango ice creamdy
 mango nectar
 mango rice
 mangoes
-manicotti noodle direction
+manicotti noodle
 manzanilla
 maple
 margarine
 margarine sugar
 margarita
-marie biscuits
+marinara
 marinara parsley
 marinara sauce
 marinara spaghetti sauce
@@ -831,30 +746,23 @@ maya pancake
 mayonnaise
 mayonnise
 mccormick ube
-meal macaroni penne
 meatball
 meatball adobo
 melon
 meringue
 meringue cookie
-mg maggi calamansi
 mignon
 miki lucban
 miki noodle
 milk
 milk adjust
 milk almond milk
-milk anchor nido
 milk chocolate toffee
 milk fish
 milk fish bangus
-milk hour
-milk nido
-milk sweetness preference
 milk vinegar
 milkfish
 milkfish daing
-milo chocolate
 mini marshmallow
 mint
 mirin
@@ -865,10 +773,11 @@ misua noodle
 miswa
 miswa noodle
 mocha
-mocha coffee sponge coffee
+mocha coffee coffee
 mochiko rice flour
 molasse
 monggo
+monosodium glutamate
 mooring
 moscato
 mozarella cheese
@@ -888,14 +797,9 @@ mustard
 mustasa
 nan
 nata coco
-native kutsinta
 navy bean
-nestlé carnation condensada
-nestlé carnation evap
-nestlé cream
-nestlé milk
 noodle
-noodle packaging direction
+noodle packaging
 nori
 nori seaweed
 nova
@@ -910,7 +814,6 @@ oil chicken
 oil mould
 oil oil
 oil peanut oil
-oil sauteing
 oil vegetable oil
 okra
 onion
@@ -933,7 +836,6 @@ oxtail
 oyster
 oyster mushroom
 oyster sauce
-oyster sauce kikoman
 ozcream mushroom
 packagepepperidge farm puff
 pair cookie
@@ -959,14 +861,13 @@ panutsa
 papaya
 papaya atchara
 papaya jelly
-papaya papaya puree
+papaya papaya
 papayas
 paprika
 parseley
 parsley
 pasta
 pasta sauce
-pasta sauce kind
 pata
 patani
 patis
@@ -988,17 +889,13 @@ peas carrot
 peas carrot corn
 pecan
 pechay
-penne pasta
-penne rigate pasta
 peperoncini
 pepper
 pepper adobo sauce
 pepper cajun
 pepper chili
 pepper corn
-pepper fingerling
 pepper fish sauce
-pepper jar pepper
 pepper pepper
 pepper shrimp
 peppercorn
@@ -1009,10 +906,10 @@ phosphate
 pias
 picadillo
 pickle
-pickling spice cheesecloth
+pickling
 pico gallo
+pie
 pie crust
-pie filling
 pig
 pig maskara
 pigeon pea
@@ -1020,12 +917,9 @@ pili nuts
 pimento
 pimento pepper
 pimiento pepper
-pinche
-pinche monosodium glutamate
 pine nut
 pineapple
 pineapple pineapple
-pineapple tidbid
 pineapple tidbit
 pineapple tidbit pineapple glaze pineapple pineapple lemon
 pinipig
@@ -1062,7 +956,6 @@ pork sirloin
 pork stew
 pork stock
 pork tocino
-pork variety product
 porterhouse
 potato
 potato noodle
@@ -1077,22 +970,17 @@ prosciutto
 prune
 pudding
 puff
-puff container day week
+puff day week
 pumpkin
-pumpkin puree
-pumpkin spice
 purple
 purple ube
+puto
 puto cheese
+puto cupcake
+puto cupcake egg
 puto pandan
-puto texture
 quail
 quail egg
-quaker oat
-quart
-quart chicken broth
-quart coconut milk
-quart oil
 quesadilla
 quickmelt
 rabbit
@@ -1101,7 +989,6 @@ raddish
 radish
 radish labanos
 raisin
-raw shrimp
 relish
 rib
 rib celery
@@ -1110,7 +997,6 @@ rib rib
 ribeye
 rice
 rice flour
-rice flour dredging
 rice noodle
 rice puff
 rice puto
@@ -1120,8 +1006,6 @@ rice vinegar sherry
 rice wine
 rice wine vinegar
 ricotta cheese
-risotto rice
-rocky road ice cream milo
 rosemary
 rotini
 rotini pasta
@@ -1136,8 +1020,6 @@ saba banana
 saba bananas
 saba plantain banana
 saba plantain cardaba banana
-safflower oil
-safflower saffron
 saffron
 sage
 sago
@@ -1145,7 +1027,6 @@ sago tapioca
 sake
 salad oil
 salmon
-salmon plier
 salsa
 salsa queso
 salt
@@ -1154,7 +1035,7 @@ salt fish
 salt fish sauce
 salt lemon pepper
 salt pepper
-salt pepper season chicken
+salt pepper chicken
 salt pepper thyme rosemary
 salt salt
 saluyot
@@ -1163,6 +1044,8 @@ samgyupsal
 sampaloc
 sampaloc gabi
 sampaloc miso
+sampalok
+sampalok gabi
 sandwich
 sandwich bread
 santol
@@ -1176,7 +1059,6 @@ sauce
 sauce pepper chili
 sauerkraut
 sausage
-sausage link
 sausage tidbit
 sayote
 sayote chayote
@@ -1184,8 +1066,6 @@ scad
 scad tinapang galunggong
 scallion
 scallop
-scoop vanilla ice cream
-self flour
 serrano pepper
 sesame
 sesame oil
@@ -1199,7 +1079,6 @@ shiitake mushroom cap
 shiromiso
 shishito pepper
 shitake mushroom
-shortening
 shrimp
 shrimp bisque
 shrimp bouillon
@@ -1211,9 +1090,6 @@ sibuyas
 sichuan pepper
 sigarilyas
 sigarilyas bean
-silken tofu
-silvanas sylvanas
-silvannas
 silverfish
 sinamak
 sinangag
@@ -1237,7 +1113,6 @@ soy milk
 soy sauce
 soy sauce pepper
 soybean
-soybean sprout
 soysauce
 spaghetti
 spaghetti noodle
@@ -1245,24 +1120,9 @@ spaghetti pasta
 spaghetti sauce
 spaghetti sauce cheese spaghetti sauce
 spam
-special puto
-special puto cupcake
-special puto cupcake egg
-special puto sponge
-spice
 spinach
 spinach spaghetti
-splash lemon lime
-sponge
-sponge buttercream
 sport pepper
-spread
-sprig basil
-sprig cilantro
-sprig onion spring
-sprig rosemary
-sprig spring onion
-sprig thyme
 spring
 spring chicken
 spring lumpia wrapper
@@ -1276,9 +1136,6 @@ squid ink
 star
 star anise
 stock
-store litson baka
-strand bean
-strand pandan
 strawberry
 strawberry gelatin
 strawberry mango sago
@@ -1289,14 +1146,11 @@ sugar bbq sauce
 sugar cane vinegar
 sugar caramel
 sugar cheddar cheese
+sugar chocolate sugar
 sugar cinnamon
 sugar cocoa
-sugar dredging
 sugar msg
 sugar palm
-sugar preference chocolate sugar
-sugar sweetness preference
-sugar tray
 sugpo
 sukang
 suman
@@ -1313,7 +1167,6 @@ tablea chocolate
 taco
 tahure
 taisan
-taisan loaf
 tajure
 talangka
 talong
@@ -1329,7 +1182,6 @@ taro ice cream
 taro root
 tarragon
 tartar sauce
-taste
 tater tot
 tausi
 tausi bean
@@ -1339,7 +1191,6 @@ tenderizer
 tengang daga
 tequila
 teriyaki sauce
-tetra nestlé cream
 thyme
 tibok tibok
 tidbit
@@ -1351,7 +1202,7 @@ tinapa galunggong
 tinapang bangus
 tinapang galunggong
 tinta calamar
-toast up
+toast
 tocino
 tofu
 togue
@@ -1361,7 +1212,6 @@ tomato
 tomato catsup
 tomato chilie
 tomato ketchup
-tomato puree
 tomato sardine
 tomato sauce
 tomato sauce salt
@@ -1369,17 +1219,10 @@ tomato tomato salt
 tomatoe
 ton wrapper
 tonkatsu sauce
-topping topping bake separate
 tortilla
 tortilla wrapper
 tostada
 toyo
-tsps ginger
-tsps lye
-tsps salt
-tsps sugar
-tsps worchestershire sauce
-tube tofu
 tulapho
 tulingan
 tuna
@@ -1392,7 +1235,6 @@ turnip
 tuyo
 ube
 ube halaya
-ube halaya store
 ube halaya ube
 ube ice cream
 ube kalamay
@@ -1412,17 +1254,13 @@ vegetable broth
 vegetable oil
 vegetable protein
 vegetable salt
-vegetable shortening
 vegetable stock
 veggie
-velveeta cheese
-velvet chesecake
 vinaigrette
 vinegar
-vinegar acidity
 vinegar salt sugar pepper
-vinegar sukang pinakurat
-vitamin c
+vinegar sukang
+vitamin
 vodka
 wakame seaweed
 walnut
@@ -1433,16 +1271,17 @@ watermelon
 wheat bran
 wheat bread
 wheat flour
-wheat penne pasta
+wheat pasta
 whip
 wholemeal crumb bread crumb
-window
 wine
 wine vinegar
 worcestershire sauce
+worchestershire sauce
 wrapper
 yakisoba noodle
 yam
+yam noodle
 yam root
 yam ube halaya
 ychee

@@ -1,17 +1,15 @@
-abc soy sauce
 achiote
 alcohol
-alcohol peach pineapple
 allspice
 amaranth
 ampalayang uwak
 anatto
 anchovy
-angel hair pasta
+anise
 annatto
 annatto lye
 apple
-apple pie filling
+apple pie
 artichoke
 arugula
 asin vetsin
@@ -27,184 +25,110 @@ bamboo
 banana
 banana berry
 banana berry muffin
-banana blossom bulaklak saging
-banana bread
-banana bread toast
-banana brownie
-banana bundt
 banana cardaba
-banana chocolate cookie
-banana chocolate muffin
 banana cookie
 banana custard
-banana ketchup sauce
-banana lily
-banana loaf
-banana milk fan
+banana milk
 banana muffin
-banana pepper haba
 banana sauce
-banana tray
 banana wrapping
 barbecue
 barbeque sauce
 basil
-basque yam cheesecake
-batter speed setting goal spatula
+batter
 bawang
 bay leaf
 bayleaf
 bayleave
 bean
-bean end
 bean masala
-bean pinto solid
-bean sprout
+bean pinto
 bean sugar
 beef
 beef bean
 beef bullion
 beef pork
-beef sm
 beef taco
 bell pepper
 bellpepper
 berry
 berry banana bread
-berry banana loaf bread
 berry gelatin
 berry mango gelatin
 berry muffin
 berry nut
 biko jackfruit
 bilong
+biscuits
 bisquick puto muffin
 bitter gourd
 bittermelon
 boba
 bok choy cabbage
-bottle banana ketchup
-bottle banana sauce
-bottle coca cola
-bottle coco
-bottle coconut
-bottle coconut string bean
-bottle tamis anghang banana sauce
 bouquetgreen peas
 bread
 bread day
 bread milk
-bread softener
 broas
 broccoli
 broth
 brownie
 buchi
 butter
-butter brushing
 butter mochi
 butter sugar
 buttermilk
 butterscotch
-c
-c bread flour
-c butter
-c chocolate
-c flour
-c sugar
-c vegetable oil
 cabbage
 cajun
 calf
 caper
 capsicum
 cardamom
-carnation milk
 carrot
 cassava
-caster
-caster castor superfine sugar
 cauliflower
 celery
 chayote gourd
 cheese
-cheese banana bread
 cheese bread
 cheese cupcake
 cheese egg
-cheese topping
-cheese topping egg
 cheesecake
 cheesecake flan
-cheesecloth string bean
 cherry
+chesecake
 chicken
-chicken butter
-chicken curry powder
-chicken joint
-chicken pate
-chicken solution
-chicken towel
 chili
-chili pepper labuyo
+chilimansi
 chilis
 chocolate
-chocolate banana
-chocolate banana bread
-chocolate banana loaf bread
-chocolate banana muffin
 chocolate bread
 chocolate coconut
-chocolate cookie pie crust
-chocolate cupcake cream cheese
-chocolate decoration
-chocolate fan
-chocolate hershey
-chocolate marshmallow
-chocolate milk
-chocolate nut topping
-chocolate sifter hand
 churro
 cilantro
 cinnamon
-cinnamon bread
-cinnamon sugar
 clam
 clam mushroom
-clam sauce kikoman
 cloud
 cloves
+coca cola
+coco
 coconut
-coconut bread
-coconut gelatin
-coconut milk sugar
-coconut preserve
 coffee
-coffee sponge
-coffee sponge cream
-coil
 cola
 cold
-container cheese
-container pork
-container store litson baka
+condensada
 cookie
-cookie topping
 coriander
 corn
-corn glazing
 corn oil
-corntarch slurry
+corntarch
 cottage cheese
 crab
 cream
-cream cheese
-cream cheese banana bread
-cream cheese temp
-cream hole pipe filling
 creole
 crinkle
-cristo bread
 crumb
 crust
 crust bread butter
@@ -216,61 +140,33 @@ custard flan
 dashi
 date
 day bread
-decoration
 dill
-dipping sauce
 dish pie
 donut
 duck
 dumpling
-dungeness crab
-dust sugar
 egg
 egg batter
-egg temp
 eggplant
-enoki mushroom
 ensaymada
 espresso
+evap
 farfalle
-fat
 fettucini pasta
-fingerling pepper
 fish
-fish atlantic oil solid
-fish cabbage
-fish daing
-fish ligo
-fish oil solid
-fish plier
-fish salt
 fish sauce
-fish sauce cream mushroom
-fish sauce taste
-flan texture
+flan
 flour
-flour cassava
-flour dredging
-flour wrapper
 frog
-fruit
 fungus
-furikake
-furikake rice
 galangal root
 galic
 garbanzos
 garlic
-garlic onion
-garlic onion ginger butter
 garlic onion salt
-garlic rest
 garlic salt
-garlic sauteing
-gata niyog
 gato
 gelatin
-gelatin flour
 gelatine
 ginger
 ginger ale
@@ -287,7 +183,6 @@ grape
 grapefruit
 guava
 gyoza
-gyoza potsticker wrapper
 halaan
 halaya
 halaya scratch
@@ -296,7 +191,6 @@ hass avocado
 heat
 heat cream puff
 herring
-hershey chocolate
 hito
 honey
 honeycomb oxtail
@@ -309,10 +203,6 @@ inutak
 jackfruit
 jackfruit cheesecake
 jackfruit pulp
-jar alcohol
-jar banana ketchup
-jar shrimp
-jar tomato
 jute
 kahlua
 kakanin lansong
@@ -320,22 +210,16 @@ kalamay kapit
 kalamay yam
 kang
 kasubha
-kasubha saffron strand
+kasubha saffron
 keso bola
 kesong
 ketchup
-kikoman teriyaki sauce
 kintsay
 kintsay cilantro
 kiwi
-kosher
-kosher salt pepper
+kutsinta
 labahita
 labong
-labuyo
-labuyo chili pepper
-labuyo pepper
-labuyo spice
 ladyfinger
 lamb
 lansong
@@ -346,44 +230,26 @@ lemon pepper salt
 lemon soda shrimp
 lemongrass
 lettuce
-link sausage
-liverwurst spread
-loaf
+litson baka
+liverwurst
 loofah
-low soy sauce
-lukewarm
-lukewarm milk
 lumpia
 lychee
 lye
 lye lihiya
 mace
-maggi
-maggi chicken
-maggi chili
-maggi chilimansi
-maggi clam sauce
-maggi lemon
-maggi pork
-maggi sampalok
-maggi sampalok taro
-maggi soy sauce
-maggi supreme
-maggi taro
-maggi tom yam pasta
 maja gelatin
 malasugi
 malunggay
 mamon
 mango
-mango cheese float
+mango cheese
 mango cream cheese ice
 mango ice creamdy
 mango rice
-manicotti pasta direction
+manicotti pasta
 maple
 margarita
-marie biscuits
 marshmallow
 masago
 mascarpone cheese
@@ -392,40 +258,30 @@ maya
 maya pancake
 mayonnaise
 mccormick yam
-meal pasta penne
 melon
 meringue cookie
-mg maggi lemon
 milk
 milk adjust
-milk anchor nido
 milk chocolate toffee
-milk hour
-milk nido
 milk nut
-milk sweetness preference
 milk vinegar
-milo chocolate
 mini marshmallow
 mint
 miso
 mocha
-mocha coffee sponge
+mocha coffee
+monosodium glutamate
 mooring
 moscato
 mud crab
+muffin
 mungo bean
 mushroom
 mushroom cap
 mustard
 mustasa
 nan
-native kutsinta
 navy bean
-nestlé carnation condensada
-nestlé carnation evap
-nestlé cream
-nestlé milk
 nova
 nut
 nut gelatin
@@ -436,7 +292,6 @@ oil
 oil chicken
 oil mould
 oil peanut
-oil sauteing
 oil vegetable
 okra
 onion
@@ -457,7 +312,6 @@ palapang
 panigang
 papaya
 papaya gelatin
-papaya puree
 papayas
 paprika
 parmesan
@@ -465,10 +319,8 @@ parseley
 parsley
 pasta
 pasta al dente
-pasta direction
-pasta packaging direction
+pasta packaging
 pasta sauce cheese
-pasta sauce kind
 patani
 pea
 peach
@@ -479,11 +331,8 @@ pear
 peas
 peas carrot
 peas carrot corn
-penne rigate pasta
 pepper
 pepper cajun
-pepper fingerling
-pepper jar
 pepperidge farm puff
 pepperoncini
 pepperoni
@@ -491,26 +340,23 @@ phosphate
 pias
 picadillo
 pickle
-pickling spice cheesecloth
+pickling
 pico gallo
-pinche
-pinche monosodium glutamate
+pie
+pie crust
 pineapple
 pineapple glaze lemon
-pineapple tidbid
 plum
 plum tomato dice
 pork
 pork cabbage
 pork cheek
-pork chicken version
 pork egg rice
 pork grease
 pork maskara
 pork pigue
 pork sarsa
 pork stew
-pork variety product
 potato
 potato pasta
 potato yam
@@ -518,44 +364,28 @@ potstoe
 prune
 pudding
 puff
-puff container day week
-puto cheese
-puto coconut
-puto texture
+puff day week
+puto cupcake
 quail
-quaker oat
-quart
-quart chicken broth
-quart coconut milk
-quart oil
 quesadilla
 rabbit
 raddish
 radish
 raisin
-raw shrimp
 relish
 rib
 rice
-rice flour dredging
-rice puto
-rice vinegar alcohol
-risotto rice
-rocky road ice cream milo
 rosemary
 rousong
-rum
-safflower saffron
 saffron
 salad oil
 salsa
 salt
-salt fish
-salt pepper season chicken
-salt pepper thyme rosemary
 saluyot
 sambo
 samgyupsal
+sampalok
+sampalok taro
 santol
 sapin
 sapsap
@@ -563,18 +393,12 @@ sauce
 sauce pepper chili
 sausage
 sausage pineapple
-scoop vanilla ice cream
 seaweed
-self flour
 sesame
 shichimi togarashi
 shiromiso
-shortening
 shrimp
 sibot
-silken tofu
-silvanas sylvanas
-silvannas
 sinamak
 siosa
 snail
@@ -583,108 +407,54 @@ soy
 soy milk
 soy sauce
 soybean
-soybean sprout
 soysauce
-special puto
-special puto cupcake
-special puto cupcake egg
-special puto sponge
-spice
 spinach
 spinach pasta
-splash lemon
-sponge
-sponge cream
-spread
-sprig basil
-sprig cilantro
-sprig onion wrapper
-sprig thyme
-sprig wrapper onion
 sprite
 squash
-squash puree
-squash spice
 squid
-star
-star anise
-store litson baka
-strand bean
-strand coconut
+string bean
 sugar
-sugar cheese
-sugar chocolate
-sugar cinnamon
-sugar dredging
-sugar preference chocolate
-sugar salt
-sugar sweetness preference
-sugar tray
 sunflower
 swai
 sweet potato
 taco
 taisan
-taisan loaf
 tajure
 tamarind
 tapatio
 taro
-taro ice cream
 tarragon
-taste
-tbspcoconut cream
 tea
 tenderizer
 tengang daga
 tequila
-tetra nestlé cream
 thyme
 tibok
 tikoy
-toast up
+toast
 tofu
 tomato
-tomato salt
-tomato sauce salt
-topping baking separate
 tostada
-tsps ginger
-tsps lye
-tsps salt
-tsps sugar
-tsps worchestershire sauce
-tube tofu
 turmeric
 turnip
 vanilla
-vanilla pudding
 veal beef
 vegetable
 vegetable salt
 veggie
-velveeta cheese
-velvet chesecake
 vinegar
-vinegar acidity
-vinegar pinakurat
-vinegar salt sugar pepper
-vitamin c
+vitamin
 wasabi
 watercress
+wheat pasta
 whip
 wholemeal crumb bread
-window
+worchestershire sauce
 wrapper
 wrapper lumpia
 yam
-yam bread
-yam coconut ice cream
-yam halaya store
-yam ice cream
-yam kalamay
-yam puto cheese
-yam puto muffin
+yam pasta
 yam root
 yeast
 yogurt
