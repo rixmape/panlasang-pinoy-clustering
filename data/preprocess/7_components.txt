@@ -2,7 +2,6 @@ achiote
 alcohol
 allspice
 amaranth
-ampalayang uwak
 anatto
 anchovy
 anise
@@ -201,8 +200,6 @@ ice
 ice cream
 inutak
 jackfruit
-jackfruit cheesecake
-jackfruit pulp
 jute
 kahlua
 kakanin lansong
@@ -245,14 +242,12 @@ mamon
 mango
 mango cheese
 mango cream cheese ice
-mango ice creamdy
 mango rice
 manicotti pasta
 maple
 margarita
 marshmallow
 masago
-mascarpone cheese
 matambaka
 maya
 maya pancake
@@ -262,10 +257,8 @@ melon
 meringue cookie
 milk
 milk adjust
-milk chocolate toffee
 milk nut
 milk vinegar
-mini marshmallow
 mint
 miso
 mocha
@@ -285,7 +278,6 @@ navy bean
 nova
 nut
 nut gelatin
-nut meringue cream
 oat
 oats oat
 oil
@@ -300,7 +292,6 @@ onion sesame
 onion wrapper
 orange
 orange muffin
-orange pineapple peach
 ore banana
 ore potato
 oregano
@@ -326,14 +317,12 @@ pea
 peach
 peach mango pie
 peanut
-peanut butter cheesecake brownie
 pear
 peas
 peas carrot
 peas carrot corn
 pepper
 pepper cajun
-pepperidge farm puff
 pepperoncini
 pepperoni
 phosphate
@@ -345,13 +334,12 @@ pico gallo
 pie
 pie crust
 pineapple
-pineapple glaze lemon
+pineapple lemon
 plum
 plum tomato dice
 pork
 pork cabbage
 pork cheek
-pork egg rice
 pork grease
 pork maskara
 pork pigue
@@ -390,9 +378,7 @@ santol
 sapin
 sapsap
 sauce
-sauce pepper chili
 sausage
-sausage pineapple
 seaweed
 sesame
 shichimi togarashi
@@ -409,7 +395,6 @@ soy sauce
 soybean
 soysauce
 spinach
-spinach pasta
 sprite
 squash
 squid
@@ -433,6 +418,7 @@ thyme
 tibok
 tikoy
 toast
+toffee
 tofu
 tomato
 tostada
@@ -441,7 +427,6 @@ turnip
 vanilla
 veal beef
 vegetable
-vegetable salt
 veggie
 vinegar
 vitamin
@@ -449,7 +434,7 @@ wasabi
 watercress
 wheat pasta
 whip
-wholemeal crumb bread
+wholemeal
 worchestershire sauce
 wrapper
 wrapper lumpia

@@ -476,6 +476,16 @@
         "vinegar",
         "chili"
     ],
+    "jackfruit cheesecake": [
+        "jackfruit",
+        "flour",
+        "sugar",
+        "butter",
+        "egg",
+        "milk",
+        "cream",
+        "cheese"
+    ],
     "katsu sauce": [
         "soy sauce",
         "ketchup",
@@ -494,6 +504,16 @@
         "lemon",
         "soda"
     ],
+    "mango cream cheese ice cream": [
+        "mango",
+        "cream",
+        "cheese",
+        "ice cream"
+    ],
+    "mango ice creamdy": [
+        "mango",
+        "ice cream"
+    ],
     "mango sugar": [
         "mango",
         "sugar"
@@ -501,6 +521,11 @@
     "meringue": [
         "sugar",
         "egg"
+    ],
+    "milk chocolate toffee": [
+        "milk",
+        "chocolate",
+        "toffee"
     ],
     "milk flan": [
         "milk",
@@ -519,6 +544,17 @@
         "mushroom",
         "clam"
     ],
+    "nut meringue cream": [
+        "nut",
+        "sugar",
+        "egg",
+        "milk"
+    ],
+    "orange pineapple peach": [
+        "orange",
+        "peach",
+        "pineapple"
+    ],
     "pancake": [
         "flour",
         "milk",
@@ -531,6 +567,12 @@
     "peanut butter": [
         "peanut",
         "butter"
+    ],
+    "peanut butter cheesecake brownie": [
+        "peanut",
+        "butter",
+        "cheesecake",
+        "brownie"
     ],
     "pepper soy sauce": [
         "pepper",
@@ -555,6 +597,11 @@
     "pork chicken sauce": [
         "pork",
         "chicken"
+    ],
+    "pork egg rice": [
+        "pork",
+        "egg",
+        "rice"
     ],
     "pork sausage": [
         "pork",
@@ -654,9 +701,18 @@
         "thyme",
         "rosemary"
     ],
+    "sauce pepper chili": [
+        "sauce",
+        "pepper",
+        "chili"
+    ],
     "sausage bread": [
         "sausage",
         "bread"
+    ],
+    "sausage pineapple": [
+        "sausage",
+        "pineapple"
     ],
     "shrimp bisque": [
         "shrimp",
@@ -673,6 +729,10 @@
     "soy sauce pepper": [
         "soy sauce",
         "pepper"
+    ],
+    "spinach pasta": [
+        "spinach",
+        "pasta"
     ],
     "sugar barbecue sauce": [
         "sugar",
@@ -785,6 +845,11 @@
     "wasabi mayonnaise": [
         "wasabi",
         "mayonnaise"
+    ],
+    "wholemeal crumb bread": [
+        "wholemeal",
+        "crumb",
+        "bread"
     ],
     "wrapper chicken": [
         "wrapper",
