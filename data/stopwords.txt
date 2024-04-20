@@ -93,6 +93,7 @@ cut
 dark
 dash
 de
+del
 deli
 diameter
 dinner
@@ -178,6 +179,7 @@ home
 homemade
 homestyle
 hong
+hunt
 icing
 idol
 ikea
@@ -208,11 +210,13 @@ kalitiran
 kawaii
 kawali
 kfc
+kg
 kidney
 kielbasa
 kilo
 king
 kitchen
+kl
 knob
 knorr
 knot
@@ -258,6 +262,7 @@ minute
 mix
 ml
 monamon
+monte
 monterey
 monterrey
 morcon
@@ -405,6 +410,9 @@ tablespoon
 tagalog
 tail
 tap
+tbl
+tbls
+tbs
 tbsp
 teaspon
 teaspoon
