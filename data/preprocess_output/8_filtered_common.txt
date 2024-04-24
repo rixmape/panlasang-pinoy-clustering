@@ -102,7 +102,6 @@ flour
 frog
 galangal root
 garbanzos
-garlic
 gato
 gelatin
 gelatine
@@ -183,9 +182,7 @@ navy bean
 nova
 nut
 oat
-oil
 okra
-onion
 onion wrapper
 orange
 oregano
@@ -202,7 +199,6 @@ peach
 peanut
 pear
 peas
-pepper
 pepper cajun
 pepperoncini
 pepperoni
@@ -234,7 +230,6 @@ rousong
 saffron
 salad oil
 salsa
-salt
 saluyot
 sambo
 samgyupsal
@@ -258,7 +253,6 @@ soysauce
 spinach
 squash
 squid
-sugar
 sunflower
 swai
 sweet potato

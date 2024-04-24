@@ -345,7 +345,6 @@ coffee
 coffee coffee coffee buttercream
 coke
 cola
-cold
 coleslaw
 collard
 condensada
@@ -392,6 +391,7 @@ cream corn
 cream cream
 cream milk
 cream mushroom
+cream puff
 cream pumpkin
 cream tartar
 creole
@@ -558,8 +558,6 @@ hasa hasa
 hash brown
 hashbrown potato
 hass avocado
-heat
-heat cream puff
 herring
 hibi
 hito
@@ -740,8 +738,6 @@ matambaka
 mato
 matoes
 maui onion
-maya maya
-maya pancake
 mayonnaise
 mayonnise
 mccormick ube
@@ -797,7 +793,6 @@ nan
 nata coco
 navy bean
 noodle
-noodle packaging
 nori
 nori seaweed
 nova
@@ -835,7 +830,6 @@ oyster
 oyster mushroom
 oyster sauce
 ozcream mushroom
-packagepepperidge farm puff
 pair cookie
 pak choi
 palabok noodle
@@ -897,7 +891,7 @@ pepper fish sauce
 pepper pepper
 pepper shrimp
 peppercorn
-pepperidge farm puff
+pepperidge puff
 pepperoncini
 pepperoni
 phosphate
@@ -1258,7 +1252,6 @@ vinaigrette
 vinegar
 vinegar salt sugar pepper
 vinegar sukang
-vitamin
 vodka
 wakame seaweed
 walnut
