@@ -1,0 +1,288 @@
+achiote
+alcohol
+amaranth
+anchovy
+anise
+annatto
+apple
+artichoke
+arugula
+asparagus
+avocado
+avocado oil
+baboy
+baking
+baking soda
+bamboo
+banana
+barbecue sauce
+basil
+batter
+bay leaf
+bean
+beef
+beef broth
+bell pepper
+berry
+bilong
+biscuits
+bitter gourd
+bittermelon
+boba
+bok choy
+bread
+broas
+broccoli
+broth
+brownie
+buchi
+butter
+buttermilk
+butterscotch
+cabbage
+cajun
+calamansi
+calf
+caper
+cardamom
+carrot
+cassava
+cauliflower
+celery
+celery cilantro
+chayote
+cheese
+cheesecake
+cherry
+chicken
+chicken broth
+chili
+chilis
+chocolate
+churro
+cilantro
+cinnamon
+clam
+cloud
+cloves
+coca cola
+coconut
+coffee
+cola
+cookie
+coriander
+corn
+corn oil
+corntarch
+crab
+cream
+cream puff
+creole
+crinkle
+crumb
+crust
+cucumber
+cumin
+cupcake
+dashi
+date
+dill
+dish pie
+donut
+duck
+dumpling
+egg
+eggplant
+farfalle
+fish
+fish broth
+fish sauce
+flan
+flour
+frog
+galangal root
+garbanzos
+gato
+gelatin
+gelatine
+ginger
+glucose
+goat
+gourd
+grahams
+grape
+grapefruit
+guava
+gyoza
+halaan
+hasa
+herring
+hito
+honey
+honeydew
+horse
+ice
+ice cream
+inutak
+island dressing
+jackfruit
+jute
+kahlua
+kakanin lansong
+kalamay
+kang
+ketchup
+kiwi
+labahita
+labong
+ladyfinger
+lamb
+lansong
+lato
+lemon
+lemongrass
+lettuce
+liverwurst
+loofah
+lumpia
+lychee
+lye
+mace
+maja gelatin
+malasugi
+malunggay
+mamon
+mango
+manicotti pasta
+maple
+margarita
+marshmallow
+masago
+matambaka
+mayonnaise
+mccormick yam
+melon
+meringue cookie
+milk
+mint
+miso
+mochi
+monosodium glutamate
+mooring
+moscato
+mud crab
+muffin
+mungo bean
+mushroom
+mustard
+mustasa
+nan
+nata chocolate
+navy bean
+nova
+nut
+oat
+okra
+onion wrapper
+orange
+oregano
+pair cookie
+palapang
+panigang
+papaya
+paprika
+parsley
+pasta
+patani
+pea
+peach
+peanut
+pear
+peas
+pepper cajun
+pepperoncini
+pepperoni
+phosphate
+pias
+picadillo
+pickle
+pickling
+pico gallo
+pie
+pineapple
+plum
+plum tomato dice
+pork
+potato
+potstoe
+prune
+pudding
+puto
+quesadilla
+rabbit
+radish
+raisin
+relish
+rib
+rice
+rosemary
+rousong
+saffron
+salad oil
+salsa
+saluyot
+sambo
+samgyupsal
+santol
+sapin
+sapsap
+sauce
+sausage
+seaweed
+sesame
+shichimi togarashi
+shiromiso
+shrimp
+sibot
+sinamak
+siosa
+snail
+soda
+soy sauce
+soysauce
+spinach
+squash
+squid
+sunflower
+swai
+sweet potato
+taco
+taisan
+tajure
+tamarind
+tapatio
+taro
+tarragon
+tea
+tequila
+thyme
+tibok
+tikoy
+toast
+toffee
+tofu
+tomato
+tostada
+turmeric
+turnip
+vanilla
+vegetable
+vinegar
+wasabi
+whip
+wholemeal
+worchestershire sauce
+wrapper
+yam
+yeast
+yogurt

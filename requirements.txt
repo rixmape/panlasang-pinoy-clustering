@@ -80,6 +80,7 @@ pandocfilters==1.5.1
 parso==0.8.4
 pillow==10.3.0
 platformdirs==4.2.0
+plotly==5.21.0
 preshed==3.0.9
 prometheus_client==0.20.0
 prompt-toolkit==3.0.43
@@ -118,6 +119,7 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.4.8
 stack-data==0.6.3
+tenacity==8.2.3
 terminado==0.18.1
 thinc==8.2.3
 threadpoolctl==3.4.0
