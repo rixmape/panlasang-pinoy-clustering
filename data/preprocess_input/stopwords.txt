@@ -1,3 +1,6 @@
+farm
+packagepepperidge
+vitamin
 abc
 acidity
 alamang
@@ -90,6 +93,7 @@ cob
 cobs
 coil
 colby
+cold
 color
 coloring
 colossal
@@ -207,6 +211,7 @@ hamonado
 hand
 head
 heart
+heat
 herb
 hershey
 hint
@@ -302,6 +307,7 @@ marrow
 mascarpone
 masentery
 matchstick
+maya
 meal
 meat
 med
@@ -345,6 +351,7 @@ oven
 oz
 pack
 package
+packaging
 packet
 paella
 pampanga
