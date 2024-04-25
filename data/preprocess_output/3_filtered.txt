@@ -316,7 +316,6 @@ cinnamon nutmeg
 cinnamon sugar
 clam
 clam mussel
-cloud
 clove
 clove clove garlic
 clove garlic
@@ -788,7 +787,6 @@ navy bean
 noodle
 nori
 nori seaweed
-nova
 nut
 nutella
 nutmeg
@@ -823,7 +821,6 @@ oyster
 oyster mushroom
 oyster sauce
 ozcream mushroom
-pair cookie
 pak choi
 palabok noodle
 palapang
@@ -839,7 +836,6 @@ pancit miki
 pancit noodle
 pandan
 pandesal
-panigang
 pansit
 pansit bihon
 panutsa

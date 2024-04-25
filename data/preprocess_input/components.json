@@ -84,11 +84,18 @@
         "cream",
         "cheese"
     ],
+    "batter": [
+        "flour",
+        "sugar",
+        "salt",
+        "egg",
+        "milk"
+    ],
     "bean masala": [
         "cumin",
         "coriander",
         "cinnamon",
-        "cloves",
+        "garlic",
         "cardamom",
         "pepper"
     ],
@@ -176,6 +183,9 @@
         "egg",
         "sugar",
         "vanilla"
+    ],
+    "broth": [
+        "beef broth"
     ],
     "buchi": [
         "flour",
@@ -279,7 +289,7 @@
         "coriander",
         "turmeric",
         "cinnamon",
-        "cloves",
+        "garlic",
         "cardamom",
         "pepper",
         "chili",
@@ -383,7 +393,7 @@
         "chocolate",
         "nut"
     ],
-    "churros": [
+    "churro": [
         "flour",
         "sugar",
         "butter",
@@ -487,6 +497,13 @@
         "cream",
         "mushroom"
     ],
+    "cream puff": [
+        "flour",
+        "sugar",
+        "butter",
+        "egg",
+        "milk"
+    ],
     "cream squash": [
         "cream",
         "squash"
@@ -519,7 +536,7 @@
         "coriander",
         "ginger",
         "cinnamon",
-        "cloves",
+        "garlic",
         "cardamom",
         "pepper",
         "chili",
@@ -619,7 +636,7 @@
         "cumin",
         "coriander",
         "cinnamon",
-        "cloves",
+        "garlic",
         "cardamom",
         "pepper"
     ],
@@ -681,9 +698,24 @@
         "honey",
         "mustard"
     ],
+    "inutak": [
+        "flour",
+        "sugar",
+        "salt",
+        "milk",
+        "coconut",
+        "cream",
+        "yam"
+    ],
     "jackfruit cheesecake": [
         "jackfruit",
-        "cheesecake"
+        "flour",
+        "sugar",
+        "butter",
+        "egg",
+        "milk",
+        "cream",
+        "cheese"
     ],
     "kalamay yam": [
         "yam",
@@ -858,8 +890,14 @@
     "peanut butter cheesecake brownie": [
         "peanut",
         "butter",
-        "cheesecake",
-        "brownie"
+        "flour",
+        "sugar",
+        "butter",
+        "egg",
+        "milk",
+        "cream",
+        "cheese",
+        "chocolate"
     ],
     "peas carrot": [
         "peas",
@@ -879,6 +917,14 @@
         "tomato",
         "potato",
         "carrot"
+    ],
+    "pico gallon": [
+        "onion",
+        "tomato",
+        "chili",
+        "cilantro",
+        "lime",
+        "salt"
     ],
     "pineapple lemon": [
         "pineapple",
@@ -993,6 +1039,15 @@
     "sausage pineapple": [
         "sausage",
         "pineapple"
+    ],
+    "shichimi togarashi": [
+        "chili",
+        "sesame",
+        "orange",
+        "pepper",
+        "seaweed",
+        "ginger",
+        "sichuan"
     ],
     "shrimp beef broth": [
         "shrimp broth",

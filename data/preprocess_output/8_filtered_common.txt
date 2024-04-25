@@ -15,7 +15,6 @@ bamboo
 banana
 barbecue sauce
 basil
-batter
 bay leaf
 bean
 beef
@@ -28,7 +27,6 @@ boba
 bok choy
 bread
 broccoli
-broth
 brownie
 butter
 buttermilk
@@ -41,18 +39,14 @@ cauliflower
 celery
 chayote
 cheese
-cheesecake
 cherry
 chicken
 chicken broth
 chili
 chocolate
-churro
 cilantro
 cinnamon
 clam
-cloud
-cloves
 coconut
 coffee
 cola
@@ -69,7 +63,6 @@ cucumber
 cumin
 cupcake
 dashi
-date
 dill
 donut
 duck
@@ -84,10 +77,8 @@ flan
 flour
 frog
 galangal root
-garbanzos
 gato
 gelatin
-gelatine
 ginger
 glucose
 goat
@@ -97,15 +88,11 @@ grape
 grapefruit
 guava
 gyoza
-halaan
-hasa
-herring
 hito
 honey
 horse
 ice
 ice cream
-inutak
 island dressing
 jackfruit
 jute
@@ -118,7 +105,6 @@ lato
 lemon
 lemongrass
 lettuce
-liverwurst
 lumpia
 lychee
 lye
@@ -143,28 +129,22 @@ mustasa
 nan
 nata chocolate
 navy bean
-nova
 nut
 oat
 okra
 onion wrapper
 orange
 oregano
-pair cookie
 palapang
-panigang
 papaya
 paprika
 parsley
 pasta
-patani
 pea
 peach
 peanut
 pear
 peas
-pepper cajun
-pepperoncini
 pepperoni
 phosphate
 pias
@@ -176,8 +156,6 @@ plum
 pork
 pork broth
 potato
-potstoe
-prune
 pudding
 puto
 quesadilla
@@ -196,15 +174,14 @@ sambo
 samgyupsal
 santol
 sapin
-sapsap
 sauce
 sausage
 seaweed
 sesame
-shichimi togarashi
 shrimp
 shrimp broth
 sibot
+sichuan
 siosa
 snail
 soda
@@ -227,7 +204,6 @@ tequila
 thyme
 tibok
 tikoy
-toast
 toffee
 tofu
 tomato

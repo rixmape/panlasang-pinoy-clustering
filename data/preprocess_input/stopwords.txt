@@ -83,6 +83,7 @@ chow
 chuck
 chunk
 chunky
+cloud
 cloved
 cluster
 coating
@@ -345,6 +346,7 @@ new
 ng
 nido
 nonstick
+nova
 o
 odong
 olive
@@ -360,9 +362,11 @@ packagepepperidge
 packaging
 packet
 paella
+pair
 pampanga
 pan
 pancrea
+panigang
 pansigang
 paombing
 paombong

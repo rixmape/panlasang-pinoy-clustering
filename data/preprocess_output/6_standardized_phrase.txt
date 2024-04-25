@@ -21,7 +21,6 @@ banana
 banana berry
 banana berry muffin
 banana bread
-banana bread toast
 banana brownie
 banana chocolate cookie
 banana chocolate muffin
@@ -129,7 +128,6 @@ cinnamon
 cinnamon bread
 cinnamon sugar
 clam
-cloud
 coconunut milk
 coconut
 coconut bread
@@ -172,7 +170,6 @@ curry powder
 custard
 daing fish
 dashi
-date
 dill
 donut
 dried fish
@@ -202,7 +199,6 @@ flour milk
 frog
 galangal root
 garam masala
-garbanzos
 garlic
 garlic oil
 garlic onion
@@ -212,7 +208,6 @@ garlic rice
 garlic salt
 gato
 gelatin
-gelatine
 ginger
 glucose
 goat
@@ -223,9 +218,6 @@ grapefruit
 gravy
 guava
 gyoza
-halaan
-hasa
-herring
 hito
 hollandaise sauce
 honey
@@ -256,7 +248,6 @@ lemon soda
 lemon soda shrimp
 lemongrass
 lettuce
-liverwurst
 lumpia
 lychee
 lye
@@ -294,7 +285,6 @@ mustasa
 nan
 nata chocolate
 navy bean
-nova
 nut
 nut gelatin
 nut meringue cream
@@ -309,17 +299,14 @@ orange
 orange muffin
 orange pineapple peach
 oregano
-pair cookie
 palapang
 pancake
-panigang
 papaya
 papaya gelatin
 paprika
 parsley
 pasta
 pasta sauce cheese
-patani
 pea
 pea carrot
 peach
@@ -332,9 +319,7 @@ peas
 peas carrot
 peas carrot corn
 pepper
-pepper cajun
 pepper soy sauce
-pepperoncini
 pepperoni
 phosphate
 pias
@@ -360,8 +345,6 @@ pork soy sauce
 pork soy sauce vinegar
 potato
 potato pasta
-potstoe
-prune
 pudding
 puff
 puto
@@ -391,7 +374,6 @@ sambo
 samgyupsal
 santol
 sapin
-sapsap
 sauce
 sauce pepper chili
 sausage
@@ -442,7 +424,6 @@ tequila
 thyme
 tibok
 tikoy
-toast
 tofu
 tofu fish
 tomato

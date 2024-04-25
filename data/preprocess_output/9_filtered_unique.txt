@@ -1,15 +1,10 @@
-achiote
 alcohol
-amaranth
 anchovy
 anise
 annatto
 apple
-artichoke
-arugula
 asparagus
 avocado
-baboy
 baking soda
 bamboo
 banana
@@ -21,7 +16,6 @@ beef
 beef broth
 bell pepper
 berry
-biscuits
 bitter gourd
 boba
 bok choy
@@ -58,58 +52,40 @@ crab
 cream
 cream puff
 crumb
-crust
 cucumber
 cumin
 cupcake
 dashi
 dill
-donut
 duck
-dumpling
 egg
 eggplant
-farfalle
 fish
 fish broth
 fish sauce
-flan
 flour
 frog
-galangal root
-garlic
 gato
 gelatin
 ginger
 glucose
 goat
 gourd
-grahams
 grape
-grapefruit
 guava
-gyoza
-hito
 honey
-horse
 ice
 ice cream
-island dressing
 jackfruit
-jute
 kalamay
 ketchup
-kiwi
 labong
 lamb
-lato
 lemon
 lemongrass
 lettuce
-lumpia
 lychee
 lye
-mace
 malunggay
 mango
 maple
@@ -120,21 +96,15 @@ milk
 mint
 miso
 mochi
-mooring
-moscato
 muffin
 mungo bean
 mushroom
 mustard
-mustasa
 nan
 nata chocolate
-navy bean
 nut
 oat
-oil
 okra
-onion
 onion wrapper
 orange
 oregano
@@ -146,12 +116,8 @@ pasta
 pea
 peach
 peanut
-pear
 peas
-pepper
-pepperoni
 phosphate
-pias
 pickle
 pico gallo
 pie
@@ -160,24 +126,16 @@ plum
 pork
 pork broth
 potato
-pudding
 puto
-quesadilla
-rabbit
 radish
 raisin
 relish
 rib
 rice
 rosemary
-rousong
 saffron
-salsa
-salt
 saluyot
-sambo
 samgyupsal
-santol
 sapin
 sauce
 sausage
@@ -186,7 +144,6 @@ sesame
 shrimp
 shrimp broth
 sibot
-sichuan
 siosa
 snail
 soda
@@ -194,36 +151,23 @@ soy sauce
 spinach
 squash
 squid
-sugar
 sunflower
-swai
 sweet potato
 taco
 taisan
-tajure
 tamarind
-tapatio
 taro
-tarragon
 tea
-tequila
 thyme
 tibok
-tikoy
-toffee
 tofu
 tomato
-tostada
-turmeric
 turnip
 vanilla
 vegetable
 vegetable broth
 vinegar
 wasabi
-whip
-wholemeal
-worchestershire sauce
 wrapper
 yam
 yeast

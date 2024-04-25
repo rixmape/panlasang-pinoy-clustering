@@ -47,7 +47,6 @@ banana blossom
 banana blossom bulaklak saging
 banana bread
 banana bread bread
-banana bread toast
 banana brownie
 banana chili
 banana chocolate cookie
@@ -220,7 +219,6 @@ clam
 clam clam
 clam mushroom
 clam sauce
-cloud
 coca cola
 coconunut milk
 coconut
@@ -281,7 +279,6 @@ custard
 custard flan
 daing fish
 dashi
-date
 day bread
 day rice
 dijon mustard
@@ -344,7 +341,6 @@ frog
 galangal root
 game hen
 garam masala
-garbanzos
 garlic
 garlic garlic
 garlic garlic garlic
@@ -359,7 +355,6 @@ gato
 gelatin
 gelatin flour
 gelatin gelatin
-gelatine
 gherkins pickle
 ginataang gulay
 ginger
@@ -382,11 +377,8 @@ guajillo chili
 guava
 gyoza
 gyoza wrapper
-halaan
-hasa hasa
 hash brown
 hass avocado
-herring
 hito
 hog casing
 hoisin sauce
@@ -438,7 +430,6 @@ lemongrass
 lettuce
 lettuce lettuce
 litson baka
-liverwurst
 lumpia
 lumpia wrapper
 lumpia wrapper wrapper
@@ -491,7 +482,6 @@ mustasa
 nan
 nata chocolate
 navy bean
-nova
 nut
 nut flour
 nut gelatin
@@ -527,11 +517,9 @@ oregano
 overripe banana
 oxtail
 ozcream mushroom
-pair cookie
 pak choi
 palapang
 pancake
-panigang
 papaya
 papaya gelatin
 papaya papaya
@@ -543,7 +531,6 @@ pasta pasta
 pasta pasta al dente
 pasta sauce
 pasta sauce cheese pasta sauce
-patani
 pea
 pea carrot
 peach
@@ -567,7 +554,6 @@ pepper pepper
 pepper shrimp
 pepper soy sauce sauce
 pepperidge puff
-pepperoncini
 pepperoni
 phosphate
 pias
@@ -586,6 +572,7 @@ pinot grigio
 pita bread
 pizza flour
 pizza sauce
+plum
 plum sauce
 plum tomato
 plum tomato dice
@@ -616,8 +603,6 @@ potato flour
 potato pasta
 potato potato
 potato yam
-potstoe
-prune
 pudding
 puff
 puff day week
@@ -670,7 +655,6 @@ sambo
 samgyupsal
 santol
 sapin sapin
-sapsap
 sauce
 sauce pepper chili
 sausage
@@ -755,7 +739,6 @@ thyme
 tibok tibok
 tikoy
 tinta calamar
-toast
 tofu
 tofu fish
 tomato

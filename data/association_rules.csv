@@ -10,7 +10,9 @@ frozenset({'bay leaf'}),frozenset({'pork'})
 frozenset({'bay leaf'}),frozenset({'vinegar'})
 frozenset({'okra'}),frozenset({'bean'})
 frozenset({'radish'}),frozenset({'bean'})
+frozenset({'squash'}),frozenset({'bean'})
 frozenset({'bread'}),frozenset({'egg'})
+frozenset({'butter'}),frozenset({'egg'})
 frozenset({'celery'}),frozenset({'carrot'})
 frozenset({'pea'}),frozenset({'carrot'})
 frozenset({'raisin'}),frozenset({'carrot'})
@@ -18,6 +20,7 @@ frozenset({'chicken broth'}),frozenset({'chicken'})
 frozenset({'tamarind'}),frozenset({'chili'})
 frozenset({'chocolate'}),frozenset({'egg'})
 frozenset({'chocolate'}),frozenset({'flour'})
+frozenset({'chocolate'}),frozenset({'milk'})
 frozenset({'chocolate'}),frozenset({'vanilla'})
 frozenset({'flour'}),frozenset({'egg'})
 frozenset({'milk'}),frozenset({'egg'})
@@ -35,344 +38,351 @@ frozenset({'vanilla'}),frozenset({'milk'})
 frozenset({'radish'}),frozenset({'okra'})
 frozenset({'okra'}),frozenset({'tomato'})
 frozenset({'radish'}),frozenset({'spinach'})
-frozenset({'tamarind'}),frozenset({'radish'})
 frozenset({'radish'}),frozenset({'tamarind'})
+frozenset({'tamarind'}),frozenset({'radish'})
 frozenset({'radish'}),frozenset({'tomato'})
 frozenset({'tamarind'}),frozenset({'spinach'})
 frozenset({'spinach'}),frozenset({'tomato'})
 frozenset({'tamarind'}),frozenset({'tomato'})
-"frozenset({'alcohol', 'soy sauce'})",frozenset({'cornstarch'})
-"frozenset({'alcohol', 'cornstarch'})",frozenset({'soy sauce'})
+"frozenset({'soy sauce', 'alcohol'})",frozenset({'cornstarch'})
+"frozenset({'cornstarch', 'alcohol'})",frozenset({'soy sauce'})
 "frozenset({'ginger', 'alcohol'})",frozenset({'soy sauce'})
-"frozenset({'egg', 'baking soda'})",frozenset({'butter'})
-"frozenset({'butter', 'baking soda'})",frozenset({'egg'})
-"frozenset({'butter', 'baking soda'})",frozenset({'flour'})
+"frozenset({'baking soda', 'egg'})",frozenset({'butter'})
+"frozenset({'baking soda', 'butter'})",frozenset({'egg'})
+"frozenset({'baking soda', 'butter'})",frozenset({'flour'})
 "frozenset({'baking soda', 'milk'})",frozenset({'butter'})
-"frozenset({'butter', 'baking soda'})",frozenset({'vanilla'})
-"frozenset({'butter', 'vanilla'})",frozenset({'baking soda'})
 "frozenset({'baking soda', 'vanilla'})",frozenset({'butter'})
-"frozenset({'egg', 'chocolate'})",frozenset({'baking soda'})
+"frozenset({'baking soda', 'butter'})",frozenset({'vanilla'})
+"frozenset({'vanilla', 'butter'})",frozenset({'baking soda'})
 "frozenset({'baking soda', 'chocolate'})",frozenset({'egg'})
+"frozenset({'chocolate', 'egg'})",frozenset({'baking soda'})
 "frozenset({'baking soda', 'chocolate'})",frozenset({'flour'})
 "frozenset({'chocolate', 'flour'})",frozenset({'baking soda'})
-"frozenset({'chocolate', 'vanilla'})",frozenset({'baking soda'})
 "frozenset({'baking soda', 'chocolate'})",frozenset({'vanilla'})
-"frozenset({'egg', 'baking soda'})",frozenset({'flour'})
+"frozenset({'chocolate', 'vanilla'})",frozenset({'baking soda'})
 "frozenset({'baking soda', 'flour'})",frozenset({'egg'})
-frozenset({'baking soda'}),"frozenset({'egg', 'flour'})"
+"frozenset({'baking soda', 'egg'})",frozenset({'flour'})
+frozenset({'baking soda'}),"frozenset({'flour', 'egg'})"
 "frozenset({'baking soda', 'milk'})",frozenset({'egg'})
-"frozenset({'egg', 'baking soda'})",frozenset({'vanilla'})
-"frozenset({'egg', 'vanilla'})",frozenset({'baking soda'})
+"frozenset({'baking soda', 'egg'})",frozenset({'vanilla'})
 "frozenset({'baking soda', 'vanilla'})",frozenset({'egg'})
+"frozenset({'egg', 'vanilla'})",frozenset({'baking soda'})
 "frozenset({'baking soda', 'milk'})",frozenset({'flour'})
-"frozenset({'baking soda', 'vanilla'})",frozenset({'flour'})
 "frozenset({'baking soda', 'flour'})",frozenset({'vanilla'})
-"frozenset({'vanilla', 'flour'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'vanilla'})",frozenset({'milk'})
+"frozenset({'baking soda', 'vanilla'})",frozenset({'flour'})
+"frozenset({'flour', 'vanilla'})",frozenset({'baking soda'})
 "frozenset({'baking soda', 'milk'})",frozenset({'vanilla'})
-"frozenset({'egg', 'banana'})",frozenset({'flour'})
+"frozenset({'baking soda', 'vanilla'})",frozenset({'milk'})
 "frozenset({'banana', 'flour'})",frozenset({'egg'})
+"frozenset({'banana', 'egg'})",frozenset({'flour'})
 "frozenset({'bay leaf', 'potato'})",frozenset({'carrot'})
-"frozenset({'bay leaf', 'carrot'})",frozenset({'potato'})
-"frozenset({'bay leaf', 'tomato'})",frozenset({'carrot'})
-"frozenset({'bay leaf', 'carrot'})",frozenset({'tomato'})
+"frozenset({'carrot', 'bay leaf'})",frozenset({'potato'})
+"frozenset({'carrot', 'bay leaf'})",frozenset({'tomato'})
+"frozenset({'tomato', 'bay leaf'})",frozenset({'carrot'})
 "frozenset({'chicken', 'bay leaf'})",frozenset({'soy sauce'})
-"frozenset({'vinegar', 'chicken'})",frozenset({'bay leaf'})
+"frozenset({'chicken', 'vinegar'})",frozenset({'bay leaf'})
 "frozenset({'chicken', 'bay leaf'})",frozenset({'vinegar'})
-"frozenset({'bay leaf', 'soy sauce'})",frozenset({'pork'})
-"frozenset({'bay leaf', 'pork'})",frozenset({'soy sauce'})
-"frozenset({'vinegar', 'bay leaf'})",frozenset({'pork'})
-"frozenset({'bay leaf', 'pork'})",frozenset({'vinegar'})
+"frozenset({'soy sauce', 'bay leaf'})",frozenset({'pork'})
+"frozenset({'pork', 'bay leaf'})",frozenset({'soy sauce'})
+"frozenset({'bay leaf', 'vinegar'})",frozenset({'pork'})
+"frozenset({'pork', 'bay leaf'})",frozenset({'vinegar'})
 "frozenset({'bay leaf', 'potato'})",frozenset({'tomato'})
-"frozenset({'bay leaf', 'tomato'})",frozenset({'potato'})
-"frozenset({'vinegar', 'bay leaf'})",frozenset({'soy sauce'})
-"frozenset({'bay leaf', 'soy sauce'})",frozenset({'vinegar'})
-"frozenset({'vinegar', 'soy sauce'})",frozenset({'bay leaf'})
+"frozenset({'tomato', 'bay leaf'})",frozenset({'potato'})
+"frozenset({'soy sauce', 'vinegar'})",frozenset({'bay leaf'})
+"frozenset({'soy sauce', 'bay leaf'})",frozenset({'vinegar'})
+"frozenset({'bay leaf', 'vinegar'})",frozenset({'soy sauce'})
 "frozenset({'cabbage', 'bean'})",frozenset({'fish sauce'})
-"frozenset({'bean', 'eggplant'})",frozenset({'fish sauce'})
-"frozenset({'fish sauce', 'eggplant'})",frozenset({'bean'})
-"frozenset({'bean', 'eggplant'})",frozenset({'okra'})
-"frozenset({'okra', 'eggplant'})",frozenset({'bean'})
+"frozenset({'eggplant', 'fish sauce'})",frozenset({'bean'})
+"frozenset({'eggplant', 'bean'})",frozenset({'fish sauce'})
+"frozenset({'eggplant', 'bean'})",frozenset({'okra'})
+"frozenset({'eggplant', 'okra'})",frozenset({'bean'})
 "frozenset({'bean', 'okra'})",frozenset({'eggplant'})
-"frozenset({'pork', 'eggplant'})",frozenset({'bean'})
-"frozenset({'bean', 'eggplant'})",frozenset({'pork'})
-"frozenset({'tomato', 'eggplant'})",frozenset({'bean'})
-"frozenset({'bean', 'eggplant'})",frozenset({'tomato'})
-"frozenset({'bean', 'okra'})",frozenset({'fish sauce'})
+"frozenset({'eggplant', 'bean'})",frozenset({'pork'})
+"frozenset({'eggplant', 'pork'})",frozenset({'bean'})
+"frozenset({'eggplant', 'tomato'})",frozenset({'bean'})
+"frozenset({'eggplant', 'bean'})",frozenset({'tomato'})
 "frozenset({'fish sauce', 'okra'})",frozenset({'bean'})
-"frozenset({'bean', 'spinach'})",frozenset({'fish sauce'})
-"frozenset({'fish sauce', 'spinach'})",frozenset({'bean'})
-"frozenset({'tomato', 'bean'})",frozenset({'fish sauce'})
+"frozenset({'bean', 'okra'})",frozenset({'fish sauce'})
+"frozenset({'spinach', 'fish sauce'})",frozenset({'bean'})
+"frozenset({'spinach', 'bean'})",frozenset({'fish sauce'})
 "frozenset({'fish sauce', 'bean'})",frozenset({'tomato'})
+"frozenset({'tomato', 'bean'})",frozenset({'fish sauce'})
 "frozenset({'radish', 'bean'})",frozenset({'okra'})
 "frozenset({'radish', 'okra'})",frozenset({'bean'})
 frozenset({'radish'}),"frozenset({'bean', 'okra'})"
-"frozenset({'bean', 'okra'})",frozenset({'spinach'})
+"frozenset({'spinach', 'bean'})",frozenset({'okra'})
 "frozenset({'spinach', 'okra'})",frozenset({'bean'})
-"frozenset({'bean', 'spinach'})",frozenset({'okra'})
-"frozenset({'tamarind', 'bean'})",frozenset({'okra'})
-"frozenset({'tamarind', 'okra'})",frozenset({'bean'})
-"frozenset({'tomato', 'bean'})",frozenset({'okra'})
+"frozenset({'bean', 'okra'})",frozenset({'spinach'})
+"frozenset({'bean', 'tamarind'})",frozenset({'okra'})
+"frozenset({'okra', 'tamarind'})",frozenset({'bean'})
 "frozenset({'tomato', 'okra'})",frozenset({'bean'})
 "frozenset({'bean', 'okra'})",frozenset({'tomato'})
 frozenset({'okra'}),"frozenset({'tomato', 'bean'})"
 "frozenset({'radish', 'tomato'})",frozenset({'bean'})
 "frozenset({'radish', 'bean'})",frozenset({'tomato'})
 frozenset({'radish'}),"frozenset({'tomato', 'bean'})"
-"frozenset({'tomato', 'spinach'})",frozenset({'bean'})
-"frozenset({'bean', 'spinach'})",frozenset({'tomato'})
-"frozenset({'tamarind', 'tomato'})",frozenset({'bean'})
-"frozenset({'tamarind', 'bean'})",frozenset({'tomato'})
+"frozenset({'spinach', 'tomato'})",frozenset({'bean'})
+"frozenset({'spinach', 'bean'})",frozenset({'tomato'})
+"frozenset({'tomato', 'tamarind'})",frozenset({'bean'})
+"frozenset({'bean', 'tamarind'})",frozenset({'tomato'})
 "frozenset({'chicken', 'bell pepper'})",frozenset({'carrot'})
-"frozenset({'pork', 'bell pepper'})",frozenset({'carrot'})
-"frozenset({'potato', 'bell pepper'})",frozenset({'carrot'})
-"frozenset({'potato', 'carrot'})",frozenset({'bell pepper'})
+"frozenset({'bell pepper', 'pork'})",frozenset({'carrot'})
+"frozenset({'carrot', 'potato'})",frozenset({'bell pepper'})
+"frozenset({'bell pepper', 'potato'})",frozenset({'carrot'})
+"frozenset({'carrot', 'tomato'})",frozenset({'bell pepper'})
 "frozenset({'tomato', 'bell pepper'})",frozenset({'carrot'})
-"frozenset({'tomato', 'carrot'})",frozenset({'bell pepper'})
-"frozenset({'potato', 'tomato'})",frozenset({'bell pepper'})
-"frozenset({'potato', 'bell pepper'})",frozenset({'tomato'})
 "frozenset({'tomato', 'bell pepper'})",frozenset({'potato'})
+"frozenset({'tomato', 'potato'})",frozenset({'bell pepper'})
+"frozenset({'bell pepper', 'potato'})",frozenset({'tomato'})
 "frozenset({'bread', 'butter'})",frozenset({'egg'})
-"frozenset({'bread', 'cheese'})",frozenset({'egg'})
-"frozenset({'bread', 'flour'})",frozenset({'egg'})
+"frozenset({'cheese', 'bread'})",frozenset({'egg'})
+"frozenset({'flour', 'bread'})",frozenset({'egg'})
 "frozenset({'bread', 'milk'})",frozenset({'egg'})
 "frozenset({'bread', 'pork'})",frozenset({'egg'})
-"frozenset({'butter', 'cheese'})",frozenset({'egg'})
-"frozenset({'cheese', 'flour'})",frozenset({'butter'})
-"frozenset({'butter', 'cheese'})",frozenset({'milk'})
+"frozenset({'cheese', 'butter'})",frozenset({'egg'})
+"frozenset({'flour', 'cheese'})",frozenset({'butter'})
 "frozenset({'cheese', 'milk'})",frozenset({'butter'})
+"frozenset({'cheese', 'butter'})",frozenset({'milk'})
 "frozenset({'butter', 'pasta'})",frozenset({'cheese'})
-"frozenset({'egg', 'cream'})",frozenset({'butter'})
-"frozenset({'butter', 'cream'})",frozenset({'egg'})
+"frozenset({'chocolate', 'egg'})",frozenset({'butter'})
+"frozenset({'chocolate', 'butter'})",frozenset({'egg'})
+"frozenset({'chocolate', 'flour'})",frozenset({'butter'})
+"frozenset({'chocolate', 'butter'})",frozenset({'flour'})
+"frozenset({'coconut', 'egg'})",frozenset({'butter'})
+"frozenset({'coconut', 'butter'})",frozenset({'egg'})
+"frozenset({'coconut', 'butter'})",frozenset({'milk'})
+"frozenset({'cream', 'egg'})",frozenset({'butter'})
+"frozenset({'cream', 'butter'})",frozenset({'egg'})
+"frozenset({'flour', 'butter'})",frozenset({'egg'})
 "frozenset({'egg', 'butter'})",frozenset({'flour'})
-"frozenset({'butter', 'flour'})",frozenset({'egg'})
-"frozenset({'egg', 'butter'})",frozenset({'milk'})
 "frozenset({'egg', 'milk'})",frozenset({'butter'})
-"frozenset({'butter', 'milk'})",frozenset({'egg'})
+"frozenset({'egg', 'butter'})",frozenset({'milk'})
+"frozenset({'milk', 'butter'})",frozenset({'egg'})
 "frozenset({'egg', 'vanilla'})",frozenset({'butter'})
-"frozenset({'butter', 'vanilla'})",frozenset({'egg'})
-"frozenset({'butter', 'milk'})",frozenset({'flour'})
-"frozenset({'butter', 'flour'})",frozenset({'milk'})
-"frozenset({'milk', 'flour'})",frozenset({'butter'})
-"frozenset({'butter', 'vanilla'})",frozenset({'flour'})
-"frozenset({'vanilla', 'flour'})",frozenset({'butter'})
-"frozenset({'butter', 'vanilla'})",frozenset({'milk'})
-"frozenset({'cabbage', 'chicken'})",frozenset({'carrot'})
-"frozenset({'cabbage', 'clam'})",frozenset({'carrot'})
+"frozenset({'vanilla', 'butter'})",frozenset({'egg'})
+"frozenset({'flour', 'milk'})",frozenset({'butter'})
+"frozenset({'flour', 'butter'})",frozenset({'milk'})
+"frozenset({'milk', 'butter'})",frozenset({'flour'})
+"frozenset({'flour', 'vanilla'})",frozenset({'butter'})
+"frozenset({'vanilla', 'butter'})",frozenset({'flour'})
+"frozenset({'milk', 'vanilla'})",frozenset({'butter'})
+"frozenset({'vanilla', 'butter'})",frozenset({'milk'})
+"frozenset({'chicken', 'cabbage'})",frozenset({'carrot'})
+"frozenset({'clam', 'cabbage'})",frozenset({'carrot'})
 "frozenset({'clam', 'carrot'})",frozenset({'cabbage'})
-"frozenset({'egg', 'cabbage'})",frozenset({'carrot'})
-"frozenset({'cabbage', 'pasta'})",frozenset({'carrot'})
+"frozenset({'cabbage', 'egg'})",frozenset({'carrot'})
 "frozenset({'cabbage', 'carrot'})",frozenset({'pasta'})
-"frozenset({'pasta', 'carrot'})",frozenset({'cabbage'})
+"frozenset({'cabbage', 'pasta'})",frozenset({'carrot'})
+"frozenset({'carrot', 'pasta'})",frozenset({'cabbage'})
 "frozenset({'cabbage', 'pork'})",frozenset({'carrot'})
 "frozenset({'cabbage', 'soy sauce'})",frozenset({'carrot'})
-"frozenset({'cabbage', 'chicken'})",frozenset({'pasta'})
-"frozenset({'cabbage', 'pasta'})",frozenset({'chicken'})
+"frozenset({'chicken', 'cabbage'})",frozenset({'pasta'})
 "frozenset({'chicken', 'pasta'})",frozenset({'cabbage'})
-"frozenset({'cabbage', 'clam'})",frozenset({'pasta'})
-"frozenset({'pasta', 'clam'})",frozenset({'cabbage'})
-"frozenset({'cabbage', 'clam'})",frozenset({'pork'})
-"frozenset({'pasta', 'soy sauce'})",frozenset({'cabbage'})
+"frozenset({'cabbage', 'pasta'})",frozenset({'chicken'})
+"frozenset({'clam', 'cabbage'})",frozenset({'pasta'})
+"frozenset({'clam', 'pasta'})",frozenset({'cabbage'})
+"frozenset({'clam', 'cabbage'})",frozenset({'pork'})
+"frozenset({'soy sauce', 'pasta'})",frozenset({'cabbage'})
 "frozenset({'cabbage', 'soy sauce'})",frozenset({'pork'})
 "frozenset({'chicken', 'pasta'})",frozenset({'carrot'})
-"frozenset({'pasta', 'carrot'})",frozenset({'chicken'})
+"frozenset({'carrot', 'pasta'})",frozenset({'chicken'})
 "frozenset({'chicken', 'potato'})",frozenset({'carrot'})
 "frozenset({'pork', 'potato'})",frozenset({'carrot'})
-"frozenset({'potato', 'tomato'})",frozenset({'carrot'})
-"frozenset({'potato', 'carrot'})",frozenset({'tomato'})
-"frozenset({'tomato', 'carrot'})",frozenset({'potato'})
-"frozenset({'pasta', 'cream'})",frozenset({'cheese'})
-"frozenset({'cheese', 'flour'})",frozenset({'egg'})
+"frozenset({'carrot', 'tomato'})",frozenset({'potato'})
+"frozenset({'carrot', 'potato'})",frozenset({'tomato'})
+"frozenset({'tomato', 'potato'})",frozenset({'carrot'})
+"frozenset({'cream', 'pasta'})",frozenset({'cheese'})
+"frozenset({'flour', 'cheese'})",frozenset({'egg'})
 "frozenset({'cheese', 'milk'})",frozenset({'egg'})
-"frozenset({'cheese', 'flour'})",frozenset({'milk'})
+"frozenset({'flour', 'cheese'})",frozenset({'milk'})
 "frozenset({'cheese', 'milk'})",frozenset({'flour'})
-"frozenset({'pasta', 'tomato'})",frozenset({'cheese'})
+"frozenset({'tomato', 'pasta'})",frozenset({'cheese'})
 "frozenset({'chicken', 'cornstarch'})",frozenset({'egg'})
 "frozenset({'chicken', 'cornstarch'})",frozenset({'soy sauce'})
-"frozenset({'vinegar', 'chicken'})",frozenset({'soy sauce'})
-"frozenset({'fish sauce', 'coconut'})",frozenset({'chili'})
-"frozenset({'ginger', 'coconut'})",frozenset({'chili'})
+"frozenset({'chicken', 'vinegar'})",frozenset({'soy sauce'})
+"frozenset({'coconut', 'fish sauce'})",frozenset({'chili'})
 "frozenset({'chili', 'coconut'})",frozenset({'ginger'})
-"frozenset({'pork', 'coconut'})",frozenset({'chili'})
+"frozenset({'ginger', 'coconut'})",frozenset({'chili'})
+"frozenset({'coconut', 'pork'})",frozenset({'chili'})
 "frozenset({'shrimp', 'coconut'})",frozenset({'chili'})
 "frozenset({'ginger', 'fish sauce'})",frozenset({'chili'})
 "frozenset({'ginger', 'vinegar'})",frozenset({'chili'})
-"frozenset({'soy sauce', 'chili'})",frozenset({'vinegar'})
-"frozenset({'tamarind', 'tomato'})",frozenset({'chili'})
-"frozenset({'tamarind', 'chili'})",frozenset({'tomato'})
-"frozenset({'egg', 'chocolate'})",frozenset({'flour'})
+"frozenset({'chili', 'tamarind'})",frozenset({'tomato'})
+"frozenset({'tomato', 'tamarind'})",frozenset({'chili'})
 "frozenset({'chocolate', 'flour'})",frozenset({'egg'})
-frozenset({'chocolate'}),"frozenset({'egg', 'flour'})"
+"frozenset({'chocolate', 'egg'})",frozenset({'flour'})
+frozenset({'chocolate'}),"frozenset({'flour', 'egg'})"
+"frozenset({'chocolate', 'egg'})",frozenset({'vanilla'})
 "frozenset({'chocolate', 'vanilla'})",frozenset({'egg'})
-"frozenset({'egg', 'chocolate'})",frozenset({'vanilla'})
-"frozenset({'chocolate', 'vanilla'})",frozenset({'flour'})
 "frozenset({'chocolate', 'flour'})",frozenset({'vanilla'})
-"frozenset({'cornstarch', 'clam'})",frozenset({'soy sauce'})
+"frozenset({'chocolate', 'vanilla'})",frozenset({'flour'})
+"frozenset({'clam', 'cornstarch'})",frozenset({'soy sauce'})
 "frozenset({'ginger', 'coconut'})",frozenset({'fish sauce'})
-"frozenset({'cornstarch', 'flour'})",frozenset({'egg'})
+"frozenset({'flour', 'cornstarch'})",frozenset({'egg'})
 "frozenset({'ginger', 'cornstarch'})",frozenset({'soy sauce'})
 "frozenset({'cornstarch', 'pork'})",frozenset({'soy sauce'})
-"frozenset({'vinegar', 'cornstarch'})",frozenset({'soy sauce'})
+"frozenset({'cornstarch', 'vinegar'})",frozenset({'soy sauce'})
 "frozenset({'cream', 'flour'})",frozenset({'egg'})
 "frozenset({'cream', 'vanilla'})",frozenset({'egg'})
+"frozenset({'flour', 'milk'})",frozenset({'egg'})
 "frozenset({'egg', 'milk'})",frozenset({'flour'})
-"frozenset({'milk', 'flour'})",frozenset({'egg'})
-"frozenset({'pork', 'flour'})",frozenset({'egg'})
+"frozenset({'flour', 'pork'})",frozenset({'egg'})
 "frozenset({'egg', 'vanilla'})",frozenset({'flour'})
-"frozenset({'vanilla', 'flour'})",frozenset({'egg'})
-frozenset({'vanilla'}),"frozenset({'egg', 'flour'})"
+"frozenset({'flour', 'vanilla'})",frozenset({'egg'})
+frozenset({'vanilla'}),"frozenset({'flour', 'egg'})"
 "frozenset({'egg', 'vanilla'})",frozenset({'milk'})
-"frozenset({'vanilla', 'milk'})",frozenset({'egg'})
+"frozenset({'milk', 'vanilla'})",frozenset({'egg'})
 "frozenset({'rice', 'pork'})",frozenset({'egg'})
-"frozenset({'pork', 'eggplant'})",frozenset({'fish sauce'})
-"frozenset({'fish sauce', 'eggplant'})",frozenset({'pork'})
-"frozenset({'tomato', 'eggplant'})",frozenset({'fish sauce'})
-"frozenset({'fish sauce', 'eggplant'})",frozenset({'tomato'})
-"frozenset({'tomato', 'eggplant'})",frozenset({'okra'})
-"frozenset({'okra', 'eggplant'})",frozenset({'tomato'})
-"frozenset({'pork', 'eggplant'})",frozenset({'tomato'})
-"frozenset({'tomato', 'eggplant'})",frozenset({'pork'})
-"frozenset({'fish', 'fish sauce'})",frozenset({'tomato'})
-"frozenset({'tomato', 'okra'})",frozenset({'fish sauce'})
+"frozenset({'eggplant', 'fish sauce'})",frozenset({'pork'})
+"frozenset({'eggplant', 'pork'})",frozenset({'fish sauce'})
+"frozenset({'eggplant', 'fish sauce'})",frozenset({'tomato'})
+"frozenset({'eggplant', 'tomato'})",frozenset({'fish sauce'})
+"frozenset({'eggplant', 'tomato'})",frozenset({'okra'})
+"frozenset({'eggplant', 'okra'})",frozenset({'tomato'})
+"frozenset({'eggplant', 'tomato'})",frozenset({'pork'})
+"frozenset({'eggplant', 'pork'})",frozenset({'tomato'})
+"frozenset({'fish sauce', 'fish'})",frozenset({'tomato'})
 "frozenset({'fish sauce', 'okra'})",frozenset({'tomato'})
-frozenset({'okra'}),"frozenset({'tomato', 'fish sauce'})"
-"frozenset({'radish', 'tomato'})",frozenset({'fish sauce'})
+"frozenset({'tomato', 'okra'})",frozenset({'fish sauce'})
+frozenset({'okra'}),"frozenset({'fish sauce', 'tomato'})"
 "frozenset({'radish', 'fish sauce'})",frozenset({'tomato'})
-frozenset({'radish'}),"frozenset({'tomato', 'fish sauce'})"
-"frozenset({'tamarind', 'fish sauce'})",frozenset({'spinach'})
-"frozenset({'tamarind', 'spinach'})",frozenset({'fish sauce'})
-"frozenset({'tomato', 'spinach'})",frozenset({'fish sauce'})
-"frozenset({'fish sauce', 'spinach'})",frozenset({'tomato'})
-"frozenset({'tamarind', 'tomato'})",frozenset({'fish sauce'})
-"frozenset({'tamarind', 'fish sauce'})",frozenset({'tomato'})
-frozenset({'tamarind'}),"frozenset({'tomato', 'fish sauce'})"
-"frozenset({'vanilla', 'milk'})",frozenset({'flour'})
+"frozenset({'radish', 'tomato'})",frozenset({'fish sauce'})
+frozenset({'radish'}),"frozenset({'fish sauce', 'tomato'})"
+"frozenset({'spinach', 'tamarind'})",frozenset({'fish sauce'})
+"frozenset({'fish sauce', 'tamarind'})",frozenset({'spinach'})
+"frozenset({'spinach', 'fish sauce'})",frozenset({'tomato'})
+"frozenset({'spinach', 'tomato'})",frozenset({'fish sauce'})
+"frozenset({'fish sauce', 'tamarind'})",frozenset({'tomato'})
+"frozenset({'tomato', 'tamarind'})",frozenset({'fish sauce'})
+frozenset({'tamarind'}),"frozenset({'fish sauce', 'tomato'})"
+"frozenset({'milk', 'vanilla'})",frozenset({'flour'})
 "frozenset({'lemon', 'pork'})",frozenset({'soy sauce'})
-"frozenset({'pork', 'okra'})",frozenset({'tomato'})
-"frozenset({'tamarind', 'radish'})",frozenset({'okra'})
-"frozenset({'tamarind', 'okra'})",frozenset({'radish'})
+"frozenset({'okra', 'pork'})",frozenset({'tomato'})
+"frozenset({'radish', 'tamarind'})",frozenset({'okra'})
+"frozenset({'okra', 'tamarind'})",frozenset({'radish'})
 "frozenset({'radish', 'okra'})",frozenset({'tamarind'})
-frozenset({'radish'}),"frozenset({'tamarind', 'okra'})"
+frozenset({'radish'}),"frozenset({'okra', 'tamarind'})"
 "frozenset({'radish', 'tomato'})",frozenset({'okra'})
 "frozenset({'radish', 'okra'})",frozenset({'tomato'})
 "frozenset({'tomato', 'okra'})",frozenset({'radish'})
 frozenset({'radish'}),"frozenset({'tomato', 'okra'})"
-"frozenset({'tamarind', 'okra'})",frozenset({'spinach'})
-"frozenset({'tamarind', 'spinach'})",frozenset({'okra'})
+"frozenset({'spinach', 'tamarind'})",frozenset({'okra'})
+"frozenset({'okra', 'tamarind'})",frozenset({'spinach'})
 "frozenset({'spinach', 'okra'})",frozenset({'tamarind'})
-"frozenset({'tomato', 'okra'})",frozenset({'spinach'})
-"frozenset({'tomato', 'spinach'})",frozenset({'okra'})
+"frozenset({'spinach', 'tomato'})",frozenset({'okra'})
 "frozenset({'spinach', 'okra'})",frozenset({'tomato'})
-"frozenset({'tamarind', 'tomato'})",frozenset({'okra'})
-"frozenset({'tamarind', 'okra'})",frozenset({'tomato'})
+"frozenset({'tomato', 'okra'})",frozenset({'spinach'})
+"frozenset({'tomato', 'tamarind'})",frozenset({'okra'})
+"frozenset({'okra', 'tamarind'})",frozenset({'tomato'})
 "frozenset({'tomato', 'okra'})",frozenset({'tamarind'})
-"frozenset({'potato', 'pork'})",frozenset({'tomato'})
-"frozenset({'tamarind', 'radish'})",frozenset({'spinach'})
-"frozenset({'tamarind', 'spinach'})",frozenset({'radish'})
-"frozenset({'radish', 'spinach'})",frozenset({'tamarind'})
-frozenset({'radish'}),"frozenset({'tamarind', 'spinach'})"
+"frozenset({'pork', 'potato'})",frozenset({'tomato'})
+"frozenset({'spinach', 'radish'})",frozenset({'tamarind'})
+"frozenset({'spinach', 'tamarind'})",frozenset({'radish'})
+"frozenset({'radish', 'tamarind'})",frozenset({'spinach'})
+frozenset({'radish'}),"frozenset({'spinach', 'tamarind'})"
+"frozenset({'spinach', 'radish'})",frozenset({'tomato'})
 "frozenset({'radish', 'tomato'})",frozenset({'spinach'})
-"frozenset({'radish', 'spinach'})",frozenset({'tomato'})
-frozenset({'radish'}),"frozenset({'tomato', 'spinach'})"
-"frozenset({'tamarind', 'radish'})",frozenset({'tomato'})
-"frozenset({'tamarind', 'tomato'})",frozenset({'radish'})
+frozenset({'radish'}),"frozenset({'spinach', 'tomato'})"
 "frozenset({'radish', 'tomato'})",frozenset({'tamarind'})
+"frozenset({'radish', 'tamarind'})",frozenset({'tomato'})
+"frozenset({'tomato', 'tamarind'})",frozenset({'radish'})
+frozenset({'radish'}),"frozenset({'tomato', 'tamarind'})"
 frozenset({'tamarind'}),"frozenset({'radish', 'tomato'})"
-frozenset({'radish'}),"frozenset({'tamarind', 'tomato'})"
-"frozenset({'tamarind', 'tomato'})",frozenset({'spinach'})
-"frozenset({'tamarind', 'spinach'})",frozenset({'tomato'})
-"frozenset({'tomato', 'spinach'})",frozenset({'tamarind'})
-frozenset({'tamarind'}),"frozenset({'tomato', 'spinach'})"
-"frozenset({'egg', 'butter', 'baking soda'})",frozenset({'flour'})
-"frozenset({'egg', 'butter', 'flour'})",frozenset({'baking soda'})
-"frozenset({'egg', 'baking soda', 'flour'})",frozenset({'butter'})
-"frozenset({'butter', 'baking soda', 'flour'})",frozenset({'egg'})
-"frozenset({'butter', 'baking soda'})","frozenset({'egg', 'flour'})"
-"frozenset({'egg', 'butter', 'baking soda'})",frozenset({'milk'})
-"frozenset({'egg', 'baking soda', 'milk'})",frozenset({'butter'})
-"frozenset({'butter', 'baking soda', 'milk'})",frozenset({'egg'})
+"frozenset({'spinach', 'tomato'})",frozenset({'tamarind'})
+"frozenset({'spinach', 'tamarind'})",frozenset({'tomato'})
+"frozenset({'tomato', 'tamarind'})",frozenset({'spinach'})
+frozenset({'tamarind'}),"frozenset({'spinach', 'tomato'})"
+"frozenset({'baking soda', 'flour', 'egg'})",frozenset({'butter'})
+"frozenset({'baking soda', 'flour', 'butter'})",frozenset({'egg'})
+"frozenset({'baking soda', 'egg', 'butter'})",frozenset({'flour'})
+"frozenset({'baking soda', 'butter'})","frozenset({'flour', 'egg'})"
+"frozenset({'baking soda', 'egg', 'milk'})",frozenset({'butter'})
+"frozenset({'baking soda', 'egg', 'butter'})",frozenset({'milk'})
+"frozenset({'baking soda', 'milk', 'butter'})",frozenset({'egg'})
 "frozenset({'baking soda', 'milk'})","frozenset({'egg', 'butter'})"
-"frozenset({'egg', 'butter', 'baking soda'})",frozenset({'vanilla'})
-"frozenset({'egg', 'butter', 'vanilla'})",frozenset({'baking soda'})
-"frozenset({'egg', 'baking soda', 'vanilla'})",frozenset({'butter'})
-"frozenset({'butter', 'baking soda', 'vanilla'})",frozenset({'egg'})
-"frozenset({'butter', 'baking soda'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'butter', 'vanilla'})","frozenset({'egg', 'baking soda'})"
+"frozenset({'baking soda', 'egg', 'vanilla'})",frozenset({'butter'})
+"frozenset({'baking soda', 'egg', 'butter'})",frozenset({'vanilla'})
+"frozenset({'baking soda', 'vanilla', 'butter'})",frozenset({'egg'})
+"frozenset({'egg', 'vanilla', 'butter'})",frozenset({'baking soda'})
 "frozenset({'baking soda', 'vanilla'})","frozenset({'egg', 'butter'})"
-"frozenset({'butter', 'baking soda', 'milk'})",frozenset({'flour'})
-"frozenset({'baking soda', 'milk', 'flour'})",frozenset({'butter'})
-"frozenset({'butter', 'baking soda', 'vanilla'})",frozenset({'flour'})
-"frozenset({'butter', 'baking soda', 'flour'})",frozenset({'vanilla'})
-"frozenset({'butter', 'vanilla', 'flour'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'vanilla', 'flour'})",frozenset({'butter'})
-"frozenset({'butter', 'baking soda'})","frozenset({'vanilla', 'flour'})"
-"frozenset({'butter', 'vanilla'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'baking soda', 'vanilla'})","frozenset({'butter', 'flour'})"
-"frozenset({'egg', 'baking soda', 'chocolate'})",frozenset({'flour'})
-"frozenset({'egg', 'chocolate', 'flour'})",frozenset({'baking soda'})
+"frozenset({'baking soda', 'butter'})","frozenset({'egg', 'vanilla'})"
+"frozenset({'vanilla', 'butter'})","frozenset({'baking soda', 'egg'})"
+"frozenset({'baking soda', 'flour', 'milk'})",frozenset({'butter'})
+"frozenset({'baking soda', 'milk', 'butter'})",frozenset({'flour'})
+"frozenset({'baking soda', 'flour', 'vanilla'})",frozenset({'butter'})
+"frozenset({'baking soda', 'flour', 'butter'})",frozenset({'vanilla'})
+"frozenset({'baking soda', 'vanilla', 'butter'})",frozenset({'flour'})
+"frozenset({'flour', 'vanilla', 'butter'})",frozenset({'baking soda'})
+"frozenset({'baking soda', 'vanilla'})","frozenset({'flour', 'butter'})"
+"frozenset({'baking soda', 'butter'})","frozenset({'flour', 'vanilla'})"
+"frozenset({'vanilla', 'butter'})","frozenset({'baking soda', 'flour'})"
 "frozenset({'baking soda', 'chocolate', 'flour'})",frozenset({'egg'})
-"frozenset({'egg', 'chocolate'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'baking soda', 'chocolate'})","frozenset({'egg', 'flour'})"
-"frozenset({'chocolate', 'flour'})","frozenset({'egg', 'baking soda'})"
-"frozenset({'chocolate', 'baking soda', 'vanilla'})",frozenset({'egg'})
-"frozenset({'egg', 'chocolate', 'vanilla'})",frozenset({'baking soda'})
-"frozenset({'egg', 'baking soda', 'chocolate'})",frozenset({'vanilla'})
-"frozenset({'chocolate', 'vanilla'})","frozenset({'egg', 'baking soda'})"
+"frozenset({'baking soda', 'chocolate', 'egg'})",frozenset({'flour'})
+"frozenset({'chocolate', 'flour', 'egg'})",frozenset({'baking soda'})
+"frozenset({'baking soda', 'chocolate'})","frozenset({'flour', 'egg'})"
+"frozenset({'chocolate', 'flour'})","frozenset({'baking soda', 'egg'})"
+"frozenset({'chocolate', 'egg'})","frozenset({'baking soda', 'flour'})"
+"frozenset({'baking soda', 'chocolate', 'egg'})",frozenset({'vanilla'})
+"frozenset({'baking soda', 'chocolate', 'vanilla'})",frozenset({'egg'})
+"frozenset({'chocolate', 'egg', 'vanilla'})",frozenset({'baking soda'})
 "frozenset({'baking soda', 'chocolate'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'egg', 'chocolate'})","frozenset({'baking soda', 'vanilla'})"
-"frozenset({'chocolate', 'baking soda', 'vanilla'})",frozenset({'flour'})
-"frozenset({'chocolate', 'vanilla', 'flour'})",frozenset({'baking soda'})
+"frozenset({'chocolate', 'egg'})","frozenset({'baking soda', 'vanilla'})"
+"frozenset({'chocolate', 'vanilla'})","frozenset({'baking soda', 'egg'})"
 "frozenset({'baking soda', 'chocolate', 'flour'})",frozenset({'vanilla'})
-"frozenset({'chocolate', 'vanilla'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'baking soda', 'chocolate'})","frozenset({'vanilla', 'flour'})"
+"frozenset({'baking soda', 'chocolate', 'vanilla'})",frozenset({'flour'})
+"frozenset({'chocolate', 'flour', 'vanilla'})",frozenset({'baking soda'})
+"frozenset({'baking soda', 'chocolate'})","frozenset({'flour', 'vanilla'})"
 "frozenset({'chocolate', 'flour'})","frozenset({'baking soda', 'vanilla'})"
-"frozenset({'egg', 'baking soda', 'milk'})",frozenset({'flour'})
-"frozenset({'egg', 'milk', 'flour'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'milk', 'flour'})",frozenset({'egg'})
-"frozenset({'baking soda', 'milk'})","frozenset({'egg', 'flour'})"
-"frozenset({'egg', 'baking soda', 'vanilla'})",frozenset({'flour'})
-"frozenset({'egg', 'baking soda', 'flour'})",frozenset({'vanilla'})
-"frozenset({'egg', 'vanilla', 'flour'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'vanilla', 'flour'})",frozenset({'egg'})
-"frozenset({'egg', 'baking soda'})","frozenset({'vanilla', 'flour'})"
-"frozenset({'egg', 'vanilla'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'baking soda', 'vanilla'})","frozenset({'egg', 'flour'})"
+"frozenset({'chocolate', 'vanilla'})","frozenset({'baking soda', 'flour'})"
+"frozenset({'baking soda', 'flour', 'milk'})",frozenset({'egg'})
+"frozenset({'baking soda', 'egg', 'milk'})",frozenset({'flour'})
+"frozenset({'flour', 'egg', 'milk'})",frozenset({'baking soda'})
+"frozenset({'baking soda', 'milk'})","frozenset({'flour', 'egg'})"
+"frozenset({'baking soda', 'flour', 'egg'})",frozenset({'vanilla'})
+"frozenset({'baking soda', 'egg', 'vanilla'})",frozenset({'flour'})
+"frozenset({'baking soda', 'flour', 'vanilla'})",frozenset({'egg'})
+"frozenset({'flour', 'egg', 'vanilla'})",frozenset({'baking soda'})
+"frozenset({'baking soda', 'egg'})","frozenset({'flour', 'vanilla'})"
 "frozenset({'baking soda', 'flour'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'vanilla', 'flour'})","frozenset({'egg', 'baking soda'})"
-"frozenset({'baking soda', 'vanilla', 'milk'})",frozenset({'egg'})
-"frozenset({'egg', 'baking soda', 'vanilla'})",frozenset({'milk'})
+"frozenset({'baking soda', 'vanilla'})","frozenset({'flour', 'egg'})"
+"frozenset({'egg', 'vanilla'})","frozenset({'baking soda', 'flour'})"
+"frozenset({'flour', 'vanilla'})","frozenset({'baking soda', 'egg'})"
+"frozenset({'baking soda', 'egg', 'vanilla'})",frozenset({'milk'})
+"frozenset({'baking soda', 'egg', 'milk'})",frozenset({'vanilla'})
+"frozenset({'baking soda', 'milk', 'vanilla'})",frozenset({'egg'})
 "frozenset({'egg', 'vanilla', 'milk'})",frozenset({'baking soda'})
-"frozenset({'egg', 'baking soda', 'milk'})",frozenset({'vanilla'})
 "frozenset({'baking soda', 'vanilla'})","frozenset({'egg', 'milk'})"
 "frozenset({'baking soda', 'milk'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'baking soda', 'vanilla', 'milk'})",frozenset({'flour'})
-"frozenset({'vanilla', 'flour', 'milk'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'milk', 'flour'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'milk'})","frozenset({'vanilla', 'flour'})"
-"frozenset({'vinegar', 'chicken', 'bay leaf'})",frozenset({'soy sauce'})
-"frozenset({'chicken', 'bay leaf', 'soy sauce'})",frozenset({'vinegar'})
-"frozenset({'vinegar', 'chicken', 'soy sauce'})",frozenset({'bay leaf'})
-"frozenset({'vinegar', 'bay leaf', 'soy sauce'})",frozenset({'pork'})
-"frozenset({'vinegar', 'bay leaf', 'pork'})",frozenset({'soy sauce'})
-"frozenset({'pork', 'bay leaf', 'soy sauce'})",frozenset({'vinegar'})
-"frozenset({'vinegar', 'soy sauce', 'pork'})",frozenset({'bay leaf'})
-"frozenset({'tomato', 'bean', 'eggplant'})",frozenset({'okra'})
-"frozenset({'tomato', 'okra', 'eggplant'})",frozenset({'bean'})
-"frozenset({'okra', 'bean', 'eggplant'})",frozenset({'tomato'})
+"frozenset({'baking soda', 'flour', 'milk'})",frozenset({'vanilla'})
+"frozenset({'baking soda', 'milk', 'vanilla'})",frozenset({'flour'})
+"frozenset({'flour', 'vanilla', 'milk'})",frozenset({'baking soda'})
+"frozenset({'baking soda', 'milk'})","frozenset({'flour', 'vanilla'})"
+"frozenset({'chicken', 'soy sauce', 'vinegar'})",frozenset({'bay leaf'})
+"frozenset({'chicken', 'soy sauce', 'bay leaf'})",frozenset({'vinegar'})
+"frozenset({'chicken', 'bay leaf', 'vinegar'})",frozenset({'soy sauce'})
+"frozenset({'soy sauce', 'bay leaf', 'vinegar'})",frozenset({'pork'})
+"frozenset({'pork', 'soy sauce', 'vinegar'})",frozenset({'bay leaf'})
+"frozenset({'pork', 'soy sauce', 'bay leaf'})",frozenset({'vinegar'})
+"frozenset({'pork', 'bay leaf', 'vinegar'})",frozenset({'soy sauce'})
+"frozenset({'eggplant', 'tomato', 'bean'})",frozenset({'okra'})
+"frozenset({'eggplant', 'tomato', 'okra'})",frozenset({'bean'})
+"frozenset({'eggplant', 'bean', 'okra'})",frozenset({'tomato'})
 "frozenset({'tomato', 'bean', 'okra'})",frozenset({'eggplant'})
-"frozenset({'bean', 'eggplant'})","frozenset({'tomato', 'okra'})"
-"frozenset({'okra', 'eggplant'})","frozenset({'tomato', 'bean'})"
-"frozenset({'fish sauce', 'tomato', 'bean'})",frozenset({'okra'})
-"frozenset({'tomato', 'bean', 'okra'})",frozenset({'fish sauce'})
+"frozenset({'eggplant', 'bean'})","frozenset({'tomato', 'okra'})"
+"frozenset({'eggplant', 'okra'})","frozenset({'tomato', 'bean'})"
+"frozenset({'tomato', 'fish sauce', 'bean'})",frozenset({'okra'})
 "frozenset({'fish sauce', 'bean', 'okra'})",frozenset({'tomato'})
-"frozenset({'tomato', 'fish sauce', 'okra'})",frozenset({'bean'})
-"frozenset({'bean', 'okra'})","frozenset({'tomato', 'fish sauce'})"
-"frozenset({'tomato', 'okra'})","frozenset({'fish sauce', 'bean'})"
+"frozenset({'tomato', 'bean', 'okra'})",frozenset({'fish sauce'})
+"frozenset({'fish sauce', 'tomato', 'okra'})",frozenset({'bean'})
+"frozenset({'bean', 'okra'})","frozenset({'fish sauce', 'tomato'})"
 "frozenset({'fish sauce', 'okra'})","frozenset({'tomato', 'bean'})"
-"frozenset({'tomato', 'bean', 'spinach'})",frozenset({'fish sauce'})
-"frozenset({'fish sauce', 'bean', 'spinach'})",frozenset({'tomato'})
-"frozenset({'tomato', 'fish sauce', 'spinach'})",frozenset({'bean'})
-"frozenset({'bean', 'spinach'})","frozenset({'tomato', 'fish sauce'})"
+"frozenset({'tomato', 'okra'})","frozenset({'fish sauce', 'bean'})"
+"frozenset({'fish sauce', 'bean', 'pork'})",frozenset({'tomato'})
+"frozenset({'tomato', 'bean', 'pork'})",frozenset({'fish sauce'})
+"frozenset({'spinach', 'fish sauce', 'tomato'})",frozenset({'bean'})
+"frozenset({'spinach', 'fish sauce', 'bean'})",frozenset({'tomato'})
+"frozenset({'spinach', 'tomato', 'bean'})",frozenset({'fish sauce'})
+"frozenset({'spinach', 'bean'})","frozenset({'fish sauce', 'tomato'})"
 "frozenset({'radish', 'tomato', 'bean'})",frozenset({'okra'})
 "frozenset({'radish', 'tomato', 'okra'})",frozenset({'bean'})
 "frozenset({'radish', 'bean', 'okra'})",frozenset({'tomato'})
@@ -381,147 +391,154 @@ frozenset({'tamarind'}),"frozenset({'tomato', 'spinach'})"
 "frozenset({'radish', 'bean'})","frozenset({'tomato', 'okra'})"
 "frozenset({'radish', 'okra'})","frozenset({'tomato', 'bean'})"
 frozenset({'radish'}),"frozenset({'tomato', 'bean', 'okra'})"
-"frozenset({'tomato', 'bean', 'okra'})",frozenset({'spinach'})
+"frozenset({'spinach', 'tomato', 'bean'})",frozenset({'okra'})
 "frozenset({'spinach', 'tomato', 'okra'})",frozenset({'bean'})
 "frozenset({'spinach', 'bean', 'okra'})",frozenset({'tomato'})
-"frozenset({'tomato', 'bean', 'spinach'})",frozenset({'okra'})
-"frozenset({'bean', 'okra'})","frozenset({'tomato', 'spinach'})"
+"frozenset({'tomato', 'bean', 'okra'})",frozenset({'spinach'})
+"frozenset({'spinach', 'bean'})","frozenset({'tomato', 'okra'})"
 "frozenset({'spinach', 'okra'})","frozenset({'tomato', 'bean'})"
-"frozenset({'bean', 'spinach'})","frozenset({'tomato', 'okra'})"
-"frozenset({'tamarind', 'tomato', 'bean'})",frozenset({'okra'})
-"frozenset({'tamarind', 'tomato', 'okra'})",frozenset({'bean'})
-"frozenset({'tamarind', 'bean', 'okra'})",frozenset({'tomato'})
+"frozenset({'bean', 'okra'})","frozenset({'spinach', 'tomato'})"
+"frozenset({'tomato', 'bean', 'tamarind'})",frozenset({'okra'})
+"frozenset({'okra', 'tomato', 'tamarind'})",frozenset({'bean'})
+"frozenset({'okra', 'bean', 'tamarind'})",frozenset({'tomato'})
 "frozenset({'tomato', 'bean', 'okra'})",frozenset({'tamarind'})
-"frozenset({'tamarind', 'bean'})","frozenset({'tomato', 'okra'})"
-"frozenset({'tamarind', 'okra'})","frozenset({'tomato', 'bean'})"
-"frozenset({'potato', 'tomato', 'bell pepper'})",frozenset({'carrot'})
-"frozenset({'carrot', 'potato', 'bell pepper'})",frozenset({'tomato'})
+"frozenset({'bean', 'tamarind'})","frozenset({'tomato', 'okra'})"
+"frozenset({'okra', 'tamarind'})","frozenset({'tomato', 'bean'})"
 "frozenset({'carrot', 'tomato', 'bell pepper'})",frozenset({'potato'})
-"frozenset({'potato', 'tomato', 'carrot'})",frozenset({'bell pepper'})
-"frozenset({'potato', 'bell pepper'})","frozenset({'tomato', 'carrot'})"
-"frozenset({'egg', 'butter', 'cheese'})",frozenset({'flour'})
-"frozenset({'egg', 'cheese', 'flour'})",frozenset({'butter'})
-"frozenset({'butter', 'cheese', 'flour'})",frozenset({'egg'})
-"frozenset({'egg', 'butter', 'cheese'})",frozenset({'milk'})
-"frozenset({'egg', 'cheese', 'milk'})",frozenset({'butter'})
-"frozenset({'butter', 'cheese', 'milk'})",frozenset({'egg'})
-"frozenset({'butter', 'cheese', 'flour'})",frozenset({'milk'})
-"frozenset({'butter', 'cheese', 'milk'})",frozenset({'flour'})
-"frozenset({'cheese', 'flour', 'milk'})",frozenset({'butter'})
-"frozenset({'egg', 'butter', 'milk'})",frozenset({'flour'})
-"frozenset({'egg', 'butter', 'flour'})",frozenset({'milk'})
-"frozenset({'egg', 'milk', 'flour'})",frozenset({'butter'})
-"frozenset({'butter', 'milk', 'flour'})",frozenset({'egg'})
-"frozenset({'egg', 'butter', 'vanilla'})",frozenset({'flour'})
-"frozenset({'egg', 'vanilla', 'flour'})",frozenset({'butter'})
-"frozenset({'butter', 'vanilla', 'flour'})",frozenset({'egg'})
-"frozenset({'butter', 'vanilla'})","frozenset({'egg', 'flour'})"
-"frozenset({'vanilla', 'flour'})","frozenset({'egg', 'butter'})"
-"frozenset({'egg', 'butter', 'vanilla'})",frozenset({'milk'})
+"frozenset({'carrot', 'tomato', 'potato'})",frozenset({'bell pepper'})
+"frozenset({'carrot', 'bell pepper', 'potato'})",frozenset({'tomato'})
+"frozenset({'tomato', 'bell pepper', 'potato'})",frozenset({'carrot'})
+"frozenset({'bell pepper', 'potato'})","frozenset({'carrot', 'tomato'})"
+"frozenset({'flour', 'cheese', 'egg'})",frozenset({'butter'})
+"frozenset({'flour', 'cheese', 'butter'})",frozenset({'egg'})
+"frozenset({'cheese', 'egg', 'butter'})",frozenset({'flour'})
+"frozenset({'cheese', 'egg', 'butter'})",frozenset({'milk'})
+"frozenset({'cheese', 'egg', 'milk'})",frozenset({'butter'})
+"frozenset({'cheese', 'milk', 'butter'})",frozenset({'egg'})
+"frozenset({'flour', 'cheese', 'milk'})",frozenset({'butter'})
+"frozenset({'flour', 'cheese', 'butter'})",frozenset({'milk'})
+"frozenset({'cheese', 'milk', 'butter'})",frozenset({'flour'})
+"frozenset({'flour', 'cheese'})","frozenset({'milk', 'butter'})"
+"frozenset({'chocolate', 'flour', 'egg'})",frozenset({'butter'})
+"frozenset({'chocolate', 'flour', 'butter'})",frozenset({'egg'})
+"frozenset({'chocolate', 'egg', 'butter'})",frozenset({'flour'})
+"frozenset({'chocolate', 'flour'})","frozenset({'egg', 'butter'})"
+"frozenset({'chocolate', 'egg'})","frozenset({'flour', 'butter'})"
+"frozenset({'chocolate', 'butter'})","frozenset({'flour', 'egg'})"
+"frozenset({'flour', 'egg', 'butter'})",frozenset({'milk'})
+"frozenset({'flour', 'egg', 'milk'})",frozenset({'butter'})
+"frozenset({'flour', 'milk', 'butter'})",frozenset({'egg'})
+"frozenset({'egg', 'milk', 'butter'})",frozenset({'flour'})
+"frozenset({'milk', 'butter'})","frozenset({'flour', 'egg'})"
+"frozenset({'flour', 'egg', 'vanilla'})",frozenset({'butter'})
+"frozenset({'egg', 'vanilla', 'butter'})",frozenset({'flour'})
+"frozenset({'flour', 'vanilla', 'butter'})",frozenset({'egg'})
+"frozenset({'flour', 'vanilla'})","frozenset({'egg', 'butter'})"
+"frozenset({'vanilla', 'butter'})","frozenset({'flour', 'egg'})"
+"frozenset({'egg', 'vanilla', 'butter'})",frozenset({'milk'})
 "frozenset({'egg', 'vanilla', 'milk'})",frozenset({'butter'})
-"frozenset({'butter', 'vanilla', 'milk'})",frozenset({'egg'})
-"frozenset({'butter', 'vanilla'})","frozenset({'egg', 'milk'})"
-"frozenset({'butter', 'vanilla', 'milk'})",frozenset({'flour'})
-"frozenset({'vanilla', 'flour', 'milk'})",frozenset({'butter'})
-"frozenset({'cabbage', 'pasta', 'chicken'})",frozenset({'carrot'})
-"frozenset({'cabbage', 'pasta', 'carrot'})",frozenset({'chicken'})
-"frozenset({'chicken', 'pasta', 'carrot'})",frozenset({'cabbage'})
-"frozenset({'cabbage', 'chicken', 'carrot'})",frozenset({'pasta'})
+"frozenset({'milk', 'vanilla', 'butter'})",frozenset({'egg'})
+"frozenset({'vanilla', 'butter'})","frozenset({'egg', 'milk'})"
+"frozenset({'flour', 'vanilla', 'milk'})",frozenset({'butter'})
+"frozenset({'milk', 'vanilla', 'butter'})",frozenset({'flour'})
+"frozenset({'chicken', 'cabbage', 'carrot'})",frozenset({'pasta'})
+"frozenset({'chicken', 'cabbage', 'pasta'})",frozenset({'carrot'})
+"frozenset({'chicken', 'carrot', 'pasta'})",frozenset({'cabbage'})
+"frozenset({'cabbage', 'carrot', 'pasta'})",frozenset({'chicken'})
+"frozenset({'chicken', 'cabbage'})","frozenset({'carrot', 'pasta'})"
 "frozenset({'cabbage', 'pasta'})","frozenset({'chicken', 'carrot'})"
-"frozenset({'cabbage', 'chicken'})","frozenset({'pasta', 'carrot'})"
-"frozenset({'tomato', 'pork', 'potato'})",frozenset({'carrot'})
-"frozenset({'pork', 'potato', 'carrot'})",frozenset({'tomato'})
-"frozenset({'pork', 'tomato', 'carrot'})",frozenset({'potato'})
-"frozenset({'egg', 'cheese', 'flour'})",frozenset({'milk'})
-"frozenset({'egg', 'cheese', 'milk'})",frozenset({'flour'})
-"frozenset({'cheese', 'flour', 'milk'})",frozenset({'egg'})
-"frozenset({'egg', 'chocolate', 'vanilla'})",frozenset({'flour'})
-"frozenset({'egg', 'chocolate', 'flour'})",frozenset({'vanilla'})
-"frozenset({'chocolate', 'vanilla', 'flour'})",frozenset({'egg'})
-"frozenset({'egg', 'chocolate'})","frozenset({'vanilla', 'flour'})"
-"frozenset({'chocolate', 'vanilla'})","frozenset({'egg', 'flour'})"
+"frozenset({'pork', 'carrot', 'potato'})",frozenset({'tomato'})
+"frozenset({'pork', 'tomato', 'potato'})",frozenset({'carrot'})
+"frozenset({'carrot', 'tomato', 'pork'})",frozenset({'potato'})
+"frozenset({'flour', 'cheese', 'egg'})",frozenset({'milk'})
+"frozenset({'flour', 'cheese', 'milk'})",frozenset({'egg'})
+"frozenset({'cheese', 'egg', 'milk'})",frozenset({'flour'})
+"frozenset({'chocolate', 'egg', 'flour'})",frozenset({'vanilla'})
+"frozenset({'chocolate', 'egg', 'vanilla'})",frozenset({'flour'})
+"frozenset({'chocolate', 'flour', 'vanilla'})",frozenset({'egg'})
+"frozenset({'chocolate', 'egg'})","frozenset({'flour', 'vanilla'})"
 "frozenset({'chocolate', 'flour'})","frozenset({'egg', 'vanilla'})"
+"frozenset({'chocolate', 'vanilla'})","frozenset({'flour', 'egg'})"
 "frozenset({'egg', 'vanilla', 'milk'})",frozenset({'flour'})
-"frozenset({'vanilla', 'flour', 'milk'})",frozenset({'egg'})
-"frozenset({'vanilla', 'milk'})","frozenset({'egg', 'flour'})"
-"frozenset({'tamarind', 'tomato', 'fish sauce'})",frozenset({'spinach'})
-"frozenset({'tamarind', 'tomato', 'spinach'})",frozenset({'fish sauce'})
-"frozenset({'tamarind', 'fish sauce', 'spinach'})",frozenset({'tomato'})
-"frozenset({'tomato', 'fish sauce', 'spinach'})",frozenset({'tamarind'})
-"frozenset({'tamarind', 'fish sauce'})","frozenset({'tomato', 'spinach'})"
-"frozenset({'tamarind', 'spinach'})","frozenset({'tomato', 'fish sauce'})"
-"frozenset({'tamarind', 'radish', 'tomato'})",frozenset({'okra'})
-"frozenset({'tamarind', 'radish', 'okra'})",frozenset({'tomato'})
-"frozenset({'tamarind', 'tomato', 'okra'})",frozenset({'radish'})
+"frozenset({'flour', 'vanilla', 'milk'})",frozenset({'egg'})
+"frozenset({'milk', 'vanilla'})","frozenset({'flour', 'egg'})"
+"frozenset({'spinach', 'fish sauce', 'tomato'})",frozenset({'tamarind'})
+"frozenset({'spinach', 'fish sauce', 'tamarind'})",frozenset({'tomato'})
+"frozenset({'spinach', 'tomato', 'tamarind'})",frozenset({'fish sauce'})
+"frozenset({'fish sauce', 'tomato', 'tamarind'})",frozenset({'spinach'})
+"frozenset({'spinach', 'tamarind'})","frozenset({'fish sauce', 'tomato'})"
+"frozenset({'fish sauce', 'tamarind'})","frozenset({'spinach', 'tomato'})"
+"frozenset({'radish', 'tomato', 'tamarind'})",frozenset({'okra'})
+"frozenset({'okra', 'radish', 'tamarind'})",frozenset({'tomato'})
+"frozenset({'okra', 'tomato', 'tamarind'})",frozenset({'radish'})
 "frozenset({'radish', 'tomato', 'okra'})",frozenset({'tamarind'})
-"frozenset({'tamarind', 'radish'})","frozenset({'tomato', 'okra'})"
-"frozenset({'tamarind', 'tomato'})","frozenset({'radish', 'okra'})"
-"frozenset({'tamarind', 'okra'})","frozenset({'radish', 'tomato'})"
-"frozenset({'radish', 'tomato'})","frozenset({'tamarind', 'okra'})"
-"frozenset({'radish', 'okra'})","frozenset({'tamarind', 'tomato'})"
-frozenset({'radish'}),"frozenset({'tamarind', 'tomato', 'okra'})"
-"frozenset({'tamarind', 'tomato', 'okra'})",frozenset({'spinach'})
-"frozenset({'tamarind', 'tomato', 'spinach'})",frozenset({'okra'})
-"frozenset({'tamarind', 'spinach', 'okra'})",frozenset({'tomato'})
+"frozenset({'radish', 'tamarind'})","frozenset({'tomato', 'okra'})"
+"frozenset({'tomato', 'tamarind'})","frozenset({'radish', 'okra'})"
+"frozenset({'okra', 'tamarind'})","frozenset({'radish', 'tomato'})"
+"frozenset({'radish', 'tomato'})","frozenset({'okra', 'tamarind'})"
+"frozenset({'radish', 'okra'})","frozenset({'tomato', 'tamarind'})"
+frozenset({'radish'}),"frozenset({'okra', 'tomato', 'tamarind'})"
+"frozenset({'spinach', 'tomato', 'tamarind'})",frozenset({'okra'})
+"frozenset({'spinach', 'okra', 'tamarind'})",frozenset({'tomato'})
+"frozenset({'okra', 'tomato', 'tamarind'})",frozenset({'spinach'})
 "frozenset({'spinach', 'tomato', 'okra'})",frozenset({'tamarind'})
-"frozenset({'tamarind', 'okra'})","frozenset({'tomato', 'spinach'})"
-"frozenset({'tamarind', 'spinach'})","frozenset({'tomato', 'okra'})"
-"frozenset({'spinach', 'okra'})","frozenset({'tamarind', 'tomato'})"
-"frozenset({'tamarind', 'radish', 'tomato'})",frozenset({'spinach'})
-"frozenset({'tamarind', 'radish', 'spinach'})",frozenset({'tomato'})
-"frozenset({'tamarind', 'tomato', 'spinach'})",frozenset({'radish'})
-"frozenset({'radish', 'tomato', 'spinach'})",frozenset({'tamarind'})
-"frozenset({'tamarind', 'radish'})","frozenset({'tomato', 'spinach'})"
-"frozenset({'tamarind', 'spinach'})","frozenset({'radish', 'tomato'})"
-"frozenset({'radish', 'tomato'})","frozenset({'tamarind', 'spinach'})"
-"frozenset({'radish', 'spinach'})","frozenset({'tamarind', 'tomato'})"
-frozenset({'radish'}),"frozenset({'tamarind', 'tomato', 'spinach'})"
-"frozenset({'egg', 'baking soda', 'milk', 'flour'})",frozenset({'butter'})
-"frozenset({'egg', 'butter', 'baking soda', 'milk'})",frozenset({'flour'})
-"frozenset({'butter', 'baking soda', 'milk', 'flour'})",frozenset({'egg'})
-"frozenset({'baking soda', 'milk', 'flour'})","frozenset({'egg', 'butter'})"
-"frozenset({'butter', 'baking soda', 'milk'})","frozenset({'egg', 'flour'})"
-"frozenset({'egg', 'butter', 'vanilla', 'flour'})",frozenset({'baking soda'})
-"frozenset({'egg', 'baking soda', 'vanilla', 'flour'})",frozenset({'butter'})
-"frozenset({'egg', 'butter', 'baking soda', 'flour'})",frozenset({'vanilla'})
-"frozenset({'egg', 'butter', 'baking soda', 'vanilla'})",frozenset({'flour'})
-"frozenset({'butter', 'baking soda', 'vanilla', 'flour'})",frozenset({'egg'})
-"frozenset({'egg', 'butter', 'vanilla'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'egg', 'baking soda', 'vanilla'})","frozenset({'butter', 'flour'})"
-"frozenset({'egg', 'butter', 'baking soda'})","frozenset({'vanilla', 'flour'})"
-"frozenset({'butter', 'vanilla', 'flour'})","frozenset({'egg', 'baking soda'})"
-"frozenset({'baking soda', 'vanilla', 'flour'})","frozenset({'egg', 'butter'})"
-"frozenset({'butter', 'baking soda', 'flour'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'butter', 'baking soda', 'vanilla'})","frozenset({'egg', 'flour'})"
-"frozenset({'butter', 'vanilla'})","frozenset({'egg', 'baking soda', 'flour'})"
-"frozenset({'baking soda', 'vanilla'})","frozenset({'egg', 'butter', 'flour'})"
-"frozenset({'butter', 'baking soda'})","frozenset({'egg', 'vanilla', 'flour'})"
-"frozenset({'egg', 'vanilla', 'chocolate', 'flour'})",frozenset({'baking soda'})
-"frozenset({'egg', 'baking soda', 'chocolate', 'flour'})",frozenset({'vanilla'})
-"frozenset({'egg', 'vanilla', 'baking soda', 'chocolate'})",frozenset({'flour'})
-"frozenset({'vanilla', 'baking soda', 'chocolate', 'flour'})",frozenset({'egg'})
-"frozenset({'egg', 'chocolate', 'flour'})","frozenset({'baking soda', 'vanilla'})"
-"frozenset({'egg', 'vanilla', 'chocolate'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'egg', 'baking soda', 'chocolate'})","frozenset({'vanilla', 'flour'})"
-"frozenset({'vanilla', 'chocolate', 'flour'})","frozenset({'egg', 'baking soda'})"
+"frozenset({'spinach', 'tamarind'})","frozenset({'tomato', 'okra'})"
+"frozenset({'okra', 'tamarind'})","frozenset({'spinach', 'tomato'})"
+"frozenset({'spinach', 'okra'})","frozenset({'tomato', 'tamarind'})"
+"frozenset({'spinach', 'radish', 'tomato'})",frozenset({'tamarind'})
+"frozenset({'spinach', 'radish', 'tamarind'})",frozenset({'tomato'})
+"frozenset({'spinach', 'tomato', 'tamarind'})",frozenset({'radish'})
+"frozenset({'radish', 'tomato', 'tamarind'})",frozenset({'spinach'})
+"frozenset({'spinach', 'radish'})","frozenset({'tomato', 'tamarind'})"
+"frozenset({'spinach', 'tamarind'})","frozenset({'radish', 'tomato'})"
+"frozenset({'radish', 'tomato'})","frozenset({'spinach', 'tamarind'})"
+"frozenset({'radish', 'tamarind'})","frozenset({'spinach', 'tomato'})"
+frozenset({'radish'}),"frozenset({'spinach', 'tomato', 'tamarind'})"
+"frozenset({'baking soda', 'flour', 'milk', 'butter'})",frozenset({'egg'})
+"frozenset({'baking soda', 'egg', 'flour', 'milk'})",frozenset({'butter'})
+"frozenset({'baking soda', 'milk', 'egg', 'butter'})",frozenset({'flour'})
+"frozenset({'baking soda', 'flour', 'milk'})","frozenset({'egg', 'butter'})"
+"frozenset({'baking soda', 'milk', 'butter'})","frozenset({'flour', 'egg'})"
+"frozenset({'baking soda', 'flour', 'egg', 'butter'})",frozenset({'vanilla'})
+"frozenset({'baking soda', 'flour', 'vanilla', 'butter'})",frozenset({'egg'})
+"frozenset({'baking soda', 'vanilla', 'flour', 'egg'})",frozenset({'butter'})
+"frozenset({'vanilla', 'flour', 'egg', 'butter'})",frozenset({'baking soda'})
+"frozenset({'baking soda', 'egg', 'vanilla', 'butter'})",frozenset({'flour'})
+"frozenset({'baking soda', 'flour', 'butter'})","frozenset({'egg', 'vanilla'})"
+"frozenset({'baking soda', 'flour', 'vanilla'})","frozenset({'egg', 'butter'})"
+"frozenset({'flour', 'vanilla', 'butter'})","frozenset({'baking soda', 'egg'})"
+"frozenset({'baking soda', 'egg', 'butter'})","frozenset({'flour', 'vanilla'})"
+"frozenset({'baking soda', 'vanilla', 'butter'})","frozenset({'flour', 'egg'})"
+"frozenset({'baking soda', 'egg', 'vanilla'})","frozenset({'flour', 'butter'})"
+"frozenset({'egg', 'vanilla', 'butter'})","frozenset({'baking soda', 'flour'})"
+"frozenset({'baking soda', 'butter'})","frozenset({'vanilla', 'flour', 'egg'})"
+"frozenset({'baking soda', 'vanilla'})","frozenset({'flour', 'egg', 'butter'})"
+"frozenset({'vanilla', 'butter'})","frozenset({'baking soda', 'flour', 'egg'})"
+"frozenset({'baking soda', 'chocolate', 'flour', 'egg'})",frozenset({'vanilla'})
+"frozenset({'baking soda', 'chocolate', 'flour', 'vanilla'})",frozenset({'egg'})
+"frozenset({'chocolate', 'vanilla', 'flour', 'egg'})",frozenset({'baking soda'})
+"frozenset({'baking soda', 'chocolate', 'egg', 'vanilla'})",frozenset({'flour'})
 "frozenset({'baking soda', 'chocolate', 'flour'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'vanilla', 'baking soda', 'chocolate'})","frozenset({'egg', 'flour'})"
-"frozenset({'egg', 'chocolate'})","frozenset({'baking soda', 'vanilla', 'flour'})"
-"frozenset({'chocolate', 'flour'})","frozenset({'egg', 'baking soda', 'vanilla'})"
-"frozenset({'vanilla', 'chocolate'})","frozenset({'egg', 'baking soda', 'flour'})"
-"frozenset({'baking soda', 'chocolate'})","frozenset({'egg', 'vanilla', 'flour'})"
-"frozenset({'egg', 'vanilla', 'milk', 'flour'})",frozenset({'baking soda'})
-"frozenset({'egg', 'baking soda', 'milk', 'flour'})",frozenset({'vanilla'})
-"frozenset({'egg', 'vanilla', 'baking soda', 'milk'})",frozenset({'flour'})
-"frozenset({'vanilla', 'baking soda', 'milk', 'flour'})",frozenset({'egg'})
-"frozenset({'egg', 'vanilla', 'milk'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'egg', 'baking soda', 'milk'})","frozenset({'vanilla', 'flour'})"
-"frozenset({'vanilla', 'milk', 'flour'})","frozenset({'egg', 'baking soda'})"
-"frozenset({'baking soda', 'milk', 'flour'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'vanilla', 'baking soda', 'milk'})","frozenset({'egg', 'flour'})"
-"frozenset({'baking soda', 'milk'})","frozenset({'egg', 'vanilla', 'flour'})"
-"frozenset({'egg', 'vanilla', 'milk', 'flour'})",frozenset({'butter'})
-"frozenset({'egg', 'vanilla', 'butter', 'milk'})",frozenset({'flour'})
-"frozenset({'vanilla', 'butter', 'milk', 'flour'})",frozenset({'egg'})
-"frozenset({'vanilla', 'milk', 'flour'})","frozenset({'egg', 'butter'})"
-"frozenset({'vanilla', 'butter', 'milk'})","frozenset({'egg', 'flour'})"
+"frozenset({'chocolate', 'flour', 'egg'})","frozenset({'baking soda', 'vanilla'})"
+"frozenset({'chocolate', 'flour', 'vanilla'})","frozenset({'baking soda', 'egg'})"
+"frozenset({'baking soda', 'chocolate', 'egg'})","frozenset({'flour', 'vanilla'})"
+"frozenset({'baking soda', 'chocolate', 'vanilla'})","frozenset({'flour', 'egg'})"
+"frozenset({'chocolate', 'egg', 'vanilla'})","frozenset({'baking soda', 'flour'})"
+"frozenset({'chocolate', 'flour'})","frozenset({'baking soda', 'egg', 'vanilla'})"
+"frozenset({'baking soda', 'chocolate'})","frozenset({'vanilla', 'flour', 'egg'})"
+"frozenset({'chocolate', 'egg'})","frozenset({'baking soda', 'flour', 'vanilla'})"
+"frozenset({'chocolate', 'vanilla'})","frozenset({'baking soda', 'flour', 'egg'})"
+"frozenset({'baking soda', 'egg', 'flour', 'milk'})",frozenset({'vanilla'})
+"frozenset({'baking soda', 'vanilla', 'flour', 'milk'})",frozenset({'egg'})
+"frozenset({'egg', 'flour', 'milk', 'vanilla'})",frozenset({'baking soda'})
+"frozenset({'baking soda', 'vanilla', 'milk', 'egg'})",frozenset({'flour'})
+"frozenset({'baking soda', 'flour', 'milk'})","frozenset({'egg', 'vanilla'})"
+"frozenset({'vanilla', 'flour', 'milk'})","frozenset({'baking soda', 'egg'})"
+"frozenset({'baking soda', 'milk', 'egg'})","frozenset({'flour', 'vanilla'})"
+"frozenset({'baking soda', 'milk', 'vanilla'})","frozenset({'flour', 'egg'})"
+"frozenset({'baking soda', 'milk'})","frozenset({'vanilla', 'flour', 'egg'})"
+"frozenset({'vanilla', 'flour', 'milk', 'butter'})",frozenset({'egg'})
+"frozenset({'egg', 'flour', 'milk', 'vanilla'})",frozenset({'butter'})
+"frozenset({'vanilla', 'milk', 'egg', 'butter'})",frozenset({'flour'})
+"frozenset({'vanilla', 'flour', 'milk'})","frozenset({'egg', 'butter'})"
+"frozenset({'milk', 'vanilla', 'butter'})","frozenset({'flour', 'egg'})"
