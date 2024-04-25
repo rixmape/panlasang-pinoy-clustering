@@ -19,6 +19,9 @@
         "avocado",
         "ice cream"
     ],
+    "baking": [
+        "baking soda"
+    ],
     "banana berry": [
         "banana",
         "berry"
@@ -167,11 +170,30 @@
         "bread",
         "milk"
     ],
+    "broas": [
+        "flour",
+        "salt",
+        "egg",
+        "sugar",
+        "vanilla"
+    ],
+    "buchi": [
+        "flour",
+        "sugar",
+        "sesame",
+        "salt",
+        "oil",
+        "mungo bean"
+    ],
     "butter mochi": [
         "butter",
         "mochi"
     ],
     "butter sugar": [
+        "butter",
+        "sugar"
+    ],
+    "butterscotch": [
         "butter",
         "sugar"
     ],
@@ -186,6 +208,20 @@
         "sugar",
         "vinegar",
         "oil"
+    ],
+    "cajun": [
+        "paprika",
+        "salt",
+        "garlic",
+        "pepper",
+        "onion",
+        "oregano",
+        "chili",
+        "thyme"
+    ],
+    "celery cilantro": [
+        "celery",
+        "cilantro"
     ],
     "celery salt": [
         "celery",
@@ -215,6 +251,19 @@
     "cheese sausage": [
         "cheese",
         "sausage"
+    ],
+    "cheesecake": [
+        "flour",
+        "sugar",
+        "butter",
+        "egg",
+        "milk",
+        "cream",
+        "cheese"
+    ],
+    "chicken beef broth": [
+        "chicken broth",
+        "beef broth"
     ],
     "chicken bread": [
         "chicken",
@@ -334,6 +383,13 @@
         "chocolate",
         "nut"
     ],
+    "churros": [
+        "flour",
+        "sugar",
+        "butter",
+        "egg",
+        "milk"
+    ],
     "cilantro lemon rice": [
         "cilantro",
         "lemon",
@@ -380,6 +436,22 @@
         "coffee",
         "cream"
     ],
+    "cornstarch beef broth": [
+        "cornstarch",
+        "beef broth"
+    ],
+    "cornstarch coconut": [
+        "cornstarch",
+        "coconut"
+    ],
+    "cornstarch pasta": [
+        "cornstarch",
+        "pasta"
+    ],
+    "cornstarch soy sauce": [
+        "cornstarch",
+        "soy sauce"
+    ],
     "crab corn": [
         "crab",
         "corn"
@@ -418,6 +490,25 @@
     "cream squash": [
         "cream",
         "squash"
+    ],
+    "creole": [
+        "paprika",
+        "salt",
+        "onion",
+        "garlic",
+        "oregano",
+        "basil",
+        "thyme",
+        "pepper",
+        "chili"
+    ],
+    "crinkle": [
+        "flour",
+        "sugar",
+        "butter",
+        "egg",
+        "milk",
+        "chocolate"
     ],
     "crust bread butter": [
         "bread",
@@ -478,6 +569,10 @@
         "sugar",
         "vinegar"
     ],
+    "fish beef broth": [
+        "fish broth",
+        "beef broth"
+    ],
     "fish cabbage": [
         "fish",
         "cabbage"
@@ -507,14 +602,6 @@
     "fish tomato sauce": [
         "fish",
         "tomato"
-    ],
-    "flour beef broth": [
-        "flour",
-        "beef broth"
-    ],
-    "flour coconut": [
-        "flour",
-        "coconut"
     ],
     "flour crust pie": [
         "flour",
@@ -612,6 +699,13 @@
         "radish",
         "chili"
     ],
+    "lansong": [
+        "flour",
+        "sugar",
+        "coconut",
+        "milk",
+        "cream"
+    ],
     "lemon gelatin": [
         "lemon",
         "gelatin"
@@ -633,6 +727,14 @@
         "lemon",
         "soda",
         "shrimp"
+    ],
+    "maja gelatin": [
+        "milk",
+        "sugar",
+        "corn",
+        "cornstarch",
+        "salt",
+        "cheese"
     ],
     "mango cheese": [
         "mango",
@@ -663,6 +765,10 @@
         "sugar"
     ],
     "meringue": [
+        "sugar",
+        "egg"
+    ],
+    "meringue cookie": [
         "sugar",
         "egg"
     ],
@@ -768,11 +874,17 @@
         "pepper",
         "soy sauce"
     ],
+    "picadillo": [
+        "pork",
+        "tomato",
+        "potato",
+        "carrot"
+    ],
     "pineapple lemon": [
         "pineapple",
         "lemon"
     ],
-    "plum tomato diced": [
+    "plum tomato dice": [
         "plum",
         "tomato"
     ],
@@ -784,9 +896,9 @@
         "pork",
         "beef"
     ],
-    "pork broth": [
-        "pork",
-        "broth"
+    "pork beef broth": [
+        "pork broth",
+        "beef broth"
     ],
     "pork cabbage": [
         "pork",
@@ -882,13 +994,12 @@
         "sausage",
         "pineapple"
     ],
-    "shrimp bisque": [
-        "shrimp",
-        "broth"
+    "shrimp beef broth": [
+        "shrimp broth",
+        "beef broth"
     ],
-    "shrimp broth": [
-        "shrimp",
-        "broth"
+    "shrimp bisque": [
+        "shrimp broth"
     ],
     "shrimp rice": [
         "shrimp",
@@ -1003,9 +1114,9 @@
         "vanilla",
         "yogurt"
     ],
-    "vegetable broth": [
-        "vegetable",
-        "broth"
+    "vegetable beef broth": [
+        "vegetable broth",
+        "beef broth"
     ],
     "vinegar salt sugar pepper": [
         "vinegar",

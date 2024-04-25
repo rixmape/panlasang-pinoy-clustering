@@ -9,9 +9,7 @@ artichoke
 arugula
 asparagus
 avocado
-avocado oil
 baboy
-baking
 baking soda
 bamboo
 banana
@@ -24,32 +22,23 @@ beef
 beef broth
 bell pepper
 berry
-bilong
 biscuits
 bitter gourd
-bittermelon
 boba
 bok choy
 bread
-broas
 broccoli
 broth
 brownie
-buchi
 butter
 buttermilk
-butterscotch
 cabbage
-cajun
 calamansi
-calf
-caper
 cardamom
 carrot
 cassava
 cauliflower
 celery
-celery cilantro
 chayote
 cheese
 cheesecake
@@ -57,7 +46,6 @@ cherry
 chicken
 chicken broth
 chili
-chilis
 chocolate
 churro
 cilantro
@@ -65,20 +53,16 @@ cinnamon
 clam
 cloud
 cloves
-coca cola
 coconut
 coffee
 cola
 cookie
 coriander
 corn
-corn oil
-corntarch
+cornstarch
 crab
 cream
 cream puff
-creole
-crinkle
 crumb
 crust
 cucumber
@@ -87,7 +71,6 @@ cupcake
 dashi
 date
 dill
-dish pie
 donut
 duck
 dumpling
@@ -120,7 +103,6 @@ hasa
 herring
 hito
 honey
-honeydew
 horse
 ice
 ice cream
@@ -128,50 +110,32 @@ inutak
 island dressing
 jackfruit
 jute
-kahlua
-kakanin lansong
 kalamay
-kang
 ketchup
 kiwi
-labahita
 labong
-ladyfinger
 lamb
-lansong
 lato
 lemon
 lemongrass
 lettuce
 liverwurst
-loofah
 lumpia
 lychee
 lye
 mace
-maja gelatin
-malasugi
 malunggay
-mamon
 mango
-manicotti pasta
 maple
-margarita
 marshmallow
-masago
-matambaka
 mayonnaise
-mccormick yam
 melon
-meringue cookie
 milk
 mint
 miso
 mochi
-monosodium glutamate
 mooring
 moscato
-mud crab
 muffin
 mungo bean
 mushroom
@@ -208,15 +172,13 @@ pepperoncini
 pepperoni
 phosphate
 pias
-picadillo
 pickle
-pickling
 pico gallo
 pie
 pineapple
 plum
-plum tomato dice
 pork
+pork broth
 potato
 potstoe
 prune
@@ -232,7 +194,6 @@ rice
 rosemary
 rousong
 saffron
-salad oil
 salsa
 salt
 saluyot
@@ -246,15 +207,13 @@ sausage
 seaweed
 sesame
 shichimi togarashi
-shiromiso
 shrimp
+shrimp broth
 sibot
-sinamak
 siosa
 snail
 soda
 soy sauce
-soysauce
 spinach
 squash
 squid
@@ -283,6 +242,7 @@ turmeric
 turnip
 vanilla
 vegetable
+vegetable broth
 vinegar
 wasabi
 whip

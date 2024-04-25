@@ -202,7 +202,6 @@ calamansi lemon
 calamari
 calasparra rice
 calf
-calf knuckle
 camote
 candy
 cane
@@ -426,7 +425,6 @@ dilis
 dill
 dill pickle
 dill pickle spear
-dish pie
 dog
 donut
 dough
@@ -600,7 +598,6 @@ jute
 kabocha
 kahlua
 kaiser
-kakanin lansong
 kalabasa
 kalabasa squash
 kalamay kapit
@@ -608,7 +605,6 @@ kalamay ube
 kale
 kamia
 kamote
-kang
 kangkong
 kangong
 kani
@@ -722,7 +718,6 @@ mango ice creamdy
 mango nectar
 mango rice
 mangoes
-manicotti noodle
 manzanilla
 maple
 margarine
@@ -740,7 +735,6 @@ matoes
 maui onion
 mayonnaise
 mayonnise
-mccormick ube
 meatball
 meatball adobo
 melon
@@ -778,7 +772,6 @@ mozarella cheese
 mozzarella
 mozzarella cheese
 msg
-mud crab
 muffin
 mung bean
 mung bean munggo
