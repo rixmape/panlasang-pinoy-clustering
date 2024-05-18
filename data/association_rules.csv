@@ -1,544 +1,544 @@
 antecedents,consequents
-frozenset({'anise'}),frozenset({'soy sauce'})
-frozenset({'annatto'}),frozenset({'fish sauce'})
-frozenset({'baking soda'}),frozenset({'butter'})
-frozenset({'baking soda'}),frozenset({'egg'})
-frozenset({'baking soda'}),frozenset({'flour'})
-frozenset({'baking soda'}),frozenset({'vanilla'})
-frozenset({'vanilla'}),frozenset({'baking soda'})
-frozenset({'bay leaf'}),frozenset({'pork'})
-frozenset({'bay leaf'}),frozenset({'vinegar'})
-frozenset({'okra'}),frozenset({'bean'})
-frozenset({'radish'}),frozenset({'bean'})
-frozenset({'squash'}),frozenset({'bean'})
-frozenset({'bread'}),frozenset({'egg'})
-frozenset({'butter'}),frozenset({'egg'})
-frozenset({'celery'}),frozenset({'carrot'})
-frozenset({'pea'}),frozenset({'carrot'})
-frozenset({'raisin'}),frozenset({'carrot'})
-frozenset({'chicken broth'}),frozenset({'chicken'})
-frozenset({'tamarind'}),frozenset({'chili'})
-frozenset({'chocolate'}),frozenset({'egg'})
-frozenset({'chocolate'}),frozenset({'flour'})
-frozenset({'chocolate'}),frozenset({'milk'})
-frozenset({'chocolate'}),frozenset({'vanilla'})
-frozenset({'flour'}),frozenset({'egg'})
-frozenset({'milk'}),frozenset({'egg'})
-frozenset({'nut'}),frozenset({'egg'})
-frozenset({'raisin'}),frozenset({'egg'})
-frozenset({'vanilla'}),frozenset({'egg'})
-frozenset({'okra'}),frozenset({'eggplant'})
-frozenset({'eggplant'}),frozenset({'tomato'})
-frozenset({'okra'}),frozenset({'fish sauce'})
-frozenset({'radish'}),frozenset({'fish sauce'})
-frozenset({'spinach'}),frozenset({'fish sauce'})
-frozenset({'tamarind'}),frozenset({'fish sauce'})
-frozenset({'vanilla'}),frozenset({'flour'})
-frozenset({'vanilla'}),frozenset({'milk'})
-frozenset({'radish'}),frozenset({'okra'})
-frozenset({'okra'}),frozenset({'tomato'})
-frozenset({'radish'}),frozenset({'spinach'})
-frozenset({'radish'}),frozenset({'tamarind'})
-frozenset({'tamarind'}),frozenset({'radish'})
-frozenset({'radish'}),frozenset({'tomato'})
-frozenset({'tamarind'}),frozenset({'spinach'})
-frozenset({'spinach'}),frozenset({'tomato'})
-frozenset({'tamarind'}),frozenset({'tomato'})
-"frozenset({'soy sauce', 'alcohol'})",frozenset({'cornstarch'})
-"frozenset({'cornstarch', 'alcohol'})",frozenset({'soy sauce'})
-"frozenset({'ginger', 'alcohol'})",frozenset({'soy sauce'})
-"frozenset({'baking soda', 'egg'})",frozenset({'butter'})
-"frozenset({'baking soda', 'butter'})",frozenset({'egg'})
-"frozenset({'baking soda', 'butter'})",frozenset({'flour'})
-"frozenset({'baking soda', 'milk'})",frozenset({'butter'})
-"frozenset({'baking soda', 'vanilla'})",frozenset({'butter'})
-"frozenset({'baking soda', 'butter'})",frozenset({'vanilla'})
-"frozenset({'vanilla', 'butter'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'chocolate'})",frozenset({'egg'})
-"frozenset({'chocolate', 'egg'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'chocolate'})",frozenset({'flour'})
-"frozenset({'chocolate', 'flour'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'chocolate'})",frozenset({'vanilla'})
-"frozenset({'chocolate', 'vanilla'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'flour'})",frozenset({'egg'})
-"frozenset({'baking soda', 'egg'})",frozenset({'flour'})
-frozenset({'baking soda'}),"frozenset({'flour', 'egg'})"
-"frozenset({'baking soda', 'milk'})",frozenset({'egg'})
-"frozenset({'baking soda', 'egg'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'vanilla'})",frozenset({'egg'})
-"frozenset({'egg', 'vanilla'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'milk'})",frozenset({'flour'})
-"frozenset({'baking soda', 'flour'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'vanilla'})",frozenset({'flour'})
-"frozenset({'flour', 'vanilla'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'milk'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'vanilla'})",frozenset({'milk'})
-"frozenset({'banana', 'flour'})",frozenset({'egg'})
-"frozenset({'banana', 'egg'})",frozenset({'flour'})
-"frozenset({'bay leaf', 'potato'})",frozenset({'carrot'})
-"frozenset({'carrot', 'bay leaf'})",frozenset({'potato'})
-"frozenset({'carrot', 'bay leaf'})",frozenset({'tomato'})
-"frozenset({'tomato', 'bay leaf'})",frozenset({'carrot'})
-"frozenset({'chicken', 'bay leaf'})",frozenset({'soy sauce'})
-"frozenset({'chicken', 'vinegar'})",frozenset({'bay leaf'})
-"frozenset({'chicken', 'bay leaf'})",frozenset({'vinegar'})
-"frozenset({'soy sauce', 'bay leaf'})",frozenset({'pork'})
-"frozenset({'pork', 'bay leaf'})",frozenset({'soy sauce'})
-"frozenset({'bay leaf', 'vinegar'})",frozenset({'pork'})
-"frozenset({'pork', 'bay leaf'})",frozenset({'vinegar'})
-"frozenset({'bay leaf', 'potato'})",frozenset({'tomato'})
-"frozenset({'tomato', 'bay leaf'})",frozenset({'potato'})
-"frozenset({'soy sauce', 'vinegar'})",frozenset({'bay leaf'})
-"frozenset({'soy sauce', 'bay leaf'})",frozenset({'vinegar'})
-"frozenset({'bay leaf', 'vinegar'})",frozenset({'soy sauce'})
-"frozenset({'cabbage', 'bean'})",frozenset({'fish sauce'})
-"frozenset({'eggplant', 'fish sauce'})",frozenset({'bean'})
-"frozenset({'eggplant', 'bean'})",frozenset({'fish sauce'})
-"frozenset({'eggplant', 'bean'})",frozenset({'okra'})
-"frozenset({'eggplant', 'okra'})",frozenset({'bean'})
-"frozenset({'bean', 'okra'})",frozenset({'eggplant'})
-"frozenset({'eggplant', 'bean'})",frozenset({'pork'})
-"frozenset({'eggplant', 'pork'})",frozenset({'bean'})
-"frozenset({'eggplant', 'tomato'})",frozenset({'bean'})
-"frozenset({'eggplant', 'bean'})",frozenset({'tomato'})
-"frozenset({'fish sauce', 'okra'})",frozenset({'bean'})
-"frozenset({'bean', 'okra'})",frozenset({'fish sauce'})
-"frozenset({'spinach', 'fish sauce'})",frozenset({'bean'})
-"frozenset({'spinach', 'bean'})",frozenset({'fish sauce'})
-"frozenset({'fish sauce', 'bean'})",frozenset({'tomato'})
-"frozenset({'tomato', 'bean'})",frozenset({'fish sauce'})
-"frozenset({'radish', 'bean'})",frozenset({'okra'})
-"frozenset({'radish', 'okra'})",frozenset({'bean'})
-frozenset({'radish'}),"frozenset({'bean', 'okra'})"
-"frozenset({'spinach', 'bean'})",frozenset({'okra'})
-"frozenset({'spinach', 'okra'})",frozenset({'bean'})
-"frozenset({'bean', 'okra'})",frozenset({'spinach'})
-"frozenset({'bean', 'tamarind'})",frozenset({'okra'})
-"frozenset({'okra', 'tamarind'})",frozenset({'bean'})
-"frozenset({'tomato', 'okra'})",frozenset({'bean'})
-"frozenset({'bean', 'okra'})",frozenset({'tomato'})
-frozenset({'okra'}),"frozenset({'tomato', 'bean'})"
-"frozenset({'radish', 'tomato'})",frozenset({'bean'})
-"frozenset({'radish', 'bean'})",frozenset({'tomato'})
-frozenset({'radish'}),"frozenset({'tomato', 'bean'})"
-"frozenset({'spinach', 'tomato'})",frozenset({'bean'})
-"frozenset({'spinach', 'bean'})",frozenset({'tomato'})
-"frozenset({'tomato', 'tamarind'})",frozenset({'bean'})
-"frozenset({'bean', 'tamarind'})",frozenset({'tomato'})
-"frozenset({'chicken', 'bell pepper'})",frozenset({'carrot'})
-"frozenset({'bell pepper', 'pork'})",frozenset({'carrot'})
-"frozenset({'carrot', 'potato'})",frozenset({'bell pepper'})
-"frozenset({'bell pepper', 'potato'})",frozenset({'carrot'})
-"frozenset({'carrot', 'tomato'})",frozenset({'bell pepper'})
-"frozenset({'tomato', 'bell pepper'})",frozenset({'carrot'})
-"frozenset({'tomato', 'bell pepper'})",frozenset({'potato'})
-"frozenset({'tomato', 'potato'})",frozenset({'bell pepper'})
-"frozenset({'bell pepper', 'potato'})",frozenset({'tomato'})
-"frozenset({'bread', 'butter'})",frozenset({'egg'})
-"frozenset({'cheese', 'bread'})",frozenset({'egg'})
-"frozenset({'flour', 'bread'})",frozenset({'egg'})
-"frozenset({'bread', 'milk'})",frozenset({'egg'})
-"frozenset({'bread', 'pork'})",frozenset({'egg'})
-"frozenset({'cheese', 'butter'})",frozenset({'egg'})
-"frozenset({'flour', 'cheese'})",frozenset({'butter'})
-"frozenset({'cheese', 'milk'})",frozenset({'butter'})
-"frozenset({'cheese', 'butter'})",frozenset({'milk'})
-"frozenset({'butter', 'pasta'})",frozenset({'cheese'})
-"frozenset({'chocolate', 'egg'})",frozenset({'butter'})
-"frozenset({'chocolate', 'butter'})",frozenset({'egg'})
-"frozenset({'chocolate', 'flour'})",frozenset({'butter'})
-"frozenset({'chocolate', 'butter'})",frozenset({'flour'})
-"frozenset({'coconut', 'egg'})",frozenset({'butter'})
-"frozenset({'coconut', 'butter'})",frozenset({'egg'})
-"frozenset({'coconut', 'butter'})",frozenset({'milk'})
-"frozenset({'cream', 'egg'})",frozenset({'butter'})
-"frozenset({'cream', 'butter'})",frozenset({'egg'})
-"frozenset({'flour', 'butter'})",frozenset({'egg'})
-"frozenset({'egg', 'butter'})",frozenset({'flour'})
-"frozenset({'egg', 'milk'})",frozenset({'butter'})
-"frozenset({'egg', 'butter'})",frozenset({'milk'})
-"frozenset({'milk', 'butter'})",frozenset({'egg'})
-"frozenset({'egg', 'vanilla'})",frozenset({'butter'})
-"frozenset({'vanilla', 'butter'})",frozenset({'egg'})
-"frozenset({'flour', 'milk'})",frozenset({'butter'})
-"frozenset({'flour', 'butter'})",frozenset({'milk'})
-"frozenset({'milk', 'butter'})",frozenset({'flour'})
-"frozenset({'flour', 'vanilla'})",frozenset({'butter'})
-"frozenset({'vanilla', 'butter'})",frozenset({'flour'})
-"frozenset({'milk', 'vanilla'})",frozenset({'butter'})
-"frozenset({'vanilla', 'butter'})",frozenset({'milk'})
-"frozenset({'chicken', 'cabbage'})",frozenset({'carrot'})
-"frozenset({'clam', 'cabbage'})",frozenset({'carrot'})
-"frozenset({'clam', 'carrot'})",frozenset({'cabbage'})
-"frozenset({'cabbage', 'egg'})",frozenset({'carrot'})
-"frozenset({'cabbage', 'carrot'})",frozenset({'pasta'})
-"frozenset({'cabbage', 'pasta'})",frozenset({'carrot'})
-"frozenset({'carrot', 'pasta'})",frozenset({'cabbage'})
-"frozenset({'cabbage', 'pork'})",frozenset({'carrot'})
-"frozenset({'cabbage', 'soy sauce'})",frozenset({'carrot'})
-"frozenset({'chicken', 'cabbage'})",frozenset({'pasta'})
-"frozenset({'chicken', 'pasta'})",frozenset({'cabbage'})
-"frozenset({'cabbage', 'pasta'})",frozenset({'chicken'})
-"frozenset({'clam', 'cabbage'})",frozenset({'pasta'})
-"frozenset({'clam', 'pasta'})",frozenset({'cabbage'})
-"frozenset({'clam', 'cabbage'})",frozenset({'pork'})
-"frozenset({'soy sauce', 'pasta'})",frozenset({'cabbage'})
-"frozenset({'cabbage', 'soy sauce'})",frozenset({'pork'})
-"frozenset({'chicken', 'pasta'})",frozenset({'carrot'})
-"frozenset({'carrot', 'pasta'})",frozenset({'chicken'})
-"frozenset({'chicken', 'potato'})",frozenset({'carrot'})
-"frozenset({'pork', 'potato'})",frozenset({'carrot'})
-"frozenset({'carrot', 'tomato'})",frozenset({'potato'})
-"frozenset({'carrot', 'potato'})",frozenset({'tomato'})
-"frozenset({'tomato', 'potato'})",frozenset({'carrot'})
-"frozenset({'cream', 'pasta'})",frozenset({'cheese'})
-"frozenset({'flour', 'cheese'})",frozenset({'egg'})
-"frozenset({'cheese', 'milk'})",frozenset({'egg'})
-"frozenset({'flour', 'cheese'})",frozenset({'milk'})
-"frozenset({'cheese', 'milk'})",frozenset({'flour'})
-"frozenset({'tomato', 'pasta'})",frozenset({'cheese'})
-"frozenset({'chicken', 'cornstarch'})",frozenset({'egg'})
-"frozenset({'chicken', 'cornstarch'})",frozenset({'soy sauce'})
-"frozenset({'chicken', 'vinegar'})",frozenset({'soy sauce'})
-"frozenset({'coconut', 'fish sauce'})",frozenset({'chili'})
-"frozenset({'chili', 'coconut'})",frozenset({'ginger'})
-"frozenset({'ginger', 'coconut'})",frozenset({'chili'})
-"frozenset({'coconut', 'pork'})",frozenset({'chili'})
-"frozenset({'shrimp', 'coconut'})",frozenset({'chili'})
-"frozenset({'ginger', 'fish sauce'})",frozenset({'chili'})
-"frozenset({'ginger', 'vinegar'})",frozenset({'chili'})
-"frozenset({'chili', 'tamarind'})",frozenset({'tomato'})
-"frozenset({'tomato', 'tamarind'})",frozenset({'chili'})
-"frozenset({'chocolate', 'flour'})",frozenset({'egg'})
-"frozenset({'chocolate', 'egg'})",frozenset({'flour'})
-frozenset({'chocolate'}),"frozenset({'flour', 'egg'})"
-"frozenset({'chocolate', 'egg'})",frozenset({'vanilla'})
-"frozenset({'chocolate', 'vanilla'})",frozenset({'egg'})
-"frozenset({'chocolate', 'flour'})",frozenset({'vanilla'})
-"frozenset({'chocolate', 'vanilla'})",frozenset({'flour'})
-"frozenset({'clam', 'cornstarch'})",frozenset({'soy sauce'})
-"frozenset({'ginger', 'coconut'})",frozenset({'fish sauce'})
-"frozenset({'flour', 'cornstarch'})",frozenset({'egg'})
-"frozenset({'ginger', 'cornstarch'})",frozenset({'soy sauce'})
-"frozenset({'cornstarch', 'pork'})",frozenset({'soy sauce'})
-"frozenset({'cornstarch', 'vinegar'})",frozenset({'soy sauce'})
-"frozenset({'cream', 'flour'})",frozenset({'egg'})
-"frozenset({'cream', 'vanilla'})",frozenset({'egg'})
-"frozenset({'flour', 'milk'})",frozenset({'egg'})
-"frozenset({'egg', 'milk'})",frozenset({'flour'})
-"frozenset({'flour', 'pork'})",frozenset({'egg'})
-"frozenset({'egg', 'vanilla'})",frozenset({'flour'})
-"frozenset({'flour', 'vanilla'})",frozenset({'egg'})
-frozenset({'vanilla'}),"frozenset({'flour', 'egg'})"
-"frozenset({'egg', 'vanilla'})",frozenset({'milk'})
-"frozenset({'milk', 'vanilla'})",frozenset({'egg'})
-"frozenset({'rice', 'pork'})",frozenset({'egg'})
-"frozenset({'eggplant', 'fish sauce'})",frozenset({'pork'})
-"frozenset({'eggplant', 'pork'})",frozenset({'fish sauce'})
-"frozenset({'eggplant', 'fish sauce'})",frozenset({'tomato'})
-"frozenset({'eggplant', 'tomato'})",frozenset({'fish sauce'})
-"frozenset({'eggplant', 'tomato'})",frozenset({'okra'})
-"frozenset({'eggplant', 'okra'})",frozenset({'tomato'})
-"frozenset({'eggplant', 'tomato'})",frozenset({'pork'})
-"frozenset({'eggplant', 'pork'})",frozenset({'tomato'})
-"frozenset({'fish sauce', 'fish'})",frozenset({'tomato'})
-"frozenset({'fish sauce', 'okra'})",frozenset({'tomato'})
-"frozenset({'tomato', 'okra'})",frozenset({'fish sauce'})
-frozenset({'okra'}),"frozenset({'fish sauce', 'tomato'})"
-"frozenset({'radish', 'fish sauce'})",frozenset({'tomato'})
-"frozenset({'radish', 'tomato'})",frozenset({'fish sauce'})
-frozenset({'radish'}),"frozenset({'fish sauce', 'tomato'})"
-"frozenset({'spinach', 'tamarind'})",frozenset({'fish sauce'})
-"frozenset({'fish sauce', 'tamarind'})",frozenset({'spinach'})
-"frozenset({'spinach', 'fish sauce'})",frozenset({'tomato'})
-"frozenset({'spinach', 'tomato'})",frozenset({'fish sauce'})
-"frozenset({'fish sauce', 'tamarind'})",frozenset({'tomato'})
-"frozenset({'tomato', 'tamarind'})",frozenset({'fish sauce'})
-frozenset({'tamarind'}),"frozenset({'fish sauce', 'tomato'})"
-"frozenset({'milk', 'vanilla'})",frozenset({'flour'})
-"frozenset({'lemon', 'pork'})",frozenset({'soy sauce'})
-"frozenset({'okra', 'pork'})",frozenset({'tomato'})
-"frozenset({'radish', 'tamarind'})",frozenset({'okra'})
-"frozenset({'okra', 'tamarind'})",frozenset({'radish'})
-"frozenset({'radish', 'okra'})",frozenset({'tamarind'})
-frozenset({'radish'}),"frozenset({'okra', 'tamarind'})"
-"frozenset({'radish', 'tomato'})",frozenset({'okra'})
-"frozenset({'radish', 'okra'})",frozenset({'tomato'})
-"frozenset({'tomato', 'okra'})",frozenset({'radish'})
-frozenset({'radish'}),"frozenset({'tomato', 'okra'})"
-"frozenset({'spinach', 'tamarind'})",frozenset({'okra'})
-"frozenset({'okra', 'tamarind'})",frozenset({'spinach'})
-"frozenset({'spinach', 'okra'})",frozenset({'tamarind'})
-"frozenset({'spinach', 'tomato'})",frozenset({'okra'})
-"frozenset({'spinach', 'okra'})",frozenset({'tomato'})
-"frozenset({'tomato', 'okra'})",frozenset({'spinach'})
-"frozenset({'tomato', 'tamarind'})",frozenset({'okra'})
-"frozenset({'okra', 'tamarind'})",frozenset({'tomato'})
-"frozenset({'tomato', 'okra'})",frozenset({'tamarind'})
-"frozenset({'pork', 'potato'})",frozenset({'tomato'})
-"frozenset({'spinach', 'radish'})",frozenset({'tamarind'})
-"frozenset({'spinach', 'tamarind'})",frozenset({'radish'})
-"frozenset({'radish', 'tamarind'})",frozenset({'spinach'})
-frozenset({'radish'}),"frozenset({'spinach', 'tamarind'})"
-"frozenset({'spinach', 'radish'})",frozenset({'tomato'})
-"frozenset({'radish', 'tomato'})",frozenset({'spinach'})
-frozenset({'radish'}),"frozenset({'spinach', 'tomato'})"
-"frozenset({'radish', 'tomato'})",frozenset({'tamarind'})
-"frozenset({'radish', 'tamarind'})",frozenset({'tomato'})
-"frozenset({'tomato', 'tamarind'})",frozenset({'radish'})
-frozenset({'radish'}),"frozenset({'tomato', 'tamarind'})"
-frozenset({'tamarind'}),"frozenset({'radish', 'tomato'})"
-"frozenset({'spinach', 'tomato'})",frozenset({'tamarind'})
-"frozenset({'spinach', 'tamarind'})",frozenset({'tomato'})
-"frozenset({'tomato', 'tamarind'})",frozenset({'spinach'})
-frozenset({'tamarind'}),"frozenset({'spinach', 'tomato'})"
-"frozenset({'baking soda', 'flour', 'egg'})",frozenset({'butter'})
-"frozenset({'baking soda', 'flour', 'butter'})",frozenset({'egg'})
-"frozenset({'baking soda', 'egg', 'butter'})",frozenset({'flour'})
-"frozenset({'baking soda', 'butter'})","frozenset({'flour', 'egg'})"
-"frozenset({'baking soda', 'egg', 'milk'})",frozenset({'butter'})
-"frozenset({'baking soda', 'egg', 'butter'})",frozenset({'milk'})
-"frozenset({'baking soda', 'milk', 'butter'})",frozenset({'egg'})
-"frozenset({'baking soda', 'milk'})","frozenset({'egg', 'butter'})"
-"frozenset({'baking soda', 'egg', 'vanilla'})",frozenset({'butter'})
-"frozenset({'baking soda', 'egg', 'butter'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'vanilla', 'butter'})",frozenset({'egg'})
-"frozenset({'egg', 'vanilla', 'butter'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'vanilla'})","frozenset({'egg', 'butter'})"
-"frozenset({'baking soda', 'butter'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'vanilla', 'butter'})","frozenset({'baking soda', 'egg'})"
-"frozenset({'baking soda', 'flour', 'milk'})",frozenset({'butter'})
-"frozenset({'baking soda', 'milk', 'butter'})",frozenset({'flour'})
-"frozenset({'baking soda', 'flour', 'vanilla'})",frozenset({'butter'})
-"frozenset({'baking soda', 'flour', 'butter'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'vanilla', 'butter'})",frozenset({'flour'})
-"frozenset({'flour', 'vanilla', 'butter'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'vanilla'})","frozenset({'flour', 'butter'})"
-"frozenset({'baking soda', 'butter'})","frozenset({'flour', 'vanilla'})"
-"frozenset({'vanilla', 'butter'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'baking soda', 'chocolate', 'flour'})",frozenset({'egg'})
-"frozenset({'baking soda', 'chocolate', 'egg'})",frozenset({'flour'})
-"frozenset({'chocolate', 'flour', 'egg'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'chocolate'})","frozenset({'flour', 'egg'})"
-"frozenset({'chocolate', 'flour'})","frozenset({'baking soda', 'egg'})"
-"frozenset({'chocolate', 'egg'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'baking soda', 'chocolate', 'egg'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'chocolate', 'vanilla'})",frozenset({'egg'})
-"frozenset({'chocolate', 'egg', 'vanilla'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'chocolate'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'chocolate', 'egg'})","frozenset({'baking soda', 'vanilla'})"
-"frozenset({'chocolate', 'vanilla'})","frozenset({'baking soda', 'egg'})"
-"frozenset({'baking soda', 'chocolate', 'flour'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'chocolate', 'vanilla'})",frozenset({'flour'})
-"frozenset({'chocolate', 'flour', 'vanilla'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'chocolate'})","frozenset({'flour', 'vanilla'})"
-"frozenset({'chocolate', 'flour'})","frozenset({'baking soda', 'vanilla'})"
-"frozenset({'chocolate', 'vanilla'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'baking soda', 'flour', 'milk'})",frozenset({'egg'})
-"frozenset({'baking soda', 'egg', 'milk'})",frozenset({'flour'})
-"frozenset({'flour', 'egg', 'milk'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'milk'})","frozenset({'flour', 'egg'})"
-"frozenset({'baking soda', 'flour', 'egg'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'egg', 'vanilla'})",frozenset({'flour'})
-"frozenset({'baking soda', 'flour', 'vanilla'})",frozenset({'egg'})
-"frozenset({'flour', 'egg', 'vanilla'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'egg'})","frozenset({'flour', 'vanilla'})"
-"frozenset({'baking soda', 'flour'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'baking soda', 'vanilla'})","frozenset({'flour', 'egg'})"
-"frozenset({'egg', 'vanilla'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'flour', 'vanilla'})","frozenset({'baking soda', 'egg'})"
-"frozenset({'baking soda', 'egg', 'vanilla'})",frozenset({'milk'})
-"frozenset({'baking soda', 'egg', 'milk'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'milk', 'vanilla'})",frozenset({'egg'})
-"frozenset({'egg', 'vanilla', 'milk'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'vanilla'})","frozenset({'egg', 'milk'})"
-"frozenset({'baking soda', 'milk'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'baking soda', 'flour', 'milk'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'milk', 'vanilla'})",frozenset({'flour'})
-"frozenset({'flour', 'vanilla', 'milk'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'milk'})","frozenset({'flour', 'vanilla'})"
-"frozenset({'chicken', 'soy sauce', 'vinegar'})",frozenset({'bay leaf'})
-"frozenset({'chicken', 'soy sauce', 'bay leaf'})",frozenset({'vinegar'})
-"frozenset({'chicken', 'bay leaf', 'vinegar'})",frozenset({'soy sauce'})
-"frozenset({'soy sauce', 'bay leaf', 'vinegar'})",frozenset({'pork'})
-"frozenset({'pork', 'soy sauce', 'vinegar'})",frozenset({'bay leaf'})
-"frozenset({'pork', 'soy sauce', 'bay leaf'})",frozenset({'vinegar'})
-"frozenset({'pork', 'bay leaf', 'vinegar'})",frozenset({'soy sauce'})
-"frozenset({'eggplant', 'tomato', 'bean'})",frozenset({'okra'})
-"frozenset({'eggplant', 'tomato', 'okra'})",frozenset({'bean'})
-"frozenset({'eggplant', 'bean', 'okra'})",frozenset({'tomato'})
-"frozenset({'tomato', 'bean', 'okra'})",frozenset({'eggplant'})
-"frozenset({'eggplant', 'bean'})","frozenset({'tomato', 'okra'})"
-"frozenset({'eggplant', 'okra'})","frozenset({'tomato', 'bean'})"
-"frozenset({'tomato', 'fish sauce', 'bean'})",frozenset({'okra'})
-"frozenset({'fish sauce', 'bean', 'okra'})",frozenset({'tomato'})
-"frozenset({'tomato', 'bean', 'okra'})",frozenset({'fish sauce'})
-"frozenset({'fish sauce', 'tomato', 'okra'})",frozenset({'bean'})
-"frozenset({'bean', 'okra'})","frozenset({'fish sauce', 'tomato'})"
-"frozenset({'fish sauce', 'okra'})","frozenset({'tomato', 'bean'})"
-"frozenset({'tomato', 'okra'})","frozenset({'fish sauce', 'bean'})"
-"frozenset({'fish sauce', 'bean', 'pork'})",frozenset({'tomato'})
-"frozenset({'tomato', 'bean', 'pork'})",frozenset({'fish sauce'})
-"frozenset({'spinach', 'fish sauce', 'tomato'})",frozenset({'bean'})
-"frozenset({'spinach', 'fish sauce', 'bean'})",frozenset({'tomato'})
-"frozenset({'spinach', 'tomato', 'bean'})",frozenset({'fish sauce'})
-"frozenset({'spinach', 'bean'})","frozenset({'fish sauce', 'tomato'})"
-"frozenset({'radish', 'tomato', 'bean'})",frozenset({'okra'})
-"frozenset({'radish', 'tomato', 'okra'})",frozenset({'bean'})
-"frozenset({'radish', 'bean', 'okra'})",frozenset({'tomato'})
-"frozenset({'tomato', 'bean', 'okra'})",frozenset({'radish'})
-"frozenset({'radish', 'tomato'})","frozenset({'bean', 'okra'})"
-"frozenset({'radish', 'bean'})","frozenset({'tomato', 'okra'})"
-"frozenset({'radish', 'okra'})","frozenset({'tomato', 'bean'})"
-frozenset({'radish'}),"frozenset({'tomato', 'bean', 'okra'})"
-"frozenset({'spinach', 'tomato', 'bean'})",frozenset({'okra'})
-"frozenset({'spinach', 'tomato', 'okra'})",frozenset({'bean'})
-"frozenset({'spinach', 'bean', 'okra'})",frozenset({'tomato'})
-"frozenset({'tomato', 'bean', 'okra'})",frozenset({'spinach'})
-"frozenset({'spinach', 'bean'})","frozenset({'tomato', 'okra'})"
-"frozenset({'spinach', 'okra'})","frozenset({'tomato', 'bean'})"
-"frozenset({'bean', 'okra'})","frozenset({'spinach', 'tomato'})"
-"frozenset({'tomato', 'bean', 'tamarind'})",frozenset({'okra'})
-"frozenset({'okra', 'tomato', 'tamarind'})",frozenset({'bean'})
-"frozenset({'okra', 'bean', 'tamarind'})",frozenset({'tomato'})
-"frozenset({'tomato', 'bean', 'okra'})",frozenset({'tamarind'})
-"frozenset({'bean', 'tamarind'})","frozenset({'tomato', 'okra'})"
-"frozenset({'okra', 'tamarind'})","frozenset({'tomato', 'bean'})"
-"frozenset({'carrot', 'tomato', 'bell pepper'})",frozenset({'potato'})
-"frozenset({'carrot', 'tomato', 'potato'})",frozenset({'bell pepper'})
-"frozenset({'carrot', 'bell pepper', 'potato'})",frozenset({'tomato'})
-"frozenset({'tomato', 'bell pepper', 'potato'})",frozenset({'carrot'})
-"frozenset({'bell pepper', 'potato'})","frozenset({'carrot', 'tomato'})"
-"frozenset({'flour', 'cheese', 'egg'})",frozenset({'butter'})
-"frozenset({'flour', 'cheese', 'butter'})",frozenset({'egg'})
-"frozenset({'cheese', 'egg', 'butter'})",frozenset({'flour'})
-"frozenset({'cheese', 'egg', 'butter'})",frozenset({'milk'})
-"frozenset({'cheese', 'egg', 'milk'})",frozenset({'butter'})
-"frozenset({'cheese', 'milk', 'butter'})",frozenset({'egg'})
-"frozenset({'flour', 'cheese', 'milk'})",frozenset({'butter'})
-"frozenset({'flour', 'cheese', 'butter'})",frozenset({'milk'})
-"frozenset({'cheese', 'milk', 'butter'})",frozenset({'flour'})
-"frozenset({'flour', 'cheese'})","frozenset({'milk', 'butter'})"
-"frozenset({'chocolate', 'flour', 'egg'})",frozenset({'butter'})
-"frozenset({'chocolate', 'flour', 'butter'})",frozenset({'egg'})
-"frozenset({'chocolate', 'egg', 'butter'})",frozenset({'flour'})
-"frozenset({'chocolate', 'flour'})","frozenset({'egg', 'butter'})"
-"frozenset({'chocolate', 'egg'})","frozenset({'flour', 'butter'})"
-"frozenset({'chocolate', 'butter'})","frozenset({'flour', 'egg'})"
-"frozenset({'flour', 'egg', 'butter'})",frozenset({'milk'})
-"frozenset({'flour', 'egg', 'milk'})",frozenset({'butter'})
-"frozenset({'flour', 'milk', 'butter'})",frozenset({'egg'})
-"frozenset({'egg', 'milk', 'butter'})",frozenset({'flour'})
-"frozenset({'milk', 'butter'})","frozenset({'flour', 'egg'})"
-"frozenset({'flour', 'egg', 'vanilla'})",frozenset({'butter'})
-"frozenset({'egg', 'vanilla', 'butter'})",frozenset({'flour'})
-"frozenset({'flour', 'vanilla', 'butter'})",frozenset({'egg'})
-"frozenset({'flour', 'vanilla'})","frozenset({'egg', 'butter'})"
-"frozenset({'vanilla', 'butter'})","frozenset({'flour', 'egg'})"
-"frozenset({'egg', 'vanilla', 'butter'})",frozenset({'milk'})
-"frozenset({'egg', 'vanilla', 'milk'})",frozenset({'butter'})
-"frozenset({'milk', 'vanilla', 'butter'})",frozenset({'egg'})
-"frozenset({'vanilla', 'butter'})","frozenset({'egg', 'milk'})"
-"frozenset({'flour', 'vanilla', 'milk'})",frozenset({'butter'})
-"frozenset({'milk', 'vanilla', 'butter'})",frozenset({'flour'})
-"frozenset({'chicken', 'cabbage', 'carrot'})",frozenset({'pasta'})
-"frozenset({'chicken', 'cabbage', 'pasta'})",frozenset({'carrot'})
-"frozenset({'chicken', 'carrot', 'pasta'})",frozenset({'cabbage'})
-"frozenset({'cabbage', 'carrot', 'pasta'})",frozenset({'chicken'})
-"frozenset({'chicken', 'cabbage'})","frozenset({'carrot', 'pasta'})"
-"frozenset({'cabbage', 'pasta'})","frozenset({'chicken', 'carrot'})"
-"frozenset({'pork', 'carrot', 'potato'})",frozenset({'tomato'})
-"frozenset({'pork', 'tomato', 'potato'})",frozenset({'carrot'})
-"frozenset({'carrot', 'tomato', 'pork'})",frozenset({'potato'})
-"frozenset({'flour', 'cheese', 'egg'})",frozenset({'milk'})
-"frozenset({'flour', 'cheese', 'milk'})",frozenset({'egg'})
-"frozenset({'cheese', 'egg', 'milk'})",frozenset({'flour'})
-"frozenset({'chocolate', 'egg', 'flour'})",frozenset({'vanilla'})
-"frozenset({'chocolate', 'egg', 'vanilla'})",frozenset({'flour'})
-"frozenset({'chocolate', 'flour', 'vanilla'})",frozenset({'egg'})
-"frozenset({'chocolate', 'egg'})","frozenset({'flour', 'vanilla'})"
-"frozenset({'chocolate', 'flour'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'chocolate', 'vanilla'})","frozenset({'flour', 'egg'})"
-"frozenset({'egg', 'vanilla', 'milk'})",frozenset({'flour'})
-"frozenset({'flour', 'vanilla', 'milk'})",frozenset({'egg'})
-"frozenset({'milk', 'vanilla'})","frozenset({'flour', 'egg'})"
-"frozenset({'spinach', 'fish sauce', 'tomato'})",frozenset({'tamarind'})
-"frozenset({'spinach', 'fish sauce', 'tamarind'})",frozenset({'tomato'})
-"frozenset({'spinach', 'tomato', 'tamarind'})",frozenset({'fish sauce'})
-"frozenset({'fish sauce', 'tomato', 'tamarind'})",frozenset({'spinach'})
-"frozenset({'spinach', 'tamarind'})","frozenset({'fish sauce', 'tomato'})"
-"frozenset({'fish sauce', 'tamarind'})","frozenset({'spinach', 'tomato'})"
-"frozenset({'radish', 'tomato', 'tamarind'})",frozenset({'okra'})
-"frozenset({'okra', 'radish', 'tamarind'})",frozenset({'tomato'})
-"frozenset({'okra', 'tomato', 'tamarind'})",frozenset({'radish'})
-"frozenset({'radish', 'tomato', 'okra'})",frozenset({'tamarind'})
-"frozenset({'radish', 'tamarind'})","frozenset({'tomato', 'okra'})"
-"frozenset({'tomato', 'tamarind'})","frozenset({'radish', 'okra'})"
-"frozenset({'okra', 'tamarind'})","frozenset({'radish', 'tomato'})"
-"frozenset({'radish', 'tomato'})","frozenset({'okra', 'tamarind'})"
-"frozenset({'radish', 'okra'})","frozenset({'tomato', 'tamarind'})"
-frozenset({'radish'}),"frozenset({'okra', 'tomato', 'tamarind'})"
-"frozenset({'spinach', 'tomato', 'tamarind'})",frozenset({'okra'})
-"frozenset({'spinach', 'okra', 'tamarind'})",frozenset({'tomato'})
-"frozenset({'okra', 'tomato', 'tamarind'})",frozenset({'spinach'})
-"frozenset({'spinach', 'tomato', 'okra'})",frozenset({'tamarind'})
-"frozenset({'spinach', 'tamarind'})","frozenset({'tomato', 'okra'})"
-"frozenset({'okra', 'tamarind'})","frozenset({'spinach', 'tomato'})"
-"frozenset({'spinach', 'okra'})","frozenset({'tomato', 'tamarind'})"
-"frozenset({'spinach', 'radish', 'tomato'})",frozenset({'tamarind'})
-"frozenset({'spinach', 'radish', 'tamarind'})",frozenset({'tomato'})
-"frozenset({'spinach', 'tomato', 'tamarind'})",frozenset({'radish'})
-"frozenset({'radish', 'tomato', 'tamarind'})",frozenset({'spinach'})
-"frozenset({'spinach', 'radish'})","frozenset({'tomato', 'tamarind'})"
-"frozenset({'spinach', 'tamarind'})","frozenset({'radish', 'tomato'})"
-"frozenset({'radish', 'tomato'})","frozenset({'spinach', 'tamarind'})"
-"frozenset({'radish', 'tamarind'})","frozenset({'spinach', 'tomato'})"
-frozenset({'radish'}),"frozenset({'spinach', 'tomato', 'tamarind'})"
-"frozenset({'baking soda', 'flour', 'milk', 'butter'})",frozenset({'egg'})
-"frozenset({'baking soda', 'egg', 'flour', 'milk'})",frozenset({'butter'})
-"frozenset({'baking soda', 'milk', 'egg', 'butter'})",frozenset({'flour'})
-"frozenset({'baking soda', 'flour', 'milk'})","frozenset({'egg', 'butter'})"
-"frozenset({'baking soda', 'milk', 'butter'})","frozenset({'flour', 'egg'})"
-"frozenset({'baking soda', 'flour', 'egg', 'butter'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'flour', 'vanilla', 'butter'})",frozenset({'egg'})
-"frozenset({'baking soda', 'vanilla', 'flour', 'egg'})",frozenset({'butter'})
-"frozenset({'vanilla', 'flour', 'egg', 'butter'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'egg', 'vanilla', 'butter'})",frozenset({'flour'})
-"frozenset({'baking soda', 'flour', 'butter'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'baking soda', 'flour', 'vanilla'})","frozenset({'egg', 'butter'})"
-"frozenset({'flour', 'vanilla', 'butter'})","frozenset({'baking soda', 'egg'})"
-"frozenset({'baking soda', 'egg', 'butter'})","frozenset({'flour', 'vanilla'})"
-"frozenset({'baking soda', 'vanilla', 'butter'})","frozenset({'flour', 'egg'})"
-"frozenset({'baking soda', 'egg', 'vanilla'})","frozenset({'flour', 'butter'})"
-"frozenset({'egg', 'vanilla', 'butter'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'baking soda', 'butter'})","frozenset({'vanilla', 'flour', 'egg'})"
-"frozenset({'baking soda', 'vanilla'})","frozenset({'flour', 'egg', 'butter'})"
-"frozenset({'vanilla', 'butter'})","frozenset({'baking soda', 'flour', 'egg'})"
-"frozenset({'baking soda', 'chocolate', 'flour', 'egg'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'chocolate', 'flour', 'vanilla'})",frozenset({'egg'})
-"frozenset({'chocolate', 'vanilla', 'flour', 'egg'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'chocolate', 'egg', 'vanilla'})",frozenset({'flour'})
-"frozenset({'baking soda', 'chocolate', 'flour'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'chocolate', 'flour', 'egg'})","frozenset({'baking soda', 'vanilla'})"
-"frozenset({'chocolate', 'flour', 'vanilla'})","frozenset({'baking soda', 'egg'})"
-"frozenset({'baking soda', 'chocolate', 'egg'})","frozenset({'flour', 'vanilla'})"
-"frozenset({'baking soda', 'chocolate', 'vanilla'})","frozenset({'flour', 'egg'})"
-"frozenset({'chocolate', 'egg', 'vanilla'})","frozenset({'baking soda', 'flour'})"
-"frozenset({'chocolate', 'flour'})","frozenset({'baking soda', 'egg', 'vanilla'})"
-"frozenset({'baking soda', 'chocolate'})","frozenset({'vanilla', 'flour', 'egg'})"
-"frozenset({'chocolate', 'egg'})","frozenset({'baking soda', 'flour', 'vanilla'})"
-"frozenset({'chocolate', 'vanilla'})","frozenset({'baking soda', 'flour', 'egg'})"
-"frozenset({'baking soda', 'egg', 'flour', 'milk'})",frozenset({'vanilla'})
-"frozenset({'baking soda', 'vanilla', 'flour', 'milk'})",frozenset({'egg'})
-"frozenset({'egg', 'flour', 'milk', 'vanilla'})",frozenset({'baking soda'})
-"frozenset({'baking soda', 'vanilla', 'milk', 'egg'})",frozenset({'flour'})
-"frozenset({'baking soda', 'flour', 'milk'})","frozenset({'egg', 'vanilla'})"
-"frozenset({'vanilla', 'flour', 'milk'})","frozenset({'baking soda', 'egg'})"
-"frozenset({'baking soda', 'milk', 'egg'})","frozenset({'flour', 'vanilla'})"
-"frozenset({'baking soda', 'milk', 'vanilla'})","frozenset({'flour', 'egg'})"
-"frozenset({'baking soda', 'milk'})","frozenset({'vanilla', 'flour', 'egg'})"
-"frozenset({'vanilla', 'flour', 'milk', 'butter'})",frozenset({'egg'})
-"frozenset({'egg', 'flour', 'milk', 'vanilla'})",frozenset({'butter'})
-"frozenset({'vanilla', 'milk', 'egg', 'butter'})",frozenset({'flour'})
-"frozenset({'vanilla', 'flour', 'milk'})","frozenset({'egg', 'butter'})"
-"frozenset({'milk', 'vanilla', 'butter'})","frozenset({'flour', 'egg'})"
+['anise'],['soy sauce']
+['annatto'],['fish sauce']
+['baking soda'],['butter']
+['baking soda'],['egg']
+['baking soda'],['flour']
+['baking soda'],['vanilla']
+['vanilla'],['baking soda']
+['bay leaf'],['pork']
+['bay leaf'],['vinegar']
+['okra'],['bean']
+['radish'],['bean']
+['squash'],['bean']
+['bread'],['egg']
+['butter'],['egg']
+['celery'],['carrot']
+['pea'],['carrot']
+['raisin'],['carrot']
+['chicken broth'],['chicken']
+['tamarind'],['chili']
+['chocolate'],['egg']
+['chocolate'],['flour']
+['chocolate'],['milk']
+['chocolate'],['vanilla']
+['flour'],['egg']
+['milk'],['egg']
+['nut'],['egg']
+['raisin'],['egg']
+['vanilla'],['egg']
+['okra'],['eggplant']
+['eggplant'],['tomato']
+['okra'],['fish sauce']
+['radish'],['fish sauce']
+['spinach'],['fish sauce']
+['tamarind'],['fish sauce']
+['vanilla'],['flour']
+['vanilla'],['milk']
+['radish'],['okra']
+['okra'],['tomato']
+['radish'],['spinach']
+['tamarind'],['radish']
+['radish'],['tamarind']
+['radish'],['tomato']
+['tamarind'],['spinach']
+['spinach'],['tomato']
+['tamarind'],['tomato']
+"['alcohol', 'soy sauce']",['cornstarch']
+"['alcohol', 'cornstarch']",['soy sauce']
+"['alcohol', 'ginger']",['soy sauce']
+"['baking soda', 'egg']",['butter']
+"['baking soda', 'butter']",['egg']
+"['baking soda', 'butter']",['flour']
+"['baking soda', 'milk']",['butter']
+"['baking soda', 'butter']",['vanilla']
+"['baking soda', 'vanilla']",['butter']
+"['butter', 'vanilla']",['baking soda']
+"['baking soda', 'chocolate']",['egg']
+"['egg', 'chocolate']",['baking soda']
+"['flour', 'chocolate']",['baking soda']
+"['baking soda', 'chocolate']",['flour']
+"['baking soda', 'chocolate']",['vanilla']
+"['chocolate', 'vanilla']",['baking soda']
+"['flour', 'baking soda']",['egg']
+"['baking soda', 'egg']",['flour']
+['baking soda'],"['flour', 'egg']"
+"['baking soda', 'milk']",['egg']
+"['baking soda', 'egg']",['vanilla']
+"['baking soda', 'vanilla']",['egg']
+"['egg', 'vanilla']",['baking soda']
+"['baking soda', 'milk']",['flour']
+"['flour', 'baking soda']",['vanilla']
+"['flour', 'vanilla']",['baking soda']
+"['baking soda', 'vanilla']",['flour']
+"['baking soda', 'milk']",['vanilla']
+"['baking soda', 'vanilla']",['milk']
+"['flour', 'banana']",['egg']
+"['banana', 'egg']",['flour']
+"['bay leaf', 'potato']",['carrot']
+"['bay leaf', 'carrot']",['potato']
+"['bay leaf', 'carrot']",['tomato']
+"['bay leaf', 'tomato']",['carrot']
+"['bay leaf', 'chicken']",['soy sauce']
+"['vinegar', 'chicken']",['bay leaf']
+"['bay leaf', 'chicken']",['vinegar']
+"['pork', 'bay leaf']",['soy sauce']
+"['soy sauce', 'bay leaf']",['pork']
+"['pork', 'bay leaf']",['vinegar']
+"['vinegar', 'bay leaf']",['pork']
+"['bay leaf', 'potato']",['tomato']
+"['bay leaf', 'tomato']",['potato']
+"['soy sauce', 'bay leaf']",['vinegar']
+"['vinegar', 'bay leaf']",['soy sauce']
+"['vinegar', 'soy sauce']",['bay leaf']
+"['bean', 'cabbage']",['fish sauce']
+"['eggplant', 'bean']",['fish sauce']
+"['eggplant', 'fish sauce']",['bean']
+"['okra', 'eggplant']",['bean']
+"['okra', 'bean']",['eggplant']
+"['eggplant', 'bean']",['okra']
+"['pork', 'eggplant']",['bean']
+"['eggplant', 'bean']",['pork']
+"['eggplant', 'bean']",['tomato']
+"['eggplant', 'tomato']",['bean']
+"['okra', 'bean']",['fish sauce']
+"['okra', 'fish sauce']",['bean']
+"['spinach', 'bean']",['fish sauce']
+"['spinach', 'fish sauce']",['bean']
+"['bean', 'fish sauce']",['tomato']
+"['bean', 'tomato']",['fish sauce']
+"['okra', 'radish']",['bean']
+"['bean', 'radish']",['okra']
+['radish'],"['okra', 'bean']"
+"['okra', 'spinach']",['bean']
+"['okra', 'bean']",['spinach']
+"['spinach', 'bean']",['okra']
+"['okra', 'tamarind']",['bean']
+"['bean', 'tamarind']",['okra']
+"['okra', 'bean']",['tomato']
+"['okra', 'tomato']",['bean']
+['okra'],"['bean', 'tomato']"
+"['bean', 'radish']",['tomato']
+"['radish', 'tomato']",['bean']
+['radish'],"['bean', 'tomato']"
+"['spinach', 'bean']",['tomato']
+"['spinach', 'tomato']",['bean']
+"['bean', 'tamarind']",['tomato']
+"['tamarind', 'tomato']",['bean']
+"['chicken', 'bell pepper']",['carrot']
+"['pork', 'bell pepper']",['carrot']
+"['potato', 'carrot']",['bell pepper']
+"['potato', 'bell pepper']",['carrot']
+"['tomato', 'bell pepper']",['carrot']
+"['carrot', 'tomato']",['bell pepper']
+"['potato', 'bell pepper']",['tomato']
+"['tomato', 'bell pepper']",['potato']
+"['potato', 'tomato']",['bell pepper']
+"['butter', 'bread']",['egg']
+"['cheese', 'bread']",['egg']
+"['flour', 'bread']",['egg']
+"['milk', 'bread']",['egg']
+"['pork', 'bread']",['egg']
+"['cheese', 'butter']",['egg']
+"['flour', 'cheese']",['butter']
+"['milk', 'cheese']",['butter']
+"['cheese', 'butter']",['milk']
+"['pasta', 'butter']",['cheese']
+"['egg', 'chocolate']",['butter']
+"['chocolate', 'butter']",['egg']
+"['flour', 'chocolate']",['butter']
+"['chocolate', 'butter']",['flour']
+"['egg', 'coconut']",['butter']
+"['butter', 'coconut']",['egg']
+"['butter', 'coconut']",['milk']
+"['egg', 'cream']",['butter']
+"['cream', 'butter']",['egg']
+"['flour', 'butter']",['egg']
+"['egg', 'butter']",['flour']
+"['milk', 'egg']",['butter']
+"['milk', 'butter']",['egg']
+"['egg', 'butter']",['milk']
+"['egg', 'vanilla']",['butter']
+"['butter', 'vanilla']",['egg']
+"['flour', 'milk']",['butter']
+"['flour', 'butter']",['milk']
+"['milk', 'butter']",['flour']
+"['flour', 'vanilla']",['butter']
+"['butter', 'vanilla']",['flour']
+"['milk', 'vanilla']",['butter']
+"['butter', 'vanilla']",['milk']
+"['chicken', 'cabbage']",['carrot']
+"['clam', 'cabbage']",['carrot']
+"['clam', 'carrot']",['cabbage']
+"['egg', 'cabbage']",['carrot']
+"['pasta', 'cabbage']",['carrot']
+"['pasta', 'carrot']",['cabbage']
+"['cabbage', 'carrot']",['pasta']
+"['pork', 'cabbage']",['carrot']
+"['soy sauce', 'cabbage']",['carrot']
+"['pasta', 'chicken']",['cabbage']
+"['pasta', 'cabbage']",['chicken']
+"['chicken', 'cabbage']",['pasta']
+"['pasta', 'clam']",['cabbage']
+"['clam', 'cabbage']",['pasta']
+"['clam', 'cabbage']",['pork']
+"['pasta', 'soy sauce']",['cabbage']
+"['soy sauce', 'cabbage']",['pork']
+"['pasta', 'chicken']",['carrot']
+"['pasta', 'carrot']",['chicken']
+"['potato', 'chicken']",['carrot']
+"['pork', 'potato']",['carrot']
+"['potato', 'carrot']",['tomato']
+"['potato', 'tomato']",['carrot']
+"['carrot', 'tomato']",['potato']
+"['pasta', 'cream']",['cheese']
+"['flour', 'cheese']",['egg']
+"['milk', 'cheese']",['egg']
+"['flour', 'cheese']",['milk']
+"['milk', 'cheese']",['flour']
+"['pasta', 'tomato']",['cheese']
+"['cornstarch', 'chicken']",['egg']
+"['cornstarch', 'chicken']",['soy sauce']
+"['vinegar', 'chicken']",['soy sauce']
+"['fish sauce', 'coconut']",['chili']
+"['chili', 'coconut']",['ginger']
+"['ginger', 'coconut']",['chili']
+"['pork', 'coconut']",['chili']
+"['shrimp', 'coconut']",['chili']
+"['ginger', 'fish sauce']",['chili']
+"['vinegar', 'ginger']",['chili']
+"['chili', 'tamarind']",['tomato']
+"['tamarind', 'tomato']",['chili']
+"['flour', 'chocolate']",['egg']
+"['egg', 'chocolate']",['flour']
+['chocolate'],"['flour', 'egg']"
+"['egg', 'chocolate']",['vanilla']
+"['chocolate', 'vanilla']",['egg']
+"['flour', 'chocolate']",['vanilla']
+"['chocolate', 'vanilla']",['flour']
+"['clam', 'cornstarch']",['soy sauce']
+"['ginger', 'coconut']",['fish sauce']
+"['flour', 'cornstarch']",['egg']
+"['cornstarch', 'ginger']",['soy sauce']
+"['pork', 'cornstarch']",['soy sauce']
+"['vinegar', 'cornstarch']",['soy sauce']
+"['flour', 'cream']",['egg']
+"['cream', 'vanilla']",['egg']
+"['flour', 'milk']",['egg']
+"['milk', 'egg']",['flour']
+"['flour', 'pork']",['egg']
+"['flour', 'vanilla']",['egg']
+"['egg', 'vanilla']",['flour']
+['vanilla'],"['flour', 'egg']"
+"['milk', 'vanilla']",['egg']
+"['egg', 'vanilla']",['milk']
+"['pork', 'rice']",['egg']
+"['pork', 'eggplant']",['fish sauce']
+"['eggplant', 'fish sauce']",['pork']
+"['eggplant', 'fish sauce']",['tomato']
+"['eggplant', 'tomato']",['fish sauce']
+"['okra', 'eggplant']",['tomato']
+"['eggplant', 'tomato']",['okra']
+"['pork', 'eggplant']",['tomato']
+"['eggplant', 'tomato']",['pork']
+"['fish', 'fish sauce']",['tomato']
+"['okra', 'fish sauce']",['tomato']
+"['okra', 'tomato']",['fish sauce']
+['okra'],"['fish sauce', 'tomato']"
+"['fish sauce', 'radish']",['tomato']
+"['radish', 'tomato']",['fish sauce']
+['radish'],"['fish sauce', 'tomato']"
+"['spinach', 'tamarind']",['fish sauce']
+"['tamarind', 'fish sauce']",['spinach']
+"['spinach', 'fish sauce']",['tomato']
+"['spinach', 'tomato']",['fish sauce']
+"['tamarind', 'fish sauce']",['tomato']
+"['tamarind', 'tomato']",['fish sauce']
+['tamarind'],"['fish sauce', 'tomato']"
+"['milk', 'vanilla']",['flour']
+"['pork', 'lemon']",['soy sauce']
+"['okra', 'pork']",['tomato']
+"['okra', 'tamarind']",['radish']
+"['okra', 'radish']",['tamarind']
+"['tamarind', 'radish']",['okra']
+['radish'],"['okra', 'tamarind']"
+"['okra', 'radish']",['tomato']
+"['okra', 'tomato']",['radish']
+"['radish', 'tomato']",['okra']
+['radish'],"['okra', 'tomato']"
+"['okra', 'spinach']",['tamarind']
+"['okra', 'tamarind']",['spinach']
+"['spinach', 'tamarind']",['okra']
+"['okra', 'spinach']",['tomato']
+"['okra', 'tomato']",['spinach']
+"['spinach', 'tomato']",['okra']
+"['okra', 'tamarind']",['tomato']
+"['okra', 'tomato']",['tamarind']
+"['tamarind', 'tomato']",['okra']
+"['pork', 'potato']",['tomato']
+"['spinach', 'tamarind']",['radish']
+"['spinach', 'radish']",['tamarind']
+"['tamarind', 'radish']",['spinach']
+['radish'],"['spinach', 'tamarind']"
+"['spinach', 'radish']",['tomato']
+"['radish', 'tomato']",['spinach']
+['radish'],"['spinach', 'tomato']"
+"['tamarind', 'radish']",['tomato']
+"['tamarind', 'tomato']",['radish']
+"['radish', 'tomato']",['tamarind']
+['tamarind'],"['radish', 'tomato']"
+['radish'],"['tamarind', 'tomato']"
+"['spinach', 'tamarind']",['tomato']
+"['spinach', 'tomato']",['tamarind']
+"['tamarind', 'tomato']",['spinach']
+['tamarind'],"['spinach', 'tomato']"
+"['flour', 'baking soda', 'egg']",['butter']
+"['flour', 'baking soda', 'butter']",['egg']
+"['baking soda', 'egg', 'butter']",['flour']
+"['baking soda', 'butter']","['flour', 'egg']"
+"['egg', 'baking soda', 'milk']",['butter']
+"['baking soda', 'milk', 'butter']",['egg']
+"['baking soda', 'egg', 'butter']",['milk']
+"['baking soda', 'milk']","['egg', 'butter']"
+"['baking soda', 'egg', 'butter']",['vanilla']
+"['baking soda', 'egg', 'vanilla']",['butter']
+"['baking soda', 'butter', 'vanilla']",['egg']
+"['egg', 'butter', 'vanilla']",['baking soda']
+"['baking soda', 'butter']","['egg', 'vanilla']"
+"['baking soda', 'vanilla']","['egg', 'butter']"
+"['butter', 'vanilla']","['baking soda', 'egg']"
+"['flour', 'baking soda', 'milk']",['butter']
+"['baking soda', 'milk', 'butter']",['flour']
+"['flour', 'baking soda', 'butter']",['vanilla']
+"['flour', 'baking soda', 'vanilla']",['butter']
+"['flour', 'butter', 'vanilla']",['baking soda']
+"['baking soda', 'butter', 'vanilla']",['flour']
+"['baking soda', 'butter']","['flour', 'vanilla']"
+"['baking soda', 'vanilla']","['flour', 'butter']"
+"['butter', 'vanilla']","['flour', 'baking soda']"
+"['flour', 'baking soda', 'chocolate']",['egg']
+"['flour', 'egg', 'chocolate']",['baking soda']
+"['baking soda', 'egg', 'chocolate']",['flour']
+"['flour', 'chocolate']","['baking soda', 'egg']"
+"['baking soda', 'chocolate']","['flour', 'egg']"
+"['egg', 'chocolate']","['flour', 'baking soda']"
+"['baking soda', 'egg', 'chocolate']",['vanilla']
+"['baking soda', 'chocolate', 'vanilla']",['egg']
+"['egg', 'chocolate', 'vanilla']",['baking soda']
+"['baking soda', 'chocolate']","['egg', 'vanilla']"
+"['egg', 'chocolate']","['baking soda', 'vanilla']"
+"['chocolate', 'vanilla']","['baking soda', 'egg']"
+"['flour', 'baking soda', 'chocolate']",['vanilla']
+"['flour', 'chocolate', 'vanilla']",['baking soda']
+"['baking soda', 'chocolate', 'vanilla']",['flour']
+"['flour', 'chocolate']","['baking soda', 'vanilla']"
+"['baking soda', 'chocolate']","['flour', 'vanilla']"
+"['chocolate', 'vanilla']","['flour', 'baking soda']"
+"['flour', 'baking soda', 'milk']",['egg']
+"['flour', 'milk', 'egg']",['baking soda']
+"['egg', 'baking soda', 'milk']",['flour']
+"['baking soda', 'milk']","['flour', 'egg']"
+"['flour', 'baking soda', 'egg']",['vanilla']
+"['flour', 'baking soda', 'vanilla']",['egg']
+"['flour', 'egg', 'vanilla']",['baking soda']
+"['baking soda', 'egg', 'vanilla']",['flour']
+"['flour', 'baking soda']","['egg', 'vanilla']"
+"['flour', 'vanilla']","['baking soda', 'egg']"
+"['baking soda', 'egg']","['flour', 'vanilla']"
+"['baking soda', 'vanilla']","['flour', 'egg']"
+"['egg', 'vanilla']","['flour', 'baking soda']"
+"['egg', 'baking soda', 'milk']",['vanilla']
+"['baking soda', 'milk', 'vanilla']",['egg']
+"['baking soda', 'egg', 'vanilla']",['milk']
+"['milk', 'egg', 'vanilla']",['baking soda']
+"['baking soda', 'milk']","['egg', 'vanilla']"
+"['baking soda', 'vanilla']","['milk', 'egg']"
+"['flour', 'baking soda', 'milk']",['vanilla']
+"['flour', 'milk', 'vanilla']",['baking soda']
+"['baking soda', 'milk', 'vanilla']",['flour']
+"['baking soda', 'milk']","['flour', 'vanilla']"
+"['soy sauce', 'bay leaf', 'chicken']",['vinegar']
+"['vinegar', 'bay leaf', 'chicken']",['soy sauce']
+"['vinegar', 'soy sauce', 'chicken']",['bay leaf']
+"['soy sauce', 'pork', 'bay leaf']",['vinegar']
+"['pork', 'bay leaf', 'vinegar']",['soy sauce']
+"['soy sauce', 'vinegar', 'bay leaf']",['pork']
+"['pork', 'soy sauce', 'vinegar']",['bay leaf']
+"['okra', 'eggplant', 'bean']",['tomato']
+"['okra', 'eggplant', 'tomato']",['bean']
+"['okra', 'bean', 'tomato']",['eggplant']
+"['eggplant', 'bean', 'tomato']",['okra']
+"['okra', 'eggplant']","['bean', 'tomato']"
+"['eggplant', 'bean']","['okra', 'tomato']"
+"['okra', 'bean', 'fish sauce']",['tomato']
+"['okra', 'bean', 'tomato']",['fish sauce']
+"['okra', 'fish sauce', 'tomato']",['bean']
+"['bean', 'fish sauce', 'tomato']",['okra']
+"['okra', 'bean']","['fish sauce', 'tomato']"
+"['okra', 'fish sauce']","['bean', 'tomato']"
+"['okra', 'tomato']","['bean', 'fish sauce']"
+"['pork', 'bean', 'fish sauce']",['tomato']
+"['pork', 'bean', 'tomato']",['fish sauce']
+"['spinach', 'bean', 'fish sauce']",['tomato']
+"['spinach', 'bean', 'tomato']",['fish sauce']
+"['spinach', 'fish sauce', 'tomato']",['bean']
+"['spinach', 'bean']","['fish sauce', 'tomato']"
+"['okra', 'bean', 'radish']",['tomato']
+"['okra', 'bean', 'tomato']",['radish']
+"['okra', 'radish', 'tomato']",['bean']
+"['bean', 'radish', 'tomato']",['okra']
+"['okra', 'radish']","['bean', 'tomato']"
+"['bean', 'radish']","['okra', 'tomato']"
+"['radish', 'tomato']","['okra', 'bean']"
+['radish'],"['okra', 'bean', 'tomato']"
+"['okra', 'spinach', 'bean']",['tomato']
+"['okra', 'spinach', 'tomato']",['bean']
+"['okra', 'bean', 'tomato']",['spinach']
+"['spinach', 'bean', 'tomato']",['okra']
+"['okra', 'spinach']","['bean', 'tomato']"
+"['okra', 'bean']","['spinach', 'tomato']"
+"['spinach', 'bean']","['okra', 'tomato']"
+"['okra', 'bean', 'tamarind']",['tomato']
+"['okra', 'bean', 'tomato']",['tamarind']
+"['okra', 'tamarind', 'tomato']",['bean']
+"['bean', 'tamarind', 'tomato']",['okra']
+"['okra', 'tamarind']","['bean', 'tomato']"
+"['bean', 'tamarind']","['okra', 'tomato']"
+"['potato', 'carrot', 'bell pepper']",['tomato']
+"['tomato', 'potato', 'bell pepper']",['carrot']
+"['tomato', 'carrot', 'bell pepper']",['potato']
+"['potato', 'carrot', 'tomato']",['bell pepper']
+"['potato', 'bell pepper']","['carrot', 'tomato']"
+"['flour', 'cheese', 'egg']",['butter']
+"['flour', 'cheese', 'butter']",['egg']
+"['cheese', 'egg', 'butter']",['flour']
+"['milk', 'cheese', 'egg']",['butter']
+"['milk', 'cheese', 'butter']",['egg']
+"['cheese', 'egg', 'butter']",['milk']
+"['flour', 'milk', 'cheese']",['butter']
+"['flour', 'cheese', 'butter']",['milk']
+"['milk', 'cheese', 'butter']",['flour']
+"['flour', 'cheese']","['milk', 'butter']"
+"['flour', 'egg', 'chocolate']",['butter']
+"['flour', 'chocolate', 'butter']",['egg']
+"['egg', 'butter', 'chocolate']",['flour']
+"['flour', 'chocolate']","['egg', 'butter']"
+"['egg', 'chocolate']","['flour', 'butter']"
+"['chocolate', 'butter']","['flour', 'egg']"
+"['flour', 'milk', 'egg']",['butter']
+"['flour', 'milk', 'butter']",['egg']
+"['flour', 'egg', 'butter']",['milk']
+"['milk', 'egg', 'butter']",['flour']
+"['milk', 'butter']","['flour', 'egg']"
+"['flour', 'egg', 'vanilla']",['butter']
+"['flour', 'butter', 'vanilla']",['egg']
+"['egg', 'butter', 'vanilla']",['flour']
+"['flour', 'vanilla']","['egg', 'butter']"
+"['butter', 'vanilla']","['flour', 'egg']"
+"['milk', 'egg', 'vanilla']",['butter']
+"['milk', 'butter', 'vanilla']",['egg']
+"['egg', 'butter', 'vanilla']",['milk']
+"['butter', 'vanilla']","['milk', 'egg']"
+"['flour', 'milk', 'vanilla']",['butter']
+"['milk', 'butter', 'vanilla']",['flour']
+"['pasta', 'chicken', 'cabbage']",['carrot']
+"['pasta', 'chicken', 'carrot']",['cabbage']
+"['pasta', 'cabbage', 'carrot']",['chicken']
+"['chicken', 'cabbage', 'carrot']",['pasta']
+"['pasta', 'cabbage']","['chicken', 'carrot']"
+"['chicken', 'cabbage']","['pasta', 'carrot']"
+"['pork', 'potato', 'carrot']",['tomato']
+"['pork', 'potato', 'tomato']",['carrot']
+"['pork', 'carrot', 'tomato']",['potato']
+"['flour', 'milk', 'cheese']",['egg']
+"['flour', 'cheese', 'egg']",['milk']
+"['milk', 'cheese', 'egg']",['flour']
+"['flour', 'egg', 'chocolate']",['vanilla']
+"['flour', 'chocolate', 'vanilla']",['egg']
+"['egg', 'chocolate', 'vanilla']",['flour']
+"['flour', 'chocolate']","['egg', 'vanilla']"
+"['egg', 'chocolate']","['flour', 'vanilla']"
+"['chocolate', 'vanilla']","['flour', 'egg']"
+"['flour', 'milk', 'vanilla']",['egg']
+"['milk', 'egg', 'vanilla']",['flour']
+"['milk', 'vanilla']","['flour', 'egg']"
+"['spinach', 'tamarind', 'fish sauce']",['tomato']
+"['spinach', 'tamarind', 'tomato']",['fish sauce']
+"['spinach', 'fish sauce', 'tomato']",['tamarind']
+"['tamarind', 'fish sauce', 'tomato']",['spinach']
+"['spinach', 'tamarind']","['fish sauce', 'tomato']"
+"['tamarind', 'fish sauce']","['spinach', 'tomato']"
+"['okra', 'tamarind', 'radish']",['tomato']
+"['okra', 'tamarind', 'tomato']",['radish']
+"['okra', 'radish', 'tomato']",['tamarind']
+"['tamarind', 'radish', 'tomato']",['okra']
+"['okra', 'tamarind']","['radish', 'tomato']"
+"['okra', 'radish']","['tamarind', 'tomato']"
+"['tamarind', 'radish']","['okra', 'tomato']"
+"['tamarind', 'tomato']","['okra', 'radish']"
+"['radish', 'tomato']","['okra', 'tamarind']"
+['radish'],"['okra', 'tamarind', 'tomato']"
+"['okra', 'spinach', 'tamarind']",['tomato']
+"['okra', 'spinach', 'tomato']",['tamarind']
+"['okra', 'tamarind', 'tomato']",['spinach']
+"['spinach', 'tamarind', 'tomato']",['okra']
+"['okra', 'spinach']","['tamarind', 'tomato']"
+"['okra', 'tamarind']","['spinach', 'tomato']"
+"['spinach', 'tamarind']","['okra', 'tomato']"
+"['spinach', 'tamarind', 'radish']",['tomato']
+"['spinach', 'tamarind', 'tomato']",['radish']
+"['spinach', 'radish', 'tomato']",['tamarind']
+"['tamarind', 'radish', 'tomato']",['spinach']
+"['spinach', 'tamarind']","['radish', 'tomato']"
+"['spinach', 'radish']","['tamarind', 'tomato']"
+"['tamarind', 'radish']","['spinach', 'tomato']"
+"['radish', 'tomato']","['spinach', 'tamarind']"
+['radish'],"['spinach', 'tamarind', 'tomato']"
+"['baking soda', 'milk', 'egg', 'butter']",['flour']
+"['flour', 'baking soda', 'milk', 'butter']",['egg']
+"['flour', 'baking soda', 'milk', 'egg']",['butter']
+"['baking soda', 'milk', 'butter']","['flour', 'egg']"
+"['flour', 'baking soda', 'milk']","['egg', 'butter']"
+"['baking soda', 'egg', 'butter', 'vanilla']",['flour']
+"['flour', 'baking soda', 'butter', 'vanilla']",['egg']
+"['flour', 'baking soda', 'egg', 'butter']",['vanilla']
+"['flour', 'baking soda', 'egg', 'vanilla']",['butter']
+"['flour', 'egg', 'butter', 'vanilla']",['baking soda']
+"['baking soda', 'butter', 'vanilla']","['flour', 'egg']"
+"['baking soda', 'egg', 'butter']","['flour', 'vanilla']"
+"['flour', 'baking soda', 'butter']","['egg', 'vanilla']"
+"['baking soda', 'egg', 'vanilla']","['flour', 'butter']"
+"['flour', 'baking soda', 'vanilla']","['egg', 'butter']"
+"['egg', 'butter', 'vanilla']","['flour', 'baking soda']"
+"['flour', 'butter', 'vanilla']","['baking soda', 'egg']"
+"['baking soda', 'butter']","['flour', 'egg', 'vanilla']"
+"['baking soda', 'vanilla']","['flour', 'egg', 'butter']"
+"['butter', 'vanilla']","['flour', 'baking soda', 'egg']"
+"['baking soda', 'egg', 'chocolate', 'vanilla']",['flour']
+"['flour', 'baking soda', 'chocolate', 'vanilla']",['egg']
+"['flour', 'baking soda', 'egg', 'chocolate']",['vanilla']
+"['flour', 'egg', 'chocolate', 'vanilla']",['baking soda']
+"['baking soda', 'chocolate', 'vanilla']","['flour', 'egg']"
+"['baking soda', 'egg', 'chocolate']","['flour', 'vanilla']"
+"['flour', 'baking soda', 'chocolate']","['egg', 'vanilla']"
+"['egg', 'chocolate', 'vanilla']","['flour', 'baking soda']"
+"['flour', 'chocolate', 'vanilla']","['baking soda', 'egg']"
+"['flour', 'egg', 'chocolate']","['baking soda', 'vanilla']"
+"['baking soda', 'chocolate']","['flour', 'egg', 'vanilla']"
+"['chocolate', 'vanilla']","['flour', 'baking soda', 'egg']"
+"['egg', 'chocolate']","['flour', 'baking soda', 'vanilla']"
+"['flour', 'chocolate']","['baking soda', 'egg', 'vanilla']"
+"['baking soda', 'milk', 'egg', 'vanilla']",['flour']
+"['flour', 'baking soda', 'milk', 'vanilla']",['egg']
+"['flour', 'baking soda', 'milk', 'egg']",['vanilla']
+"['flour', 'milk', 'egg', 'vanilla']",['baking soda']
+"['baking soda', 'milk', 'vanilla']","['flour', 'egg']"
+"['baking soda', 'milk', 'egg']","['flour', 'vanilla']"
+"['flour', 'baking soda', 'milk']","['egg', 'vanilla']"
+"['flour', 'milk', 'vanilla']","['baking soda', 'egg']"
+"['baking soda', 'milk']","['flour', 'egg', 'vanilla']"
+"['milk', 'egg', 'butter', 'vanilla']",['flour']
+"['flour', 'milk', 'butter', 'vanilla']",['egg']
+"['flour', 'milk', 'egg', 'vanilla']",['butter']
+"['milk', 'butter', 'vanilla']","['flour', 'egg']"
+"['flour', 'milk', 'vanilla']","['egg', 'butter']"

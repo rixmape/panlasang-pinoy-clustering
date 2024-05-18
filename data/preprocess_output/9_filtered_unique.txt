@@ -1,12 +1,10 @@
 alcohol
-anchovy
 anise
 annatto
 apple
 asparagus
 avocado
 baking soda
-bamboo
 banana
 barbecue sauce
 basil
@@ -17,11 +15,8 @@ beef broth
 bell pepper
 berry
 bitter gourd
-boba
-bok choy
 bread
 broccoli
-brownie
 butter
 buttermilk
 cabbage
@@ -33,7 +28,6 @@ cauliflower
 celery
 chayote
 cheese
-cherry
 chicken
 chicken broth
 chili
@@ -43,72 +37,46 @@ cinnamon
 clam
 coconut
 coffee
-cola
-cookie
 coriander
 corn
 cornstarch
 crab
 cream
-cream puff
-crumb
 cucumber
 cumin
-cupcake
-dashi
-dill
-duck
 egg
 eggplant
 fish
-fish broth
 fish sauce
 flour
-frog
-gato
 gelatin
 ginger
-glucose
-goat
 gourd
-grape
 guava
 honey
 ice
 ice cream
 jackfruit
-kalamay
 ketchup
-labong
-lamb
 lemon
 lemongrass
 lettuce
-lychee
 lye
 malunggay
 mango
-maple
-marshmallow
 mayonnaise
 melon
 milk
-mint
 miso
-mochi
-muffin
-mungo bean
 mushroom
 mustard
 nan
 nata chocolate
 nut
-oat
 okra
 onion wrapper
 orange
 oregano
-palapang
 papaya
 paprika
 parsley
@@ -117,12 +85,9 @@ pea
 peach
 peanut
 peas
-phosphate
 pickle
-pico gallo
 pie
 pineapple
-plum
 pork
 pork broth
 potato
@@ -130,36 +95,22 @@ puto
 radish
 raisin
 relish
-rib
 rice
 rosemary
 saffron
-saluyot
-samgyupsal
-sapin
 sauce
 sausage
-seaweed
 sesame
 shrimp
-shrimp broth
-sibot
-siosa
-snail
 soda
 soy sauce
 spinach
 squash
 squid
-sunflower
 sweet potato
-taco
-taisan
 tamarind
 taro
-tea
 thyme
-tibok
 tofu
 tomato
 turnip
@@ -167,8 +118,6 @@ vanilla
 vegetable
 vegetable broth
 vinegar
-wasabi
 wrapper
 yam
 yeast
-yogurt
