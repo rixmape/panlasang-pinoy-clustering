@@ -4,8 +4,8 @@ antecedents,consequents
 ['baking soda'],['butter']
 ['baking soda'],['egg']
 ['baking soda'],['flour']
-['baking soda'],['vanilla']
 ['vanilla'],['baking soda']
+['baking soda'],['vanilla']
 ['bay leaf'],['pork']
 ['bay leaf'],['vinegar']
 ['okra'],['bean']
@@ -44,501 +44,501 @@ antecedents,consequents
 ['tamarind'],['spinach']
 ['spinach'],['tomato']
 ['tamarind'],['tomato']
+"['cornstarch', 'alcohol']",['soy sauce']
 "['alcohol', 'soy sauce']",['cornstarch']
-"['alcohol', 'cornstarch']",['soy sauce']
 "['alcohol', 'ginger']",['soy sauce']
+"['butter', 'baking soda']",['egg']
 "['baking soda', 'egg']",['butter']
-"['baking soda', 'butter']",['egg']
-"['baking soda', 'butter']",['flour']
-"['baking soda', 'milk']",['butter']
-"['baking soda', 'butter']",['vanilla']
-"['baking soda', 'vanilla']",['butter']
+"['butter', 'baking soda']",['flour']
+"['milk', 'baking soda']",['butter']
 "['butter', 'vanilla']",['baking soda']
+"['butter', 'baking soda']",['vanilla']
+"['vanilla', 'baking soda']",['butter']
 "['baking soda', 'chocolate']",['egg']
-"['egg', 'chocolate']",['baking soda']
+"['chocolate', 'egg']",['baking soda']
 "['flour', 'chocolate']",['baking soda']
 "['baking soda', 'chocolate']",['flour']
+"['vanilla', 'chocolate']",['baking soda']
 "['baking soda', 'chocolate']",['vanilla']
-"['chocolate', 'vanilla']",['baking soda']
 "['flour', 'baking soda']",['egg']
 "['baking soda', 'egg']",['flour']
 ['baking soda'],"['flour', 'egg']"
-"['baking soda', 'milk']",['egg']
+"['milk', 'baking soda']",['egg']
+"['vanilla', 'baking soda']",['egg']
+"['vanilla', 'egg']",['baking soda']
 "['baking soda', 'egg']",['vanilla']
-"['baking soda', 'vanilla']",['egg']
-"['egg', 'vanilla']",['baking soda']
-"['baking soda', 'milk']",['flour']
-"['flour', 'baking soda']",['vanilla']
+"['milk', 'baking soda']",['flour']
 "['flour', 'vanilla']",['baking soda']
-"['baking soda', 'vanilla']",['flour']
-"['baking soda', 'milk']",['vanilla']
-"['baking soda', 'vanilla']",['milk']
+"['flour', 'baking soda']",['vanilla']
+"['vanilla', 'baking soda']",['flour']
+"['milk', 'baking soda']",['vanilla']
+"['vanilla', 'baking soda']",['milk']
 "['flour', 'banana']",['egg']
 "['banana', 'egg']",['flour']
-"['bay leaf', 'potato']",['carrot']
-"['bay leaf', 'carrot']",['potato']
-"['bay leaf', 'carrot']",['tomato']
+"['carrot', 'bay leaf']",['potato']
+"['potato', 'bay leaf']",['carrot']
+"['carrot', 'bay leaf']",['tomato']
 "['bay leaf', 'tomato']",['carrot']
-"['bay leaf', 'chicken']",['soy sauce']
-"['vinegar', 'chicken']",['bay leaf']
-"['bay leaf', 'chicken']",['vinegar']
-"['pork', 'bay leaf']",['soy sauce']
-"['soy sauce', 'bay leaf']",['pork']
-"['pork', 'bay leaf']",['vinegar']
-"['vinegar', 'bay leaf']",['pork']
-"['bay leaf', 'potato']",['tomato']
+"['chicken', 'bay leaf']",['soy sauce']
+"['chicken', 'vinegar']",['bay leaf']
+"['chicken', 'bay leaf']",['vinegar']
+"['bay leaf', 'pork']",['soy sauce']
+"['bay leaf', 'soy sauce']",['pork']
+"['bay leaf', 'vinegar']",['pork']
+"['bay leaf', 'pork']",['vinegar']
+"['potato', 'bay leaf']",['tomato']
 "['bay leaf', 'tomato']",['potato']
-"['soy sauce', 'bay leaf']",['vinegar']
-"['vinegar', 'bay leaf']",['soy sauce']
+"['bay leaf', 'vinegar']",['soy sauce']
 "['vinegar', 'soy sauce']",['bay leaf']
+"['bay leaf', 'soy sauce']",['vinegar']
 "['bean', 'cabbage']",['fish sauce']
-"['eggplant', 'bean']",['fish sauce']
-"['eggplant', 'fish sauce']",['bean']
+"['bean', 'eggplant']",['fish sauce']
+"['fish sauce', 'eggplant']",['bean']
+"['bean', 'okra']",['eggplant']
+"['bean', 'eggplant']",['okra']
 "['okra', 'eggplant']",['bean']
-"['okra', 'bean']",['eggplant']
-"['eggplant', 'bean']",['okra']
+"['bean', 'eggplant']",['pork']
 "['pork', 'eggplant']",['bean']
-"['eggplant', 'bean']",['pork']
-"['eggplant', 'bean']",['tomato']
-"['eggplant', 'tomato']",['bean']
-"['okra', 'bean']",['fish sauce']
-"['okra', 'fish sauce']",['bean']
-"['spinach', 'bean']",['fish sauce']
-"['spinach', 'fish sauce']",['bean']
+"['bean', 'eggplant']",['tomato']
+"['tomato', 'eggplant']",['bean']
+"['bean', 'okra']",['fish sauce']
+"['fish sauce', 'okra']",['bean']
+"['bean', 'spinach']",['fish sauce']
+"['fish sauce', 'spinach']",['bean']
 "['bean', 'fish sauce']",['tomato']
 "['bean', 'tomato']",['fish sauce']
-"['okra', 'radish']",['bean']
 "['bean', 'radish']",['okra']
-['radish'],"['okra', 'bean']"
+"['radish', 'okra']",['bean']
+['radish'],"['bean', 'okra']"
+"['bean', 'okra']",['spinach']
+"['bean', 'spinach']",['okra']
 "['okra', 'spinach']",['bean']
-"['okra', 'bean']",['spinach']
-"['spinach', 'bean']",['okra']
-"['okra', 'tamarind']",['bean']
 "['bean', 'tamarind']",['okra']
-"['okra', 'bean']",['tomato']
+"['tamarind', 'okra']",['bean']
+"['bean', 'okra']",['tomato']
 "['okra', 'tomato']",['bean']
 ['okra'],"['bean', 'tomato']"
 "['bean', 'radish']",['tomato']
 "['radish', 'tomato']",['bean']
 ['radish'],"['bean', 'tomato']"
-"['spinach', 'bean']",['tomato']
-"['spinach', 'tomato']",['bean']
+"['bean', 'spinach']",['tomato']
+"['tomato', 'spinach']",['bean']
 "['bean', 'tamarind']",['tomato']
 "['tamarind', 'tomato']",['bean']
-"['chicken', 'bell pepper']",['carrot']
-"['pork', 'bell pepper']",['carrot']
-"['potato', 'carrot']",['bell pepper']
-"['potato', 'bell pepper']",['carrot']
-"['tomato', 'bell pepper']",['carrot']
+"['bell pepper', 'chicken']",['carrot']
+"['bell pepper', 'pork']",['carrot']
+"['bell pepper', 'potato']",['carrot']
+"['carrot', 'potato']",['bell pepper']
+"['bell pepper', 'tomato']",['carrot']
 "['carrot', 'tomato']",['bell pepper']
-"['potato', 'bell pepper']",['tomato']
-"['tomato', 'bell pepper']",['potato']
+"['bell pepper', 'potato']",['tomato']
+"['bell pepper', 'tomato']",['potato']
 "['potato', 'tomato']",['bell pepper']
 "['butter', 'bread']",['egg']
 "['cheese', 'bread']",['egg']
 "['flour', 'bread']",['egg']
 "['milk', 'bread']",['egg']
 "['pork', 'bread']",['egg']
-"['cheese', 'butter']",['egg']
+"['butter', 'cheese']",['egg']
 "['flour', 'cheese']",['butter']
+"['butter', 'cheese']",['milk']
 "['milk', 'cheese']",['butter']
-"['cheese', 'butter']",['milk']
-"['pasta', 'butter']",['cheese']
-"['egg', 'chocolate']",['butter']
-"['chocolate', 'butter']",['egg']
+"['butter', 'pasta']",['cheese']
+"['butter', 'chocolate']",['egg']
+"['chocolate', 'egg']",['butter']
+"['butter', 'chocolate']",['flour']
 "['flour', 'chocolate']",['butter']
-"['chocolate', 'butter']",['flour']
-"['egg', 'coconut']",['butter']
 "['butter', 'coconut']",['egg']
+"['coconut', 'egg']",['butter']
 "['butter', 'coconut']",['milk']
-"['egg', 'cream']",['butter']
-"['cream', 'butter']",['egg']
-"['flour', 'butter']",['egg']
-"['egg', 'butter']",['flour']
+"['butter', 'cream']",['egg']
+"['cream', 'egg']",['butter']
+"['butter', 'flour']",['egg']
+"['butter', 'egg']",['flour']
+"['butter', 'milk']",['egg']
+"['butter', 'egg']",['milk']
 "['milk', 'egg']",['butter']
-"['milk', 'butter']",['egg']
-"['egg', 'butter']",['milk']
-"['egg', 'vanilla']",['butter']
 "['butter', 'vanilla']",['egg']
-"['flour', 'milk']",['butter']
-"['flour', 'butter']",['milk']
-"['milk', 'butter']",['flour']
-"['flour', 'vanilla']",['butter']
+"['vanilla', 'egg']",['butter']
+"['butter', 'milk']",['flour']
+"['butter', 'flour']",['milk']
+"['milk', 'flour']",['butter']
 "['butter', 'vanilla']",['flour']
-"['milk', 'vanilla']",['butter']
+"['flour', 'vanilla']",['butter']
 "['butter', 'vanilla']",['milk']
+"['milk', 'vanilla']",['butter']
 "['chicken', 'cabbage']",['carrot']
-"['clam', 'cabbage']",['carrot']
-"['clam', 'carrot']",['cabbage']
-"['egg', 'cabbage']",['carrot']
+"['carrot', 'clam']",['cabbage']
+"['cabbage', 'clam']",['carrot']
+"['cabbage', 'egg']",['carrot']
+"['carrot', 'pasta']",['cabbage']
+"['carrot', 'cabbage']",['pasta']
 "['pasta', 'cabbage']",['carrot']
-"['pasta', 'carrot']",['cabbage']
-"['cabbage', 'carrot']",['pasta']
-"['pork', 'cabbage']",['carrot']
-"['soy sauce', 'cabbage']",['carrot']
-"['pasta', 'chicken']",['cabbage']
-"['pasta', 'cabbage']",['chicken']
+"['cabbage', 'pork']",['carrot']
+"['cabbage', 'soy sauce']",['carrot']
+"['chicken', 'pasta']",['cabbage']
 "['chicken', 'cabbage']",['pasta']
+"['pasta', 'cabbage']",['chicken']
 "['pasta', 'clam']",['cabbage']
-"['clam', 'cabbage']",['pasta']
-"['clam', 'cabbage']",['pork']
+"['cabbage', 'clam']",['pasta']
+"['cabbage', 'clam']",['pork']
 "['pasta', 'soy sauce']",['cabbage']
-"['soy sauce', 'cabbage']",['pork']
-"['pasta', 'chicken']",['carrot']
-"['pasta', 'carrot']",['chicken']
-"['potato', 'chicken']",['carrot']
-"['pork', 'potato']",['carrot']
-"['potato', 'carrot']",['tomato']
-"['potato', 'tomato']",['carrot']
+"['cabbage', 'soy sauce']",['pork']
+"['carrot', 'pasta']",['chicken']
+"['chicken', 'pasta']",['carrot']
+"['chicken', 'potato']",['carrot']
+"['potato', 'pork']",['carrot']
+"['carrot', 'potato']",['tomato']
 "['carrot', 'tomato']",['potato']
-"['pasta', 'cream']",['cheese']
+"['potato', 'tomato']",['carrot']
+"['cream', 'pasta']",['cheese']
 "['flour', 'cheese']",['egg']
 "['milk', 'cheese']",['egg']
-"['flour', 'cheese']",['milk']
 "['milk', 'cheese']",['flour']
+"['flour', 'cheese']",['milk']
 "['pasta', 'tomato']",['cheese']
 "['cornstarch', 'chicken']",['egg']
 "['cornstarch', 'chicken']",['soy sauce']
-"['vinegar', 'chicken']",['soy sauce']
-"['fish sauce', 'coconut']",['chili']
+"['chicken', 'vinegar']",['soy sauce']
+"['coconut', 'fish sauce']",['chili']
 "['chili', 'coconut']",['ginger']
-"['ginger', 'coconut']",['chili']
-"['pork', 'coconut']",['chili']
-"['shrimp', 'coconut']",['chili']
-"['ginger', 'fish sauce']",['chili']
+"['coconut', 'ginger']",['chili']
+"['coconut', 'pork']",['chili']
+"['coconut', 'shrimp']",['chili']
+"['fish sauce', 'ginger']",['chili']
 "['vinegar', 'ginger']",['chili']
 "['chili', 'tamarind']",['tomato']
 "['tamarind', 'tomato']",['chili']
 "['flour', 'chocolate']",['egg']
-"['egg', 'chocolate']",['flour']
+"['chocolate', 'egg']",['flour']
 ['chocolate'],"['flour', 'egg']"
-"['egg', 'chocolate']",['vanilla']
-"['chocolate', 'vanilla']",['egg']
+"['vanilla', 'chocolate']",['egg']
+"['chocolate', 'egg']",['vanilla']
 "['flour', 'chocolate']",['vanilla']
-"['chocolate', 'vanilla']",['flour']
-"['clam', 'cornstarch']",['soy sauce']
-"['ginger', 'coconut']",['fish sauce']
-"['flour', 'cornstarch']",['egg']
+"['vanilla', 'chocolate']",['flour']
+"['cornstarch', 'clam']",['soy sauce']
+"['coconut', 'ginger']",['fish sauce']
+"['cornstarch', 'flour']",['egg']
 "['cornstarch', 'ginger']",['soy sauce']
-"['pork', 'cornstarch']",['soy sauce']
-"['vinegar', 'cornstarch']",['soy sauce']
+"['cornstarch', 'pork']",['soy sauce']
+"['cornstarch', 'vinegar']",['soy sauce']
 "['flour', 'cream']",['egg']
 "['cream', 'vanilla']",['egg']
-"['flour', 'milk']",['egg']
+"['milk', 'flour']",['egg']
 "['milk', 'egg']",['flour']
 "['flour', 'pork']",['egg']
 "['flour', 'vanilla']",['egg']
-"['egg', 'vanilla']",['flour']
+"['vanilla', 'egg']",['flour']
 ['vanilla'],"['flour', 'egg']"
 "['milk', 'vanilla']",['egg']
-"['egg', 'vanilla']",['milk']
-"['pork', 'rice']",['egg']
+"['vanilla', 'egg']",['milk']
+"['rice', 'pork']",['egg']
+"['fish sauce', 'eggplant']",['pork']
 "['pork', 'eggplant']",['fish sauce']
-"['eggplant', 'fish sauce']",['pork']
-"['eggplant', 'fish sauce']",['tomato']
-"['eggplant', 'tomato']",['fish sauce']
+"['fish sauce', 'eggplant']",['tomato']
+"['tomato', 'eggplant']",['fish sauce']
 "['okra', 'eggplant']",['tomato']
-"['eggplant', 'tomato']",['okra']
+"['tomato', 'eggplant']",['okra']
+"['tomato', 'eggplant']",['pork']
 "['pork', 'eggplant']",['tomato']
-"['eggplant', 'tomato']",['pork']
-"['fish', 'fish sauce']",['tomato']
-"['okra', 'fish sauce']",['tomato']
+"['fish sauce', 'fish']",['tomato']
+"['fish sauce', 'okra']",['tomato']
 "['okra', 'tomato']",['fish sauce']
 ['okra'],"['fish sauce', 'tomato']"
-"['fish sauce', 'radish']",['tomato']
+"['radish', 'fish sauce']",['tomato']
 "['radish', 'tomato']",['fish sauce']
 ['radish'],"['fish sauce', 'tomato']"
-"['spinach', 'tamarind']",['fish sauce']
 "['tamarind', 'fish sauce']",['spinach']
-"['spinach', 'fish sauce']",['tomato']
-"['spinach', 'tomato']",['fish sauce']
+"['tamarind', 'spinach']",['fish sauce']
+"['fish sauce', 'spinach']",['tomato']
+"['tomato', 'spinach']",['fish sauce']
 "['tamarind', 'fish sauce']",['tomato']
 "['tamarind', 'tomato']",['fish sauce']
 ['tamarind'],"['fish sauce', 'tomato']"
 "['milk', 'vanilla']",['flour']
-"['pork', 'lemon']",['soy sauce']
+"['lemon', 'pork']",['soy sauce']
 "['okra', 'pork']",['tomato']
-"['okra', 'tamarind']",['radish']
-"['okra', 'radish']",['tamarind']
 "['tamarind', 'radish']",['okra']
-['radish'],"['okra', 'tamarind']"
-"['okra', 'radish']",['tomato']
-"['okra', 'tomato']",['radish']
+"['tamarind', 'okra']",['radish']
+"['radish', 'okra']",['tamarind']
+['radish'],"['tamarind', 'okra']"
+"['radish', 'okra']",['tomato']
 "['radish', 'tomato']",['okra']
+"['okra', 'tomato']",['radish']
 ['radish'],"['okra', 'tomato']"
+"['tamarind', 'okra']",['spinach']
+"['tamarind', 'spinach']",['okra']
 "['okra', 'spinach']",['tamarind']
-"['okra', 'tamarind']",['spinach']
-"['spinach', 'tamarind']",['okra']
-"['okra', 'spinach']",['tomato']
 "['okra', 'tomato']",['spinach']
-"['spinach', 'tomato']",['okra']
-"['okra', 'tamarind']",['tomato']
-"['okra', 'tomato']",['tamarind']
+"['okra', 'spinach']",['tomato']
+"['tomato', 'spinach']",['okra']
+"['tamarind', 'okra']",['tomato']
 "['tamarind', 'tomato']",['okra']
-"['pork', 'potato']",['tomato']
-"['spinach', 'tamarind']",['radish']
-"['spinach', 'radish']",['tamarind']
+"['okra', 'tomato']",['tamarind']
+"['potato', 'pork']",['tomato']
 "['tamarind', 'radish']",['spinach']
-['radish'],"['spinach', 'tamarind']"
-"['spinach', 'radish']",['tomato']
+"['tamarind', 'spinach']",['radish']
+"['radish', 'spinach']",['tamarind']
+['radish'],"['tamarind', 'spinach']"
 "['radish', 'tomato']",['spinach']
-['radish'],"['spinach', 'tomato']"
+"['radish', 'spinach']",['tomato']
+['radish'],"['tomato', 'spinach']"
 "['tamarind', 'radish']",['tomato']
 "['tamarind', 'tomato']",['radish']
 "['radish', 'tomato']",['tamarind']
 ['tamarind'],"['radish', 'tomato']"
 ['radish'],"['tamarind', 'tomato']"
-"['spinach', 'tamarind']",['tomato']
-"['spinach', 'tomato']",['tamarind']
 "['tamarind', 'tomato']",['spinach']
-['tamarind'],"['spinach', 'tomato']"
+"['tamarind', 'spinach']",['tomato']
+"['tomato', 'spinach']",['tamarind']
+['tamarind'],"['tomato', 'spinach']"
+"['butter', 'flour', 'baking soda']",['egg']
+"['butter', 'baking soda', 'egg']",['flour']
 "['flour', 'baking soda', 'egg']",['butter']
-"['flour', 'baking soda', 'butter']",['egg']
-"['baking soda', 'egg', 'butter']",['flour']
-"['baking soda', 'butter']","['flour', 'egg']"
-"['egg', 'baking soda', 'milk']",['butter']
-"['baking soda', 'milk', 'butter']",['egg']
-"['baking soda', 'egg', 'butter']",['milk']
-"['baking soda', 'milk']","['egg', 'butter']"
-"['baking soda', 'egg', 'butter']",['vanilla']
-"['baking soda', 'egg', 'vanilla']",['butter']
-"['baking soda', 'butter', 'vanilla']",['egg']
-"['egg', 'butter', 'vanilla']",['baking soda']
-"['baking soda', 'butter']","['egg', 'vanilla']"
-"['baking soda', 'vanilla']","['egg', 'butter']"
+"['butter', 'baking soda']","['flour', 'egg']"
+"['butter', 'milk', 'baking soda']",['egg']
+"['butter', 'baking soda', 'egg']",['milk']
+"['milk', 'baking soda', 'egg']",['butter']
+"['milk', 'baking soda']","['butter', 'egg']"
+"['butter', 'vanilla', 'baking soda']",['egg']
+"['butter', 'vanilla', 'egg']",['baking soda']
+"['butter', 'baking soda', 'egg']",['vanilla']
+"['vanilla', 'baking soda', 'egg']",['butter']
 "['butter', 'vanilla']","['baking soda', 'egg']"
-"['flour', 'baking soda', 'milk']",['butter']
-"['baking soda', 'milk', 'butter']",['flour']
-"['flour', 'baking soda', 'butter']",['vanilla']
-"['flour', 'baking soda', 'vanilla']",['butter']
-"['flour', 'butter', 'vanilla']",['baking soda']
-"['baking soda', 'butter', 'vanilla']",['flour']
-"['baking soda', 'butter']","['flour', 'vanilla']"
-"['baking soda', 'vanilla']","['flour', 'butter']"
+"['butter', 'baking soda']","['vanilla', 'egg']"
+"['vanilla', 'baking soda']","['butter', 'egg']"
+"['butter', 'milk', 'baking soda']",['flour']
+"['milk', 'flour', 'baking soda']",['butter']
+"['butter', 'flour', 'vanilla']",['baking soda']
+"['butter', 'flour', 'baking soda']",['vanilla']
+"['butter', 'vanilla', 'baking soda']",['flour']
+"['flour', 'vanilla', 'baking soda']",['butter']
 "['butter', 'vanilla']","['flour', 'baking soda']"
+"['butter', 'baking soda']","['flour', 'vanilla']"
+"['vanilla', 'baking soda']","['butter', 'flour']"
 "['flour', 'baking soda', 'chocolate']",['egg']
-"['flour', 'egg', 'chocolate']",['baking soda']
-"['baking soda', 'egg', 'chocolate']",['flour']
+"['flour', 'chocolate', 'egg']",['baking soda']
+"['baking soda', 'chocolate', 'egg']",['flour']
 "['flour', 'chocolate']","['baking soda', 'egg']"
 "['baking soda', 'chocolate']","['flour', 'egg']"
-"['egg', 'chocolate']","['flour', 'baking soda']"
-"['baking soda', 'egg', 'chocolate']",['vanilla']
-"['baking soda', 'chocolate', 'vanilla']",['egg']
-"['egg', 'chocolate', 'vanilla']",['baking soda']
-"['baking soda', 'chocolate']","['egg', 'vanilla']"
-"['egg', 'chocolate']","['baking soda', 'vanilla']"
-"['chocolate', 'vanilla']","['baking soda', 'egg']"
+"['chocolate', 'egg']","['flour', 'baking soda']"
+"['vanilla', 'chocolate', 'baking soda']",['egg']
+"['vanilla', 'chocolate', 'egg']",['baking soda']
+"['baking soda', 'chocolate', 'egg']",['vanilla']
+"['vanilla', 'chocolate']","['baking soda', 'egg']"
+"['baking soda', 'chocolate']","['vanilla', 'egg']"
+"['chocolate', 'egg']","['vanilla', 'baking soda']"
+"['flour', 'vanilla', 'chocolate']",['baking soda']
 "['flour', 'baking soda', 'chocolate']",['vanilla']
-"['flour', 'chocolate', 'vanilla']",['baking soda']
-"['baking soda', 'chocolate', 'vanilla']",['flour']
-"['flour', 'chocolate']","['baking soda', 'vanilla']"
+"['vanilla', 'chocolate', 'baking soda']",['flour']
+"['flour', 'chocolate']","['vanilla', 'baking soda']"
+"['vanilla', 'chocolate']","['flour', 'baking soda']"
 "['baking soda', 'chocolate']","['flour', 'vanilla']"
-"['chocolate', 'vanilla']","['flour', 'baking soda']"
-"['flour', 'baking soda', 'milk']",['egg']
-"['flour', 'milk', 'egg']",['baking soda']
-"['egg', 'baking soda', 'milk']",['flour']
-"['baking soda', 'milk']","['flour', 'egg']"
+"['milk', 'flour', 'baking soda']",['egg']
+"['milk', 'flour', 'egg']",['baking soda']
+"['milk', 'baking soda', 'egg']",['flour']
+"['milk', 'baking soda']","['flour', 'egg']"
+"['flour', 'vanilla', 'baking soda']",['egg']
+"['flour', 'vanilla', 'egg']",['baking soda']
 "['flour', 'baking soda', 'egg']",['vanilla']
-"['flour', 'baking soda', 'vanilla']",['egg']
-"['flour', 'egg', 'vanilla']",['baking soda']
-"['baking soda', 'egg', 'vanilla']",['flour']
-"['flour', 'baking soda']","['egg', 'vanilla']"
+"['vanilla', 'baking soda', 'egg']",['flour']
 "['flour', 'vanilla']","['baking soda', 'egg']"
+"['flour', 'baking soda']","['vanilla', 'egg']"
+"['vanilla', 'baking soda']","['flour', 'egg']"
+"['vanilla', 'egg']","['flour', 'baking soda']"
 "['baking soda', 'egg']","['flour', 'vanilla']"
-"['baking soda', 'vanilla']","['flour', 'egg']"
-"['egg', 'vanilla']","['flour', 'baking soda']"
-"['egg', 'baking soda', 'milk']",['vanilla']
-"['baking soda', 'milk', 'vanilla']",['egg']
-"['baking soda', 'egg', 'vanilla']",['milk']
-"['milk', 'egg', 'vanilla']",['baking soda']
-"['baking soda', 'milk']","['egg', 'vanilla']"
-"['baking soda', 'vanilla']","['milk', 'egg']"
-"['flour', 'baking soda', 'milk']",['vanilla']
-"['flour', 'milk', 'vanilla']",['baking soda']
-"['baking soda', 'milk', 'vanilla']",['flour']
-"['baking soda', 'milk']","['flour', 'vanilla']"
-"['soy sauce', 'bay leaf', 'chicken']",['vinegar']
-"['vinegar', 'bay leaf', 'chicken']",['soy sauce']
-"['vinegar', 'soy sauce', 'chicken']",['bay leaf']
-"['soy sauce', 'pork', 'bay leaf']",['vinegar']
-"['pork', 'bay leaf', 'vinegar']",['soy sauce']
-"['soy sauce', 'vinegar', 'bay leaf']",['pork']
-"['pork', 'soy sauce', 'vinegar']",['bay leaf']
-"['okra', 'eggplant', 'bean']",['tomato']
-"['okra', 'eggplant', 'tomato']",['bean']
-"['okra', 'bean', 'tomato']",['eggplant']
-"['eggplant', 'bean', 'tomato']",['okra']
+"['milk', 'vanilla', 'baking soda']",['egg']
+"['milk', 'vanilla', 'egg']",['baking soda']
+"['milk', 'baking soda', 'egg']",['vanilla']
+"['vanilla', 'baking soda', 'egg']",['milk']
+"['milk', 'baking soda']","['vanilla', 'egg']"
+"['vanilla', 'baking soda']","['milk', 'egg']"
+"['milk', 'flour', 'vanilla']",['baking soda']
+"['milk', 'flour', 'baking soda']",['vanilla']
+"['milk', 'vanilla', 'baking soda']",['flour']
+"['milk', 'baking soda']","['flour', 'vanilla']"
+"['chicken', 'bay leaf', 'vinegar']",['soy sauce']
+"['chicken', 'vinegar', 'soy sauce']",['bay leaf']
+"['chicken', 'bay leaf', 'soy sauce']",['vinegar']
+"['bay leaf', 'vinegar', 'pork']",['soy sauce']
+"['soy sauce', 'vinegar', 'pork']",['bay leaf']
+"['bay leaf', 'vinegar', 'soy sauce']",['pork']
+"['soy sauce', 'bay leaf', 'pork']",['vinegar']
+"['bean', 'okra', 'tomato']",['eggplant']
+"['bean', 'okra', 'eggplant']",['tomato']
+"['bean', 'tomato', 'eggplant']",['okra']
+"['okra', 'tomato', 'eggplant']",['bean']
+"['bean', 'eggplant']","['okra', 'tomato']"
 "['okra', 'eggplant']","['bean', 'tomato']"
-"['eggplant', 'bean']","['okra', 'tomato']"
-"['okra', 'bean', 'fish sauce']",['tomato']
-"['okra', 'bean', 'tomato']",['fish sauce']
-"['okra', 'fish sauce', 'tomato']",['bean']
+"['bean', 'fish sauce', 'okra']",['tomato']
 "['bean', 'fish sauce', 'tomato']",['okra']
-"['okra', 'bean']","['fish sauce', 'tomato']"
-"['okra', 'fish sauce']","['bean', 'tomato']"
+"['bean', 'okra', 'tomato']",['fish sauce']
+"['fish sauce', 'okra', 'tomato']",['bean']
+"['bean', 'okra']","['fish sauce', 'tomato']"
+"['fish sauce', 'okra']","['bean', 'tomato']"
 "['okra', 'tomato']","['bean', 'fish sauce']"
-"['pork', 'bean', 'fish sauce']",['tomato']
-"['pork', 'bean', 'tomato']",['fish sauce']
-"['spinach', 'bean', 'fish sauce']",['tomato']
-"['spinach', 'bean', 'tomato']",['fish sauce']
-"['spinach', 'fish sauce', 'tomato']",['bean']
-"['spinach', 'bean']","['fish sauce', 'tomato']"
-"['okra', 'bean', 'radish']",['tomato']
-"['okra', 'bean', 'tomato']",['radish']
-"['okra', 'radish', 'tomato']",['bean']
+"['bean', 'fish sauce', 'pork']",['tomato']
+"['bean', 'tomato', 'pork']",['fish sauce']
+"['bean', 'fish sauce', 'spinach']",['tomato']
+"['bean', 'tomato', 'spinach']",['fish sauce']
+"['fish sauce', 'tomato', 'spinach']",['bean']
+"['bean', 'spinach']","['fish sauce', 'tomato']"
+"['bean', 'radish', 'okra']",['tomato']
 "['bean', 'radish', 'tomato']",['okra']
-"['okra', 'radish']","['bean', 'tomato']"
+"['bean', 'okra', 'tomato']",['radish']
+"['radish', 'okra', 'tomato']",['bean']
 "['bean', 'radish']","['okra', 'tomato']"
-"['radish', 'tomato']","['okra', 'bean']"
-['radish'],"['okra', 'bean', 'tomato']"
-"['okra', 'spinach', 'bean']",['tomato']
-"['okra', 'spinach', 'tomato']",['bean']
-"['okra', 'bean', 'tomato']",['spinach']
-"['spinach', 'bean', 'tomato']",['okra']
+"['radish', 'okra']","['bean', 'tomato']"
+"['radish', 'tomato']","['bean', 'okra']"
+['radish'],"['bean', 'okra', 'tomato']"
+"['bean', 'okra', 'tomato']",['spinach']
+"['bean', 'okra', 'spinach']",['tomato']
+"['bean', 'tomato', 'spinach']",['okra']
+"['okra', 'tomato', 'spinach']",['bean']
+"['bean', 'okra']","['tomato', 'spinach']"
+"['bean', 'spinach']","['okra', 'tomato']"
 "['okra', 'spinach']","['bean', 'tomato']"
-"['okra', 'bean']","['spinach', 'tomato']"
-"['spinach', 'bean']","['okra', 'tomato']"
-"['okra', 'bean', 'tamarind']",['tomato']
-"['okra', 'bean', 'tomato']",['tamarind']
-"['okra', 'tamarind', 'tomato']",['bean']
+"['bean', 'tamarind', 'okra']",['tomato']
 "['bean', 'tamarind', 'tomato']",['okra']
-"['okra', 'tamarind']","['bean', 'tomato']"
+"['bean', 'okra', 'tomato']",['tamarind']
+"['tamarind', 'okra', 'tomato']",['bean']
 "['bean', 'tamarind']","['okra', 'tomato']"
-"['potato', 'carrot', 'bell pepper']",['tomato']
-"['tomato', 'potato', 'bell pepper']",['carrot']
-"['tomato', 'carrot', 'bell pepper']",['potato']
-"['potato', 'carrot', 'tomato']",['bell pepper']
-"['potato', 'bell pepper']","['carrot', 'tomato']"
+"['tamarind', 'okra']","['bean', 'tomato']"
+"['bell pepper', 'carrot', 'potato']",['tomato']
+"['bell pepper', 'carrot', 'tomato']",['potato']
+"['bell pepper', 'potato', 'tomato']",['carrot']
+"['carrot', 'potato', 'tomato']",['bell pepper']
+"['bell pepper', 'potato']","['carrot', 'tomato']"
+"['butter', 'flour', 'cheese']",['egg']
+"['butter', 'cheese', 'egg']",['flour']
 "['flour', 'cheese', 'egg']",['butter']
-"['flour', 'cheese', 'butter']",['egg']
-"['cheese', 'egg', 'butter']",['flour']
+"['butter', 'milk', 'cheese']",['egg']
+"['butter', 'cheese', 'egg']",['milk']
 "['milk', 'cheese', 'egg']",['butter']
-"['milk', 'cheese', 'butter']",['egg']
-"['cheese', 'egg', 'butter']",['milk']
-"['flour', 'milk', 'cheese']",['butter']
-"['flour', 'cheese', 'butter']",['milk']
-"['milk', 'cheese', 'butter']",['flour']
-"['flour', 'cheese']","['milk', 'butter']"
-"['flour', 'egg', 'chocolate']",['butter']
-"['flour', 'chocolate', 'butter']",['egg']
-"['egg', 'butter', 'chocolate']",['flour']
-"['flour', 'chocolate']","['egg', 'butter']"
-"['egg', 'chocolate']","['flour', 'butter']"
-"['chocolate', 'butter']","['flour', 'egg']"
-"['flour', 'milk', 'egg']",['butter']
-"['flour', 'milk', 'butter']",['egg']
-"['flour', 'egg', 'butter']",['milk']
-"['milk', 'egg', 'butter']",['flour']
-"['milk', 'butter']","['flour', 'egg']"
-"['flour', 'egg', 'vanilla']",['butter']
-"['flour', 'butter', 'vanilla']",['egg']
-"['egg', 'butter', 'vanilla']",['flour']
-"['flour', 'vanilla']","['egg', 'butter']"
+"['butter', 'milk', 'cheese']",['flour']
+"['butter', 'flour', 'cheese']",['milk']
+"['milk', 'flour', 'cheese']",['butter']
+"['flour', 'cheese']","['butter', 'milk']"
+"['butter', 'flour', 'chocolate']",['egg']
+"['butter', 'chocolate', 'egg']",['flour']
+"['flour', 'chocolate', 'egg']",['butter']
+"['butter', 'chocolate']","['flour', 'egg']"
+"['flour', 'chocolate']","['butter', 'egg']"
+"['chocolate', 'egg']","['butter', 'flour']"
+"['butter', 'milk', 'flour']",['egg']
+"['butter', 'milk', 'egg']",['flour']
+"['butter', 'flour', 'egg']",['milk']
+"['milk', 'flour', 'egg']",['butter']
+"['butter', 'milk']","['flour', 'egg']"
+"['butter', 'flour', 'vanilla']",['egg']
+"['butter', 'vanilla', 'egg']",['flour']
+"['flour', 'vanilla', 'egg']",['butter']
 "['butter', 'vanilla']","['flour', 'egg']"
-"['milk', 'egg', 'vanilla']",['butter']
-"['milk', 'butter', 'vanilla']",['egg']
-"['egg', 'butter', 'vanilla']",['milk']
+"['flour', 'vanilla']","['butter', 'egg']"
+"['butter', 'milk', 'vanilla']",['egg']
+"['butter', 'vanilla', 'egg']",['milk']
+"['milk', 'vanilla', 'egg']",['butter']
 "['butter', 'vanilla']","['milk', 'egg']"
-"['flour', 'milk', 'vanilla']",['butter']
-"['milk', 'butter', 'vanilla']",['flour']
-"['pasta', 'chicken', 'cabbage']",['carrot']
-"['pasta', 'chicken', 'carrot']",['cabbage']
-"['pasta', 'cabbage', 'carrot']",['chicken']
-"['chicken', 'cabbage', 'carrot']",['pasta']
-"['pasta', 'cabbage']","['chicken', 'carrot']"
-"['chicken', 'cabbage']","['pasta', 'carrot']"
-"['pork', 'potato', 'carrot']",['tomato']
-"['pork', 'potato', 'tomato']",['carrot']
-"['pork', 'carrot', 'tomato']",['potato']
-"['flour', 'milk', 'cheese']",['egg']
-"['flour', 'cheese', 'egg']",['milk']
+"['butter', 'milk', 'vanilla']",['flour']
+"['milk', 'flour', 'vanilla']",['butter']
+"['carrot', 'chicken', 'pasta']",['cabbage']
+"['carrot', 'chicken', 'cabbage']",['pasta']
+"['carrot', 'pasta', 'cabbage']",['chicken']
+"['chicken', 'pasta', 'cabbage']",['carrot']
+"['chicken', 'cabbage']","['carrot', 'pasta']"
+"['pasta', 'cabbage']","['carrot', 'chicken']"
+"['carrot', 'potato', 'pork']",['tomato']
+"['carrot', 'tomato', 'pork']",['potato']
+"['potato', 'tomato', 'pork']",['carrot']
+"['milk', 'flour', 'cheese']",['egg']
 "['milk', 'cheese', 'egg']",['flour']
-"['flour', 'egg', 'chocolate']",['vanilla']
-"['flour', 'chocolate', 'vanilla']",['egg']
-"['egg', 'chocolate', 'vanilla']",['flour']
-"['flour', 'chocolate']","['egg', 'vanilla']"
-"['egg', 'chocolate']","['flour', 'vanilla']"
-"['chocolate', 'vanilla']","['flour', 'egg']"
-"['flour', 'milk', 'vanilla']",['egg']
-"['milk', 'egg', 'vanilla']",['flour']
+"['flour', 'cheese', 'egg']",['milk']
+"['flour', 'vanilla', 'chocolate']",['egg']
+"['flour', 'chocolate', 'egg']",['vanilla']
+"['vanilla', 'chocolate', 'egg']",['flour']
+"['flour', 'chocolate']","['vanilla', 'egg']"
+"['vanilla', 'chocolate']","['flour', 'egg']"
+"['chocolate', 'egg']","['flour', 'vanilla']"
+"['milk', 'flour', 'vanilla']",['egg']
+"['milk', 'vanilla', 'egg']",['flour']
 "['milk', 'vanilla']","['flour', 'egg']"
-"['spinach', 'tamarind', 'fish sauce']",['tomato']
-"['spinach', 'tamarind', 'tomato']",['fish sauce']
-"['spinach', 'fish sauce', 'tomato']",['tamarind']
 "['tamarind', 'fish sauce', 'tomato']",['spinach']
-"['spinach', 'tamarind']","['fish sauce', 'tomato']"
-"['tamarind', 'fish sauce']","['spinach', 'tomato']"
-"['okra', 'tamarind', 'radish']",['tomato']
-"['okra', 'tamarind', 'tomato']",['radish']
-"['okra', 'radish', 'tomato']",['tamarind']
+"['tamarind', 'fish sauce', 'spinach']",['tomato']
+"['tamarind', 'tomato', 'spinach']",['fish sauce']
+"['fish sauce', 'tomato', 'spinach']",['tamarind']
+"['tamarind', 'fish sauce']","['tomato', 'spinach']"
+"['tamarind', 'spinach']","['fish sauce', 'tomato']"
+"['tamarind', 'radish', 'okra']",['tomato']
 "['tamarind', 'radish', 'tomato']",['okra']
-"['okra', 'tamarind']","['radish', 'tomato']"
-"['okra', 'radish']","['tamarind', 'tomato']"
+"['tamarind', 'okra', 'tomato']",['radish']
+"['radish', 'okra', 'tomato']",['tamarind']
 "['tamarind', 'radish']","['okra', 'tomato']"
-"['tamarind', 'tomato']","['okra', 'radish']"
-"['radish', 'tomato']","['okra', 'tamarind']"
-['radish'],"['okra', 'tamarind', 'tomato']"
-"['okra', 'spinach', 'tamarind']",['tomato']
-"['okra', 'spinach', 'tomato']",['tamarind']
-"['okra', 'tamarind', 'tomato']",['spinach']
-"['spinach', 'tamarind', 'tomato']",['okra']
+"['tamarind', 'okra']","['radish', 'tomato']"
+"['tamarind', 'tomato']","['radish', 'okra']"
+"['radish', 'okra']","['tamarind', 'tomato']"
+"['radish', 'tomato']","['tamarind', 'okra']"
+['radish'],"['tamarind', 'okra', 'tomato']"
+"['tamarind', 'okra', 'tomato']",['spinach']
+"['tamarind', 'okra', 'spinach']",['tomato']
+"['tamarind', 'tomato', 'spinach']",['okra']
+"['okra', 'tomato', 'spinach']",['tamarind']
+"['tamarind', 'okra']","['tomato', 'spinach']"
+"['tamarind', 'spinach']","['okra', 'tomato']"
 "['okra', 'spinach']","['tamarind', 'tomato']"
-"['okra', 'tamarind']","['spinach', 'tomato']"
-"['spinach', 'tamarind']","['okra', 'tomato']"
-"['spinach', 'tamarind', 'radish']",['tomato']
-"['spinach', 'tamarind', 'tomato']",['radish']
-"['spinach', 'radish', 'tomato']",['tamarind']
 "['tamarind', 'radish', 'tomato']",['spinach']
-"['spinach', 'tamarind']","['radish', 'tomato']"
-"['spinach', 'radish']","['tamarind', 'tomato']"
-"['tamarind', 'radish']","['spinach', 'tomato']"
-"['radish', 'tomato']","['spinach', 'tamarind']"
-['radish'],"['spinach', 'tamarind', 'tomato']"
-"['baking soda', 'milk', 'egg', 'butter']",['flour']
-"['flour', 'baking soda', 'milk', 'butter']",['egg']
-"['flour', 'baking soda', 'milk', 'egg']",['butter']
-"['baking soda', 'milk', 'butter']","['flour', 'egg']"
-"['flour', 'baking soda', 'milk']","['egg', 'butter']"
-"['baking soda', 'egg', 'butter', 'vanilla']",['flour']
-"['flour', 'baking soda', 'butter', 'vanilla']",['egg']
-"['flour', 'baking soda', 'egg', 'butter']",['vanilla']
-"['flour', 'baking soda', 'egg', 'vanilla']",['butter']
-"['flour', 'egg', 'butter', 'vanilla']",['baking soda']
-"['baking soda', 'butter', 'vanilla']","['flour', 'egg']"
-"['baking soda', 'egg', 'butter']","['flour', 'vanilla']"
-"['flour', 'baking soda', 'butter']","['egg', 'vanilla']"
-"['baking soda', 'egg', 'vanilla']","['flour', 'butter']"
-"['flour', 'baking soda', 'vanilla']","['egg', 'butter']"
-"['egg', 'butter', 'vanilla']","['flour', 'baking soda']"
-"['flour', 'butter', 'vanilla']","['baking soda', 'egg']"
-"['baking soda', 'butter']","['flour', 'egg', 'vanilla']"
-"['baking soda', 'vanilla']","['flour', 'egg', 'butter']"
+"['tamarind', 'radish', 'spinach']",['tomato']
+"['tamarind', 'tomato', 'spinach']",['radish']
+"['radish', 'tomato', 'spinach']",['tamarind']
+"['tamarind', 'radish']","['tomato', 'spinach']"
+"['tamarind', 'spinach']","['radish', 'tomato']"
+"['radish', 'tomato']","['tamarind', 'spinach']"
+"['radish', 'spinach']","['tamarind', 'tomato']"
+['radish'],"['tamarind', 'tomato', 'spinach']"
+"['butter', 'milk', 'flour', 'baking soda']",['egg']
+"['milk', 'flour', 'baking soda', 'egg']",['butter']
+"['butter', 'milk', 'baking soda', 'egg']",['flour']
+"['milk', 'flour', 'baking soda']","['butter', 'egg']"
+"['butter', 'milk', 'baking soda']","['flour', 'egg']"
+"['butter', 'flour', 'vanilla', 'baking soda']",['egg']
+"['flour', 'vanilla', 'baking soda', 'egg']",['butter']
+"['butter', 'flour', 'vanilla', 'egg']",['baking soda']
+"['butter', 'flour', 'baking soda', 'egg']",['vanilla']
+"['butter', 'vanilla', 'baking soda', 'egg']",['flour']
+"['flour', 'vanilla', 'baking soda']","['butter', 'egg']"
+"['butter', 'flour', 'vanilla']","['baking soda', 'egg']"
+"['butter', 'flour', 'baking soda']","['vanilla', 'egg']"
+"['butter', 'vanilla', 'baking soda']","['flour', 'egg']"
+"['vanilla', 'baking soda', 'egg']","['butter', 'flour']"
+"['butter', 'vanilla', 'egg']","['flour', 'baking soda']"
+"['butter', 'baking soda', 'egg']","['flour', 'vanilla']"
+"['vanilla', 'baking soda']","['butter', 'flour', 'egg']"
 "['butter', 'vanilla']","['flour', 'baking soda', 'egg']"
-"['baking soda', 'egg', 'chocolate', 'vanilla']",['flour']
-"['flour', 'baking soda', 'chocolate', 'vanilla']",['egg']
-"['flour', 'baking soda', 'egg', 'chocolate']",['vanilla']
-"['flour', 'egg', 'chocolate', 'vanilla']",['baking soda']
-"['baking soda', 'chocolate', 'vanilla']","['flour', 'egg']"
-"['baking soda', 'egg', 'chocolate']","['flour', 'vanilla']"
-"['flour', 'baking soda', 'chocolate']","['egg', 'vanilla']"
-"['egg', 'chocolate', 'vanilla']","['flour', 'baking soda']"
-"['flour', 'chocolate', 'vanilla']","['baking soda', 'egg']"
-"['flour', 'egg', 'chocolate']","['baking soda', 'vanilla']"
-"['baking soda', 'chocolate']","['flour', 'egg', 'vanilla']"
-"['chocolate', 'vanilla']","['flour', 'baking soda', 'egg']"
-"['egg', 'chocolate']","['flour', 'baking soda', 'vanilla']"
-"['flour', 'chocolate']","['baking soda', 'egg', 'vanilla']"
-"['baking soda', 'milk', 'egg', 'vanilla']",['flour']
-"['flour', 'baking soda', 'milk', 'vanilla']",['egg']
-"['flour', 'baking soda', 'milk', 'egg']",['vanilla']
-"['flour', 'milk', 'egg', 'vanilla']",['baking soda']
-"['baking soda', 'milk', 'vanilla']","['flour', 'egg']"
-"['baking soda', 'milk', 'egg']","['flour', 'vanilla']"
-"['flour', 'baking soda', 'milk']","['egg', 'vanilla']"
-"['flour', 'milk', 'vanilla']","['baking soda', 'egg']"
-"['baking soda', 'milk']","['flour', 'egg', 'vanilla']"
-"['milk', 'egg', 'butter', 'vanilla']",['flour']
-"['flour', 'milk', 'butter', 'vanilla']",['egg']
-"['flour', 'milk', 'egg', 'vanilla']",['butter']
-"['milk', 'butter', 'vanilla']","['flour', 'egg']"
-"['flour', 'milk', 'vanilla']","['egg', 'butter']"
+"['butter', 'baking soda']","['flour', 'vanilla', 'egg']"
+"['flour', 'vanilla', 'chocolate', 'baking soda']",['egg']
+"['flour', 'vanilla', 'chocolate', 'egg']",['baking soda']
+"['flour', 'baking soda', 'chocolate', 'egg']",['vanilla']
+"['vanilla', 'chocolate', 'baking soda', 'egg']",['flour']
+"['flour', 'vanilla', 'chocolate']","['baking soda', 'egg']"
+"['flour', 'baking soda', 'chocolate']","['vanilla', 'egg']"
+"['flour', 'chocolate', 'egg']","['vanilla', 'baking soda']"
+"['vanilla', 'chocolate', 'baking soda']","['flour', 'egg']"
+"['vanilla', 'chocolate', 'egg']","['flour', 'baking soda']"
+"['baking soda', 'chocolate', 'egg']","['flour', 'vanilla']"
+"['flour', 'chocolate']","['vanilla', 'baking soda', 'egg']"
+"['vanilla', 'chocolate']","['flour', 'baking soda', 'egg']"
+"['baking soda', 'chocolate']","['flour', 'vanilla', 'egg']"
+"['chocolate', 'egg']","['flour', 'vanilla', 'baking soda']"
+"['milk', 'flour', 'vanilla', 'baking soda']",['egg']
+"['milk', 'flour', 'vanilla', 'egg']",['baking soda']
+"['milk', 'flour', 'baking soda', 'egg']",['vanilla']
+"['milk', 'vanilla', 'baking soda', 'egg']",['flour']
+"['milk', 'flour', 'vanilla']","['baking soda', 'egg']"
+"['milk', 'flour', 'baking soda']","['vanilla', 'egg']"
+"['milk', 'vanilla', 'baking soda']","['flour', 'egg']"
+"['milk', 'baking soda', 'egg']","['flour', 'vanilla']"
+"['milk', 'baking soda']","['flour', 'vanilla', 'egg']"
+"['butter', 'milk', 'flour', 'vanilla']",['egg']
+"['milk', 'flour', 'vanilla', 'egg']",['butter']
+"['butter', 'milk', 'vanilla', 'egg']",['flour']
+"['milk', 'flour', 'vanilla']","['butter', 'egg']"
+"['butter', 'milk', 'vanilla']","['flour', 'egg']"
