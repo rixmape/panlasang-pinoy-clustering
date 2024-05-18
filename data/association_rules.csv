@@ -1,544 +1,544 @@
-antecedents,consequents
-['anise'],['soy sauce']
-['annatto'],['fish sauce']
-['baking soda'],['butter']
-['baking soda'],['egg']
-['baking soda'],['flour']
-['vanilla'],['baking soda']
-['baking soda'],['vanilla']
-['bay leaf'],['pork']
-['bay leaf'],['vinegar']
-['okra'],['bean']
-['radish'],['bean']
-['squash'],['bean']
-['bread'],['egg']
-['butter'],['egg']
-['celery'],['carrot']
-['pea'],['carrot']
-['raisin'],['carrot']
-['chicken broth'],['chicken']
-['tamarind'],['chili']
-['chocolate'],['egg']
-['chocolate'],['flour']
-['chocolate'],['milk']
-['chocolate'],['vanilla']
-['flour'],['egg']
-['milk'],['egg']
-['nut'],['egg']
-['raisin'],['egg']
-['vanilla'],['egg']
-['okra'],['eggplant']
-['eggplant'],['tomato']
-['okra'],['fish sauce']
-['radish'],['fish sauce']
-['spinach'],['fish sauce']
-['tamarind'],['fish sauce']
-['vanilla'],['flour']
-['vanilla'],['milk']
-['radish'],['okra']
-['okra'],['tomato']
-['radish'],['spinach']
-['tamarind'],['radish']
-['radish'],['tamarind']
-['radish'],['tomato']
-['tamarind'],['spinach']
-['spinach'],['tomato']
-['tamarind'],['tomato']
-"['cornstarch', 'alcohol']",['soy sauce']
-"['alcohol', 'soy sauce']",['cornstarch']
-"['alcohol', 'ginger']",['soy sauce']
-"['butter', 'baking soda']",['egg']
-"['baking soda', 'egg']",['butter']
-"['butter', 'baking soda']",['flour']
-"['milk', 'baking soda']",['butter']
-"['butter', 'vanilla']",['baking soda']
-"['butter', 'baking soda']",['vanilla']
-"['vanilla', 'baking soda']",['butter']
-"['baking soda', 'chocolate']",['egg']
-"['chocolate', 'egg']",['baking soda']
-"['flour', 'chocolate']",['baking soda']
-"['baking soda', 'chocolate']",['flour']
-"['vanilla', 'chocolate']",['baking soda']
-"['baking soda', 'chocolate']",['vanilla']
-"['flour', 'baking soda']",['egg']
-"['baking soda', 'egg']",['flour']
-['baking soda'],"['flour', 'egg']"
-"['milk', 'baking soda']",['egg']
-"['vanilla', 'baking soda']",['egg']
-"['vanilla', 'egg']",['baking soda']
-"['baking soda', 'egg']",['vanilla']
-"['milk', 'baking soda']",['flour']
-"['flour', 'vanilla']",['baking soda']
-"['flour', 'baking soda']",['vanilla']
-"['vanilla', 'baking soda']",['flour']
-"['milk', 'baking soda']",['vanilla']
-"['vanilla', 'baking soda']",['milk']
-"['flour', 'banana']",['egg']
-"['banana', 'egg']",['flour']
-"['carrot', 'bay leaf']",['potato']
-"['potato', 'bay leaf']",['carrot']
-"['carrot', 'bay leaf']",['tomato']
-"['bay leaf', 'tomato']",['carrot']
-"['chicken', 'bay leaf']",['soy sauce']
-"['chicken', 'vinegar']",['bay leaf']
-"['chicken', 'bay leaf']",['vinegar']
-"['bay leaf', 'pork']",['soy sauce']
-"['bay leaf', 'soy sauce']",['pork']
-"['bay leaf', 'vinegar']",['pork']
-"['bay leaf', 'pork']",['vinegar']
-"['potato', 'bay leaf']",['tomato']
-"['bay leaf', 'tomato']",['potato']
-"['bay leaf', 'vinegar']",['soy sauce']
-"['vinegar', 'soy sauce']",['bay leaf']
-"['bay leaf', 'soy sauce']",['vinegar']
-"['bean', 'cabbage']",['fish sauce']
-"['bean', 'eggplant']",['fish sauce']
-"['fish sauce', 'eggplant']",['bean']
-"['bean', 'okra']",['eggplant']
-"['bean', 'eggplant']",['okra']
-"['okra', 'eggplant']",['bean']
-"['bean', 'eggplant']",['pork']
-"['pork', 'eggplant']",['bean']
-"['bean', 'eggplant']",['tomato']
-"['tomato', 'eggplant']",['bean']
-"['bean', 'okra']",['fish sauce']
-"['fish sauce', 'okra']",['bean']
-"['bean', 'spinach']",['fish sauce']
-"['fish sauce', 'spinach']",['bean']
-"['bean', 'fish sauce']",['tomato']
-"['bean', 'tomato']",['fish sauce']
-"['bean', 'radish']",['okra']
-"['radish', 'okra']",['bean']
-['radish'],"['bean', 'okra']"
-"['bean', 'okra']",['spinach']
-"['bean', 'spinach']",['okra']
-"['okra', 'spinach']",['bean']
-"['bean', 'tamarind']",['okra']
-"['tamarind', 'okra']",['bean']
-"['bean', 'okra']",['tomato']
-"['okra', 'tomato']",['bean']
-['okra'],"['bean', 'tomato']"
-"['bean', 'radish']",['tomato']
-"['radish', 'tomato']",['bean']
-['radish'],"['bean', 'tomato']"
-"['bean', 'spinach']",['tomato']
-"['tomato', 'spinach']",['bean']
-"['bean', 'tamarind']",['tomato']
-"['tamarind', 'tomato']",['bean']
-"['bell pepper', 'chicken']",['carrot']
-"['bell pepper', 'pork']",['carrot']
-"['bell pepper', 'potato']",['carrot']
-"['carrot', 'potato']",['bell pepper']
-"['bell pepper', 'tomato']",['carrot']
-"['carrot', 'tomato']",['bell pepper']
-"['bell pepper', 'potato']",['tomato']
-"['bell pepper', 'tomato']",['potato']
-"['potato', 'tomato']",['bell pepper']
-"['butter', 'bread']",['egg']
-"['cheese', 'bread']",['egg']
-"['flour', 'bread']",['egg']
-"['milk', 'bread']",['egg']
-"['pork', 'bread']",['egg']
-"['butter', 'cheese']",['egg']
-"['flour', 'cheese']",['butter']
-"['butter', 'cheese']",['milk']
-"['milk', 'cheese']",['butter']
-"['butter', 'pasta']",['cheese']
-"['butter', 'chocolate']",['egg']
-"['chocolate', 'egg']",['butter']
-"['butter', 'chocolate']",['flour']
-"['flour', 'chocolate']",['butter']
-"['butter', 'coconut']",['egg']
-"['coconut', 'egg']",['butter']
-"['butter', 'coconut']",['milk']
-"['butter', 'cream']",['egg']
-"['cream', 'egg']",['butter']
-"['butter', 'flour']",['egg']
-"['butter', 'egg']",['flour']
-"['butter', 'milk']",['egg']
-"['butter', 'egg']",['milk']
-"['milk', 'egg']",['butter']
-"['butter', 'vanilla']",['egg']
-"['vanilla', 'egg']",['butter']
-"['butter', 'milk']",['flour']
-"['butter', 'flour']",['milk']
-"['milk', 'flour']",['butter']
-"['butter', 'vanilla']",['flour']
-"['flour', 'vanilla']",['butter']
-"['butter', 'vanilla']",['milk']
-"['milk', 'vanilla']",['butter']
-"['chicken', 'cabbage']",['carrot']
-"['carrot', 'clam']",['cabbage']
-"['cabbage', 'clam']",['carrot']
-"['cabbage', 'egg']",['carrot']
-"['carrot', 'pasta']",['cabbage']
-"['carrot', 'cabbage']",['pasta']
-"['pasta', 'cabbage']",['carrot']
-"['cabbage', 'pork']",['carrot']
-"['cabbage', 'soy sauce']",['carrot']
-"['chicken', 'pasta']",['cabbage']
-"['chicken', 'cabbage']",['pasta']
-"['pasta', 'cabbage']",['chicken']
-"['pasta', 'clam']",['cabbage']
-"['cabbage', 'clam']",['pasta']
-"['cabbage', 'clam']",['pork']
-"['pasta', 'soy sauce']",['cabbage']
-"['cabbage', 'soy sauce']",['pork']
-"['carrot', 'pasta']",['chicken']
-"['chicken', 'pasta']",['carrot']
-"['chicken', 'potato']",['carrot']
-"['potato', 'pork']",['carrot']
-"['carrot', 'potato']",['tomato']
-"['carrot', 'tomato']",['potato']
-"['potato', 'tomato']",['carrot']
-"['cream', 'pasta']",['cheese']
-"['flour', 'cheese']",['egg']
-"['milk', 'cheese']",['egg']
-"['milk', 'cheese']",['flour']
-"['flour', 'cheese']",['milk']
-"['pasta', 'tomato']",['cheese']
-"['cornstarch', 'chicken']",['egg']
-"['cornstarch', 'chicken']",['soy sauce']
-"['chicken', 'vinegar']",['soy sauce']
-"['coconut', 'fish sauce']",['chili']
-"['chili', 'coconut']",['ginger']
-"['coconut', 'ginger']",['chili']
-"['coconut', 'pork']",['chili']
-"['coconut', 'shrimp']",['chili']
-"['fish sauce', 'ginger']",['chili']
-"['vinegar', 'ginger']",['chili']
-"['chili', 'tamarind']",['tomato']
-"['tamarind', 'tomato']",['chili']
-"['flour', 'chocolate']",['egg']
-"['chocolate', 'egg']",['flour']
-['chocolate'],"['flour', 'egg']"
-"['vanilla', 'chocolate']",['egg']
-"['chocolate', 'egg']",['vanilla']
-"['flour', 'chocolate']",['vanilla']
-"['vanilla', 'chocolate']",['flour']
-"['cornstarch', 'clam']",['soy sauce']
-"['coconut', 'ginger']",['fish sauce']
-"['cornstarch', 'flour']",['egg']
-"['cornstarch', 'ginger']",['soy sauce']
-"['cornstarch', 'pork']",['soy sauce']
-"['cornstarch', 'vinegar']",['soy sauce']
-"['flour', 'cream']",['egg']
-"['cream', 'vanilla']",['egg']
-"['milk', 'flour']",['egg']
-"['milk', 'egg']",['flour']
-"['flour', 'pork']",['egg']
-"['flour', 'vanilla']",['egg']
-"['vanilla', 'egg']",['flour']
-['vanilla'],"['flour', 'egg']"
-"['milk', 'vanilla']",['egg']
-"['vanilla', 'egg']",['milk']
-"['rice', 'pork']",['egg']
-"['fish sauce', 'eggplant']",['pork']
-"['pork', 'eggplant']",['fish sauce']
-"['fish sauce', 'eggplant']",['tomato']
-"['tomato', 'eggplant']",['fish sauce']
-"['okra', 'eggplant']",['tomato']
-"['tomato', 'eggplant']",['okra']
-"['tomato', 'eggplant']",['pork']
-"['pork', 'eggplant']",['tomato']
-"['fish sauce', 'fish']",['tomato']
-"['fish sauce', 'okra']",['tomato']
-"['okra', 'tomato']",['fish sauce']
-['okra'],"['fish sauce', 'tomato']"
-"['radish', 'fish sauce']",['tomato']
-"['radish', 'tomato']",['fish sauce']
-['radish'],"['fish sauce', 'tomato']"
-"['tamarind', 'fish sauce']",['spinach']
-"['tamarind', 'spinach']",['fish sauce']
-"['fish sauce', 'spinach']",['tomato']
-"['tomato', 'spinach']",['fish sauce']
-"['tamarind', 'fish sauce']",['tomato']
-"['tamarind', 'tomato']",['fish sauce']
-['tamarind'],"['fish sauce', 'tomato']"
-"['milk', 'vanilla']",['flour']
-"['lemon', 'pork']",['soy sauce']
-"['okra', 'pork']",['tomato']
-"['tamarind', 'radish']",['okra']
-"['tamarind', 'okra']",['radish']
-"['radish', 'okra']",['tamarind']
-['radish'],"['tamarind', 'okra']"
-"['radish', 'okra']",['tomato']
-"['radish', 'tomato']",['okra']
-"['okra', 'tomato']",['radish']
-['radish'],"['okra', 'tomato']"
-"['tamarind', 'okra']",['spinach']
-"['tamarind', 'spinach']",['okra']
-"['okra', 'spinach']",['tamarind']
-"['okra', 'tomato']",['spinach']
-"['okra', 'spinach']",['tomato']
-"['tomato', 'spinach']",['okra']
-"['tamarind', 'okra']",['tomato']
-"['tamarind', 'tomato']",['okra']
-"['okra', 'tomato']",['tamarind']
-"['potato', 'pork']",['tomato']
-"['tamarind', 'radish']",['spinach']
-"['tamarind', 'spinach']",['radish']
-"['radish', 'spinach']",['tamarind']
-['radish'],"['tamarind', 'spinach']"
-"['radish', 'tomato']",['spinach']
-"['radish', 'spinach']",['tomato']
-['radish'],"['tomato', 'spinach']"
-"['tamarind', 'radish']",['tomato']
-"['tamarind', 'tomato']",['radish']
-"['radish', 'tomato']",['tamarind']
-['tamarind'],"['radish', 'tomato']"
-['radish'],"['tamarind', 'tomato']"
-"['tamarind', 'tomato']",['spinach']
-"['tamarind', 'spinach']",['tomato']
-"['tomato', 'spinach']",['tamarind']
-['tamarind'],"['tomato', 'spinach']"
-"['butter', 'flour', 'baking soda']",['egg']
-"['butter', 'baking soda', 'egg']",['flour']
-"['flour', 'baking soda', 'egg']",['butter']
-"['butter', 'baking soda']","['flour', 'egg']"
-"['butter', 'milk', 'baking soda']",['egg']
-"['butter', 'baking soda', 'egg']",['milk']
-"['milk', 'baking soda', 'egg']",['butter']
-"['milk', 'baking soda']","['butter', 'egg']"
-"['butter', 'vanilla', 'baking soda']",['egg']
-"['butter', 'vanilla', 'egg']",['baking soda']
-"['butter', 'baking soda', 'egg']",['vanilla']
-"['vanilla', 'baking soda', 'egg']",['butter']
-"['butter', 'vanilla']","['baking soda', 'egg']"
-"['butter', 'baking soda']","['vanilla', 'egg']"
-"['vanilla', 'baking soda']","['butter', 'egg']"
-"['butter', 'milk', 'baking soda']",['flour']
-"['milk', 'flour', 'baking soda']",['butter']
-"['butter', 'flour', 'vanilla']",['baking soda']
-"['butter', 'flour', 'baking soda']",['vanilla']
-"['butter', 'vanilla', 'baking soda']",['flour']
-"['flour', 'vanilla', 'baking soda']",['butter']
-"['butter', 'vanilla']","['flour', 'baking soda']"
-"['butter', 'baking soda']","['flour', 'vanilla']"
-"['vanilla', 'baking soda']","['butter', 'flour']"
-"['flour', 'baking soda', 'chocolate']",['egg']
-"['flour', 'chocolate', 'egg']",['baking soda']
-"['baking soda', 'chocolate', 'egg']",['flour']
-"['flour', 'chocolate']","['baking soda', 'egg']"
-"['baking soda', 'chocolate']","['flour', 'egg']"
-"['chocolate', 'egg']","['flour', 'baking soda']"
-"['vanilla', 'chocolate', 'baking soda']",['egg']
-"['vanilla', 'chocolate', 'egg']",['baking soda']
-"['baking soda', 'chocolate', 'egg']",['vanilla']
-"['vanilla', 'chocolate']","['baking soda', 'egg']"
-"['baking soda', 'chocolate']","['vanilla', 'egg']"
-"['chocolate', 'egg']","['vanilla', 'baking soda']"
-"['flour', 'vanilla', 'chocolate']",['baking soda']
-"['flour', 'baking soda', 'chocolate']",['vanilla']
-"['vanilla', 'chocolate', 'baking soda']",['flour']
-"['flour', 'chocolate']","['vanilla', 'baking soda']"
-"['vanilla', 'chocolate']","['flour', 'baking soda']"
-"['baking soda', 'chocolate']","['flour', 'vanilla']"
-"['milk', 'flour', 'baking soda']",['egg']
-"['milk', 'flour', 'egg']",['baking soda']
-"['milk', 'baking soda', 'egg']",['flour']
-"['milk', 'baking soda']","['flour', 'egg']"
-"['flour', 'vanilla', 'baking soda']",['egg']
-"['flour', 'vanilla', 'egg']",['baking soda']
-"['flour', 'baking soda', 'egg']",['vanilla']
-"['vanilla', 'baking soda', 'egg']",['flour']
-"['flour', 'vanilla']","['baking soda', 'egg']"
-"['flour', 'baking soda']","['vanilla', 'egg']"
-"['vanilla', 'baking soda']","['flour', 'egg']"
-"['vanilla', 'egg']","['flour', 'baking soda']"
-"['baking soda', 'egg']","['flour', 'vanilla']"
-"['milk', 'vanilla', 'baking soda']",['egg']
-"['milk', 'vanilla', 'egg']",['baking soda']
-"['milk', 'baking soda', 'egg']",['vanilla']
-"['vanilla', 'baking soda', 'egg']",['milk']
-"['milk', 'baking soda']","['vanilla', 'egg']"
-"['vanilla', 'baking soda']","['milk', 'egg']"
-"['milk', 'flour', 'vanilla']",['baking soda']
-"['milk', 'flour', 'baking soda']",['vanilla']
-"['milk', 'vanilla', 'baking soda']",['flour']
-"['milk', 'baking soda']","['flour', 'vanilla']"
-"['chicken', 'bay leaf', 'vinegar']",['soy sauce']
-"['chicken', 'vinegar', 'soy sauce']",['bay leaf']
-"['chicken', 'bay leaf', 'soy sauce']",['vinegar']
-"['bay leaf', 'vinegar', 'pork']",['soy sauce']
-"['soy sauce', 'vinegar', 'pork']",['bay leaf']
-"['bay leaf', 'vinegar', 'soy sauce']",['pork']
-"['soy sauce', 'bay leaf', 'pork']",['vinegar']
-"['bean', 'okra', 'tomato']",['eggplant']
-"['bean', 'okra', 'eggplant']",['tomato']
-"['bean', 'tomato', 'eggplant']",['okra']
-"['okra', 'tomato', 'eggplant']",['bean']
-"['bean', 'eggplant']","['okra', 'tomato']"
-"['okra', 'eggplant']","['bean', 'tomato']"
-"['bean', 'fish sauce', 'okra']",['tomato']
-"['bean', 'fish sauce', 'tomato']",['okra']
-"['bean', 'okra', 'tomato']",['fish sauce']
-"['fish sauce', 'okra', 'tomato']",['bean']
-"['bean', 'okra']","['fish sauce', 'tomato']"
-"['fish sauce', 'okra']","['bean', 'tomato']"
-"['okra', 'tomato']","['bean', 'fish sauce']"
-"['bean', 'fish sauce', 'pork']",['tomato']
-"['bean', 'tomato', 'pork']",['fish sauce']
-"['bean', 'fish sauce', 'spinach']",['tomato']
-"['bean', 'tomato', 'spinach']",['fish sauce']
-"['fish sauce', 'tomato', 'spinach']",['bean']
-"['bean', 'spinach']","['fish sauce', 'tomato']"
-"['bean', 'radish', 'okra']",['tomato']
-"['bean', 'radish', 'tomato']",['okra']
-"['bean', 'okra', 'tomato']",['radish']
-"['radish', 'okra', 'tomato']",['bean']
-"['bean', 'radish']","['okra', 'tomato']"
-"['radish', 'okra']","['bean', 'tomato']"
-"['radish', 'tomato']","['bean', 'okra']"
-['radish'],"['bean', 'okra', 'tomato']"
-"['bean', 'okra', 'tomato']",['spinach']
-"['bean', 'okra', 'spinach']",['tomato']
-"['bean', 'tomato', 'spinach']",['okra']
-"['okra', 'tomato', 'spinach']",['bean']
-"['bean', 'okra']","['tomato', 'spinach']"
-"['bean', 'spinach']","['okra', 'tomato']"
-"['okra', 'spinach']","['bean', 'tomato']"
-"['bean', 'tamarind', 'okra']",['tomato']
-"['bean', 'tamarind', 'tomato']",['okra']
-"['bean', 'okra', 'tomato']",['tamarind']
-"['tamarind', 'okra', 'tomato']",['bean']
-"['bean', 'tamarind']","['okra', 'tomato']"
-"['tamarind', 'okra']","['bean', 'tomato']"
-"['bell pepper', 'carrot', 'potato']",['tomato']
-"['bell pepper', 'carrot', 'tomato']",['potato']
-"['bell pepper', 'potato', 'tomato']",['carrot']
-"['carrot', 'potato', 'tomato']",['bell pepper']
-"['bell pepper', 'potato']","['carrot', 'tomato']"
-"['butter', 'flour', 'cheese']",['egg']
-"['butter', 'cheese', 'egg']",['flour']
-"['flour', 'cheese', 'egg']",['butter']
-"['butter', 'milk', 'cheese']",['egg']
-"['butter', 'cheese', 'egg']",['milk']
-"['milk', 'cheese', 'egg']",['butter']
-"['butter', 'milk', 'cheese']",['flour']
-"['butter', 'flour', 'cheese']",['milk']
-"['milk', 'flour', 'cheese']",['butter']
-"['flour', 'cheese']","['butter', 'milk']"
-"['butter', 'flour', 'chocolate']",['egg']
-"['butter', 'chocolate', 'egg']",['flour']
-"['flour', 'chocolate', 'egg']",['butter']
-"['butter', 'chocolate']","['flour', 'egg']"
-"['flour', 'chocolate']","['butter', 'egg']"
-"['chocolate', 'egg']","['butter', 'flour']"
-"['butter', 'milk', 'flour']",['egg']
-"['butter', 'milk', 'egg']",['flour']
-"['butter', 'flour', 'egg']",['milk']
-"['milk', 'flour', 'egg']",['butter']
-"['butter', 'milk']","['flour', 'egg']"
-"['butter', 'flour', 'vanilla']",['egg']
-"['butter', 'vanilla', 'egg']",['flour']
-"['flour', 'vanilla', 'egg']",['butter']
-"['butter', 'vanilla']","['flour', 'egg']"
-"['flour', 'vanilla']","['butter', 'egg']"
-"['butter', 'milk', 'vanilla']",['egg']
-"['butter', 'vanilla', 'egg']",['milk']
-"['milk', 'vanilla', 'egg']",['butter']
-"['butter', 'vanilla']","['milk', 'egg']"
-"['butter', 'milk', 'vanilla']",['flour']
-"['milk', 'flour', 'vanilla']",['butter']
-"['carrot', 'chicken', 'pasta']",['cabbage']
-"['carrot', 'chicken', 'cabbage']",['pasta']
-"['carrot', 'pasta', 'cabbage']",['chicken']
-"['chicken', 'pasta', 'cabbage']",['carrot']
-"['chicken', 'cabbage']","['carrot', 'pasta']"
-"['pasta', 'cabbage']","['carrot', 'chicken']"
-"['carrot', 'potato', 'pork']",['tomato']
-"['carrot', 'tomato', 'pork']",['potato']
-"['potato', 'tomato', 'pork']",['carrot']
-"['milk', 'flour', 'cheese']",['egg']
-"['milk', 'cheese', 'egg']",['flour']
-"['flour', 'cheese', 'egg']",['milk']
-"['flour', 'vanilla', 'chocolate']",['egg']
-"['flour', 'chocolate', 'egg']",['vanilla']
-"['vanilla', 'chocolate', 'egg']",['flour']
-"['flour', 'chocolate']","['vanilla', 'egg']"
-"['vanilla', 'chocolate']","['flour', 'egg']"
-"['chocolate', 'egg']","['flour', 'vanilla']"
-"['milk', 'flour', 'vanilla']",['egg']
-"['milk', 'vanilla', 'egg']",['flour']
-"['milk', 'vanilla']","['flour', 'egg']"
-"['tamarind', 'fish sauce', 'tomato']",['spinach']
-"['tamarind', 'fish sauce', 'spinach']",['tomato']
-"['tamarind', 'tomato', 'spinach']",['fish sauce']
-"['fish sauce', 'tomato', 'spinach']",['tamarind']
-"['tamarind', 'fish sauce']","['tomato', 'spinach']"
-"['tamarind', 'spinach']","['fish sauce', 'tomato']"
-"['tamarind', 'radish', 'okra']",['tomato']
-"['tamarind', 'radish', 'tomato']",['okra']
-"['tamarind', 'okra', 'tomato']",['radish']
-"['radish', 'okra', 'tomato']",['tamarind']
-"['tamarind', 'radish']","['okra', 'tomato']"
-"['tamarind', 'okra']","['radish', 'tomato']"
-"['tamarind', 'tomato']","['radish', 'okra']"
-"['radish', 'okra']","['tamarind', 'tomato']"
-"['radish', 'tomato']","['tamarind', 'okra']"
-['radish'],"['tamarind', 'okra', 'tomato']"
-"['tamarind', 'okra', 'tomato']",['spinach']
-"['tamarind', 'okra', 'spinach']",['tomato']
-"['tamarind', 'tomato', 'spinach']",['okra']
-"['okra', 'tomato', 'spinach']",['tamarind']
-"['tamarind', 'okra']","['tomato', 'spinach']"
-"['tamarind', 'spinach']","['okra', 'tomato']"
-"['okra', 'spinach']","['tamarind', 'tomato']"
-"['tamarind', 'radish', 'tomato']",['spinach']
-"['tamarind', 'radish', 'spinach']",['tomato']
-"['tamarind', 'tomato', 'spinach']",['radish']
-"['radish', 'tomato', 'spinach']",['tamarind']
-"['tamarind', 'radish']","['tomato', 'spinach']"
-"['tamarind', 'spinach']","['radish', 'tomato']"
-"['radish', 'tomato']","['tamarind', 'spinach']"
-"['radish', 'spinach']","['tamarind', 'tomato']"
-['radish'],"['tamarind', 'tomato', 'spinach']"
-"['butter', 'milk', 'flour', 'baking soda']",['egg']
-"['milk', 'flour', 'baking soda', 'egg']",['butter']
-"['butter', 'milk', 'baking soda', 'egg']",['flour']
-"['milk', 'flour', 'baking soda']","['butter', 'egg']"
-"['butter', 'milk', 'baking soda']","['flour', 'egg']"
-"['butter', 'flour', 'vanilla', 'baking soda']",['egg']
-"['flour', 'vanilla', 'baking soda', 'egg']",['butter']
-"['butter', 'flour', 'vanilla', 'egg']",['baking soda']
-"['butter', 'flour', 'baking soda', 'egg']",['vanilla']
-"['butter', 'vanilla', 'baking soda', 'egg']",['flour']
-"['flour', 'vanilla', 'baking soda']","['butter', 'egg']"
-"['butter', 'flour', 'vanilla']","['baking soda', 'egg']"
-"['butter', 'flour', 'baking soda']","['vanilla', 'egg']"
-"['butter', 'vanilla', 'baking soda']","['flour', 'egg']"
-"['vanilla', 'baking soda', 'egg']","['butter', 'flour']"
-"['butter', 'vanilla', 'egg']","['flour', 'baking soda']"
-"['butter', 'baking soda', 'egg']","['flour', 'vanilla']"
-"['vanilla', 'baking soda']","['butter', 'flour', 'egg']"
-"['butter', 'vanilla']","['flour', 'baking soda', 'egg']"
-"['butter', 'baking soda']","['flour', 'vanilla', 'egg']"
-"['flour', 'vanilla', 'chocolate', 'baking soda']",['egg']
-"['flour', 'vanilla', 'chocolate', 'egg']",['baking soda']
-"['flour', 'baking soda', 'chocolate', 'egg']",['vanilla']
-"['vanilla', 'chocolate', 'baking soda', 'egg']",['flour']
-"['flour', 'vanilla', 'chocolate']","['baking soda', 'egg']"
-"['flour', 'baking soda', 'chocolate']","['vanilla', 'egg']"
-"['flour', 'chocolate', 'egg']","['vanilla', 'baking soda']"
-"['vanilla', 'chocolate', 'baking soda']","['flour', 'egg']"
-"['vanilla', 'chocolate', 'egg']","['flour', 'baking soda']"
-"['baking soda', 'chocolate', 'egg']","['flour', 'vanilla']"
-"['flour', 'chocolate']","['vanilla', 'baking soda', 'egg']"
-"['vanilla', 'chocolate']","['flour', 'baking soda', 'egg']"
-"['baking soda', 'chocolate']","['flour', 'vanilla', 'egg']"
-"['chocolate', 'egg']","['flour', 'vanilla', 'baking soda']"
-"['milk', 'flour', 'vanilla', 'baking soda']",['egg']
-"['milk', 'flour', 'vanilla', 'egg']",['baking soda']
-"['milk', 'flour', 'baking soda', 'egg']",['vanilla']
-"['milk', 'vanilla', 'baking soda', 'egg']",['flour']
-"['milk', 'flour', 'vanilla']","['baking soda', 'egg']"
-"['milk', 'flour', 'baking soda']","['vanilla', 'egg']"
-"['milk', 'vanilla', 'baking soda']","['flour', 'egg']"
-"['milk', 'baking soda', 'egg']","['flour', 'vanilla']"
-"['milk', 'baking soda']","['flour', 'vanilla', 'egg']"
-"['butter', 'milk', 'flour', 'vanilla']",['egg']
-"['milk', 'flour', 'vanilla', 'egg']",['butter']
-"['butter', 'milk', 'vanilla', 'egg']",['flour']
-"['milk', 'flour', 'vanilla']","['butter', 'egg']"
-"['butter', 'milk', 'vanilla']","['flour', 'egg']"
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+"('anise',)","('soy sauce',)",0.013860369609856264,0.19661190965092404,0.01026694045174538,0.7407407407407407,3.767527318441156,0.007541826714283906,3.0987826342035785,0.7448984903695991
+"('annatto',)","('fish sauce',)",0.021560574948665298,0.1450205338809035,0.011293634496919919,0.5238095238095238,3.61196797302992,0.008166908407085244,1.7954568788501026,0.7390775541352667
+"('baking soda',)","('butter',)",0.060061601642710474,0.16196098562628336,0.030030800821355237,0.5,3.08716323296355,0.02030316462100865,1.6760780287474333,0.7192790824685964
+"('baking soda',)","('egg',)",0.060061601642710474,0.26899383983572894,0.052874743326488706,0.8803418803418803,3.2727213414236314,0.036718542473932095,6.109122909944264,0.7388185139427232
+"('baking soda',)","('flour',)",0.060061601642710474,0.17453798767967146,0.05184804928131417,0.8632478632478632,4.945902463549522,0.04136501819377743,6.036190965092399,0.848792252245432
+"('vanilla',)","('baking soda',)",0.060061601642710474,0.060061601642710474,0.030800821355236138,0.5128205128205128,8.538242384396229,0.027193425363348497,1.9293472387333837,0.9392954669579464
+"('baking soda',)","('vanilla',)",0.060061601642710474,0.060061601642710474,0.030800821355236138,0.5128205128205128,8.538242384396229,0.027193425363348497,1.9293472387333837,0.9392954669579464
+"('bay leaf',)","('pork',)",0.08008213552361396,0.2589835728952772,0.044661190965092405,0.5576923076923078,2.153388732179615,0.023921233382103065,1.6753414873672,0.582242918719212
+"('bay leaf',)","('vinegar',)",0.08008213552361396,0.12987679671457905,0.044661190965092405,0.5576923076923078,4.2940103374886,0.03426037972922263,1.967235068297474,0.8338977832512317
+"('okra',)","('bean',)",0.028747433264887063,0.09650924024640657,0.020790554414784394,0.7232142857142857,7.493731003039513,0.018016161471355867,3.264224680400079,0.892203690653303
+"('radish',)","('bean',)",0.018480492813141684,0.09650924024640657,0.010780287474332649,0.5833333333333334,6.044326241134752,0.008996749153557169,2.1683778234086244,0.8502689778840408
+"('squash',)","('bean',)",0.023870636550308008,0.09650924024640657,0.012063655030800821,0.5053763440860215,5.236559139784946,0.009759918033132493,1.826622622980091,0.8288193531422561
+"('bread',)","('egg',)",0.06647843942505134,0.26899383983572894,0.04260780287474333,0.6409266409266409,2.382681481918123,0.02472551218751186,2.035812854651034,0.6216297690072913
+"('butter',)","('egg',)",0.16196098562628336,0.26899383983572894,0.0818788501026694,0.5055467511885896,1.8793989910598714,0.03831234267547614,1.478413099562997,0.558345134825042
+"('celery',)","('carrot',)",0.025410677618069814,0.13680698151950718,0.014887063655030801,0.5858585858585859,4.28237345310516,0.01141070555173737,2.0842953373065556,0.7864693542088582
+"('pea',)","('carrot',)",0.033880903490759756,0.13680698151950718,0.018993839835728953,0.5606060606060606,4.097788390471317,0.014358695698004378,1.964508248955604,0.7824769509147831
+"('raisin',)","('carrot',)",0.02053388090349076,0.13680698151950718,0.013090349075975359,0.6375000000000001,4.65984990619137,0.010281170810687738,2.3812221199461874,0.8018662391581372
+"('chicken broth',)","('chicken',)",0.036704312114989736,0.17325462012320328,0.022073921971252568,0.6013986013986014,3.471183631183631,0.01571473031888653,2.0741156021470513,0.7390397759311929
+"('tamarind',)","('chili',)",0.026694045174537988,0.15503080082135523,0.013860369609856264,0.5192307692307693,3.3492103922567504,0.009721970409286206,1.7575359342915813,0.7206594780434443
+"('chocolate',)","('egg',)",0.029260780287474333,0.26899383983572894,0.018480492813141684,0.631578947368421,2.347930895942145,0.010609523167024359,1.9841595775887353,0.5913978494623657
+"('chocolate',)","('flour',)",0.029260780287474333,0.17453798767967146,0.017453798767967144,0.5964912280701754,3.4175438596491223,0.012346681058654375,2.0457102044460314,0.7287149656266525
+"('chocolate',)","('milk',)",0.029260780287474333,0.13218685831622176,0.015400410677618069,0.5263157894736842,3.9816044966785897,0.011532520059535605,1.832049965776865,0.7714172395557907
+"('chocolate',)","('vanilla',)",0.029260780287474333,0.060061601642710474,0.014887063655030801,0.5087719298245614,8.470835207677313,0.013129614325649642,1.9134460252273395,0.9085322489469174
+"('flour',)","('egg',)",0.17453798767967146,0.26899383983572894,0.10523613963039015,0.6029411764705882,2.2414683430624156,0.058286496127234175,1.8410525515248306,0.6709743963111273
+"('milk',)","('egg',)",0.13218685831622176,0.26899383983572894,0.0736652977412731,0.5572815533980583,2.071726080189728,0.03810784714697115,1.651176195107893,0.5961084024580898
+"('nut',)","('egg',)",0.027207392197125257,0.26899383983572894,0.014373716632443531,0.5283018867924528,1.963992510442172,0.007055095733422159,1.5497330595482546,0.5045608744817188
+"('raisin',)","('egg',)",0.02053388090349076,0.26899383983572894,0.012320328542094456,0.6000000000000001,2.2305343511450384,0.00679684107113493,1.827515400410678,0.5632424877707897
+"('vanilla',)","('egg',)",0.060061601642710474,0.26899383983572894,0.04851129363449692,0.8076923076923076,3.0026423957721664,0.032355092781940306,3.8012320328542075,0.7095784244883099
+"('okra',)","('eggplant',)",0.028747433264887063,0.04055441478439425,0.014630390143737166,0.5089285714285714,12.549276672694393,0.013464554811126243,1.953780100802688,0.9475538741144616
+"('eggplant',)","('tomato',)",0.04055441478439425,0.18711498973305954,0.021560574948665298,0.5316455696202532,2.8412772829087882,0.01397223604265313,1.73561934624563,0.6754375907666438
+"('okra',)","('fish sauce',)",0.028747433264887063,0.1450205338809035,0.01771047227926078,0.6160714285714285,4.248166877370417,0.013541504159481212,2.226923260589274,0.7872353463860036
+"('radish',)","('fish sauce',)",0.018480492813141684,0.1450205338809035,0.011550308008213552,0.625,4.3097345132743365,0.008870257074069545,2.2799452429842573,0.7824267782426778
+"('spinach',)","('fish sauce',)",0.043121149897330596,0.1450205338809035,0.023613963039014373,0.5476190476190476,3.77614833544037,0.01736051085934502,1.8899546093158972,0.7683103190893822
+"('tamarind',)","('fish sauce',)",0.026694045174537988,0.1450205338809035,0.01591375770020534,0.5961538461538461,4.110823689584751,0.012042573017552884,2.1170920113425247,0.7774942153259834
+"('vanilla',)","('flour',)",0.060061601642710474,0.17453798767967146,0.03824435318275154,0.6367521367521367,3.6482151835093006,0.0277613220952148,2.272448363328904,0.7722775906370156
+"('vanilla',)","('milk',)",0.060061601642710474,0.13218685831622176,0.03285420944558522,0.5470085470085471,4.138146211932621,0.024914855018994896,1.9157384448490955,0.8068038298743856
+"('radish',)","('okra',)",0.018480492813141684,0.028747433264887063,0.012063655030800821,0.6527777777777778,22.707341269841272,0.011532388296952805,2.797207392197125,0.9739606516513842
+"('okra',)","('tomato',)",0.028747433264887063,0.18711498973305954,0.024127310061601643,0.8392857142857143,4.485400744660004,0.018748234381390484,5.0579511749942965,0.800053978678422
+"('radish',)","('spinach',)",0.018480492813141684,0.043121149897330596,0.010780287474332649,0.5833333333333334,13.527777777777779,0.009983387373560625,2.2965092402464067,0.9435146443514644
+"('radish',)","('tamarind',)",0.018480492813141684,0.026694045174537988,0.013860369609856264,0.75,28.096153846153847,0.013367050499854535,3.893223819301848,0.9825662482566248
+"('tamarind',)","('radish',)",0.026694045174537988,0.018480492813141684,0.013860369609856264,0.5192307692307693,28.09615384615385,0.013367050499854535,2.0415605749486656,0.990857946554149
+"('radish',)","('tomato',)",0.018480492813141684,0.18711498973305954,0.016170431211498974,0.875,4.676268861454047,0.012712453988506086,6.503080082135524,0.8009563658099222
+"('tamarind',)","('spinach',)",0.026694045174537988,0.043121149897330596,0.013603696098562629,0.5096153846153846,11.818223443223442,0.012452618175225262,1.9512823609936787,0.9404904068147442
+"('spinach',)","('tomato',)",0.043121149897330596,0.18711498973305954,0.02284394250513347,0.5297619047619048,2.831210399111634,0.014775328984816732,1.7286668572765318,0.6759415537445146
+"('tamarind',)","('tomato',)",0.026694045174537988,0.18711498973305954,0.021303901437371663,0.7980769230769231,4.26516830220534,0.016309045448604162,4.025716241321992,0.7865385593004932
+"('soy sauce', 'alcohol')","('cornstarch',)",0.021560574948665298,0.08880903490759753,0.011550308008213552,0.5357142857142857,6.032204789430223,0.009635534154969663,1.962565155583636,0.8526058062259532
+"('cornstarch', 'alcohol')","('soy sauce',)",0.016170431211498974,0.19661190965092404,0.011550308008213552,0.7142857142857142,3.6329727713539715,0.008371008647841833,2.811858316221765,0.7366553613357683
+"('ginger', 'alcohol')","('soy sauce',)",0.013347022587268994,0.19661190965092404,0.01026694045174538,0.7692307692307692,3.9124322153042774,0.007642756852708406,3.4813483915126615,0.754474505723205
+"('baking soda', 'butter')","('egg',)",0.030030800821355237,0.26899383983572894,0.028747433264887063,0.9572649572649572,3.5586872838781236,0.020669332838608757,17.105544147843915,0.7412580803689564
+"('baking soda', 'egg')","('butter',)",0.052874743326488706,0.16196098562628336,0.028747433264887063,0.5436893203883495,3.3569153601157047,0.020183787720992205,1.8365535846913363,0.7413037166085946
+"('butter', 'baking soda')","('flour',)",0.030030800821355237,0.17453798767967146,0.024897330595482547,0.8290598290598291,4.750025138260432,0.019655815051714178,4.828952772073923,0.8139173893709948
+"('baking soda', 'milk')","('butter',)",0.026437371663244353,0.16196098562628336,0.014630390143737166,0.5533980582524272,3.416860277260628,0.010348567371789737,1.876478662619409,0.7265415053584396
+"('vanilla', 'butter')","('baking soda',)",0.029774127310061602,0.060061601642710474,0.019250513347022588,0.646551724137931,10.764809902740938,0.01746223157326632,2.6593379075474535,0.9349417989417989
+"('vanilla', 'baking soda')","('butter',)",0.030800821355236138,0.16196098562628336,0.019250513347022588,0.6250000000000001,3.8589540412044383,0.014261981962229466,2.234770704996578,0.764406779661017
+"('butter', 'baking soda')","('vanilla',)",0.030030800821355237,0.060061601642710474,0.019250513347022588,0.6410256410256411,10.67280298049529,0.017446815351078768,2.618399823995307,0.9343635882508601
+"('baking soda', 'chocolate')","('egg',)",0.012577002053388091,0.26899383983572894,0.011550308008213552,0.9183673469387754,3.4140831905281193,0.008167171932250842,8.95482546201231,0.7161020131126707
+"('egg', 'chocolate')","('baking soda',)",0.018480492813141684,0.060061601642710474,0.011550308008213552,0.625,10.405982905982906,0.010440340010709662,2.5065023956194388,0.9209205020920502
+"('flour', 'chocolate')","('baking soda',)",0.017453798767967144,0.060061601642710474,0.011550308008213552,0.6617647058823529,11.018099547511312,0.010502004899459879,2.7789483081867687,0.9253918495297807
+"('baking soda', 'chocolate')","('flour',)",0.012577002053388091,0.17453798767967146,0.011550308008213552,0.9183673469387754,5.261704681872748,0.009355143378772099,10.111909650924014,0.8202639863674436
+"('vanilla', 'chocolate')","('baking soda',)",0.014887063655030801,0.060061601642710474,0.011036960985626284,0.7413793103448276,12.343648688476275,0.01014282009874815,3.6344284736481867,0.932874437994595
+"('baking soda', 'chocolate')","('vanilla',)",0.012577002053388091,0.060061601642710474,0.011036960985626284,0.8775510204081632,14.610849467992324,0.010281566098436137,7.676163586584529,0.9434231445826105
+"('flour', 'baking soda')","('egg',)",0.05184804928131417,0.26899383983572894,0.046457905544147846,0.8960396039603961,3.3310785277000985,0.03251109967997504,7.0315830644372745,0.7380641147209003
+"('baking soda', 'egg')","('flour',)",0.052874743326488706,0.17453798767967146,0.046457905544147846,0.8786407766990292,5.034094802969732,0.03722925424486337,6.80180698151951,0.8460914222401892
+"('baking soda',)","('flour', 'egg')",0.060061601642710474,0.10523613963039015,0.046457905544147846,0.7735042735042735,7.350177194079633,0.04013725444725069,3.9504668552167685,0.9191547655328277
+"('baking soda', 'milk')","('egg',)",0.026437371663244353,0.26899383983572894,0.024897330595482547,0.941747572815534,3.5010005187875195,0.017785840476622156,12.548939082819992,0.7337662161170468
+"('vanilla', 'baking soda')","('egg',)",0.030800821355236138,0.26899383983572894,0.029517453798767967,0.9583333333333334,3.5626590330788805,0.021232222592328678,17.54414784394252,0.7421702284450995
+"('vanilla', 'egg')","('baking soda',)",0.04851129363449692,0.060061601642710474,0.029517453798767967,0.6084656084656085,10.130692352914576,0.02660378780532026,2.40065347688551,0.9472419980999519
+"('baking soda', 'egg')","('vanilla',)",0.052874743326488706,0.060061601642710474,0.029517453798767967,0.558252427184466,9.294664343208032,0.02634171202813184,2.1277726380395783,0.9422316484034405
+"('milk', 'baking soda')","('flour',)",0.026437371663244353,0.17453798767967146,0.02335728952772074,0.8834951456310679,5.061907481439177,0.0187429638780785,7.085215605749483,0.8242366649959584
+"('vanilla', 'flour')","('baking soda',)",0.03824435318275154,0.060061601642710474,0.028234086242299793,0.738255033557047,12.29163081512075,0.025937069136354244,3.591046701416312,0.9551738360385279
+"('vanilla', 'baking soda')","('flour',)",0.030800821355236138,0.17453798767967146,0.028234086242299793,0.9166666666666666,5.2519607843137255,0.022858172864075828,9.905544147843939,0.8353235747303545
+"('flour', 'baking soda')","('vanilla',)",0.05184804928131417,0.060061601642710474,0.028234086242299793,0.5445544554455446,9.066598967589067,0.02512000936041388,2.063777787697527,0.9383570409017079
+"('vanilla', 'baking soda')","('milk',)",0.030800821355236138,0.13218685831622176,0.01591375770020534,0.5166666666666667,3.908608414239483,0.011842293891697482,1.7954754655526448,0.7678034445051941
+"('milk', 'baking soda')","('vanilla',)",0.026437371663244353,0.060061601642710474,0.01591375770020534,0.6019417475728155,10.022072857024312,0.014325886814887275,2.3613086592878245,0.9246659806264512
+"('flour', 'banana')","('egg',)",0.013603696098562629,0.26899383983572894,0.010780287474332649,0.7924528301886792,2.945988765663258,0.007120977024821963,3.5221205898823955,0.6696653160353394
+"('banana', 'egg')","('flour',)",0.013603696098562629,0.17453798767967146,0.010780287474332649,0.7924528301886792,4.540288568257491,0.00840592573228373,3.977226059361582,0.7905034509249965
+"('carrot', 'bay leaf')","('potato',)",0.01873716632443532,0.07417864476386037,0.01026694045174538,0.547945205479452,7.3868322510309525,0.008877042847083724,2.048029058552672,0.8811339262359403
+"('bay leaf', 'potato')","('carrot',)",0.014117043121149897,0.13680698151950718,0.01026694045174538,0.7272727272727273,5.316049803854682,0.00833563039436014,3.1650410677618073,0.8235160114553502
+"('carrot', 'bay leaf')","('tomato',)",0.01873716632443532,0.18711498973305954,0.01026694045174538,0.547945205479452,2.928387545333258,0.006760935767322036,1.7982001742268683,0.6710894585404132
+"('bay leaf', 'tomato')","('carrot',)",0.018993839835728953,0.13680698151950718,0.01026694045174538,0.5405405405405405,3.9511180974595606,0.007668450556354329,1.878714216692837,0.7613683935112507
+"('bay leaf', 'chicken')","('soy sauce',)",0.024127310061601643,0.19661190965092404,0.012577002053388091,0.5212765957446809,2.6512971501583245,0.007833285547436638,1.6781884553958477,0.6382247796541025
+"('vinegar', 'chicken')","('bay leaf',)",0.026180698151950718,0.08008213552361396,0.013603696098562629,0.5196078431372549,6.488436400201107,0.011507089881055282,1.9149310648283955,0.868620761679315
+"('bay leaf', 'chicken')","('vinegar',)",0.024127310061601643,0.12987679671457905,0.013603696098562629,0.5638297872340425,4.341266504078715,0.010470118354422374,1.9949166124104771,0.7886812303355731
+"('bay leaf', 'pork')","('soy sauce',)",0.044661190965092405,0.19661190965092404,0.022330595482546203,0.5,2.5430809399477803,0.013549673439614789,1.606776180698152,0.6351423965609887
+"('bay leaf', 'soy sauce')","('pork',)",0.03978439425051335,0.2589835728952772,0.022330595482546203,0.5612903225806452,2.1672815627098054,0.012027090914073934,1.689081561782824,0.5609078646990326
+"('vinegar', 'bay leaf')","('pork',)",0.044661190965092405,0.2589835728952772,0.026950718685831623,0.603448275862069,2.3300639075903082,0.015384203879933719,1.868650120524953,0.5975128579104936
+"('bay leaf', 'pork')","('vinegar',)",0.044661190965092405,0.12987679671457905,0.026950718685831623,0.603448275862069,4.646313207032847,0.021150266265827323,2.1942237300241048,0.8214631150687035
+"('bay leaf', 'potato')","('tomato',)",0.014117043121149897,0.18711498973305954,0.011036960985626284,0.7818181818181819,4.178276593091408,0.008395450606951162,3.725722963723478,0.7715590053462338
+"('bay leaf', 'tomato')","('potato',)",0.018993839835728953,0.07417864476386037,0.011036960985626284,0.5810810810810811,7.833535958103433,0.009628023687750085,2.2100251705636884,0.8892336898981417
+"('vinegar', 'bay leaf')","('soy sauce',)",0.044661190965092405,0.19661190965092404,0.031057494866529773,0.6954022988505747,3.5369286636055337,0.022276572823598358,2.637538258881872,0.7508004671797353
+"('vinegar', 'soy sauce')","('bay leaf',)",0.061344969199178645,0.08008213552361396,0.031057494866529773,0.506276150627615,6.321961162965347,0.026144858729429225,1.863223471269968,0.8968377186737989
+"('bay leaf', 'soy sauce')","('vinegar',)",0.03978439425051335,0.12987679671457905,0.031057494866529773,0.7806451612903226,6.010659186535764,0.025890425182043184,3.966738132624713,0.8681684527715002
+"('cabbage', 'bean')","('fish sauce',)",0.023100616016427104,0.1450205338809035,0.011550308008213552,0.5,3.4477876106194687,0.008200244340533543,1.709958932238193,0.7267472411981083
+"('bean', 'eggplant')","('fish sauce',)",0.02002053388090349,0.1450205338809035,0.013603696098562629,0.6794871794871795,4.68545495802133,0.010700307586573287,2.6675359342915814,0.8026428931476521
+"('fish sauce', 'eggplant')","('bean',)",0.018993839835728953,0.09650924024640657,0.013603696098562629,0.7162162162162162,7.421219091431857,0.011770615046654496,3.183729343893615,0.8820038900901436
+"('bean', 'eggplant')","('okra',)",0.02002053388090349,0.028747433264887063,0.012063655030800821,0.6025641025641026,20.960622710622715,0.011488116069132137,2.4437967808173813,0.9717463749540252
+"('bean', 'okra')","('eggplant',)",0.020790554414784394,0.04055441478439425,0.012063655030800821,0.5802469135802469,14.307860603219254,0.011220506263466136,2.2857380118371786,0.949856389950085
+"('eggplant', 'okra')","('bean',)",0.014630390143737166,0.09650924024640657,0.012063655030800821,0.8245614035087719,8.543859649122806,0.010651687193520233,5.149897330595483,0.8960666840323
+"('pork', 'eggplant')","('bean',)",0.01771047227926078,0.09650924024640657,0.010010266940451745,0.5652173913043478,5.856614246068455,0.008301042716375242,2.0780287474332644,0.8442041366002694
+"('bean', 'eggplant')","('pork',)",0.02002053388090349,0.2589835728952772,0.010010266940451745,0.5,1.9306243805748267,0.004825277544704409,1.4820328542094456,0.4918805657412259
+"('bean', 'eggplant')","('tomato',)",0.02002053388090349,0.18711498973305954,0.011550308008213552,0.576923076923077,3.083254194365306,0.007804166016637925,1.9213645697218595,0.689470927187009
+"('eggplant', 'tomato')","('bean',)",0.021560574948665298,0.09650924024640657,0.011550308008213552,0.5357142857142857,5.550911854103343,0.009469513300642158,1.9459800979308164,0.8379153550192375
+"('bean', 'okra')","('fish sauce',)",0.020790554414784394,0.1450205338809035,0.013347022587268994,0.6419753086419754,4.426789030918825,0.010331965286356985,2.3880460950223044,0.7905383607218469
+"('fish sauce', 'okra')","('bean',)",0.01771047227926078,0.09650924024640657,0.013347022587268994,0.7536231884057971,7.8088189947579405,0.011637798363192491,3.667109554293997,0.8876605495366927
+"('spinach', 'bean')","('fish sauce',)",0.016940451745379878,0.1450205338809035,0.012063655030800821,0.712121212121212,4.910485384821667,0.009606941674502148,2.9699286717821236,0.810077217932337
+"('fish sauce', 'spinach')","('bean',)",0.023613963039014373,0.09650924024640657,0.012063655030800821,0.5108695652173914,5.293478260869565,0.009784689398698818,1.8471366643851244,0.8307045215562565
+"('fish sauce', 'bean')","('tomato',)",0.04029774127310062,0.18711498973305954,0.024640657084188913,0.6114649681528662,3.267856674792273,0.0171003456396072,2.0921794526542565,0.7231295132388339
+"('bean', 'tomato')","('fish sauce',)",0.038501026694045176,0.1450205338809035,0.024640657084188913,0.64,4.41316814159292,0.019057217638055565,2.374942961441935,0.8043746663107314
+"('radish', 'bean')","('okra',)",0.010780287474332649,0.028747433264887063,0.010010266940451745,0.9285714285714285,32.30102040816326,0.009700361345707068,13.597535934291566,0.9796016127100714
+"('radish', 'okra')","('bean',)",0.012063655030800821,0.09650924024640657,0.010010266940451745,0.8297872340425532,8.598008148483476,0.008846012758834417,5.308008213552361,0.8944847479531813
+"('radish',)","('bean', 'okra')",0.018480492813141684,0.020790554414784394,0.010010266940451745,0.5416666666666666,26.05349794238683,0.00962604724900809,2.136456972185925,0.9797232056646282
+"('spinach', 'bean')","('okra',)",0.016940451745379878,0.028747433264887063,0.011293634496919919,0.6666666666666666,23.19047619047619,0.010806639990892571,2.9137577002053385,0.9733681462140992
+"('bean', 'okra')","('spinach',)",0.020790554414784394,0.043121149897330596,0.011293634496919919,0.54320987654321,12.597295708406822,0.010397121883551392,2.094788834008547,0.9401644227332301
+"('spinach', 'okra')","('bean',)",0.013090349075975359,0.09650924024640657,0.011293634496919919,0.8627450980392157,8.93950771798081,0.010030294853037287,6.582575535347611,0.8999172479016433
+"('tamarind', 'bean')","('okra',)",0.012577002053388091,0.028747433264887063,0.01026694045174538,0.8163265306122448,28.396501457725947,0.009905383924543258,5.28793064111339,0.9770730439303353
+"('tamarind', 'okra')","('bean',)",0.012577002053388091,0.09650924024640657,0.01026694045174538,0.8163265306122448,8.458532349109856,0.0090531435389954,4.919005247547339,0.8930075383415649
+"('bean', 'okra')","('tomato',)",0.020790554414784394,0.18711498973305954,0.018993839835728953,0.9135802469135803,4.882453555521686,0.015103615459861955,9.406240833088889,0.8120682937196698
+"('tomato', 'okra')","('bean',)",0.024127310061601643,0.09650924024640657,0.018993839835728953,0.7872340425531915,8.157084653689452,0.0166653314724943,4.24640657084189,0.8991000469169854
+"('okra',)","('bean', 'tomato')",0.028747433264887063,0.038501026694045176,0.018993839835728953,0.6607142857142857,17.16095238095238,0.017887034140212255,2.833891710796498,0.9696017370435976
+"('radish', 'bean')","('tomato',)",0.010780287474332649,0.18711498973305954,0.010780287474332649,1.0,5.344307270233196,0.008763134094253465,inf,0.8217436429683447
+"('radish', 'tomato')","('bean',)",0.016170431211498974,0.09650924024640657,0.010780287474332649,0.6666666666666666,6.907801418439716,0.009219691443654103,2.71047227926078,0.8692929819984346
+"('radish',)","('bean', 'tomato')",0.018480492813141684,0.038501026694045176,0.010780287474332649,0.5833333333333334,15.151111111111112,0.010068769527214772,2.3075975359342915,0.9515839808726839
+"('spinach', 'bean')","('tomato',)",0.016940451745379878,0.18711498973305954,0.015143737166324436,0.8939393939393939,4.77748680217816,0.01197392471191429,7.664344382516866,0.8043103066778776
+"('spinach', 'tomato')","('bean',)",0.02284394250513347,0.09650924024640657,0.015143737166324436,0.6629213483146068,6.868993545302415,0.012939085630921412,2.6803559206023277,0.8743928445815692
+"('tamarind', 'bean')","('tomato',)",0.012577002053388091,0.18711498973305954,0.012320328542094456,0.9795918367346939,5.235239774922315,0.009966982932002075,39.831365503080036,0.8192910059786848
+"('tamarind', 'tomato')","('bean',)",0.021303901437371663,0.09650924024640657,0.012320328542094456,0.5783132530120482,5.992309664188669,0.010264305200089387,2.1425638017013786,0.8512544802867383
+"('bell pepper', 'chicken')","('carrot',)",0.024897330595482547,0.13680698151950718,0.015143737166324436,0.6082474226804123,4.446026189048568,0.011737608519663194,2.203413757700205,0.7948701933158145
+"('pork', 'bell pepper')","('carrot',)",0.030544147843942507,0.13680698151950718,0.017197125256673513,0.5630252100840336,4.115471329244643,0.013018472587058176,1.9753840230611277,0.7808653318000941
+"('carrot', 'potato')","('bell pepper',)",0.03413757700205339,0.09368583162217659,0.019250513347022588,0.5639097744360902,6.019157482747967,0.016052306056019126,2.0782721447284573,0.8633359907874922
+"('bell pepper', 'potato')","('carrot',)",0.024640657084188913,0.13680698151950718,0.019250513347022588,0.78125,5.710600375234522,0.015879499428677443,3.9460252273393954,0.8457263157894738
+"('carrot', 'tomato')","('bell pepper',)",0.031057494866529773,0.09368583162217659,0.019250513347022588,0.6198347107438017,6.616098720706443,0.016340866112350267,2.384000312472101,0.8760618101545253
+"('bell pepper', 'tomato')","('carrot',)",0.035677618069815197,0.13680698151950718,0.019250513347022588,0.539568345323741,3.9440117699461443,0.014369566111085346,1.8747473370123202,0.7740679620264396
+"('bell pepper', 'potato')","('tomato',)",0.024640657084188913,0.18711498973305954,0.01822381930184805,0.7395833333333333,3.9525605852766343,0.0136131830045242,3.1214784394250508,0.7658710155670868
+"('bell pepper', 'tomato')","('potato',)",0.035677618069815197,0.07417864476386037,0.01822381930184805,0.5107913669064748,6.885962510268601,0.015577301945026541,1.8924877702621086,0.8864017214814037
+"('potato', 'tomato')","('bell pepper',)",0.034394250513347026,0.09368583162217659,0.01822381930184805,0.5298507462686567,5.65561234921284,0.015001565339483658,1.9277158502004497,0.8525057843071185
+"('bread', 'butter')","('egg',)",0.018480492813141684,0.26899383983572894,0.012320328542094456,0.6666666666666667,2.478371501272265,0.007349189818230882,2.1930184804928134,0.6077405857740585
+"('bread', 'cheese')","('egg',)",0.02284394250513347,0.26899383983572894,0.014373716632443531,0.6292134831460674,2.3391371472682048,0.008228836821001059,1.9715014622612157,0.5858756426132313
+"('bread', 'flour')","('egg',)",0.020277207392197124,0.26899383983572894,0.01873716632443532,0.9240506329113924,3.4352111315102913,0.013282722446862787,9.624914442162906,0.7235690368610507
+"('bread', 'milk')","('egg',)",0.01642710472279261,0.26899383983572894,0.012577002053388091,0.765625,2.8462547709923665,0.00815821207662047,3.1189596167008897,0.6594946955817819
+"('bread', 'pork')","('egg',)",0.017453798767967144,0.26899383983572894,0.014117043121149897,0.8088235294117647,3.0068477772788507,0.0094220787708343,3.823724530090033,0.6792818466799658
+"('cheese', 'butter')","('egg',)",0.03696098562628337,0.26899383983572894,0.019507186858316223,0.5277777777777778,1.9620441051738762,0.009564909410589075,1.5480130450537504,0.5091459993266749
+"('cheese', 'flour')","('butter',)",0.027207392197125257,0.16196098562628336,0.01642710472279261,0.6037735849056604,3.727895224710702,0.012020568666225352,2.1150508458003325,0.7522180079155673
+"('cheese', 'butter')","('milk',)",0.03696098562628337,0.13218685831622176,0.019763860369609858,0.5347222222222223,4.04519956850054,0.014878103799400428,1.8651506328725984,0.7816852656937944
+"('cheese', 'milk')","('butter',)",0.03182751540041068,0.16196098562628336,0.019763860369609858,0.6209677419354839,3.8340575635192478,0.014609044605323631,2.210996548560444,0.7634793626310062
+"('pasta', 'butter')","('cheese',)",0.014117043121149897,0.10985626283367557,0.01026694045174538,0.7272727272727273,6.620220900594732,0.008716094852194005,3.2638603696098567,0.8611038791981256
+"('butter', 'chocolate')","('egg',)",0.012833675564681724,0.26899383983572894,0.010780287474332649,0.8400000000000001,3.1227480916030537,0.007328107804982945,4.568788501026696,0.688606591882723
+"('chocolate', 'egg')","('butter',)",0.018480492813141684,0.16196098562628336,0.010780287474332649,0.5833333333333334,3.6016904384574753,0.007787168643456776,2.01129363449692,0.7359533771667663
+"('flour', 'chocolate')","('butter',)",0.017453798767967144,0.16196098562628336,0.010523613963039014,0.6029411764705883,3.7227556632795755,0.007696779511656246,2.1106167769412125,0.7443739327675409
+"('butter', 'chocolate')","('flour',)",0.012833675564681724,0.17453798767967146,0.010523613963039014,0.8200000000000001,4.698117647058824,0.008283650055445695,4.585900068446271,0.7973821391880065
+"('butter', 'coconut')","('egg',)",0.014887063655030801,0.26899383983572894,0.010523613963039014,0.7068965517241379,2.6279284022111082,0.006519085546593357,2.494021017031042,0.628833615068824
+"('coconut', 'egg')","('butter',)",0.014887063655030801,0.16196098562628336,0.010523613963039014,0.7068965517241379,4.36461008798295,0.008112490460389005,2.85919193139268,0.7825340942309892
+"('butter', 'coconut')","('milk',)",0.014887063655030801,0.13218685831622176,0.010010266940451745,0.6724137931034482,5.086842986273853,0.008042392766339614,2.6491138009294275,0.8155556446332892
+"('butter', 'cream')","('egg',)",0.03311088295687885,0.26899383983572894,0.01771047227926078,0.5348837209302325,1.9884608556719332,0.008803848732338544,1.5716632443531824,0.5141214898258331
+"('cream', 'egg')","('butter',)",0.03362422997946612,0.16196098562628336,0.01771047227926078,0.5267175572519084,3.2521261538089306,0.012264658850861622,1.7706953368218852,0.7166041149412015
+"('flour', 'butter')","('egg',)",0.06673511293634497,0.26899383983572894,0.049281314168377825,0.7384615384615385,2.745273047563124,0.03132997988775936,2.795023553569272,0.6811972863953061
+"('butter', 'egg')","('flour',)",0.0818788501026694,0.17453798767967146,0.049281314168377825,0.6018808777429467,3.4484233818919416,0.03499034443793245,2.0734045821274396,0.7733319355139316
+"('butter', 'egg')","('milk',)",0.0818788501026694,0.13218685831622176,0.04209445585215606,0.5141065830721003,3.8892412575706854,0.03127114789453934,1.7860154335298404,0.8091311700089324
+"('butter', 'milk')","('egg',)",0.05595482546201232,0.26899383983572894,0.04209445585215606,0.7522935779816514,2.7966944463898034,0.02704295249379135,2.9510989428853907,0.6805130041512488
+"('milk', 'egg')","('butter',)",0.0736652977412731,0.16196098562628336,0.04209445585215606,0.5714285714285714,3.528186551958343,0.03016355162352584,1.9554243668720053,0.7735522305347741
+"('vanilla', 'butter')","('egg',)",0.029774127310061602,0.26899383983572894,0.028234086242299793,0.9482758620689654,3.525269807844169,0.020225029409408478,14.132785763175878,0.7383164983164981
+"('vanilla', 'egg')","('butter',)",0.04851129363449692,0.16196098562628336,0.028234086242299793,0.582010582010582,3.5935233399575712,0.020377149311250627,2.0049287812231955,0.7585182823650587
+"('flour', 'butter')","('milk',)",0.06673511293634497,0.13218685831622176,0.03542094455852156,0.5307692307692307,4.01529499626587,0.026599439640087867,1.8494378429326417,0.8046507549305654
+"('flour', 'milk')","('butter',)",0.057238193018480495,0.16196098562628336,0.03542094455852156,0.6188340807174887,3.820883642591658,0.026150590401781006,2.1986200024157503,0.7831038877511965
+"('butter', 'milk')","('flour',)",0.05595482546201232,0.17453798767967146,0.03542094455852156,0.6330275229357798,3.6268753372908793,0.025654701921414686,2.249383983572895,0.7672096523788134
+"('vanilla', 'flour')","('butter',)",0.03824435318275154,0.16196098562628336,0.022587268993839837,0.5906040268456376,3.64658207383614,0.016393175857721713,2.0470133301915374,0.7546309775092803
+"('vanilla', 'butter')","('flour',)",0.029774127310061602,0.17453798767967146,0.022587268993839837,0.7586206896551725,4.346450304259635,0.017390552728223336,3.419771193898505,0.7935545935545935
+"('vanilla', 'butter')","('milk',)",0.029774127310061602,0.13218685831622176,0.01642710472279261,0.5517241379310345,4.173819886173418,0.012491356374568347,1.9358908545253513,0.7837466931216931
+"('vanilla', 'milk')","('butter',)",0.03285420944558522,0.16196098562628336,0.01642710472279261,0.5,3.08716323296355,0.011106004579013277,1.6760780287474333,0.699044585987261
+"('cabbage', 'chicken')","('carrot',)",0.024383983572895278,0.13680698151950718,0.018480492813141684,0.7578947368421053,5.539883479806458,0.015144593623112632,3.5653624676368185,0.839972668011342
+"('carrot', 'clam')","('cabbage',)",0.023613963039014373,0.08495893223819302,0.013603696098562629,0.5760869565217391,6.780769735977932,0.011597479012855811,2.1585584162586215,0.8731424716782731
+"('cabbage', 'clam')","('carrot',)",0.01873716632443532,0.13680698151950718,0.013603696098562629,0.726027397260274,5.306946978848082,0.011040320931487674,3.1506545174537988,0.8270645892043689
+"('cabbage', 'egg')","('carrot',)",0.016170431211498974,0.13680698151950718,0.011806981519507187,0.7301587301587301,5.337145239584264,0.009594753635593185,3.1988917743688847,0.8259905398200978
+"('carrot', 'cabbage')","('pasta',)",0.03824435318275154,0.08880903490759753,0.022587268993839837,0.5906040268456376,6.6502696202040585,0.019190824897014368,2.2256959639142293,0.8834158235679453
+"('carrot', 'pasta')","('cabbage',)",0.03311088295687885,0.08495893223819302,0.022587268993839837,0.682170542635659,8.029415208787093,0.01977420373235963,2.879031652226174,0.9054377730048025
+"('cabbage', 'pasta')","('carrot',)",0.026180698151950718,0.13680698151950718,0.022587268993839837,0.8627450980392157,6.306294375160947,0.01900556670559812,6.288977706072163,0.864049695691762
+"('cabbage', 'pork')","('carrot',)",0.034394250513347026,0.13680698151950718,0.01771047227926078,0.5149253731343283,3.763882277169499,0.013005098684904012,1.7795056073290156,0.7604727673377558
+"('cabbage', 'soy sauce')","('carrot',)",0.021303901437371663,0.13680698151950718,0.01591375770020534,0.7469879518072289,5.460159587694116,0.012999235249969432,3.4116676444705187,0.8346361767467831
+"('cabbage', 'pasta')","('chicken',)",0.026180698151950718,0.17325462012320328,0.014373716632443531,0.5490196078431373,3.1688598402323898,0.00983778971956706,1.8332180162485494,0.702829655847579
+"('cabbage', 'chicken')","('pasta',)",0.024383983572895278,0.08880903490759753,0.014373716632443531,0.5894736842105263,6.637541831457256,0.01220819858413199,2.219567735481493,0.8705697748712745
+"('pasta', 'chicken')","('cabbage',)",0.028747433264887063,0.08495893223819302,0.014373716632443531,0.5,5.885196374622356,0.011931365397670016,1.8300821355236139,0.8546511627906977
+"('clam', 'cabbage')","('pasta',)",0.01873716632443532,0.08880903490759753,0.010010266940451745,0.5342465753424657,6.01567820096603,0.008346237282275508,1.9563806015219227,0.849688457849588
+"('clam', 'pasta')","('cabbage',)",0.014630390143737166,0.08495893223819302,0.010010266940451745,0.6842105263157894,8.053426617904275,0.008767284615611652,2.8976300479123878,0.8888332298074418
+"('cabbage', 'clam')","('pork',)",0.01873716632443532,0.2589835728952772,0.01026694045174538,0.547945205479452,2.1157527458354264,0.005414322171110052,1.6392181569286293,0.5374247972796233
+"('pasta', 'soy sauce')","('cabbage',)",0.014630390143737166,0.08495893223819302,0.01026694045174538,0.7017543859649122,8.259924736312078,0.009023958126905287,3.0680788742601757,0.8919835894764262
+"('cabbage', 'soy sauce')","('pork',)",0.021303901437371663,0.2589835728952772,0.011293634496919919,0.5301204819277109,2.046927054103431,0.0057762739860605745,1.5770349602485128,0.5225961423837113
+"('carrot', 'pasta')","('chicken',)",0.03311088295687885,0.17325462012320328,0.02053388090349076,0.6201550387596899,3.5794430089003733,0.014797267454852868,2.1765337551858526,0.7453046190602601
+"('pasta', 'chicken')","('carrot',)",0.028747433264887063,0.13680698151950718,0.02053388090349076,0.7142857142857143,5.221120343071563,0.01660103133208809,3.021175564681725,0.8323995771670191
+"('chicken', 'potato')","('carrot',)",0.019250513347022588,0.13680698151950718,0.012320328542094456,0.64,4.67812382739212,0.00968672391838731,2.3977583846680357,0.8016716828055482
+"('pork', 'potato')","('carrot',)",0.02335728952772074,0.13680698151950718,0.013090349075975359,0.5604395604395604,4.096571346102303,0.00989490879921069,1.963764117043121,0.7739712967972998
+"('carrot', 'potato')","('tomato',)",0.03413757700205339,0.18711498973305954,0.021817248459958933,0.6390977443609023,3.4155347215776066,0.015429596089708184,2.2523688826146477,0.7322161604477029
+"('carrot', 'tomato')","('potato',)",0.031057494866529773,0.07417864476386037,0.021817248459958933,0.7024793388429753,9.470102090422948,0.019513445580999204,3.111788443988137,0.9230728476821193
+"('potato', 'tomato')","('carrot',)",0.034394250513347026,0.13680698151950718,0.021817248459958933,0.6343283582089552,4.636666573324746,0.017111874865602165,2.360568662783388,0.8122650655158394
+"('pasta', 'cream')","('cheese',)",0.015657084188911704,0.10985626283367557,0.012320328542094456,0.7868852459016394,7.162861958020531,0.010600299786228387,4.1768283051650625,0.8740764884832681
+"('cheese', 'flour')","('egg',)",0.027207392197125257,0.26899383983572894,0.01822381930184805,0.6698113207547169,2.4900619328820395,0.010905198402826676,2.2139043707832204,0.6151399160132298
+"('cheese', 'milk')","('egg',)",0.03182751540041068,0.26899383983572894,0.019763860369609858,0.6209677419354839,2.30848313223344,0.011202454789622592,1.9286119970291404,0.5854484857666195
+"('cheese', 'flour')","('milk',)",0.027207392197125257,0.13218685831622176,0.017453798767967144,0.6415094339622641,4.853050009159187,0.01385733907045187,2.42074192153896,0.8161493093279526
+"('cheese', 'milk')","('flour',)",0.03182751540041068,0.17453798767967146,0.017453798767967144,0.5483870967741935,3.1419354838709674,0.011898688277135711,1.8278087415664417,0.7041357370095439
+"('pasta', 'tomato')","('cheese',)",0.01822381930184805,0.10985626283367557,0.013347022587268994,0.7323943661971831,6.666842174542582,0.011345021904211765,3.326326596779423,0.8657817998994469
+"('chicken', 'cornstarch')","('egg',)",0.01822381930184805,0.26899383983572894,0.010523613963039014,0.5774647887323944,2.1467584130738633,0.005621518832562435,1.7300479123887746,0.5440969233221744
+"('chicken', 'cornstarch')","('soy sauce',)",0.01822381930184805,0.19661190965092404,0.010523613963039014,0.5774647887323944,2.9370793954326477,0.0069405940489693,1.9013518138261465,0.6717678941495298
+"('vinegar', 'chicken')","('soy sauce',)",0.026180698151950718,0.19661190965092404,0.01771047227926078,0.676470588235294,3.440638918752879,0.01256303521961133,2.4831995519880525,0.7284270358231532
+"('fish sauce', 'coconut')","('chili',)",0.02566735112936345,0.15503080082135523,0.017197125256673513,0.67,4.321721854304636,0.013217895256125382,2.5605127247837722,0.7888586571882423
+"('chili', 'coconut')","('ginger',)",0.03465092402464066,0.12191991786447638,0.01822381930184805,0.5259259259259259,4.313699805068226,0.01399918149083565,1.85220017325462,0.7957540510277834
+"('coconut', 'ginger')","('chili',)",0.023870636550308008,0.15503080082135523,0.01822381930184805,0.7634408602150538,4.924446343373923,0.014523135401338285,3.571915251073362,0.8164199501505481
+"('pork', 'coconut')","('chili',)",0.017197125256673513,0.15503080082135523,0.011036960985626284,0.6417910447761194,4.139764752396956,0.008370876885259036,2.3588723477070497,0.7717116011831373
+"('coconut', 'shrimp')","('chili',)",0.015657084188911704,0.15503080082135523,0.012063655030800821,0.7704918032786886,4.969927260883726,0.00963632473046646,3.6816515107069536,0.8114954645066436
+"('fish sauce', 'ginger')","('chili',)",0.03413757700205339,0.15503080082135523,0.017197125256673513,0.5037593984962406,3.2494149280485987,0.011904749355944497,1.7027409619812084,0.7167193530090711
+"('vinegar', 'ginger')","('chili',)",0.024127310061601643,0.15503080082135523,0.012577002053388091,0.5212765957446809,3.362406650697478,0.008836525852872847,1.7650467716176137,0.7199647875983639
+"('tamarind', 'chili')","('tomato',)",0.013860369609856264,0.18711498973305954,0.011293634496919919,0.8148148148148149,4.3546207387085305,0.008700151579675254,4.38957905544148,0.7811864085940088
+"('tamarind', 'tomato')","('chili',)",0.021303901437371663,0.15503080082135523,0.011293634496919919,0.5301204819277109,3.419452645017155,0.007990873596464968,1.7982677828673723,0.7229573468755215
+"('flour', 'chocolate')","('egg',)",0.017453798767967144,0.26899383983572894,0.016683778234086243,0.9558823529411766,3.553547373147733,0.011988813883770646,16.569472963723534,0.7313560003215177
+"('chocolate', 'egg')","('flour',)",0.018480492813141684,0.17453798767967146,0.016683778234086243,0.9027777777777778,5.1723856209150325,0.013458230207151863,8.490466412437666,0.821853878339234
+"('chocolate',)","('flour', 'egg')",0.029260780287474333,0.10523613963039015,0.016683778234086243,0.5701754385964912,5.418057338468121,0.013604486674059427,2.0816955118803167,0.840011389984949
+"('vanilla', 'chocolate')","('egg',)",0.014887063655030801,0.26899383983572894,0.012577002053388091,0.8448275862068966,3.140694919715715,0.008572473636942433,4.710928587725303,0.6918994799587369
+"('chocolate', 'egg')","('vanilla',)",0.018480492813141684,0.060061601642710474,0.012577002053388091,0.6805555555555556,11.330959164292498,0.011467034055884201,2.9424158557271674,0.9289129877892579
+"('vanilla', 'chocolate')","('flour',)",0.014887063655030801,0.17453798767967146,0.012577002053388091,0.8448275862068966,4.840365111561866,0.00997864392057984,5.319644079397674,0.8053939658197828
+"('flour', 'chocolate')","('vanilla',)",0.017453798767967144,0.060061601642710474,0.012577002053388091,0.7205882352941178,11.997486173956764,0.011528698944634418,3.3639900572787216,0.9329324206171498
+"('clam', 'cornstarch')","('soy sauce',)",0.025410677618069814,0.19661190965092404,0.013860369609856264,0.5454545454545455,2.77427011630667,0.008864327757843564,1.7674537987679675,0.6562198226670178
+"('coconut', 'ginger')","('fish sauce',)",0.023870636550308008,0.1450205338809035,0.012577002053388091,0.5268817204301076,3.6331525359215915,0.009115269596785415,1.8071156897517269,0.7424804263014698
+"('flour', 'cornstarch')","('egg',)",0.01873716632443532,0.26899383983572894,0.01026694045174538,0.547945205479452,2.0370176722785738,0.005226758134494812,1.61707423309066,0.5188072194611562
+"('cornstarch', 'ginger')","('soy sauce',)",0.01822381930184805,0.19661190965092404,0.011550308008213552,0.6338028169014084,3.2236237266943695,0.007967288094143838,2.193867477491707,0.7025940450254176
+"('pork', 'cornstarch')","('soy sauce',)",0.02053388090349076,0.19661190965092404,0.011293634496919919,0.55,2.797389033942559,0.007256428959939959,1.7853068674423913,0.6559939012769201
+"('vinegar', 'cornstarch')","('soy sauce',)",0.017197125256673513,0.19661190965092404,0.010523613963039014,0.6119402985074626,3.1124274190405665,0.007142454325818297,2.070269309745695,0.6905834166725056
+"('flour', 'cream')","('egg',)",0.025924024640657083,0.26899383983572894,0.014630390143737166,0.5643564356435644,2.0980273599879076,0.007656987211650764,1.6779914131043496,0.537290525391212
+"('vanilla', 'cream')","('egg',)",0.015143737166324436,0.26899383983572894,0.012577002053388091,0.8305084745762712,3.087462802432398,0.00850343004355544,4.3129363449691995,0.6865057203491248
+"('flour', 'milk')","('egg',)",0.057238193018480495,0.26899383983572894,0.043121149897330596,0.7533632286995515,2.800670934173142,0.027724428572030918,2.963897703938771,0.6819778823590422
+"('milk', 'egg')","('flour',)",0.0736652977412731,0.17453798767967146,0.043121149897330596,0.5853658536585366,3.353802008608321,0.030263757067744944,1.9908201473607923,0.7576429297127552
+"('pork', 'flour')","('egg',)",0.023613963039014373,0.26899383983572894,0.013603696098562629,0.5760869565217391,2.1416362429472287,0.007251685506959173,1.7244247880798187,0.5459595658988553
+"('vanilla', 'flour')","('egg',)",0.03824435318275154,0.26899383983572894,0.03490759753593429,0.912751677852349,3.3932066191915573,0.02462010212127217,8.378455220344339,0.733339612866764
+"('vanilla', 'egg')","('flour',)",0.04851129363449692,0.17453798767967146,0.03490759753593429,0.7195767195767195,4.122751322751323,0.026440533965231543,2.94362868544419,0.7960615052603184
+"('vanilla',)","('flour', 'egg')",0.060061601642710474,0.10523613963039015,0.03490759753593429,0.5811965811965811,5.522785074004585,0.02858694643903714,2.1364769727192723,0.8712612844154591
+"('vanilla', 'milk')","('egg',)",0.03285420944558522,0.26899383983572894,0.027464065708418892,0.8359375,3.107645515267176,0.01862648575488365,4.455656595286985,0.7012520586542851
+"('vanilla', 'egg')","('milk',)",0.04851129363449692,0.13218685831622176,0.027464065708418892,0.5661375661375662,4.282858170236811,0.02105151021001902,2.0002034607101717,0.8055913414631072
+"('pork', 'rice')","('egg',)",0.01771047227926078,0.26899383983572894,0.011293634496919919,0.6376811594202899,2.3706162186082533,0.006529626553217327,2.0175770020533883,0.5885930113784831
+"('pork', 'eggplant')","('fish sauce',)",0.01771047227926078,0.1450205338809035,0.01026694045174538,0.5797101449275363,3.9974349108631526,0.00769855830652404,2.034261488352333,0.763359027959237
+"('fish sauce', 'eggplant')","('pork',)",0.018993839835728953,0.2589835728952772,0.01026694045174538,0.5405405405405405,2.0871614925133257,0.00534784794808765,1.6128004589926317,0.5309654631083203
+"('fish sauce', 'eggplant')","('tomato',)",0.018993839835728953,0.18711498973305954,0.012320328542094456,0.6486486486486487,3.4665776887999113,0.008766296396240656,2.3135957984520616,0.7253074306645736
+"('eggplant', 'tomato')","('fish sauce',)",0.021560574948665298,0.1450205338809035,0.012320328542094456,0.5714285714285714,3.940328697850821,0.00919360245225978,1.994952087611225,0.7626573976915004
+"('eggplant', 'okra')","('tomato',)",0.014630390143737166,0.18711498973305954,0.011550308008213552,0.7894736842105263,4.219189950184102,0.008812742706677517,3.8612037987679675,0.7743162281844231
+"('eggplant', 'tomato')","('okra',)",0.021560574948665298,0.028747433264887063,0.011550308008213552,0.5357142857142857,18.635204081632654,0.010930496818724201,2.0919286052756276,0.9671913256383352
+"('pork', 'eggplant')","('tomato',)",0.01771047227926078,0.18711498973305954,0.012063655030800821,0.6811594202898551,3.640325242042902,0.008749760192099306,2.5495029867463135,0.7383762627245385
+"('eggplant', 'tomato')","('pork',)",0.021560574948665298,0.2589835728952772,0.012063655030800821,0.5595238095238095,2.160460616357544,0.006479820296919075,1.6823075642377492,0.5489718916746668
+"('fish', 'fish sauce')","('tomato',)",0.025924024640657083,0.18711498973305954,0.016170431211498974,0.6237623762376238,3.333577802224667,0.011319657607022842,2.160562790446342,0.7186523621306232
+"('okra', 'tomato')","('fish sauce',)",0.024127310061601643,0.1450205338809035,0.016683778234086243,0.6914893617021277,4.768216908303521,0.013184822847842679,2.7713127522481065,0.8098166956662485
+"('fish sauce', 'okra')","('tomato',)",0.01771047227926078,0.18711498973305954,0.016683778234086243,0.9420289855072465,5.03449235601678,0.013369883395384728,14.022266427104741,0.8158187775120099
+"('okra',)","('fish sauce', 'tomato')",0.028747433264887063,0.058264887063655034,0.016683778234086243,0.5803571428571429,9.960667086217747,0.015008812281537639,2.2441347372100138,0.9262319076272564
+"('radish', 'fish sauce')","('tomato',)",0.011550308008213552,0.18711498973305954,0.011036960985626284,0.9555555555555556,5.106782502667277,0.00887572522125573,18.28991273100618,0.8135790764102347
+"('radish', 'tomato')","('fish sauce',)",0.016170431211498974,0.1450205338809035,0.011036960985626284,0.6825396825396826,4.706503722432926,0.008691916418250277,2.693185318275154,0.8004720329573652
+"('radish',)","('fish sauce', 'tomato')",0.018480492813141684,0.058264887063655034,0.011036960985626284,0.5972222222222222,10.2501223690651,0.009960197158987895,2.338100970048856,0.9194317407803833
+"('tamarind', 'spinach')","('fish sauce',)",0.013603696098562629,0.1450205338809035,0.010010266940451745,0.7358490566037735,5.07410252128903,0.008037451669484628,3.236707978879436,0.8139941418629943
+"('tamarind', 'fish sauce')","('spinach',)",0.01591375770020534,0.043121149897330596,0.010010266940451745,0.6290322580645161,14.587557603686635,0.00932404740923139,2.579412552450674,0.9465109746799887
+"('fish sauce', 'spinach')","('tomato',)",0.023613963039014373,0.18711498973305954,0.01591375770020534,0.6739130434782609,3.60159837776585,0.011495231248603317,2.4928473648186174,0.7398154743733253
+"('spinach', 'tomato')","('fish sauce',)",0.02284394250513347,0.1450205338809035,0.01591375770020534,0.6966292134831461,4.803659142885553,0.012600916962166218,2.8182656475777628,0.810336646415347
+"('tamarind', 'fish sauce')","('tomato',)",0.01591375770020534,0.18711498973305954,0.014373716632443531,0.9032258064516129,4.827116244081597,0.011396014023755213,8.399811772758383,0.805658022207318
+"('tamarind', 'tomato')","('fish sauce',)",0.021303901437371663,0.1450205338809035,0.014373716632443531,0.6746987951807228,4.652436293847957,0.011284213472249746,2.628270210662407,0.8021477276984752
+"('tamarind',)","('fish sauce', 'tomato')",0.026694045174537988,0.058264887063655034,0.014373716632443531,0.5384615384615384,9.241613012538123,0.01281839110507697,2.040426078028747,0.91625226039783
+"('vanilla', 'milk')","('flour',)",0.03285420944558522,0.17453798767967146,0.018480492813141684,0.5625,3.2227941176470587,0.012746185209702785,1.8867703138750367,0.7131398914838405
+"('pork', 'lemon')","('soy sauce',)",0.027207392197125257,0.19661190965092404,0.014887063655030801,0.5471698113207547,2.782994236169269,0.009537766318532355,1.7741486995208762,0.6585933945955782
+"('pork', 'okra')","('tomato',)",0.010523613963039014,0.18711498973305954,0.010010266940451745,0.9512195121951219,5.083609354612065,0.008041141021803018,16.664142710472266,0.8118327845954305
+"('radish', 'tamarind')","('okra',)",0.013860369609856264,0.028747433264887063,0.011036960985626284,0.7962962962962963,27.69973544973545,0.010638510935240273,4.767967145790554,0.9774463397213177
+"('radish', 'okra')","('tamarind',)",0.012063655030800821,0.026694045174537988,0.011036960985626284,0.9148936170212766,34.273322422258595,0.010714933233264045,11.436344969199176,0.9826774698351128
+"('tamarind', 'okra')","('radish',)",0.012577002053388091,0.018480492813141684,0.011036960985626284,0.8775510204081632,47.48526077097505,0.010804531789567777,8.015742642026009,0.9914097968214434
+"('radish',)","('tamarind', 'okra')",0.018480492813141684,0.012577002053388091,0.011036960985626284,0.5972222222222222,47.48526077097505,0.010804531789567777,2.4515329604191742,0.997372774155882
+"('radish', 'okra')","('tomato',)",0.012063655030800821,0.18711498973305954,0.012063655030800821,1.0,5.344307270233196,0.009806364343569353,inf,0.8228111197713692
+"('radish', 'tomato')","('okra',)",0.016170431211498974,0.028747433264887063,0.012063655030800821,0.746031746031746,25.95124716553288,0.011598796638683809,3.8243069815195074,0.9772690687256801
+"('tomato', 'okra')","('radish',)",0.024127310061601643,0.018480492813141684,0.012063655030800821,0.5,27.055555555555557,0.01161777045060695,1.9630390143737166,0.9868490268279853
+"('radish',)","('tomato', 'okra')",0.018480492813141684,0.024127310061601643,0.012063655030800821,0.6527777777777778,27.055555555555557,0.01161777045060695,2.8105133470225874,0.9811715481171547
+"('tamarind', 'spinach')","('okra',)",0.013603696098562629,0.028747433264887063,0.010010266940451745,0.7358490566037735,25.597035040431265,0.009619195594702512,3.676884716925784,0.9741854987756627
+"('tamarind', 'okra')","('spinach',)",0.012577002053388091,0.043121149897330596,0.010010266940451745,0.7959183673469387,18.457725947521862,0.009467932149648563,4.688706365503077,0.9578692687608726
+"('spinach', 'okra')","('tamarind',)",0.013090349075975359,0.026694045174537988,0.010010266940451745,0.7647058823529411,28.64705882352941,0.009660832570867186,4.136550308008212,0.977893368010403
+"('spinach', 'tomato')","('okra',)",0.02284394250513347,0.028747433264887063,0.012833675564681724,0.5617977528089888,19.542536115569824,0.012176970852008483,2.216448165113463,0.9710112949829262
+"('okra', 'tomato')","('spinach',)",0.024127310061601643,0.043121149897330596,0.012833675564681724,0.5319148936170213,12.335359675785208,0.011793278210896027,2.0442411797647937,0.941651762230405
+"('spinach', 'okra')","('tomato',)",0.013090349075975359,0.18711498973305954,0.012833675564681724,0.9803921568627451,5.239516931601173,0.010384275031728429,41.45713552361388,0.8198751625487646
+"('tamarind', 'okra')","('tomato',)",0.012577002053388091,0.18711498973305954,0.012577002053388091,1.0,5.344307270233196,0.01022365644329571,inf,0.8232388874447621
+"('tamarind', 'tomato')","('okra',)",0.021303901437371663,0.028747433264887063,0.012577002053388091,0.5903614457831325,20.536144578313255,0.011964569568535519,2.370998912912188,0.9720130381027314
+"('tomato', 'okra')","('tamarind',)",0.024127310061601643,0.026694045174537988,0.012577002053388091,0.5212765957446809,19.5278232405892,0.011932946548663613,2.0331279945242984,0.972248762734973
+"('pork', 'potato')","('tomato',)",0.02335728952772074,0.18711498973305954,0.015400410677618069,0.6593406593406593,3.523719079274635,0.011029911687446504,2.386210836590051,0.7333377135348227
+"('radish', 'tamarind')","('spinach',)",0.013860369609856264,0.043121149897330596,0.01026694045174538,0.7407407407407407,17.178130511463845,0.009669265376166362,3.690818421824581,0.9550234252993233
+"('radish', 'spinach')","('tamarind',)",0.010780287474332649,0.026694045174537988,0.01026694045174538,0.9523809523809523,35.67765567765568,0.009979170970911038,20.43942505133468,0.9825635703165543
+"('tamarind', 'spinach')","('radish',)",0.013603696098562629,0.018480492813141684,0.01026694045174538,0.7547169811320754,40.83857442348008,0.010015537443763729,4.001579529300267,0.9889669529013791
+"('radish',)","('tamarind', 'spinach')",0.018480492813141684,0.013603696098562629,0.01026694045174538,0.5555555555555556,40.83857442348008,0.010015537443763729,2.2193916837782344,0.9938807531380752
+"('radish', 'spinach')","('tomato',)",0.010780287474332649,0.18711498973305954,0.010780287474332649,1.0,5.344307270233196,0.008763134094253465,inf,0.8217436429683447
+"('radish', 'tomato')","('spinach',)",0.016170431211498974,0.043121149897330596,0.010780287474332649,0.6666666666666666,15.460317460317459,0.010082999886157129,2.870636550308008,0.9506913644664754
+"('radish',)","('spinach', 'tomato')",0.018480492813141684,0.02284394250513347,0.010780287474332649,0.5833333333333334,25.53558052434457,0.010358120159042708,2.34517453798768,0.9789300657501495
+"('radish', 'tamarind')","('tomato',)",0.013860369609856264,0.18711498973305954,0.013860369609856264,1.0,5.344307270233196,0.011266886692611599,inf,0.8243102550754815
+"('radish', 'tomato')","('tamarind',)",0.016170431211498974,0.026694045174537988,0.013860369609856264,0.8571428571428572,32.10989010989011,0.013428715388604752,6.8131416837782375,0.9847812853291591
+"('tamarind', 'tomato')","('radish',)",0.021303901437371663,0.018480492813141684,0.013860369609856264,0.6506024096385542,35.204819277108435,0.013466663012451037,2.809176520569284,0.9927441209895971
+"('radish',)","('tamarind', 'tomato')",0.018480492813141684,0.021303901437371663,0.013860369609856264,0.75,35.204819277108435,0.013466663012451037,3.914784394250513,0.9898884239888422
+"('tamarind',)","('radish', 'tomato')",0.026694045174537988,0.016170431211498974,0.013860369609856264,0.5192307692307693,32.10989010989011,0.013428715388604752,2.0463655030800822,0.9954289732770746
+"('tamarind', 'spinach')","('tomato',)",0.013603696098562629,0.18711498973305954,0.013603696098562629,1.0,5.344307270233196,0.011058240642748421,inf,0.824095758521988
+"('tamarind', 'tomato')","('spinach',)",0.021303901437371663,0.043121149897330596,0.013603696098562629,0.6385542168674699,14.808376362593231,0.012685047371283769,2.6473648186173855,0.9527683347436031
+"('spinach', 'tomato')","('tamarind',)",0.02284394250513347,0.026694045174537988,0.013603696098562629,0.5955056179775281,22.308556611927397,0.012993898865366048,2.4062286105407256,0.9775042003062878
+"('tamarind',)","('spinach', 'tomato')",0.026694045174537988,0.02284394250513347,0.013603696098562629,0.5096153846153846,22.308556611927397,0.012993898865366048,1.9926319603816884,0.9813709099593982
+"('flour', 'baking soda', 'butter')","('egg',)",0.024897330595482547,0.26899383983572894,0.024127310061601643,0.9690721649484536,3.602581254426694,0.017430081503063216,23.63586584531143,0.7408668574596898
+"('flour', 'baking soda', 'egg')","('butter',)",0.046457905544147846,0.16196098562628336,0.024127310061601643,0.5193370165745856,3.206556286172085,0.016602941889538682,1.7435064551912955,0.7216660462186076
+"('baking soda', 'egg', 'butter')","('flour',)",0.028747433264887063,0.17453798767967146,0.024127310061601643,0.8392857142857143,4.8086134453781515,0.019109790908592605,5.136208076659822,0.815482884260717
+"('baking soda', 'butter')","('flour', 'egg')",0.030030800821355237,0.10523613963039015,0.024127310061601643,0.8034188034188035,7.634438190535751,0.02096698451315307,4.551624854923668,0.895919780646687
+"('baking soda', 'milk', 'butter')","('egg',)",0.014630390143737166,0.26899383983572894,0.014373716632443531,0.9824561403508771,3.6523369492433373,0.010438231809384869,41.66735112936332,0.73698507795929
+"('baking soda', 'egg', 'butter')","('milk',)",0.028747433264887063,0.13218685831622176,0.014373716632443531,0.5,3.78252427184466,0.010573683744502866,1.7356262833675564,0.7573995771670191
+"('baking soda', 'egg', 'milk')","('butter',)",0.024897330595482547,0.16196098562628336,0.014373716632443531,0.5773195876288659,3.5645596091950265,0.010341320429735758,1.9826776681524514,0.7378304441018313
+"('baking soda', 'milk')","('butter', 'egg')",0.026437371663244353,0.0818788501026694,0.014373716632443531,0.5436893203883495,6.640168000730438,0.012209055040920187,2.0120527327537245,0.8724671387141727
+"('vanilla', 'baking soda', 'butter')","('egg',)",0.019250513347022588,0.26899383983572894,0.018480492813141684,0.96,3.568854961832061,0.013302223309117126,18.27515400410676,0.7339265462793335
+"('vanilla', 'baking soda', 'egg')","('butter',)",0.029517453798767967,0.16196098562628336,0.018480492813141684,0.6260869565217391,3.865665265623923,0.013699816902714941,2.2412671314645904,0.763859502189309
+"('vanilla', 'butter', 'egg')","('baking soda',)",0.028234086242299793,0.060061601642710474,0.018480492813141684,0.6545454545454545,10.897902097902097,0.01678470837251074,2.720874311034259,0.9346275752773374
+"('baking soda', 'egg', 'butter')","('vanilla',)",0.028747433264887063,0.060061601642710474,0.018480492813141684,0.6428571428571429,10.703296703296704,0.016753875928135632,2.631827515400411,0.9334038054968288
+"('vanilla', 'baking soda')","('butter', 'egg')",0.030800821355236138,0.0818788501026694,0.018480492813141684,0.6,7.327899686520376,0.015958556978357206,2.2953028747433266,0.8909781073446329
+"('vanilla', 'butter')","('baking soda', 'egg')",0.029774127310061602,0.052874743326488706,0.018480492813141684,0.6206896551724138,11.73886842986274,0.01690619347385198,2.496966585775621,0.9428865373309817
+"('baking soda', 'butter')","('vanilla', 'egg')",0.030030800821355237,0.04851129363449692,0.018480492813141684,0.6153846153846153,12.685388685388684,0.01702365981641783,2.4738706365503074,0.9496890711828526
+"('flour', 'baking soda', 'milk')","('butter',)",0.02335728952772074,0.16196098562628336,0.011806981519507187,0.5054945054945055,3.121088103655457,0.00802401188603907,1.694701117955738,0.6958521396332058
+"('baking soda', 'milk', 'butter')","('flour',)",0.014630390143737166,0.17453798767967146,0.011806981519507187,0.8070175438596491,4.623735810113518,0.009253422664850802,4.277394063841702,0.7953611107965163
+"('vanilla', 'flour', 'butter')","('baking soda',)",0.022587268993839837,0.060061601642710474,0.016940451745379878,0.75,12.487179487179487,0.015583824192875123,3.759753593429158,0.9411764705882352
+"('vanilla', 'flour', 'baking soda')","('butter',)",0.028234086242299793,0.16196098562628336,0.016940451745379878,0.6000000000000001,3.7045958795562606,0.012367631309319517,2.095097535934292,0.7512766332100722
+"('vanilla', 'butter', 'baking soda')","('flour',)",0.019250513347022588,0.17453798767967146,0.016940451745379878,0.88,5.041882352941176,0.013580505883989898,6.878850102669405,0.8173966834003473
+"('flour', 'butter', 'baking soda')","('vanilla',)",0.024897330595482547,0.060061601642710474,0.016940451745379878,0.6804123711340206,11.328575204863865,0.015445078193187137,2.9410975690534547,0.9350068199765489
+"('vanilla', 'butter')","('flour', 'baking soda')",0.029774127310061602,0.05184804928131417,0.016940451745379878,0.5689655172413793,10.973711164219871,0.015396721325299682,2.1997125256673513,0.9367644700978034
+"('vanilla', 'baking soda')","('flour', 'butter')",0.030800821355236138,0.06673511293634497,0.016940451745379878,0.55,8.241538461538461,0.014884955453706009,2.073921971252567,0.9065870570107858
+"('butter', 'baking soda')","('vanilla', 'flour')",0.030030800821355237,0.03824435318275154,0.016940451745379878,0.5641025641025641,14.749956978144898,0.015791943192407103,2.2063806015219227,0.9610647357405759
+"('flour', 'baking soda', 'chocolate')","('egg',)",0.011550308008213552,0.26899383983572894,0.011036960985626284,0.9555555555555556,3.552332485156913,0.00792999928321155,16.447638603696117,0.7268906294348191
+"('flour', 'egg', 'chocolate')","('baking soda',)",0.016683778234086243,0.060061601642710474,0.011036960985626284,0.6615384615384615,11.014332675871136,0.010034906543435272,2.7770907224192642,0.924635622492154
+"('baking soda', 'egg', 'chocolate')","('flour',)",0.011550308008213552,0.17453798767967146,0.011036960985626284,0.9555555555555556,5.474771241830066,0.009020993468792296,18.57289527720741,0.8268948566666465
+"('flour', 'chocolate')","('baking soda', 'egg')",0.017453798767967144,0.052874743326488706,0.011036960985626284,0.6323529411764707,11.959451741861795,0.010114095855697836,2.5761806981519513,0.9326626327428252
+"('baking soda', 'chocolate')","('flour', 'egg')",0.012577002053388091,0.10523613963039015,0.011036960985626284,0.8775510204081632,8.338875062220009,0.00971340584140423,7.307238193018479,0.8912894977058535
+"('egg', 'chocolate')","('flour', 'baking soda')",0.018480492813141684,0.05184804928131417,0.011036960985626284,0.5972222222222222,11.51870187018702,0.010078783483507542,2.3540324293705304,0.9303785151308748
+"('vanilla', 'baking soda', 'chocolate')","('egg',)",0.011036960985626284,0.26899383983572894,0.010523613963039014,0.9534883720930232,3.5446476122847503,0.007554739447398269,15.716632443531799,0.7258961974514633
+"('baking soda', 'egg', 'chocolate')","('vanilla',)",0.011550308008213552,0.060061601642710474,0.010523613963039014,0.9111111111111111,15.169610636277302,0.009829883964599084,10.574306981519506,0.9449936981841905
+"('vanilla', 'egg', 'chocolate')","('baking soda',)",0.012577002053388091,0.060061601642710474,0.010523613963039014,0.836734693877551,13.931275074132216,0.009768219075848867,5.757122689938396,0.9400419712541289
+"('baking soda', 'chocolate')","('vanilla', 'egg')",0.012577002053388091,0.04851129363449692,0.010523613963039014,0.836734693877551,17.24824532987798,0.009913487323385433,5.827868326488704,0.9540218225161196
+"('vanilla', 'chocolate')","('baking soda', 'egg')",0.014887063655030801,0.052874743326488706,0.010523613963039014,0.7068965517241379,13.36926682289923,0.009736464293394162,3.23136852276845,0.9391832636408698
+"('egg', 'chocolate')","('vanilla', 'baking soda')",0.018480492813141684,0.030800821355236138,0.010523613963039014,0.5694444444444444,18.487962962962964,0.009954399605344711,2.2510432536265483,0.9637207878354933
+"('vanilla', 'flour', 'chocolate')","('baking soda',)",0.012577002053388091,0.060061601642710474,0.010523613963039014,0.836734693877551,13.931275074132216,0.009768219075848867,5.757122689938396,0.9400419712541289
+"('vanilla', 'baking soda', 'chocolate')","('flour',)",0.011036960985626284,0.17453798767967146,0.010523613963039014,0.9534883720930232,5.4629274965800265,0.008597245002508759,17.747433264887032,0.8260652136757546
+"('flour', 'baking soda', 'chocolate')","('vanilla',)",0.011550308008213552,0.060061601642710474,0.010523613963039014,0.9111111111111111,15.169610636277302,0.009829883964599084,10.574306981519506,0.9449936981841905
+"('vanilla', 'chocolate')","('flour', 'baking soda')",0.014887063655030801,0.05184804928131417,0.010523613963039014,0.7068965517241379,13.634004779788324,0.009751748752998916,3.234871361275516,0.9406576087647275
+"('flour', 'chocolate')","('vanilla', 'baking soda')",0.017453798767967144,0.030800821355236138,0.010523613963039014,0.6029411764705883,19.575490196078434,0.009986022625216617,2.4409460795497764,0.9657721028620944
+"('baking soda', 'chocolate')","('vanilla', 'flour')",0.012577002053388091,0.03824435318275154,0.010523613963039014,0.836734693877551,21.87864676071771,0.010042614654529049,5.890753336755644,0.9664483569712224
+"('flour', 'baking soda', 'milk')","('egg',)",0.02335728952772074,0.26899383983572894,0.022073921971252568,0.9450549450549451,3.513295864440903,0.015790954973036106,13.304312114989752,0.732475628762644
+"('flour', 'milk', 'egg')","('baking soda',)",0.043121149897330596,0.060061601642710474,0.022073921971252568,0.511904761904762,8.522995522995524,0.019483996643743492,1.9257274502929838,0.9224473500349336
+"('baking soda', 'egg', 'milk')","('flour',)",0.024897330595482547,0.17453798767967146,0.022073921971252568,0.8865979381443299,5.079684657368102,0.01772839199052153,7.279074108642894,0.8236439209828781
+"('baking soda', 'milk')","('flour', 'egg')",0.026437371663244353,0.10523613963039015,0.022073921971252568,0.8349514563106797,7.934075301918068,0.019291755035438864,5.421216330474698,0.8976940385900587
+"('vanilla', 'flour', 'baking soda')","('egg',)",0.028234086242299793,0.26899383983572894,0.027464065708418892,0.9727272727272728,3.61616932685635,0.019869270435849545,26.803559206023316,0.7444841052376934
+"('vanilla', 'flour', 'egg')","('baking soda',)",0.03490759753593429,0.060061601642710474,0.027464065708418892,0.786764705882353,13.099296128707895,0.025367459490911546,4.407986971606601,0.9570689998011533
+"('vanilla', 'baking soda', 'egg')","('flour',)",0.029517453798767967,0.17453798767967146,0.027464065708418892,0.9304347826086957,5.330843989769821,0.02231214872095426,11.866016427104734,0.8371221577637327
+"('flour', 'baking soda', 'egg')","('vanilla',)",0.046457905544147846,0.060061601642710474,0.027464065708418892,0.5911602209944752,9.842565046984937,0.024673729492471614,2.2990385149009382,0.9421717965811751
+"('vanilla', 'flour')","('baking soda', 'egg')",0.03824435318275154,0.052874743326488706,0.027464065708418892,0.7181208053691276,13.581546882126801,0.025441905350193323,3.360039601056029,0.9632079495371998
+"('vanilla', 'baking soda')","('flour', 'egg')",0.030800821355236138,0.10523613963039015,0.027464065708418892,0.8916666666666667,8.4730081300813,0.02422270617154856,8.259358711104095,0.9100071281482655
+"('vanilla', 'egg')","('flour', 'baking soda')",0.04851129363449692,0.05184804928131417,0.027464065708418892,0.5661375661375662,10.91916810728692,0.024948849765357193,2.185374618119898,0.9547332780367528
+"('flour', 'baking soda')","('vanilla', 'egg')",0.05184804928131417,0.04851129363449692,0.027464065708418892,0.5297029702970297,10.91916810728692,0.024948849765357193,2.0231654598508593,0.9580931948246462
+"('baking soda', 'egg')","('vanilla', 'flour')",0.052874743326488706,0.03824435318275154,0.027464065708418892,0.5194174757281553,13.581546882126801,0.025441905350193323,2.0012289216601333,0.9780867715219208
+"('vanilla', 'baking soda', 'milk')","('egg',)",0.01591375770020534,0.26899383983572894,0.015400410677618069,0.9677419354838709,3.597636050233932,0.011119707887624435,22.66119096509234,0.7337158754999129
+"('vanilla', 'baking soda', 'egg')","('milk',)",0.029517453798767967,0.13218685831622176,0.015400410677618069,0.5217391304347826,3.9469818488813844,0.011498591194464705,1.8145183871569908,0.7693511416732786
+"('vanilla', 'milk', 'egg')","('baking soda',)",0.027464065708418892,0.060061601642710474,0.015400410677618069,0.5607476635514018,9.336208962377185,0.013750874903549789,2.13985975796234,0.9181050409078912
+"('baking soda', 'egg', 'milk')","('vanilla',)",0.024897330595482547,0.060061601642710474,0.015400410677618069,0.6185567010309277,10.298704731694421,0.013905037125425328,2.4641628281258665,0.9259541984732823
+"('vanilla', 'baking soda')","('milk', 'egg')",0.030800821355236138,0.0736652977412731,0.015400410677618069,0.5,6.7874564459930316,0.013131459001808836,1.8526694045174539,0.8797669491525424
+"('baking soda', 'milk')","('vanilla', 'egg')",0.026437371663244353,0.04851129363449692,0.015400410677618069,0.5825242718446602,12.00801356141162,0.014117899577938095,2.279147366410391,0.9416161349854997
+"('vanilla', 'flour', 'milk')","('baking soda',)",0.018480492813141684,0.060061601642710474,0.013860369609856264,0.75,12.487179487179487,0.012750401612352373,3.759753593429158,0.9372384937238493
+"('vanilla', 'milk', 'baking soda')","('flour',)",0.01591375770020534,0.17453798767967146,0.013860369609856264,0.8709677419354839,4.990132827324478,0.011082814364440547,6.397330595482546,0.8125350180644911
+"('flour', 'milk', 'baking soda')","('vanilla',)",0.02335728952772074,0.060061601642710474,0.013860369609856264,0.5934065934065934,9.879966187658495,0.012457493390788848,2.3117403851490095,0.9202803328953132
+"('milk', 'baking soda')","('vanilla', 'flour')",0.026437371663244353,0.03824435318275154,0.013860369609856264,0.5242718446601942,13.708477226819575,0.012849289430743479,2.021649624942379,0.9522268115729755
+"('vinegar', 'bay leaf', 'chicken')","('soy sauce',)",0.013603696098562629,0.19661190965092404,0.010780287474332649,0.7924528301886792,4.030543376521011,0.008105638806083426,3.8708698898637284,0.7622641041844789
+"('vinegar', 'chicken', 'soy sauce')","('bay leaf',)",0.01771047227926078,0.08008213552361396,0.010780287474332649,0.6086956521739131,7.600891861761428,0.00936199503307768,2.3509012092174313,0.8840942177759529
+"('bay leaf', 'chicken', 'soy sauce')","('vinegar',)",0.012577002053388091,0.12987679671457905,0.010780287474332649,0.8571428571428571,6.59966120835686,0.009146826735365921,6.090862422997945,0.8592842907893598
+"('vinegar', 'bay leaf', 'pork')","('soy sauce',)",0.026950718685831623,0.19661190965092404,0.016940451745379878,0.6285714285714286,3.1970160387914954,0.011641619478093682,2.1629679355552045,0.7062420565454067
+"('vinegar', 'bay leaf', 'soy sauce')","('pork',)",0.031057494866529773,0.2589835728952772,0.016940451745379878,0.5454545454545455,2.1061356878998114,0.008897070759669268,1.6302361396303904,0.5420309050772628
+"('vinegar', 'pork', 'soy sauce')","('bay leaf',)",0.027720739219712527,0.08008213552361396,0.016940451745379878,0.6111111111111112,7.631054131054133,0.0147205157503721,2.365503080082136,0.8937314005951811
+"('bay leaf', 'pork', 'soy sauce')","('vinegar',)",0.022330595482546203,0.12987679671457905,0.016940451745379878,0.7586206896551724,5.841079460269865,0.014040225535377728,3.6047961278967433,0.8477290627461277
+"('bean', 'eggplant', 'okra')","('tomato',)",0.012063655030800821,0.18711498973305954,0.01026694045174538,0.8510638297872339,4.548346612964422,0.008009649764513911,5.457942211792311,0.7896661470511822
+"('tomato', 'bean', 'okra')","('eggplant',)",0.018993839835728953,0.04055441478439425,0.01026694045174538,0.5405405405405405,13.328771809784467,0.009496656392698876,2.088205097233965,0.9428833071690215
+"('bean', 'eggplant', 'tomato')","('okra',)",0.011550308008213552,0.028747433264887063,0.01026694045174538,0.8888888888888888,30.92063492063492,0.00993489874309037,8.741273100616013,0.9789665022072189
+"('tomato', 'eggplant', 'okra')","('bean',)",0.011550308008213552,0.09650924024640657,0.01026694045174538,0.8888888888888888,9.210401891252955,0.009152229001260705,8.131416837782337,0.9018436769670216
+"('bean', 'eggplant')","('tomato', 'okra')",0.02002053388090349,0.024127310061601643,0.01026694045174538,0.5128205128205129,21.25477359519913,0.00978389882320202,2.0031071003998706,0.9724201152435831
+"('eggplant', 'okra')","('bean', 'tomato')",0.014630390143737166,0.038501026694045176,0.01026694045174538,0.7017543859649122,18.22690058479532,0.009703655410277059,3.2238494987317305,0.9591690544412607
+"('fish sauce', 'bean', 'tomato')","('okra',)",0.024640657084188913,0.028747433264887063,0.012833675564681724,0.5208333333333333,18.117559523809522,0.012125319919551037,2.026961878403714,0.9686736842105264
+"('okra', 'bean', 'tomato')","('fish sauce',)",0.018993839835728953,0.1450205338809035,0.012833675564681724,0.6756756756756757,4.6591724467830655,0.010079178771255939,2.6361866872005475,0.8005756148613291
+"('fish sauce', 'bean', 'okra')","('tomato',)",0.013347022587268994,0.18711498973305954,0.012833675564681724,0.9615384615384615,5.138756990608842,0.010336247570297972,21.135010266940405,0.8162955254942766
+"('okra', 'fish sauce', 'tomato')","('bean',)",0.016683778234086243,0.09650924024640657,0.012833675564681724,0.7692307692307692,7.970540098199672,0.011223536802870526,3.9151266255989037,0.889376141999478
+"('bean', 'okra')","('fish sauce', 'tomato')",0.020790554414784394,0.058264887063655034,0.012833675564681724,0.6172839506172839,10.594441725131885,0.011622316259713538,2.4606627144465785,0.9248387942332897
+"('okra', 'tomato')","('fish sauce', 'bean')",0.024127310061601643,0.04029774127310062,0.012833675564681724,0.5319148936170213,13.199620544789266,0.011861399466203425,2.050273007280194,0.9470910047343504
+"('fish sauce', 'okra')","('bean', 'tomato')",0.01771047227926078,0.038501026694045176,0.012833675564681724,0.7246376811594203,18.82125603864734,0.012151804198693758,3.4917594293742567,0.9639404233080743
+"('pork', 'fish sauce', 'bean')","('tomato',)",0.01591375770020534,0.18711498973305954,0.010010266940451745,0.6290322580645161,3.3617416699853977,0.007032564331763426,2.191255245067405,0.7138959110790096
+"('pork', 'bean', 'tomato')","('fish sauce',)",0.016683778234086243,0.1450205338809035,0.010010266940451745,0.5999999999999999,4.137345132743362,0.00759077651379396,2.1374486652977405,0.7711650569912121
+"('fish sauce', 'spinach', 'bean')","('tomato',)",0.012063655030800821,0.18711498973305954,0.011293634496919919,0.9361702127659575,5.003181274260865,0.00903634380968845,12.735198494182072,0.8098974940362313
+"('spinach', 'bean', 'tomato')","('fish sauce',)",0.015143737166324436,0.1450205338809035,0.011293634496919919,0.7457627118644068,5.142462876856157,0.009097481648107468,3.3629192334017795,0.8179271210936575
+"('fish sauce', 'spinach', 'tomato')","('bean',)",0.01591375770020534,0.09650924024640657,0.011293634496919919,0.7096774193548387,7.353466026080989,0.009757809831807698,3.1120237280401555,0.8779816948831032
+"('spinach', 'bean')","('fish sauce', 'tomato')",0.016940451745379878,0.058264887063655034,0.011293634496919919,0.6666666666666666,11.441997063142436,0.010306600989168063,2.8252053388090346,0.9283289817232375
+"('radish', 'bean', 'okra')","('tomato',)",0.010010266940451745,0.18711498973305954,0.010010266940451745,1.0,5.344307270233196,0.00813719594466393,inf,0.8211044853513093
+"('radish', 'bean', 'tomato')","('okra',)",0.010780287474332649,0.028747433264887063,0.010010266940451745,0.9285714285714285,32.30102040816326,0.009700361345707068,13.597535934291566,0.9796016127100714
+"('radish', 'tomato', 'okra')","('bean',)",0.012063655030800821,0.09650924024640657,0.010010266940451745,0.8297872340425532,8.598008148483476,0.008846012758834417,5.308008213552361,0.8944847479531813
+"('tomato', 'bean', 'okra')","('radish',)",0.018993839835728953,0.018480492813141684,0.010010266940451745,0.527027027027027,28.518018018018015,0.009659251419873591,2.075212672337929,0.9836171154852474
+"('radish', 'bean')","('tomato', 'okra')",0.010780287474332649,0.024127310061601643,0.010010266940451745,0.9285714285714285,38.48632218844985,0.009750167602005321,13.662217659137562,0.9846313520418347
+"('radish', 'okra')","('bean', 'tomato')",0.012063655030800821,0.038501026694045176,0.010010266940451745,0.8297872340425532,21.552340425531913,0.00954580383608313,5.648806468172483,0.9652457181685553
+"('radish', 'tomato')","('bean', 'okra')",0.016170431211498974,0.020790554414784394,0.010010266940451745,0.619047619047619,29.77542621987066,0.009674074710438548,2.5704247946611902,0.9822994641674527
+"('radish',)","('tomato', 'bean', 'okra')",0.018480492813141684,0.018993839835728953,0.010010266940451745,0.5416666666666666,28.518018018018015,0.009659251419873591,2.1403770767220456,0.9831026713871901
+"('spinach', 'bean', 'tomato')","('okra',)",0.015143737166324436,0.028747433264887063,0.011036960985626284,0.728813559322034,25.352300242130752,0.010601617412056383,3.58149383983573,0.9753259268687383
+"('okra', 'bean', 'tomato')","('spinach',)",0.018993839835728953,0.043121149897330596,0.011036960985626284,0.5810810810810811,13.475546975546976,0.010217924770943927,2.284162416374114,0.9437163058425517
+"('spinach', 'bean', 'okra')","('tomato',)",0.011293634496919919,0.18711498973305954,0.011036960985626284,0.9772727272727273,5.22284574136426,0.008923752682686185,35.76694045174541,0.8177690840155522
+"('okra', 'spinach', 'tomato')","('bean',)",0.012833675564681724,0.09650924024640657,0.011036960985626284,0.8600000000000001,8.911063829787235,0.009798392707309977,6.453505426811386,0.899321554257519
+"('spinach', 'bean')","('okra', 'tomato')",0.016940451745379878,0.024127310061601643,0.011036960985626284,0.6515151515151515,27.00322372662798,0.010628233453781903,2.8003303276493168,0.9795616005829134
+"('bean', 'okra')","('spinach', 'tomato')",0.020790554414784394,0.02284394250513347,0.011036960985626284,0.5308641975308642,23.238729366070192,0.010562022755925101,2.082885280449584,0.9772867201072877
+"('spinach', 'okra')","('bean', 'tomato')",0.013090349075975359,0.038501026694045176,0.011036960985626284,0.8431372549019608,21.89908496732026,0.010532969106417787,6.129555954825462,0.9669942843318112
+"('tamarind', 'bean', 'okra')","('tomato',)",0.01026694045174538,0.18711498973305954,0.01026694045174538,1.0,5.344307270233196,0.00834584199452711,inf,0.8213174273858922
+"('tamarind', 'bean', 'tomato')","('okra',)",0.012320328542094456,0.028747433264887063,0.01026694045174538,0.8333333333333333,28.988095238095237,0.009912762629180037,5.827515400410675,0.9775467775467775
+"('tomato', 'bean', 'okra')","('tamarind',)",0.018993839835728953,0.026694045174537988,0.01026694045174538,0.5405405405405405,20.249480249480246,0.009759918033132491,2.1183717840318876,0.9690214547357405
+"('tamarind', 'tomato', 'okra')","('bean',)",0.012577002053388091,0.09650924024640657,0.01026694045174538,0.8163265306122448,8.458532349109856,0.0090531435389954,4.919005247547339,0.8930075383415649
+"('tamarind', 'bean')","('tomato', 'okra')",0.012577002053388091,0.024127310061601643,0.01026694045174538,0.8163265306122448,33.83412939643942,0.009963491223557884,5.313084645220166,0.9828047829477513
+"('tamarind', 'okra')","('bean', 'tomato')",0.012577002053388091,0.038501026694045176,0.01026694045174538,0.8163265306122448,21.20272108843537,0.009782712959956823,5.23482774355464,0.9649727060046789
+"('carrot', 'bell pepper', 'potato')","('tomato',)",0.019250513347022588,0.18711498973305954,0.015400410677618069,0.7999999999999999,4.275445816186557,0.011798351070333812,4.064425051334701,0.7811436796650092
+"('carrot', 'bell pepper', 'tomato')","('potato',)",0.019250513347022588,0.07417864476386037,0.015400410677618069,0.7999999999999999,10.78477508650519,0.013972433686527327,4.629106776180697,0.9250850562679926
+"('carrot', 'potato', 'tomato')","('bell pepper',)",0.021817248459958933,0.09368583162217659,0.015400410677618069,0.7058823529411764,7.534568896051571,0.013356443611939165,3.081468172484599,0.8866220589521561
+"('bell pepper', 'potato', 'tomato')","('carrot',)",0.01822381930184805,0.13680698151950718,0.015400410677618069,0.8450704225352113,6.177100124197342,0.012907264967175305,5.571518573828635,0.8536688453159041
+"('bell pepper', 'potato')","('carrot', 'tomato')",0.024640657084188913,0.031057494866529773,0.015400410677618069,0.625,20.123966942148762,0.014635133596717951,2.583846680355921,0.9743157894736842
+"('cheese', 'butter', 'flour')","('egg',)",0.01642710472279261,0.26899383983572894,0.011293634496919919,0.6875,2.555820610687023,0.006874844520152298,2.3392197125256673,0.6189030176504081
+"('cheese', 'egg', 'flour')","('butter',)",0.01822381930184805,0.16196098562628336,0.011293634496919919,0.619718309859155,3.826343161982992,0.00834208676091732,2.2037322229827367,0.7523648247177659
+"('cheese', 'butter', 'egg')","('flour',)",0.019507186858316223,0.17453798767967146,0.011293634496919919,0.5789473684210527,3.31702786377709,0.007888889357378073,1.9604722792607805,0.7124226558781532
+"('cheese', 'butter', 'egg')","('milk',)",0.019507186858316223,0.13218685831622176,0.013090349075975359,0.6710526315789473,5.076545733265202,0.010511755330587048,2.6381519507186857,0.8189918899496971
+"('cheese', 'butter', 'milk')","('egg',)",0.019763860369609858,0.26899383983572894,0.013090349075975359,0.6623376623376622,2.4622781798354314,0.0077739923851768145,2.164902858948033,0.6058458995014606
+"('cheese', 'milk', 'egg')","('butter',)",0.019763860369609858,0.16196098562628336,0.013090349075975359,0.6623376623376622,4.089488957951715,0.009889374770733105,2.4818847733375446,0.7707027299005488
+"('cheese', 'butter', 'flour')","('milk',)",0.01642710472279261,0.13218685831622176,0.013860369609856264,0.84375,6.383009708737864,0.01168892224531874,5.554004106776181,0.8574190056444754
+"('cheese', 'milk', 'flour')","('butter',)",0.017453798767967144,0.16196098562628336,0.013860369609856264,0.7941176470588236,4.90314160529505,0.011033535158473495,4.070475212672339,0.810190022833701
+"('cheese', 'butter', 'milk')","('flour',)",0.019763860369609858,0.17453798767967146,0.013860369609856264,0.7012987012987013,4.018029029793736,0.010410825192162552,2.763503258637622,0.7662661352108852
+"('cheese', 'flour')","('butter', 'milk')",0.027207392197125257,0.05595482546201232,0.013860369609856264,0.5094339622641509,9.104379435693266,0.012337984728189604,1.924399778865898,0.9150591224469852
+"('flour', 'butter', 'chocolate')","('egg',)",0.010523613963039014,0.26899383983572894,0.010010266940451745,0.9512195121951219,3.5362129957177433,0.007179479611584987,14.985626283367543,0.7248395357344773
+"('chocolate', 'flour', 'egg')","('butter',)",0.016683778234086243,0.16196098562628336,0.010010266940451745,0.5999999999999999,3.7045958795562592,0.007308145773688803,2.0950975359342907,0.7424519272600714
+"('chocolate', 'butter', 'egg')","('flour',)",0.010780287474332649,0.17453798767967146,0.010010266940451745,0.9285714285714285,5.3201680672268905,0.008128697258073357,11.556468172484587,0.8208853937966549
+"('flour', 'chocolate')","('butter', 'egg')",0.017453798767967144,0.0818788501026694,0.010010266940451745,0.5735294117647058,7.004609994468006,0.008581169967407206,2.152835799759258,0.8724647000509068
+"('butter', 'chocolate')","('flour', 'egg')",0.012833675564681724,0.10523613963039015,0.010010266940451745,0.78,7.41190243902439,0.008659700466755772,4.0671084562255,0.8763283864687921
+"('chocolate', 'egg')","('flour', 'butter')",0.018480492813141684,0.06673511293634497,0.010010266940451745,0.5416666666666666,8.116666666666665,0.008776969165447422,2.0362142990479746,0.8933054393305438
+"('flour', 'butter', 'egg')","('milk',)",0.049281314168377825,0.13218685831622176,0.02797741273100616,0.5677083333333333,4.294741100323624,0.021463070637393587,2.0074713638950046,0.8069233360413736
+"('flour', 'butter', 'milk')","('egg',)",0.03542094455852156,0.26899383983572894,0.02797741273100616,0.7898550724637681,2.9363314525943136,0.018449396843600974,3.478581038023082,0.6836546865158608
+"('flour', 'milk', 'egg')","('butter',)",0.043121149897330596,0.16196098562628336,0.02797741273100616,0.6488095238095237,4.005961814202701,0.020993468792295786,2.38628058330143,0.7841871087136275
+"('butter', 'milk', 'egg')","('flour',)",0.04209445585215606,0.17453798767967146,0.02797741273100616,0.6646341463414633,3.807962697274031,0.02063033111410007,2.4613776367369793,0.769796552504007
+"('butter', 'milk')","('flour', 'egg')",0.05595482546201232,0.10523613963039015,0.02797741273100616,0.5,4.751219512195122,0.02208894290569172,1.7895277207392197,0.8363240891789017
+"('vanilla', 'flour', 'butter')","('egg',)",0.022587268993839837,0.26899383983572894,0.021817248459958933,0.9659090909090908,3.5908223455933377,0.015741412241903452,21.442847364818565,0.7381858625803261
+"('vanilla', 'flour', 'egg')","('butter',)",0.03490759753593429,0.16196098562628336,0.021817248459958933,0.6250000000000001,3.8589540412044383,0.016163579557193396,2.234770704996578,0.7676595744680853
+"('vanilla', 'butter', 'egg')","('flour',)",0.028234086242299793,0.17453798767967146,0.021817248459958933,0.7727272727272728,4.427272727272728,0.01688932786325363,3.6320328542094473,0.7966191230850502
+"('vanilla', 'flour')","('butter', 'egg')",0.03824435318275154,0.0818788501026694,0.021817248459958933,0.5704697986577182,6.967242431255392,0.018685844798434874,2.1375008021047233,0.890528893703198
+"('vanilla', 'butter')","('flour', 'egg')",0.029774127310061602,0.10523613963039015,0.021817248459958933,0.7327586206896551,6.962994112699747,0.018683934240984277,3.3481486388024106,0.8826641767818237
+"('vanilla', 'butter', 'egg')","('milk',)",0.028234086242299793,0.13218685831622176,0.01591375770020534,0.5636363636363637,4.263936451897617,0.01218158254240647,1.988738449691992,0.7877153519758705
+"('vanilla', 'butter', 'milk')","('egg',)",0.01642710472279261,0.26899383983572894,0.01591375770020534,0.96875,3.60138358778626,0.011494967723437718,23.392197125256672,0.734392888409994
+"('vanilla', 'milk', 'egg')","('butter',)",0.027464065708418892,0.16196098562628336,0.01591375770020534,0.5794392523364486,3.5776471110979458,0.011465650548764805,1.9926705452886149,0.7408329715049506
+"('vanilla', 'butter')","('milk', 'egg')",0.029774127310061602,0.0736652977412731,0.01591375770020534,0.5344827586206896,7.255556890544274,0.013720437746923081,1.9899041752224502,0.8886328725038403
+"('vanilla', 'flour', 'milk')","('butter',)",0.018480492813141684,0.16196098562628336,0.010780287474332649,0.5833333333333334,3.6016904384574753,0.007787168643456776,2.01129363449692,0.7359533771667663
+"('vanilla', 'butter', 'milk')","('flour',)",0.01642710472279261,0.17453798767967146,0.010780287474332649,0.65625,3.759926470588235,0.0079131336726132,2.401344035840956,0.7462968485932996
+"('carrot', 'cabbage', 'pasta')","('chicken',)",0.022587268993839837,0.17325462012320328,0.014117043121149897,0.6249999999999999,3.6074074074074067,0.010203694412001568,2.204654346338124,0.7394957983193277
+"('carrot', 'cabbage', 'chicken')","('pasta',)",0.018480492813141684,0.08880903490759753,0.014117043121149897,0.7638888888888888,8.601477199743096,0.012475808389797992,3.859161734508998,0.90038037276531
+"('carrot', 'pasta', 'chicken')","('cabbage',)",0.02053388090349076,0.08495893223819302,0.014117043121149897,0.6875,8.09214501510574,0.012372506524883099,2.928131416837782,0.8947970268724985
+"('cabbage', 'pasta', 'chicken')","('carrot',)",0.014373716632443531,0.13680698151950718,0.014117043121149897,0.9821428571428571,7.179040471723399,0.012150618335448561,48.33880903490747,0.8732575757575758
+"('cabbage', 'pasta')","('carrot', 'chicken')",0.026180698151950718,0.04851129363449692,0.014117043121149897,0.5392156862745098,11.115260919182488,0.012846983585544484,2.0649329372187513,0.9344994488905927
+"('cabbage', 'chicken')","('carrot', 'pasta')",0.024383983572895278,0.03311088295687885,0.014117043121149897,0.5789473684210525,17.485108119135045,0.013309667895045304,2.2963616529774122,0.9663724857095023
+"('carrot', 'pork', 'potato')","('tomato',)",0.013090349075975359,0.18711498973305954,0.010780287474332649,0.823529411764706,4.401194222544985,0.008330886941379354,4.606348391512665,0.7830391974735278
+"('carrot', 'pork', 'tomato')","('potato',)",0.015143737166324436,0.07417864476386037,0.010780287474332649,0.711864406779661,9.596621899008856,0.0096569455746746,3.213144703466602,0.9095709693833227
+"('pork', 'potato', 'tomato')","('carrot',)",0.015400410677618069,0.13680698151950718,0.010780287474332649,0.7000000000000001,5.116697936210132,0.008673403775366934,2.8773100616016434,0.8171458364367646
+"('cheese', 'milk', 'flour')","('egg',)",0.017453798767967144,0.26899383983572894,0.011806981519507187,0.6764705882352942,2.514818140996857,0.0071120171691915895,2.2594735859622923,0.6130571078097315
+"('cheese', 'egg', 'flour')","('milk',)",0.01822381930184805,0.13218685831622176,0.011806981519507187,0.647887323943662,4.901299056474771,0.009398032099473371,2.46458932238193,0.810747371412333
+"('cheese', 'milk', 'egg')","('flour',)",0.019763860369609858,0.17453798767967146,0.011806981519507187,0.5974025974025974,3.4227654698242933,0.008357437101813473,2.0503411273762997,0.7221102724364447
+"('vanilla', 'flour', 'chocolate')","('egg',)",0.012577002053388091,0.26899383983572894,0.012063655030800821,0.9591836734693877,3.5658202212182584,0.008680518954838111,17.90965092402462,0.7287247869298541
+"('vanilla', 'chocolate', 'egg')","('flour',)",0.012577002053388091,0.17453798767967146,0.012063655030800821,0.9591836734693877,5.495558223289315,0.009868490401359368,20.223819301848028,0.8284543357908069
+"('chocolate', 'flour', 'egg')","('vanilla',)",0.016683778234086243,0.060061601642710474,0.012063655030800821,0.7230769230769231,12.038921761998685,0.01106160058860981,3.3942219940679896,0.9324935992491268
+"('vanilla', 'chocolate')","('flour', 'egg')",0.014887063655030801,0.10523613963039015,0.012063655030800821,0.8103448275862069,7.700252312867955,0.010496997921313493,4.717845809221578,0.883283625115031
+"('flour', 'chocolate')","('vanilla', 'egg')",0.017453798767967144,0.04851129363449692,0.012063655030800821,0.6911764705882354,14.247743541861192,0.011216948673730546,3.0810110491835347,0.9463305097934592
+"('chocolate', 'egg')","('vanilla', 'flour')",0.018480492813141684,0.03824435318275154,0.012063655030800821,0.6527777777777778,17.068605518269948,0.011356880536663729,2.7698562628336756,0.9591382533606337
+"('vanilla', 'flour', 'milk')","('egg',)",0.018480492813141684,0.26899383983572894,0.017197125256673513,0.9305555555555557,3.4593935538592033,0.01222598653280994,10.526488706365523,0.7243177418347594
+"('vanilla', 'milk', 'egg')","('flour',)",0.027464065708418892,0.17453798767967146,0.017197125256673513,0.6261682242990655,3.5875755909840574,0.012403602494423809,2.208110882956879,0.7416283586028685
+"('vanilla', 'milk')","('flour', 'egg')",0.03285420944558522,0.10523613963039015,0.017197125256673513,0.5234375,4.973932926829268,0.013739675084011825,1.8775372807755748,0.8260924675983142
+"('tamarind', 'fish sauce', 'spinach')","('tomato',)",0.010010266940451745,0.18711498973305954,0.010010266940451745,1.0,5.344307270233196,0.00813719594466393,inf,0.8211044853513093
+"('tamarind', 'spinach', 'tomato')","('fish sauce',)",0.013603696098562629,0.1450205338809035,0.010010266940451745,0.7358490566037735,5.07410252128903,0.008037451669484628,3.236707978879436,0.8139941418629943
+"('tamarind', 'fish sauce', 'tomato')","('spinach',)",0.014373716632443531,0.043121149897330596,0.010010266940451745,0.6964285714285714,16.15051020408163,0.009390455750962394,3.1520715062205578,0.9517628205128206
+"('fish sauce', 'spinach', 'tomato')","('tamarind',)",0.01591375770020534,0.026694045174537988,0.010010266940451745,0.6290322580645161,23.564516129032256,0.009585464373505811,2.6236943130077672,0.9730481655364284
+"('tamarind', 'spinach')","('fish sauce', 'tomato')",0.013603696098562629,0.058264887063655034,0.010010266940451745,0.7358490566037735,12.629374116864765,0.009217649123620709,3.5651400704018767,0.9335188187647204
+"('tamarind', 'fish sauce')","('spinach', 'tomato')",0.01591375770020534,0.02284394250513347,0.010010266940451745,0.6290322580645161,27.536063791228706,0.009646733974507628,2.634072850638336,0.9792678196434064
+"('radish', 'tamarind', 'okra')","('tomato',)",0.011036960985626284,0.18711498973305954,0.011036960985626284,1.0,5.344307270233196,0.008971780144116643,inf,0.8219569166882947
+"('radish', 'tamarind', 'tomato')","('okra',)",0.013860369609856264,0.028747433264887063,0.011036960985626284,0.7962962962962963,27.69973544973545,0.010638510935240273,4.767967145790554,0.9774463397213177
+"('radish', 'tomato', 'okra')","('tamarind',)",0.012063655030800821,0.026694045174537988,0.011036960985626284,0.9148936170212766,34.273322422258595,0.010714933233264045,11.436344969199176,0.9826774698351128
+"('tamarind', 'tomato', 'okra')","('radish',)",0.012577002053388091,0.018480492813141684,0.011036960985626284,0.8775510204081632,47.48526077097505,0.010804531789567777,8.015742642026009,0.9914097968214434
+"('radish', 'tamarind')","('tomato', 'okra')",0.013860369609856264,0.024127310061601643,0.011036960985626284,0.7962962962962963,33.003940110323086,0.010702547550480881,4.7906477506066825,0.9833299032722782
+"('radish', 'okra')","('tamarind', 'tomato')",0.012063655030800821,0.021303901437371663,0.011036960985626284,0.9148936170212766,42.944885926685465,0.01077995806787565,11.499679158110881,0.9886409638263035
+"('radish', 'tomato')","('tamarind', 'okra')",0.016170431211498974,0.012577002053388091,0.011036960985626284,0.6825396825396826,54.26886945254292,0.01083358543907509,3.1103824435318277,0.9977065750914639
+"('tamarind', 'okra')","('radish', 'tomato')",0.012577002053388091,0.016170431211498974,0.011036960985626284,0.8775510204081632,54.26886945254292,0.01083358543907509,8.03460814510609,0.994075721945823
+"('tamarind', 'tomato')","('radish', 'okra')",0.021303901437371663,0.012063655030800821,0.011036960985626284,0.5180722891566265,42.944885926685465,0.01077995806787565,2.0499679158110884,0.9979751035319806
+"('radish',)","('tamarind', 'tomato', 'okra')",0.018480492813141684,0.012577002053388091,0.011036960985626284,0.5972222222222222,47.48526077097505,0.010804531789567777,2.4515329604191742,0.997372774155882
+"('tamarind', 'spinach', 'tomato')","('okra',)",0.013603696098562629,0.028747433264887063,0.010010266940451745,0.7358490566037735,25.597035040431265,0.009619195594702512,3.676884716925784,0.9741854987756627
+"('tamarind', 'okra', 'tomato')","('spinach',)",0.012577002053388091,0.043121149897330596,0.010010266940451745,0.7959183673469387,18.457725947521862,0.009467932149648563,4.688706365503077,0.9578692687608726
+"('tamarind', 'spinach', 'okra')","('tomato',)",0.010010266940451745,0.18711498973305954,0.010010266940451745,1.0,5.344307270233196,0.00813719594466393,inf,0.8211044853513093
+"('okra', 'spinach', 'tomato')","('tamarind',)",0.012833675564681724,0.026694045174537988,0.010010266940451745,0.78,29.220000000000002,0.009667684225172767,4.424117976479374,0.9783324666319987
+"('tamarind', 'spinach')","('okra', 'tomato')",0.013603696098562629,0.024127310061601643,0.010010266940451745,0.7358490566037735,30.498594941790444,0.009682046346697924,3.694375183338222,0.9805507182556363
+"('tamarind', 'okra')","('spinach', 'tomato')",0.012577002053388091,0.02284394250513347,0.010010266940451745,0.7959183673469387,34.84155010318734,0.009722958628657201,4.788064681724843,0.9836702592096406
+"('spinach', 'okra')","('tamarind', 'tomato')",0.013090349075975359,0.021303901437371663,0.010010266940451745,0.7647058823529411,35.89510985116938,0.009731391433956377,4.15945841889117,0.985035510653196
+"('radish', 'tamarind', 'spinach')","('tomato',)",0.01026694045174538,0.18711498973305954,0.01026694045174538,1.0,5.344307270233196,0.00834584199452711,inf,0.8213174273858922
+"('radish', 'tamarind', 'tomato')","('spinach',)",0.013860369609856264,0.043121149897330596,0.01026694045174538,0.7407407407407407,17.178130511463845,0.009669265376166362,3.690818421824581,0.9550234252993233
+"('radish', 'spinach', 'tomato')","('tamarind',)",0.010780287474332649,0.026694045174537988,0.01026694045174538,0.9523809523809523,35.67765567765568,0.009979170970911038,20.43942505133468,0.9825635703165543
+"('tamarind', 'spinach', 'tomato')","('radish',)",0.013603696098562629,0.018480492813141684,0.01026694045174538,0.7547169811320754,40.83857442348008,0.010015537443763729,4.001579529300267,0.9889669529013791
+"('radish', 'tamarind')","('spinach', 'tomato')",0.013860369609856264,0.02284394250513347,0.01026694045174538,0.7407407407407407,32.42613399916771,0.009950314965277924,3.769030507480199,0.9827824049973972
+"('radish', 'spinach')","('tamarind', 'tomato')",0.010780287474332649,0.021303901437371663,0.01026694045174538,0.9523809523809523,44.70453241537579,0.010037278269925664,20.55261806981517,0.9882848988064348
+"('radish', 'tomato')","('tamarind', 'spinach')",0.016170431211498974,0.013603696098562629,0.01026694045174538,0.6349206349206349,46.672656483977235,0.010046962819761435,2.701868136773502,0.9946582311505349
+"('tamarind', 'spinach')","('radish', 'tomato')",0.013603696098562629,0.016170431211498974,0.01026694045174538,0.7547169811320754,46.672656483977235,0.010046962819761435,4.010997472753119,0.9920699973978663
+"('radish',)","('tamarind', 'spinach', 'tomato')",0.018480492813141684,0.013603696098562629,0.01026694045174538,0.5555555555555556,40.83857442348008,0.010015537443763729,2.2193916837782344,0.9938807531380752
+"('flour', 'baking soda', 'milk', 'egg')","('butter',)",0.022073921971252568,0.16196098562628336,0.011806981519507187,0.5348837209302325,3.3025467143330998,0.008231867360405449,1.8017838809034905,0.7129407737076343
+"('flour', 'milk', 'baking soda', 'butter')","('egg',)",0.011806981519507187,0.26899383983572894,0.011806981519507187,1.0,3.717557251908397,0.008630976223705459,inf,0.7397402597402598
+"('baking soda', 'milk', 'egg', 'butter')","('flour',)",0.014373716632443531,0.17453798767967146,0.011806981519507187,0.8214285714285714,4.706302521008403,0.009298221943002668,4.622587268993839,0.7990036231884058
+"('flour', 'milk', 'baking soda')","('butter', 'egg')",0.02335728952772074,0.0818788501026694,0.011806981519507187,0.5054945054945055,6.173688380584932,0.00989451351146229,1.8566449920146018,0.8580643318288294
+"('milk', 'baking soda', 'butter')","('flour', 'egg')",0.014630390143737166,0.10523613963039015,0.011806981519507187,0.8070175438596491,7.668635002139494,0.010267335739493778,4.636503640097068,0.8825101645582523
+"('vanilla', 'flour', 'butter', 'egg')","('baking soda',)",0.021817248459958933,0.060061601642710474,0.01642710472279261,0.7529411764705882,12.53614881850176,0.015116725836850517,3.8045125647795053,0.9407553791655734
+"('vanilla', 'flour', 'baking soda', 'egg')","('butter',)",0.027464065708418892,0.16196098562628336,0.01642710472279261,0.5981308411214953,3.693055082423686,0.011978997571352075,2.0853528962322714,0.749814429928741
+"('vanilla', 'flour', 'butter', 'baking soda')","('egg',)",0.016940451745379878,0.26899383983572894,0.01642710472279261,0.9696969696969696,3.6049040018505667,0.011870227559250998,24.123203285420875,0.7350522193211487
+"('vanilla', 'baking soda', 'butter', 'egg')","('flour',)",0.018480492813141684,0.17453798767967146,0.01642710472279261,0.888888888888889,5.09281045751634,0.013201556695858228,7.429158110882962,0.818776150627615
+"('flour', 'baking soda', 'butter', 'egg')","('vanilla',)",0.024127310061601643,0.060061601642710474,0.01642710472279261,0.6808510638297872,11.335879250772868,0.014977979837162531,2.9451403148528406,0.9343273277222516
+"('vanilla', 'flour', 'butter')","('baking soda', 'egg')",0.022587268993839837,0.052874743326488706,0.01642710472279261,0.7272727272727273,13.754633715798764,0.01523280867229697,3.4727926078028752,0.9487263655462185
+"('vanilla', 'flour', 'baking soda')","('butter', 'egg')",0.028234086242299793,0.0818788501026694,0.01642710472279261,0.5818181818181819,7.105842120262184,0.014115330207573502,2.1955070975805735,0.8842363312202853
+"('vanilla', 'butter', 'egg')","('flour', 'baking soda')",0.028234086242299793,0.05184804928131417,0.01642710472279261,0.5818181818181819,11.221602160216024,0.014963222427888974,2.2673198821533798,0.9373514263074486
+"('vanilla', 'baking soda', 'egg')","('flour', 'butter')",0.029517453798767967,0.06673511293634497,0.01642710472279261,0.5565217391304348,8.339264214046823,0.014457254109938483,2.104420823770987,0.906853345675747
+"('vanilla', 'butter', 'baking soda')","('flour', 'egg')",0.019250513347022588,0.10523613963039015,0.01642710472279261,0.8533333333333333,8.108747967479674,0.01440125501224865,6.100662684338246,0.8938841271918345
+"('flour', 'butter', 'baking soda')","('vanilla', 'egg')",0.024897330595482547,0.04851129363449692,0.01642710472279261,0.6597938144329897,13.600829105983745,0.01521930300756001,2.7968001368925393,0.950130790997631
+"('baking soda', 'butter', 'egg')","('vanilla', 'flour')",0.028747433264887063,0.03824435318275154,0.01642710472279261,0.5714285714285715,14.941514860977952,0.015327677731912688,2.2440965092402467,0.9606897463002115
+"('vanilla', 'butter')","('flour', 'baking soda', 'egg')",0.029774127310061602,0.046457905544147846,0.01642710472279261,0.5517241379310345,11.87578586397409,0.015043861128562333,2.1271323645553624,0.9438988095238094
+"('vanilla', 'baking soda')","('flour', 'butter', 'egg')",0.030800821355236138,0.049281314168377825,0.01642710472279261,0.5333333333333333,10.822222222222221,0.014909199768941136,2.0372543267820475,0.9364406779661018
+"('butter', 'baking soda')","('vanilla', 'flour', 'egg')",0.030030800821355237,0.03490759753593429,0.01642710472279261,0.5470085470085471,15.670186023127203,0.015378801614038935,2.1304870016659567,0.9651693569727442
+"('vanilla', 'flour', 'chocolate', 'egg')","('baking soda',)",0.012063655030800821,0.060061601642710474,0.01026694045174538,0.8510638297872339,14.169849063466083,0.00954237800893034,6.31101496039894,0.9407768251493895
+"('vanilla', 'flour', 'baking soda', 'chocolate')","('egg',)",0.010523613963039014,0.26899383983572894,0.01026694045174538,0.975609756097561,3.62688512381307,0.007436153122878622,29.971252566735085,0.7319844357976654
+"('vanilla', 'chocolate', 'baking soda', 'egg')","('flour',)",0.010523613963039014,0.17453798767967146,0.01026694045174538,0.975609756097561,5.589670014347202,0.008430170047518858,33.84394250513344,0.8298313878080416
+"('chocolate', 'flour', 'baking soda', 'egg')","('vanilla',)",0.011036960985626284,0.060061601642710474,0.01026694045174538,0.9302325581395348,15.487974557741998,0.009604042897680557,13.472450376454459,0.9458733454451077
+"('vanilla', 'flour', 'chocolate')","('baking soda', 'egg')",0.012577002053388091,0.052874743326488706,0.01026694045174538,0.8163265306122448,15.438874578957796,0.009601934696355762,5.156570841889114,0.9471406290616063
+"('vanilla', 'chocolate', 'egg')","('flour', 'baking soda')",0.012577002053388091,0.05184804928131417,0.01026694045174538,0.8163265306122448,15.74459486765003,0.009614847429470124,5.16216062057951,0.9484143488432544
+"('vanilla', 'baking soda', 'chocolate')","('flour', 'egg')",0.011036960985626284,0.10523613963039015,0.01026694045174538,0.9302325581395348,8.83947816222348,0.009105453284366844,12.824948665297718,0.8967687516221127
+"('chocolate', 'flour', 'egg')","('vanilla', 'baking soda')",0.016683778234086243,0.030800821355236138,0.01026694045174538,0.6153846153846153,19.97948717948718,0.009753066378826912,2.5199178644763855,0.9660663012268338
+"('flour', 'baking soda', 'chocolate')","('vanilla', 'egg')",0.011550308008213552,0.04851129363449692,0.01026694045174538,0.8888888888888888,18.323339212228102,0.00970662006839005,8.563398357289524,0.9564723448454946
+"('chocolate', 'baking soda', 'egg')","('vanilla', 'flour')",0.011550308008213552,0.03824435318275154,0.01026694045174538,0.8888888888888888,23.242356450410142,0.009825206392909697,8.655800821355232,0.9681576213970398
+"('vanilla', 'chocolate')","('flour', 'baking soda', 'egg')",0.014887063655030801,0.046457905544147846,0.01026694045174538,0.689655172413793,14.844732329967611,0.009575318654630242,3.072524526579967,0.9467300677436163
+"('flour', 'chocolate')","('vanilla', 'baking soda', 'egg')",0.017453798767967144,0.029517453798767967,0.01026694045174538,0.5882352941176471,19.92838874680307,0.009751748752998916,2.3568861836315635,0.966692789968652
+"('chocolate', 'egg')","('vanilla', 'flour', 'baking soda')",0.018480492813141684,0.028234086242299793,0.01026694045174538,0.5555555555555556,19.67676767676768,0.009745160623858936,2.1864733059548254,0.9670502092050209
+"('baking soda', 'chocolate')","('vanilla', 'flour', 'egg')",0.012577002053388091,0.03490759753593429,0.01026694045174538,0.8163265306122448,23.385354141656663,0.009827907525857089,5.254391968971022,0.969430725240447
+"('vanilla', 'flour', 'milk', 'egg')","('baking soda',)",0.017197125256673513,0.060061601642710474,0.013603696098562629,0.7910447761194029,13.17055746906493,0.01257080921199651,4.498276620709885,0.9402425383247017
+"('vanilla', 'flour', 'milk', 'baking soda')","('egg',)",0.013860369609856264,0.26899383983572894,0.013603696098562629,0.9814814814814815,3.6487135990952786,0.009875342055664947,39.47433264887069,0.736133892528459
+"('vanilla', 'baking soda', 'milk', 'egg')","('flour',)",0.015400410677618069,0.17453798767967146,0.013603696098562629,0.8833333333333334,5.060980392156863,0.010915739409450646,7.075388677031393,0.8149605524622741
+"('flour', 'baking soda', 'milk', 'egg')","('vanilla',)",0.022073921971252568,0.060061601642710474,0.013603696098562629,0.6162790697674418,10.260783144504074,0.012277900990432983,2.4495364320826334,0.922913881047888
+"('vanilla', 'flour', 'milk')","('baking soda', 'egg')",0.018480492813141684,0.052874743326488706,0.013603696098562629,0.7361111111111112,13.921790722761598,0.012626544784520743,3.589106235815412,0.9456461672061263
+"('vanilla', 'milk', 'baking soda')","('flour', 'egg')",0.01591375770020534,0.10523613963039015,0.013603696098562629,0.8548387096774194,8.123052714398112,0.011928993671179623,6.163928815879536,0.8910739067528862
+"('flour', 'milk', 'baking soda')","('vanilla', 'egg')",0.02335728952772074,0.04851129363449692,0.013603696098562629,0.5824175824175825,12.005814291528578,0.012470603767777408,2.278565059980547,0.9386308977760147
+"('baking soda', 'milk', 'egg')","('vanilla', 'flour')",0.024897330595482547,0.03824435318275154,0.013603696098562629,0.5463917525773195,14.28686085933716,0.012651513793961268,2.1202340395743886,0.9537514837568972
+"('milk', 'baking soda')","('vanilla', 'flour', 'egg')",0.026437371663244353,0.03490759753593429,0.013603696098562629,0.5145631067961165,14.740719588806398,0.01268083096863418,1.9880903490759754,0.9574737973128254
+"('vanilla', 'flour', 'milk', 'egg')","('butter',)",0.017197125256673513,0.16196098562628336,0.010780287474332649,0.626865671641791,3.8704733069990773,0.007995024117823156,2.2459445585215603,0.7546108022733774
+"('vanilla', 'flour', 'milk', 'butter')","('egg',)",0.010780287474332649,0.26899383983572894,0.010780287474332649,1.0,3.717557251908397,0.007880456552078897,inf,0.7389724961079399
+"('vanilla', 'milk', 'egg', 'butter')","('flour',)",0.01591375770020534,0.17453798767967146,0.010780287474332649,0.6774193548387097,3.881214421252372,0.008002732228916933,2.558932238193019,0.7543532801748765
+"('vanilla', 'flour', 'milk')","('butter', 'egg')",0.018480492813141684,0.0818788501026694,0.010780287474332649,0.5833333333333334,7.124346917450366,0.009267125973461961,2.2034907597535938,0.875821876867902
+"('vanilla', 'milk', 'butter')","('flour', 'egg')",0.01642710472279261,0.10523613963039015,0.010780287474332649,0.65625,6.235975609756097,0.009051562388001805,2.6029494119843197,0.8536633860224675
