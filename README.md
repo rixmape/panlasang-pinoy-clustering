@@ -19,13 +19,17 @@ This project uses association analysis to discover relationships between ingredi
 │   │   ├── 4_standardized_words.txt
 │   │   ├── 5_unique.txt
 │   │   ├── 6_standardized_phrase.txt
-│   │   └── 7_components.txt
+│   │   ├── 7_components.txt
+│   │   ├── 8_filtered_common.txt
+│   │   └── 9_filtered_unique.txt
 │   ├── recipes
 │   │   ├── all_recipes.json
 │   │   ├── kawaling_pinoy.json
 │   │   ├── maggi.json
 │   │   ├── panlasang_pinoy.json
 │   │   └── pinoy_cooking_recipes.json
+│   ├── association_rules.json
+│   ├── one_hot_encoded_recipes.json
 │   └── preprocessed_recipes.json
 ...
 ```
@@ -33,6 +37,8 @@ This project uses association analysis to discover relationships between ingredi
 - **data/preprocess_input**: Contains the files used for preprocessing the recipes.
 - **data/preprocess_output**: Contains the output files of the preprocessing steps.
 - **data/recipes**: Contains the raw recipe data from different sources.
+- **data/association_rules.json**: Contains the association rules generated from the recipes.
+- **data/one_hot_encoded_recipes.json**: Contains the recipes with one-hot encoded ingredients.
 - **data/preprocessed_recipes.json**: Contains the preprocessed recipes from all sources.
 
 ## Data Preprocessing
@@ -46,6 +52,8 @@ The data preprocessing steps are as follows:
 5. **Unique Ingredients**: Remove duplicate terms.
 6. **Standardizing Phrases**: Standardize ingredients at the phrase level.
 7. **Extracting Components**: Extract components from compound ingredients.
+8. **Filtering Common Ingredients**: Remove common ingredients like water, salt, and pepper.
+9. **Filtering Unique Ingredients**: Remove ingredients that appear in only one recipe.
 
 ## Installation
 
@@ -53,26 +61,12 @@ The data preprocessing steps are as follows:
 2. Install the required packages using `pip install -r requirements.txt`.
 3. Run the main Jupyter Notebook `main.ipynb`.
 
-## How to Contribute
+## Suggested Improvements
 
-### Improving the Preprocessed Data
+This repository is now in public archive. Here are some suggestions for future improvements:
 
-1. Stopwords
-   1. Run `main.ipynb` until step 3 to get ingredient list without stopwords.
-   2. Manually check the output file `data/preprocess_output/3_filtered.txt` for any remaining stopwords.
-   3. Add the stopwords to `data/preprocess_input/stopwords.txt`.
-   4. Run step 3 again to remove the newly added stopwords.
-2. Standard names
-   1. Run steps 4 to 6 to get the standardized ingredient names.
-   2. Manually check the output file `data/preprocess_output/6_standardized_phrase.txt` for any inconsistencies.
-   3. Add the correct standard names to `data/preprocess_input/thesaurus.json`.
-   4. Run steps 4 to 6 again to standardize the ingredients using the updated thesaurus.
-3. Components
-   1. Run step 7 to extract components from compound.
-   2. Manually check the output file `data/preprocess_output/7_components.txt` for any compound ingredients that need to be split.
-   3. Add the correct components to `data/preprocess_input/components.json`.
-   4. Run step 7 again to extract the components using the updated components list.
-4. Preprocessed recipes
-   1. Run the entire notebook to preprocess the recipes using the updated stopwords, thesaurus, and components list.
-   2. Manually check the output file `data/preprocessed_recipes.json` for any inconsistencies.
-   3. Make the necessary changes to the preprocessing steps in the notebook.
+1. Consider other recipe websites that feature regional Filipino dishes.
+2. Refine preprocessing to avoid unintentional removal of key ingredients.
+3. Explore other algorithms for generating frequent itemsets other than Apriori.
+4. Do a grid search to find the best hyperparameters.
+5. Use the association rules to recommend ingredient substitutions or additions.
